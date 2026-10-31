@@ -7,8 +7,13 @@ import shutil
 from collections import Counter, defaultdict
 from pathlib import Path
 
+import yaml
+
 from . import bible as biblemod
+from . import dossier
+from .batching import pack
 from . import patch as patchmod
+from . import review as reviewmod
 from .adapters import ADAPTERS, detect
 from .backend import ClaudeCodeBackend, MockBackend
 from .config import load_config
@@ -91,8 +96,10 @@ class Project:
     def _call(self, be, system, payload, schema, role, purpose, n):
         prompt = "#JSON\n" + json.dumps(payload, ensure_ascii=False, separators=(",", ":"))
         model, effort = self.model_of(role)
+        long = role in ("bible_read", "bible")
         try:
-            r = be.call(system, prompt, schema, model, effort)
+            r = be.call(system, prompt, schema, model, effort,
+                        timeout=self.cfg["claude"].get("timeout_long_sec") if long else None)
         except Exception as e:
             self.store.log_run(model, purpose, n, {}, 0, False, str(e)[:200])
             raise
@@ -100,7 +107,23 @@ class Project:
         return r["data"]
 
     # ------------------------------------------------------------------ bible
-    def draft_bible(self, backend: str = "claude", sample_chars: int = 60000) -> Path:
+    def draft_bible(self, backend: str = "claude", sample_chars: int = 60000,
+                    full: bool = True) -> Path:
+        """full: doc TOAN BO kich ban (vgt/dossier.py) -> bible.yaml + scenes.yaml.
+        full=False: cach cu, chi doc sample_chars ky tu dau (nhanh, re, kem chinh xac)."""
+        if full:
+            old = self.path / "bible.yaml"
+            if old.exists() and biblemod.load(self.path).get("reviewed"):
+                shutil.copyfile(old, self.path / "bible.prev.yaml")  # ban da duyet truoc do
+            self.log(f"Soan ho so tac pham: {self.model_of('bible_read')} doc toan bo kich ban, "
+                     f"{self.model_of('bible')} gop...")
+            bible, scenes = dossier.build(self, self.backend(backend))
+            biblemod.save_scenes(self.path, scenes)
+            p = biblemod.save(self.path, bible)
+            n = len(bible.get("can_xac_nhan") or [])
+            self.log(f"Da ghi {p} ({len(bible.get('characters') or [])} nhan vat, {len(scenes)} canh "
+                     f"co tom tat, {n} muc CAN XAC NHAN). Hay ra soat roi dat reviewed: true.")
+            return p
         dlg = self.store.entries("kind='dialogue'")
         spk = Counter()
         samples = defaultdict(list)
@@ -155,10 +178,21 @@ class Project:
         return n
 
     def _batches(self, pending: list[Entry], bidx):
+        """Che do scene: loi thoai/lua chon chia lo theo tung canh (1 lo = 1 grp, canh dai thi cat),
+        de dich lien mach kem tom tat canh. Con lai (ui, ten, mo ta, dich lai) chia nhu cu."""
         b = self.cfg["batch"]
         groups: dict[str, list[Entry]] = defaultdict(list)
+        scened: dict[str, dict[str, list[Entry]]] = defaultdict(lambda: defaultdict(list))
         for e in pending:
-            groups[self.route(e, bidx)].append(e)
+            role = self.route(e, bidx)
+            if b.get("mode", "flat") == "scene" and e.kind in ("dialogue", "choice"):
+                scened[role][e.grp].append(e)  # ke ca dich lai (repair): van kem tom tat canh
+            else:
+                groups[role].append(e)
+        # Canh nho lien tiep gom chung 1 lo (khong ton 1 lan goi/canh); canh lon cat nho.
+        for role, by_grp in scened.items():
+            for batch in pack(list(by_grp.values()), b["max_entries"], b["max_source_chars"]):
+                yield role, batch
         for model, items in groups.items():
             cur, size = [], 0
             for e in items:
@@ -180,7 +214,7 @@ class Project:
         return [{"sp": p.speaker, "s": p.source, "v": p.target} for p in prev[-k:]]
 
     def translate(self, backend: str = "claude", limit: int | None = None, force: bool = False,
-                  only_kind: str | None = None) -> None:
+                  only_kind: str | None = None, grps: list[str] | None = None) -> None:
         bib = biblemod.load(self.path)
         if not force and not bib.get("reviewed"):
             raise SystemExit("bible.yaml chua duoc duyet (reviewed: true). Chay `vgt bible` roi duyet, "
@@ -195,6 +229,9 @@ class Project:
         if only_kind:
             where += " AND kind=?"
             params += (only_kind,)
+        if grps:
+            where += f" AND grp IN ({','.join('?' * len(grps))})"
+            params += tuple(grps)
         pending = self.store.entries(where, params)
         # Trung lap: cung khoa TM chi dich 1 lan, roi chep sang cac ban sao.
         uniq, dupes = {}, defaultdict(list)
@@ -211,20 +248,23 @@ class Project:
                 break
             if rnd:
                 self.log(f"Vong {rnd + 1}: dich lai {len(work)} dong loi QA (leo thang model).")
-            self._run_batches(be, work, dupes, bidx, src_lang)
+            self._run_batches(be, work, dupes, bidx, src_lang, biblemod.load_scenes(self.path))
             ids = [e.id for e in work]
             work = [e for e in (self.store.entries("id=?", (i,))[0] for i in ids)
                     if e.status == "qa_fail" and e.attempts < self.cfg["max_attempts"]]
 
-    def _run_batches(self, be, work, dupes, bidx, src_lang):
+    def _run_batches(self, be, work, dupes, bidx, src_lang, scenes=None):
         done = 0
         for model, batch in self._batches(work, bidx):
             masked = {}
             lines = []
+            multi = len({e.grp for e in batch}) > 1
             for i, e in enumerate(batch):
                 m, codes = mask(e.source)
                 masked[e.id] = (m, codes)
                 row = {"id": str(i), "k": e.kind, "s": m}
+                if multi and e.kind in ("dialogue", "choice"):
+                    row["g"] = e.grp
                 sp = bidx.speaker_label(e) if e.kind == "dialogue" else None
                 if sp:
                     row["sp"] = sp
@@ -236,13 +276,17 @@ class Project:
             other = {detect_one(e.source) for e in batch} - {src_lang, None, "en"}
             lang = lang_line(src_lang) + (f" Có dòng gốc {', '.join(NAMES[x] for x in sorted(other))}: "
                                           f"dịch thẳng sang tiếng Việt." if other else "")
+            sc = {g: (scenes or {})[g] for g in dict.fromkeys(e.grp for e in batch)
+                  if g in (scenes or {})}
             payload = {"lang": lang, **bidx.context_for(batch),
+                       **({"scenes": sc} if multi else {"scene": sc.get(batch[0].grp)}),
                        "before": self._context(batch), "lines": lines}
             payload = {k: v for k, v in payload.items() if v not in ([], {}, None, "")}
             data = self._call(be, SYSTEM_TRANSLATE, payload, TRANSLATE_SCHEMA, model,
                               "translate", len(batch))
             role, model = model, self.model_of(model)[0]
             got = {str(x.get("id")): x.get("v", "") for x in data.get("t", [])}
+            notes = {str(x.get("id")): (x.get("n") or "").strip() for x in data.get("t", [])}
             for i, e in enumerate(batch):
                 m, codes = masked[e.id]
                 out = norm_punct(got.get(str(i), ""))
@@ -251,6 +295,8 @@ class Project:
                 e.model = model
                 e.target = final or e.target
                 e.qa = check(e, m, out, final, bidx, self.cfg, src_lang)
+                if notes.get(str(i)):  # ghi chu chien luoc cua dich gia -> kiem dinh vien doc
+                    e.qa.append("N: " + notes[str(i)])
                 e.status = "qa_fail" if blocking(e.qa) else "done"
                 self.store.save_result(e)
                 for d in dupes.get(tm_key(e), []):
@@ -291,9 +337,19 @@ class Project:
         self.log(f"Da nhan {n} ban sua tay (luu vao translation memory).")
         return n
 
+    def review(self, backend: str = "claude", limit: int | None = None,
+               grps: list[str] | None = None) -> dict:
+        """Kiem dinh vien cham tung canh (vgt/review.py)."""
+        if not biblemod.load(self.path).get("reviewed"):
+            raise SystemExit("bible.yaml chua duoc duyet (reviewed: true).")
+        return reviewmod.run(self, self.backend(backend), limit, grps)
+
     def status(self) -> str:
         c = self.store.counts()
         lines = [f"Trang thai: {c}"]
+        rv = reviewmod.summary(self.store)
+        if rv:
+            lines.append(f"Kiem dinh: {rv}")
         for u in self.store.usage_summary():
             lines.append(f"  {u['model']:<7} {u['purpose']:<9} goi={u['calls']} dong={u['n']} "
                          f"in={u['inp']} out={u['outp']} cache_read={u['cr']} loi={u['fails']} "
@@ -315,10 +371,88 @@ class Project:
             per[model][1] += len(batch)
             per[model][2] += sum(len(e.source) for e in batch)
         out = [f"Uoc tinh (chua tinh dich lai do QA): {len(work)} dong duy nhat / {len(pending)} dong"]
+        script = dossier.script_entries(self.store)
+        n_read = len(dossier.make_chunks(script, self.cfg["dossier"]["chunk_chars"]))
+        m, eff = self.model_of("bible_read")
+        out.append(f"  {'bible_read':<11} {m}/{eff or '-':<6} {n_read} lan goi (doc "
+                   f"{sum(len(e.source) for e in script)} ky tu kich ban) + 1 lan gop (bible)")
         for role, (calls, n, chars) in per.items():
             m, eff = self.model_of(role)
             out.append(f"  {role:<11} {m}/{eff or '-':<6} {calls} lan goi, {n} dong, {chars} ky tu nguon")
+        n_rev = reviewmod.calls_needed(self.store, self.cfg["review"])
+        m, eff = self.model_of("review")
+        out.append(f"  {'review':<11} {m}/{eff or '-':<6} ~{n_rev} lan goi (1 vong, chua tinh cham lai)")
         return "\n".join(out)
+
+    # ------------------------------------------------------------------ so sanh ban cu/moi
+    @classmethod
+    def fork(cls, src_dir: Path, dst_dir: Path, log=print) -> "Project":
+        """Tao du an thu tu du an cu: cung game, cung dong, NHUNG chua dich, khong TM, khong bible,
+        patch rieng (khong de len ban Viet hoa that). Dung de dich lai vai canh va so sanh."""
+        src = cls(src_dir, log)
+        dst_dir = Path(dst_dir)
+        if (dst_dir / "project.db").exists():
+            raise SystemExit(f"{dst_dir} da co du an.")
+        dst_dir.mkdir(parents=True, exist_ok=True)
+        cfg = {}
+        cp = Path(src_dir) / "config.yaml"
+        if cp.exists():
+            cfg = yaml.safe_load(cp.read_text(encoding="utf-8")) or {}
+        cfg.pop("patch", None)
+        (dst_dir / "config.yaml").write_text(
+            f"# Du an thu, tach tu {Path(src_dir).name} (vgt fork). Patch o <du an>/patch.\n"
+            + (yaml.safe_dump(cfg, allow_unicode=True, sort_keys=False) if cfg else ""), encoding="utf-8")
+        for f in ("research.md",):
+            if (Path(src_dir) / f).exists():
+                shutil.copyfile(Path(src_dir) / f, dst_dir / f)
+        dst = cls(dst_dir, log)
+        for k in ("game_dir", "adapter", "source_lang"):
+            dst.store.set_meta(k, src.store.get_meta(k))
+        es = src.store.entries()
+        dst.store.upsert_entries([Entry(id=e.id, file=e.file, locator=e.locator, grp=e.grp,
+                                        seq=e.seq, kind=e.kind, source=e.source, speaker=e.speaker,
+                                        face=e.face, tags=e.tags) for e in es])
+        src.store.db.close()
+        log(f"Da tao du an thu {dst_dir} ({len(es)} dong, chua dich).")
+        return cls(dst_dir, log)
+
+    @staticmethod
+    def compare(old_dir: Path, new_dir: Path, out: Path | None = None,
+                grps: list[str] | None = None) -> Path:
+        """Bang so sanh ban cu / ban moi theo tung canh (HTML) de nguoi dung doc."""
+        import html
+        old, new = Store(Path(old_dir) / "project.db"), Store(Path(new_dir) / "project.db")
+        olds = {e.id: e for e in old.entries()}
+        scenes = biblemod.load_scenes(Path(new_dir))
+        rows = [e for e in new.entries("target IS NOT NULL") if not grps or e.grp in grps]
+        out = Path(out or Path(new_dir) / "so_sanh.html")
+        h = ["<!doctype html><meta charset='utf-8'><title>So sánh bản dịch</title><style>"
+             "body{font:15px/1.5 system-ui,sans-serif;margin:16px;max-width:1200px}"
+             "table{border-collapse:collapse;width:100%}td,th{border:1px solid #ccc;padding:6px;"
+             "vertical-align:top}th{background:#eee}.n{color:#777;font-size:13px}"
+             "h2{margin-top:28px}</style><h1>So sánh bản dịch cũ / mới</h1>"]
+        last = None
+        for e in rows:
+            if e.grp != last:
+                if last is not None:
+                    h.append("</table>")
+                sc = scenes.get(e.grp) or {}
+                h.append(f"<h2>{html.escape(e.grp)}</h2><p class='n'>"
+                         f"{html.escape(' · '.join(str(sc[k]) for k in ('summary', 'mood', 'effect') if sc.get(k)))}"
+                         "</p><table><tr><th>Người nói</th><th>Gốc</th><th>Bản cũ</th><th>Bản mới</th></tr>")
+                last = e.grp
+            o = olds.get(e.id)
+            notes = "; ".join(x[3:] for x in e.qa if x.startswith("N:") or "[kiểm định]" in x)
+            h.append("<tr>" + "".join(f"<td>{html.escape(x or '')}</td>" for x in (
+                e.speaker, e.source, o.target if o else "", e.target))
+                + "</tr>" + (f"<tr><td></td><td colspan=3 class='n'>{html.escape(notes)}</td></tr>"
+                             if notes else ""))
+        if last is not None:
+            h.append("</table>")
+        out.write_text("\n".join(h), encoding="utf-8")
+        old.db.close()
+        new.db.close()
+        return out
 
     # ------------------------------------------------------------------ apply
     def apply(self, out_dir: Path | None = None) -> Path:

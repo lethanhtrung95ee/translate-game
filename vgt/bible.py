@@ -44,7 +44,27 @@ TEMPLATE_HEADER = """# HO SO DICH - hay doc ky va sua truoc khi dich hang loat.
 # characters[].self  : dai tu tu xung mac dinh; forbid: tu cam dung cho nhan vat nay
 # relations          : A noi voi B -> self (A xung), call (A goi B)
 # key_scenes         : nhom/canh quan trong -> dich bang model manh (xem config models.key_scene)
+# work               : boi canh, premise (gui kem moi lo dich), cot truyen, chu de, chi tiet cai cam
+# style.strategy     : muc Han-Viet, cach xu ly choi chu / tho / ten
+# handbook           : cau dua, choi chu, tho, ke, than chu va cach dich thong nhat
+# can_xac_nhan       : diem chua chac -> nguoi dung tra loi, sua o day
 """
+
+
+def load_scenes(project: Path) -> dict:
+    """Tom tat tung canh (grp -> {summary, mood, effect}) do `vgt bible` doc toan bo kich ban ghi ra."""
+    p = Path(project) / "scenes.yaml"
+    if not p.exists():
+        return {}
+    return yaml.safe_load(p.read_text(encoding="utf-8")) or {}
+
+
+def save_scenes(project: Path, scenes: dict) -> Path:
+    p = Path(project) / "scenes.yaml"
+    p.write_text("# Tom tat tung canh (gui kem moi lo dich/kiem dinh cua canh do). Sua tay duoc.\n"
+                 + yaml.safe_dump(scenes, allow_unicode=True, sort_keys=True, width=100),
+                 encoding="utf-8")
+    return p
 
 
 def load(project: Path) -> dict:
@@ -98,8 +118,13 @@ class BibleIndex:
                 if r.get("from") in ids and (r.get("to") in ids or len(ids) <= 1)]
         gloss = list({id(g): g for g, _, _ in glossary_hits(self.b.get("glossary"), text)}.values())
         keep = [w for w in self.b.get("dont_translate") or [] if w in text]
-        return {"style": self.b.get("style") or {}, "characters": chars, "relations": rels,
-                "glossary": gloss, "dont_translate": keep}
+        grps = {e.grp for e in entries}
+        hb = [{k: v for k, v in h.items() if k != "grp" and v} for h in self.b.get("handbook") or []
+              if (h.get("src") and h["src"] in text) or (h.get("grp") and h.get("grp") in grps)]
+        premise = (self.b.get("work") or {}).get("premise")
+        return {"style": self.b.get("style") or {}, "work": {"premise": premise} if premise else {},
+                "characters": chars, "relations": rels, "glossary": gloss,
+                "handbook": hb, "dont_translate": keep}
 
     def speaker_label(self, e) -> str | None:
         cid = self.resolve_speaker(e.speaker, e.face)

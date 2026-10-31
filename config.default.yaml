@@ -7,26 +7,32 @@ source_lang: ""
 # ---- Dinh tuyen model (alias cua Claude Code: haiku / sonnet / opus) ----
 # Nguyen tac: model manh chi dung o noi quyet dinh chat luong toan game.
 models:
-  bible: opus          # dung ho so nhan vat/xung ho: 1 lan/game, sai o day = sai ca game
+  bible_read: opus     # doc TOAN BO kich ban theo tung phan (ghi chep cho ho so tac pham)
+  bible: opus          # gop ghi chep thanh ho so tac pham: 1 lan/game, sai o day = sai ca game
   ui: haiku            # menu, ten vat pham, thuat ngu he thong, chuoi ngan
   description: sonnet  # mo ta vat pham/ky nang
   dialogue: sonnet     # hoi thoai thuong (phan lon khoi luong)
   key_scene: opus      # canh duoc danh dau quan trong trong bible (key_scenes) hoac tag "deep"
-  repair: opus         # dich lai dong QA bao loi lan 2 tro di
+  repair: opus         # dich lai dong QA bao loi lan 2 tro di + dong kiem dinh vien bao loi nang
+  review: opus         # kiem dinh vien tham nien: cham tung canh 5 tieu chi
 # Muc suy nghi (--effort) theo vai tro: low / medium / high. Bo trong = mac dinh cua model.
 # Effort thap -> it token suy nghi -> tiet kiem han muc. Can so sanh thu tren tung game.
 effort:
+  bible_read: medium
   bible: high
   ui:            # haiku: de trong (chua chac haiku nhan --effort)
   description: low
   dialogue: medium
   key_scene: high
   repair: medium
+  review: medium
 # Leo thang: dong loi QA lan 1 dich lai bang chinh model cu; tu lan 2 dung models.repair.
 max_attempts: 3
 
 # ---- Chia lo (cang lon cang it lan goi, nhung loi 1 lo ton nhieu hon) ----
 batch:
+  # scene = moi lo chi chua 1 canh (grp), kem tom tat canh -> dich lien mach; flat = cach cu.
+  mode: scene
   max_entries: 40
   max_source_chars: 6000
   context_lines: 4      # so dong da dich lien truoc dua vao lam ngu canh
@@ -35,6 +41,7 @@ batch:
 claude:
   executable: claude          # hoac duong dan day du toi claude.exe
   timeout_sec: 600
+  timeout_long_sec: 1800      # bible_read / bible: doc va viet nhieu
   max_turns: 4
   # Thay toan bo system prompt mac dinh cua Claude Code + tat cong cu:
   # day la cach giam token moi lan goi nhieu nhat.
@@ -46,6 +53,20 @@ claude:
   wait_on_limit: true
   limit_wait_minutes: 30
   max_limit_waits: 48
+
+# ---- Ho so tac pham (vgt bible: doc toan bo kich ban) ----
+dossier:
+  chunk_chars: 60000      # moi lan doc ~60k ky tu kich ban
+  scene_min_lines: 4      # canh it hon so dong nay khong can tom tat rieng
+  merge_max_chars: 250000 # ghi chep cac phan lon hon -> gop theo tang
+  research_file: research.md  # boi canh ngoai game (phien dieu phoi tim tren web, ghi vao day)
+
+# ---- Kiem dinh (vgt review) ----
+review:
+  max_lines_per_call: 80
+  max_chars_per_call: 9000
+  minor_ratio: 0.05       # dat: 0 loi nang va loi nhe <= 5% so dong
+  max_rounds: 2           # truot qua so vong nay -> danh dau can nguoi duyet
 
 # ---- QA / giao dien ----
 qa:

@@ -58,14 +58,14 @@ class ClaudeCodeBackend:
         return cmd + list(self.c.get("extra_args") or [])
 
     def call(self, system: str, prompt: str, schema: dict, model: str,
-             effort: str | None = None) -> dict:
+             effort: str | None = None, timeout: int | None = None) -> dict:
         sysf = self.workdir / f"system_{hashlib.sha1(system.encode()).hexdigest()[:10]}.txt"
         if not sysf.exists():
             sysf.write_text(system, encoding="utf-8")
         waits = 0
         while True:
             try:
-                return self._once(self._cmd(model, schema, sysf, effort), prompt)
+                return self._once(self._cmd(model, schema, sysf, effort), prompt, timeout)
             except LimitReached as e:
                 if not self.c.get("wait_on_limit") or waits >= self.c["max_limit_waits"]:
                     raise
@@ -75,10 +75,11 @@ class ClaudeCodeBackend:
                          f"{self.c['max_limit_waits']}). Tien do da luu, co the tat va chay lai sau.")
                 time.sleep(mins * 60)
 
-    def _once(self, cmd: list[str], prompt: str) -> dict:
+    def _once(self, cmd: list[str], prompt: str, timeout: int | None = None) -> dict:
         try:
             p = subprocess.run(cmd, input=prompt, capture_output=True, text=True,
-                               encoding="utf-8", cwd=self.workdir, timeout=self.c["timeout_sec"])
+                               encoding="utf-8", cwd=self.workdir,
+                               timeout=timeout or self.c["timeout_sec"])
         except FileNotFoundError as e:
             raise BackendError(f"Khong tim thay Claude Code ('{self.exe}'). Cai dat va dang nhap truoc.") from e
         except subprocess.TimeoutExpired as e:
@@ -107,15 +108,24 @@ class MockBackend:
         self.calls = []
 
     def call(self, system: str, prompt: str, schema: dict, model: str,
-             effort: str | None = None) -> dict:
+             effort: str | None = None, timeout: int | None = None) -> dict:
         self.calls.append((model, len(prompt)))
         payload = json.loads(prompt.split("\n", 1)[1]) if prompt.startswith("#JSON") else {}
-        if "characters" in schema.get("properties", {}):
+        props = schema.get("properties", {})
+        if "scenes" in props:  # bien tap truong doc 1 phan kich ban
+            data = {"summary": f"mock phan {payload.get('part')}", "chars_seen": [],
+                    "scenes": [{"grp": g, "summary": "mock canh", "mood": "vui",
+                                "effect": "cuoi", "key": False} for g in payload.get("scene_ids", [])]}
+        elif "issues" in props:  # kiem dinh vien: dong co chu BAD -> loi nang
+            data = {"scores": {"dung_y": 5}, "issues": [
+                {"id": x["id"], "severity": "major", "criterion": "dung_y", "problem": "sai nghia",
+                 "fix": "sua"} for x in payload.get("lines", []) if "BAD" in (x.get("v") or "")]}
+        elif "characters" in props:
             sp = payload.get("speakers", [])
             data = {"style": {"tone": "mock"},
                     "characters": [{"id": f"c{i}", "names": [s["name"]], "name_vi": s["name"],
                                     "gender": "unknown", "self": "tôi"} for i, s in enumerate(sp)],
-                    "relations": [], "glossary": []}
+                    "relations": [], "glossary": [], "work": {"premise": "mock premise"}}
         else:
             data = {"t": [{"id": x["id"], "v": "VI: " + x["s"]} for x in payload.get("lines", [])]}
         return {"data": data, "usage": {"input_tokens": len(prompt) // 3, "output_tokens": 50},

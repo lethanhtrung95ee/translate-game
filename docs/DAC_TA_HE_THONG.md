@@ -103,14 +103,14 @@ Mức lỗi:
 
 ## 10. Trạng thái triển khai (cập nhật khi làm xong từng mục)
 
-| Mục | Trạng thái |
-|---|---|
-| Quy trình theo cửa, kiểm chứng DAT/đối chứng, patch CAI/GO | Có (v0.1.x) |
-| Bible đọc toàn bộ kịch bản (hiện chỉ đọc 60.000 ký tự đầu) | Chưa làm |
-| Hồ sơ tác phẩm A–E, tóm tắt cảnh | Chưa làm |
-| Dịch theo cảnh với hồ sơ đầy đủ (hiện: lô 40 dòng + 4 dòng ngữ cảnh) | Chưa làm |
-| Vai dịch giả và kiểm định viên trong `vgt/prompts.py` | Chưa làm |
-| Kiểm định viên chấm 5 tiêu chí theo cảnh | Chưa làm |
-| Bản thử theo cảnh + người dùng đọc 2 cảnh | Chưa làm |
-| `PROMPT_PHIEN_DAU.md` và `CLAUDE.md` khớp với đặc tả này | Một phần (prompt đã sửa 31/10, chưa có hồ sơ tác phẩm/kiểm định theo cảnh) |
-| Cấu hình riêng cho gói Pro | Chờ số liệu tháng thử |
+| Mục | Trạng thái | Ở đâu |
+|---|---|---|
+| Quy trình theo cửa, kiểm chứng DAT/đối chứng, patch CAI/GO | Có (v0.1.x) | `vgt/patch.py`, `tools/` |
+| Opus đọc **toàn bộ** kịch bản theo phần (chạy tiếp được khi đứt) → hồ sơ A–E + tóm tắt cảnh | Có, test bằng backend giả (31/10) | `vgt/dossier.py`, `vgt bible` |
+| Bối cảnh ngoài game (A): phiên điều phối tìm web → `research.md` | Có (quy trình) | `PROMPT_PHIEN_DAU.md` bước 2 |
+| Dịch theo cảnh kèm tóm tắt cảnh, premise, sổ tay; cảnh nhỏ gom chung lô | Có, test giả | `vgt/pipeline.py`, `vgt/batching.py` |
+| Vai dịch giả / biên tập trưởng / kiểm định viên | Có | `vgt/prompts.py` |
+| Kiểm định 5 tiêu chí; lỗi nặng → dịch lại bằng Opus; quá 2 vòng → cần người | Có, test giả | `vgt/review.py`, `vgt review` |
+| Bản thử theo cảnh, so sánh bản cũ/mới | Có, test giả | `vgt translate --grp`, `vgt fork`, `vgt compare` |
+| **Chạy thật bằng Claude** cho các phần mới | **CHƯA** — bước tiếp theo: so sánh 2–3 cảnh Cursed Armor | `CHECKPOINT.md` |
+| Cấu hình riêng cho gói Pro | Chờ số liệu tháng thử | — |

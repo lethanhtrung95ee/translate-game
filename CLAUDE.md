@@ -7,7 +7,8 @@
 - Cuối phiên: cập nhật `CHECKPOINT.md` (đã xong, file đã đổi, lỗi còn lại) và viết lại mục "Prompt cho phiên tiếp theo".
 - Trả lời người dùng bằng tiếng Việt, ngắn gọn.
 
-- Dịch game mới: làm theo `docs/HUONG_DAN_DICH_GAME_MOI.md`; mỗi game có `projects\<game>\CHECKPOINT.md` riêng.
+- Gốc của hệ thống (mục tiêu, vai trò, cửa, tiêu chuẩn "xong", testing): `docs/DAC_TA_HE_THONG.md`. Muốn cải tiến thì sửa ở đó trước. Sơ đồ: `docs/SO_DO_HE_THONG.html`.
+- Dịch game: làm theo `PROMPT_PHIEN_DAU.md` (quy trình) + `docs/HUONG_DAN_DICH_GAME_MOI.md` (kỹ thuật theo engine); mỗi game có `projects\<game>\CHECKPOINT.md` riêng.
 
 ## Bắt buộc từ người dùng (30/10/2026)
 - **Sắp xếp thư mục:**

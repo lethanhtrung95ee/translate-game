@@ -41,14 +41,18 @@ Ghi engine phát hiện được vào checkpoint của game.
 python -m vgt init "<thư mục game>" projects\<game> --name "<Tên game>"
 python -m vgt extract projects\<game>
 python -m vgt estimate projects\<game>          # ghi số dòng, số lần gọi theo model vào checkpoint
-python -m vgt bible projects\<game>             # Opus soạn hồ sơ dịch
-   -> rà bible (mục 6), đặt reviewed: true
    -> tìm cơ chế chọn ngôn ngữ của game TRƯỚC khi dịch (mục 7, "Ngôn ngữ"); ghi vào config/checkpoint
-python -m vgt translate projects\<game> --limit 50
+   -> phiên điều phối tìm bối cảnh trên web, ghi projects\<game>\research.md
+python -m vgt bible projects\<game>             # Opus đọc TOÀN BỘ kịch bản -> bible.yaml + scenes.yaml
+   -> rà bible (mục 6), đặt reviewed: true
+python -m vgt translate projects\<game> --grp <cảnh> --grp <cảnh>   # bản thử: 2–3 cảnh trọn vẹn
+python -m vgt review projects\<game> --grp <cảnh> --grp <cảnh>      # kiểm định viên chấm 5 tiêu chí
+python -m vgt translate projects\<game>         # dịch lại dòng bị kiểm định trả về (rồi review lại)
 python -m vgt apply projects\<game>             # -> Translation\<Tên game>\ (CAI/GO + _viethoa ẩn)
 node tools/boot_check_mvmz.mjs "<game gốc>" --patch "..\<Tên game>" --langs "<mọi ngôn ngữ>"   # phải in DAT
-   -> đọc 20 dòng kết quả (mục 7)
+   -> người dùng đọc 2 cảnh thử, đồng ý mới đi tiếp
 python -m vgt translate projects\<game>         # chạy hết; bị ngắt thì chạy lại, không mất tiến độ
+python -m vgt review projects\<game>            # chấm toàn bộ; lặp translate/review tới khi tra_ve_dich_lai = 0
 python -m vgt review-export projects\<game>     # sửa cột "fixed" trong review.csv
 python -m vgt review-import projects\<game>
 python -m vgt apply projects\<game>
@@ -86,9 +90,9 @@ Khi engine đã ổn định, cân nhắc viết thành adapter mới trong `vgt
 
 Kỹ thuật Unity chi tiết (bảng localize theo scene, Phồn/Giản thể, font TMP, chữ cứng trong dll, patch theo offset, UI tràn chữ): **`docs/BAI_HOC_TU_LEGEND_OF_MORTAL.md`**.
 
-## 6. Bible: xưng hô, tên, thuật ngữ (phần quyết định chất lượng)
+## 6. Hồ sơ tác phẩm (bible): phần quyết định chất lượng
 
-Bible do Opus soạn. **Luôn rà lại một lượt** dựa trên kịch bản:
+Opus đọc toàn bộ kịch bản rồi soạn (chi tiết các phần A–E: `docs/DAC_TA_HE_THONG.md` mục 2). **Luôn rà lại một lượt** dựa trên kịch bản:
 
 - **Giới tính, tuổi, vai vế** từng nhân vật chính.
 - **Xưng hô theo cặp**, ghi cả hai chiều. Ví dụ: `A→B: muội–huynh; B→A: ta–muội`. Một nhân vật có thể xưng khác nhau với từng người.
@@ -138,30 +142,14 @@ Tránh hành động tốn lượt/tự lưu đè bản lưu của người dùn
 
 ## 8. Chọn model và tiết kiệm hạn mức
 
-- Bible, cảnh quan trọng, dịch lại dòng lỗi lần 2: **Opus**. Hội thoại, mô tả: **Sonnet**. Menu, tên vật phẩm: **Haiku**.
+- Đọc kịch bản + gộp hồ sơ, cảnh quan trọng, dịch lại dòng lỗi lần 2 và dòng bị kiểm định trả về, kiểm định viên: **Opus**. Hội thoại, mô tả: **Sonnet**. Menu, tên vật phẩm: **Haiku**.
+- Cảnh nhỏ liền nhau được gom chung một lần gọi (dịch và kiểm định), nên số lần gọi gần như cách chia lô cũ.
 - Phân vân Sonnet hay Opus cho hội thoại: dịch thử cùng một cảnh bằng cả hai (`config.yaml`: `models: {dialogue: opus}`), không thấy khác thì giữ Sonnet.
 - Ghi `estimate` trước khi chạy và `status` sau khi chạy vào checkpoint để so giữa các game.
 
-## 9. Mẫu prompt cho game mới
+## 9. Prompt cho phiên dịch game
 
-Dán vào Claude Code (mở trong thư mục `vgt`), thay phần trong `< >`:
-
-```
-Dịch game mới: <TÊN GAME>, thư mục: <ĐƯỜNG DẪN GAME>.
-Đọc CLAUDE.md, CHECKPOINT.md, README.md và docs/HUONG_DAN_DICH_GAME_MOI.md rồi làm theo.
-Đọc bài học đúng phạm vi theo docs/lessons/README.md (global + engine của game + LESSONS của game nếu có).
-Tự làm hết, chỉ dừng hỏi khi bị chặn thật sự.
-1. Nhận diện engine (mục 2). Nếu là engine chưa hỗ trợ, báo lại và đề xuất hướng (mục 4/5), chờ tôi duyệt.
-2. Chạy quy trình mục 3 (hoặc 4), rà bible theo mục 6, ghi "CẦN XÁC NHẬN" chỗ không chắc, đặt reviewed: true.
-3. Chạy thử 50 dòng, kiểm theo mục 7, sửa lỗi hệ thống nếu có.
-4. Ổn thì dịch toàn bộ, hết hạn mức thì chờ chạy tiếp. Rồi review-export và apply (ra Translation\<Tên game>\, KHÔNG chép cả game).
-5. Kiểm chứng bắt buộc mục 7 (ngôn ngữ, boot check DAT mọi ngôn ngữ, đối chứng KHONG DAT, test cài/gỡ). Chưa DAT thì không báo xong.
-Khi xong: báo đường dẫn patch (CAI_VIETHOA.bat), số dòng xong/lỗi/cần duyệt, mức dùng theo model,
-output boot check, danh sách "CẦN XÁC NHẬN", việc chỉ tôi làm được; phân biệt đã làm / đã kiểm chứng / giả định.
-Ghi lỗi gặp phải vào projects\<game>\LESSONS.md theo mẫu, chặn ở mức cao nhất có thể, chạy tools/check_lessons.py.
-Cập nhật projects\<game>\CHECKPOINT.md và CHECKPOINT.md chung.
-<Ghi chú riêng nếu có: thể loại, xưng hô đặc biệt, tên nhân vật đã biết…>
-```
+Không còn mẫu riêng ở đây: dùng **`PROMPT_PHIEN_DAU.md`** (nhấp đúp `BAT_DAU.bat` là nó tự chạy prompt đó).
 
 ## 10. Mẫu checkpoint cho từng game (`projects\<game>\CHECKPOINT.md`)
 

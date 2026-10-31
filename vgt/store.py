@@ -43,6 +43,14 @@ CREATE TABLE IF NOT EXISTS runs (
     cost_est REAL, ok INTEGER, note TEXT
 );
 CREATE TABLE IF NOT EXISTS meta (k TEXT PRIMARY KEY, v TEXT);
+CREATE TABLE IF NOT EXISTS reviewed (     -- kiem dinh tung dong
+    id TEXT PRIMARY KEY, thash TEXT,          -- hash ban dich da cham ('' = can cham lai)
+    fails INTEGER NOT NULL DEFAULT 0,         -- so lan bi bao loi nang
+    ts REAL
+);
+CREATE TABLE IF NOT EXISTS reviews (          -- nhat ky moi lan goi kiem dinh
+    ts REAL, grps TEXT, n INTEGER, verdict TEXT, scores TEXT, issues TEXT
+);
 """
 
 
@@ -140,6 +148,21 @@ class Store:
     def counts(self) -> dict:
         return {r[0]: r[1] for r in
                 self.db.execute("SELECT status, COUNT(*) FROM entries GROUP BY status")}
+
+    # ---- kiem dinh ----
+    def get_reviewed(self, id_: str) -> dict | None:
+        r = self.db.execute("SELECT * FROM reviewed WHERE id=?", (id_,)).fetchone()
+        return dict(r) if r else None
+
+    def set_reviewed(self, id_: str, thash: str, fails: int) -> None:
+        self.db.execute("REPLACE INTO reviewed VALUES (?,?,?,?)", (id_, thash, fails, time.time()))
+        self.db.commit()
+
+    def log_review(self, grps, n, verdict, scores, issues) -> None:
+        self.db.execute("INSERT INTO reviews VALUES (?,?,?,?,?,?)",
+                        (time.time(), json.dumps(grps, ensure_ascii=False), n, verdict,
+                         json.dumps(scores, ensure_ascii=False), json.dumps(issues, ensure_ascii=False)))
+        self.db.commit()
 
     # ---- usage ----
     def log_run(self, model, purpose, n, usage: dict, cost, ok, note="") -> None:
