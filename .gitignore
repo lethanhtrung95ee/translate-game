@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+projects/
+*.db
+.claude_work/
+output/

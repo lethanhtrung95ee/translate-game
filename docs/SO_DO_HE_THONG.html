@@ -1,0 +1,115 @@
+<!doctype html>
+<html lang="vi">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Sơ đồ hệ thống vgt</title>
+<style>
+:root{--bg:#f7f6f2;--card:#ffffff;--ink:#1d1d1b;--mute:#6b6a65;--line:#d9d6cc;--acc:#b5482a;--ok:#2f7a4f;--you:#2d5ea8;--ai:#7a4fa3;--gate:#fff4e0;}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#17171a;--card:#212126;--ink:#ecebe6;--mute:#a19f98;--line:#3a3a40;--acc:#e07a55;--ok:#5fbf86;--you:#7aa7ec;--ai:#b893e0;--gate:#3a2f1c;}}
+:root[data-theme="dark"]{--bg:#17171a;--card:#212126;--ink:#ecebe6;--mute:#a19f98;--line:#3a3a40;--acc:#e07a55;--ok:#5fbf86;--you:#7aa7ec;--ai:#b893e0;--gate:#3a2f1c;}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.5 system-ui,"Segoe UI",sans-serif}
+main{max-width:980px;margin:0 auto;padding:24px 16px 48px}
+h1{font-size:24px;margin:0 0 4px}
+h2{font-size:17px;margin:32px 0 12px;border-bottom:1px solid var(--line);padding-bottom:6px}
+.sub{color:var(--mute);margin:0 0 8px}
+.flow{display:flex;flex-direction:column;gap:0}
+.step{display:grid;grid-template-columns:44px 1fr;gap:12px;align-items:start}
+.num{width:36px;height:36px;border-radius:50%;background:var(--acc);color:#fff;display:flex;align-items:center;justify-content:center;font-weight:700;margin-top:6px}
+.box{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:10px 14px}
+.box b{display:block}
+.who{font-size:12px;font-weight:600;padding:1px 8px;border-radius:10px;margin-left:6px;vertical-align:middle;border:1px solid currentColor}
+.w-ai{color:var(--ai)}.w-you{color:var(--you)}.w-code{color:var(--ok)}
+.gate{background:var(--gate);border-left:3px solid var(--acc);border-radius:6px;padding:4px 10px;margin-top:6px;font-size:13px}
+.gate::before{content:"Cửa: ";font-weight:700}
+.arrow{margin-left:17px;height:18px;border-left:2px solid var(--line)}
+.loop{font-size:13px;color:var(--mute);margin:4px 0 0}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:12px}
+.card{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:12px 14px}
+.card h3{margin:0 0 6px;font-size:15px}
+.card p{margin:0;font-size:14px;color:var(--mute)}
+table{width:100%;border-collapse:collapse;background:var(--card);border:1px solid var(--line);border-radius:10px;overflow:hidden;font-size:14px}
+th,td{text-align:left;padding:8px 10px;border-bottom:1px solid var(--line);vertical-align:top}
+th{font-size:13px;color:var(--mute);font-weight:600}
+tr:last-child td{border-bottom:0}
+code{font-family:Consolas,monospace;font-size:13px;background:var(--bg);padding:1px 5px;border-radius:4px;word-break:break-all}
+.tbl{overflow-x:auto}
+.done{color:var(--ok);font-weight:600}.todo{color:var(--acc);font-weight:600}
+</style>
+</head>
+<body>
+<main>
+<h1>Sơ đồ hệ thống vgt</h1>
+<p class="sub">Bản chốt 31/10/2026. Chi tiết đầy đủ: <code>docs/DAC_TA_HE_THONG.md</code></p>
+<p class="sub">Đường dẫn game vào → patch <code>Translation\&lt;Tên game&gt;\</code> (CAI_VIETHOA.bat / GO_VIETHOA.bat) ra, kèm bằng chứng kiểm chứng.</p>
+
+<h2>Quy trình (không qua cửa thì không đi tiếp)</h2>
+<div class="flow">
+ <div class="step"><div class="num">0</div><div class="box"><b>Nhận diện engine <span class="who w-ai">Điều phối</span></b>RPG Maker MV/MZ · Unreal · Translator++ · Unity/khác<div class="gate">có adapter, nếu chưa có thì dừng và đề xuất</div></div></div>
+ <div class="arrow"></div>
+ <div class="step"><div class="num">1</div><div class="box"><b>Môi trường <span class="who w-code">Tự động</span></b>Đăng nhập gói Claude, chạy unit test<div class="gate">gói đăng ký, test pass</div></div></div>
+ <div class="arrow"></div>
+ <div class="step"><div class="num">2</div><div class="box"><b>Tìm bối cảnh ngoài game <span class="who w-ai">Điều phối (web)</span></b>Nguồn gốc, ý đồ tác giả, lời bình cộng đồng, tên tiếng Việt quen thuộc<div class="gate">có nguồn, tên đã chốt</div></div></div>
+ <div class="arrow"></div>
+ <div class="step"><div class="num">3</div><div class="box"><b>Ngôn ngữ + trích xuất <span class="who w-code">vgt</span></b>Tìm chỗ game nạp ngôn ngữ, trích toàn bộ chữ<div class="gate">số dòng khớp số đếm độc lập</div></div></div>
+ <div class="arrow"></div>
+ <div class="step"><div class="num">4</div><div class="box"><b>Hồ sơ tác phẩm <span class="who w-ai">Opus đọc toàn bộ</span></b>Cốt truyện, chủ đề, mạch cảm xúc, giọng văn, nhân vật, xưng hô theo cặp, sổ tay chơi chữ/thơ, tóm tắt từng cảnh<div class="gate">đủ nhân vật, xưng hô có dẫn chứng, kiểm định viên rà xong</div></div></div>
+ <div class="arrow"></div>
+ <div class="step"><div class="num">5</div><div class="box"><b>Bản thử: 2–3 cảnh trọn vẹn <span class="who w-ai">Dịch giả + Kiểm định</span><span class="who w-you">Bạn đọc</span></b>1 cảnh hài · 1 cảnh cảm xúc · 1 cảnh UI/thuật ngữ<div class="gate">đạt ngưỡng chấm, khởi động DAT, bạn thấy cười/xúc động</div><p class="loop">↺ Trượt: tự sửa hồ sơ/prompt, chạy lại tối đa 2 vòng, sau đó hỏi bạn</p></div></div>
+ <div class="arrow"></div>
+ <div class="step"><div class="num">6</div><div class="box"><b>Dịch toàn bộ theo cảnh <span class="who w-ai">Dịch giả</span></b>Chạy nền, hết hạn mức thì chờ, checkpoint định kỳ<div class="gate">0 lỗi kỹ thuật E</div></div></div>
+ <div class="arrow"></div>
+ <div class="step"><div class="num">7</div><div class="box"><b>Kiểm định từng cảnh <span class="who w-ai">Kiểm định viên</span></b>Đặt nguồn cạnh bản dịch, chấm 5 tiêu chí<div class="gate">0 lỗi nặng, lỗi nhẹ ≤ 5%</div><p class="loop">↺ Lỗi nặng: trả về dịch lại kèm lý do</p></div></div>
+ <div class="arrow"></div>
+ <div class="step"><div class="num">8</div><div class="box"><b>Đóng gói patch <span class="who w-code">vgt apply</span></b>Chỉ file đã dịch, không chép cả game<div class="gate">patch chỉ chứa file đổi</div></div></div>
+ <div class="arrow"></div>
+ <div class="step"><div class="num">9</div><div class="box"><b>Kiểm chứng cuối <span class="who w-code">Tự động</span><span class="who w-you">Bạn chơi thử</span></b>Mọi ngôn ngữ ra tiếng Việt · DAT · đối chứng game gốc KHONG DAT · cài/gỡ về y nguyên<div class="gate">đủ cả, phần không kiểm được ghi CHƯA KIỂM CHỨNG</div></div></div>
+</div>
+
+<h2>Vai trò</h2>
+<div class="grid">
+ <div class="card"><h3 class="w-you">Bạn</h3><p>Đưa đường dẫn. Đọc 2 cảnh thử. Trả lời CẦN XÁC NHẬN. Chơi thử, chạy CAI/GO.</p></div>
+ <div class="card"><h3 class="w-ai">Điều phối</h3><p>Phiên Claude Code. Tìm bối cảnh, chạy quy trình, quyết định qua cửa, báo cáo có bằng chứng.</p></div>
+ <div class="card"><h3 class="w-ai">Biên tập trưởng (Opus)</h3><p>Đọc toàn bộ kịch bản, viết hồ sơ tác phẩm. Không có dẫn chứng thì ghi CẦN XÁC NHẬN.</p></div>
+ <div class="card"><h3 class="w-ai">Dịch giả thâm niên</h3><p>Dịch theo cảnh, giữ ý, giữ hồn, giữ duyên. Câu khó thì ghi chiến lược.</p></div>
+ <div class="card"><h3 class="w-code">QA tự động</h3><p>Bắt lỗi kỹ thuật: mã điều khiển, độ dài, chữ gốc còn sót, xưng hô lệch bible.</p></div>
+ <div class="card"><h3 class="w-ai">Kiểm định viên thâm niên</h3><p>Độc lập với dịch giả. Đọc nguồn cạnh bản dịch, chấm 5 tiêu chí, bắt bẻ tới khi có bằng chứng.</p></div>
+</div>
+
+<h2>Testing: 4 tầng</h2>
+<div class="tbl"><table>
+<tr><th>Tầng</th><th>Kiểm gì</th><th>Ngưỡng</th></tr>
+<tr><td>T1 Code</td><td>Unit test, check_lessons</td><td>100% pass</td></tr>
+<tr><td>T2 Từng dòng</td><td>Mã điều khiển, độ dài, chữ gốc sót, dấu CJK, thuật ngữ, xưng hô</td><td>0 lỗi E</td></tr>
+<tr><td>T3 Chất lượng</td><td>Đúng ý · Xưng hô · Giọng nhân vật · Giữ hồn · Tự nhiên (chấm toàn bộ, theo cảnh)</td><td>0 nặng, nhẹ ≤ 5%</td></tr>
+<tr><td>T4 Trong game</td><td>Khởi động, font, mọi ngôn ngữ, bản lưu thật</td><td>DAT + đối chứng KHONG DAT</td></tr>
+</table></div>
+
+<h2>Muốn cải tiến gì thì sửa file nào</h2>
+<div class="tbl"><table>
+<tr><th>Muốn cải tiến</th><th>File</th></tr>
+<tr><td>Mục tiêu, vai trò, quy trình, tiêu chuẩn (gốc)</td><td><code>docs/DAC_TA_HE_THONG.md</code></td></tr>
+<tr><td>Quy tắc bất biến mọi phiên</td><td><code>CLAUDE.md</code></td></tr>
+<tr><td>Các bước một phiên dịch game</td><td><code>PROMPT_PHIEN_DAU.md</code></td></tr>
+<tr><td>Kỹ thuật theo engine</td><td><code>docs/HUONG_DAN_DICH_GAME_MOI.md</code></td></tr>
+<tr><td>Lời dặn dịch giả / kiểm định viên / biên tập trưởng</td><td><code>vgt/prompts.py</code></td></tr>
+<tr><td>Luật bắt lỗi kỹ thuật</td><td><code>vgt/qa.py</code></td></tr>
+<tr><td>Model, effort, chờ hạn mức, độ dài dòng</td><td><code>config.default.yaml</code>, <code>projects/&lt;game&gt;/config.yaml</code></td></tr>
+<tr><td>Bài học, chống lặp lỗi</td><td><code>docs/lessons/</code>, <code>projects/&lt;game&gt;/LESSONS.md</code></td></tr>
+<tr><td>Tiến độ, việc tiếp theo</td><td><code>CHECKPOINT.md</code>, <code>projects/&lt;game&gt;/CHECKPOINT.md</code></td></tr>
+</table></div>
+
+<h2>Trạng thái triển khai</h2>
+<div class="tbl"><table>
+<tr><th>Mục</th><th>Trạng thái</th></tr>
+<tr><td>Quy trình theo cửa, kiểm chứng DAT/đối chứng, patch CAI/GO</td><td class="done">Có</td></tr>
+<tr><td>Opus đọc toàn bộ kịch bản → hồ sơ tác phẩm + tóm tắt cảnh</td><td class="todo">Chưa làm</td></tr>
+<tr><td>Dịch theo cảnh với hồ sơ đầy đủ</td><td class="todo">Chưa làm</td></tr>
+<tr><td>Vai dịch giả / kiểm định viên trong prompts.py</td><td class="todo">Chưa làm</td></tr>
+<tr><td>Kiểm định 5 tiêu chí theo cảnh, bản thử theo cảnh</td><td class="todo">Chưa làm</td></tr>
+<tr><td>Cấu hình riêng cho gói Pro</td><td class="todo">Chờ số liệu tháng thử</td></tr>
+</table></div>
+</main>
+</body>
+</html>
