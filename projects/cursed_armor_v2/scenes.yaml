@@ -1,0 +1,4062 @@
+# Tom tat tung canh (gui kem moi lo dich/kiem dinh cua canh do). Sua tay duoc.
+CommonEvents.json:ce1:
+  effect: cho thấy cơ chế giáp, căng
+  mood: bức bối, nhục nhã
+  summary: Dâm năng tăng làm xuất hiện gông/vòng cổ nguyền; dâm năng thiếu thì vòng cổ, gông, giáp lần
+    lượt biến mất, Lilina kiệt sức và nổi dục vọng.
+CommonEvents.json:ce10:
+  effect: cười nhẹ, tò mò về giao ước
+  mood: hành chính, hơi hài
+  summary: Thông báo hoàn thành nhiệm vụ và phần thưởng. Lilina báo đã diệt sinh vật ở mạch nước ngầm
+    và đặt phong ấn; quản lý cảm ơn nhưng không trả thêm. Mary/Melissa đòi thực hiện giao ước hoặc 'thí
+    nghiệm'.
+CommonEvents.json:ce100:
+  effect: chức năng
+  mood: hệ thống
+  summary: Menu bật/tắt thần khí.
+CommonEvents.json:ce101:
+  effect: căng, ngã rẽ đạo đức
+  mood: cám dỗ, nghiêm túc
+  summary: Kỹ năng quyến rũ Zapfkiel/Aleph. Succubus ngăn lại vì nếu lòng Lilina sa đọa thì không ai biết
+    hậu quả; người chơi chọn 'không thể quay đầu' hay 'phải nhẫn nhịn'.
+CommonEvents.json:ce106:
+  effect: căng, khó chịu
+  mood: u ám, nhục nhã
+  summary: 'Gặp cướp: chọn làm chuyện người lớn, tiêu diệt hoặc bỏ qua. Bị cướp cưỡng bức, lấy tiền; cướp
+    phát hiện vòng cổ nô lệ vĩnh viễn hoặc ép đeo đai trinh tiết rồi cướp chìa khóa.'
+CommonEvents.json:ce11:
+  effect: ấm áp
+  mood: nhẹ nhõm
+  summary: Dùng cuộn giấy về thành; cô gái được cứu cảm ơn và muốn về với cha mẹ.
+CommonEvents.json:ce110:
+  effect: khó chịu
+  mood: nhục nhã, phục tùng
+  summary: Lính gác lấy cớ nô lệ 'khiêu khích' mình để ép Lilina, nô lệ của chủ thành, phục dịch. Cô tự
+    xưng bằng tên nô lệ, phục tùng, rồi tự nhủ sau này nên tránh lính gác.
+CommonEvents.json:ce111:
+  effect: chức năng
+  mood: hệ thống
+  summary: Menu bật/tắt thần khí.
+CommonEvents.json:ce112:
+  effect: chức năng
+  mood: hệ thống
+  summary: Menu bật/tắt thần khí.
+CommonEvents.json:ce113:
+  effect: chức năng
+  mood: hệ thống
+  summary: Menu bật/tắt thần khí.
+CommonEvents.json:ce114:
+  effect: chức năng
+  mood: hệ thống
+  summary: Menu bật/tắt thần khí.
+CommonEvents.json:ce115:
+  effect: chức năng
+  mood: hệ thống
+  summary: Menu bật/tắt thần khí.
+CommonEvents.json:ce116:
+  effect: chức năng
+  mood: hệ thống
+  summary: Menu bật/tắt thần khí.
+CommonEvents.json:ce117:
+  effect: chức năng
+  mood: hệ thống
+  summary: Menu bật/tắt thần khí.
+CommonEvents.json:ce118:
+  effect: chức năng
+  mood: hệ thống
+  summary: Menu bật/tắt thần khí.
+CommonEvents.json:ce119:
+  effect: chức năng
+  mood: hệ thống
+  summary: Menu bật/tắt thần khí.
+CommonEvents.json:ce12:
+  effect: bất an, tò mò
+  mood: rùng rợn, bất lực
+  summary: 'Trạng thái qua đêm: tinh dịch/sữa rỉ ra, phát độc, ký sinh trùng chiếm cơ thể, phản phệ của
+    khế ước vào ''Ngày khế ước''. Cuối cùng một ý thức ''về tổ'' nuốt mất lý trí, cô đi về khu phố cũ.'
+CommonEvents.json:ce120:
+  effect: chức năng
+  mood: hệ thống
+  summary: Menu mô phỏng (擬態) trang phục theo bộ đã lưu 1–9 hoặc theo trang bị; có lựa chọn hủy hoặc giữ
+    mô phỏng.
+CommonEvents.json:ce121:
+  effect: căng
+  mood: giằng xé
+  summary: 'Cơn nghiện phát: chọn nhịn hay dùng Skooma.'
+CommonEvents.json:ce125:
+  effect: chức năng
+  mood: hệ thống
+  summary: 'Menu Bình báu tinh dịch: pha chế hoặc đổi chế độ thu gom.'
+CommonEvents.json:ce126:
+  effect: chức năng
+  mood: hệ thống
+  summary: Thông báo tháo đai trinh tiết và các loại xiềng.
+CommonEvents.json:ce127:
+  effect: chức năng
+  mood: hệ thống
+  summary: 'Menu thao tác đồ ma cương: đổi hình, làm mềm, định hình.'
+CommonEvents.json:ce132:
+  effect: chức năng
+  mood: hệ thống
+  summary: Thông báo đai ma cương bị mở bằng chìa, bị phá, bị làm mềm.
+CommonEvents.json:ce138:
+  effect: nghẹn, tổng kết số phận
+  mood: trầm, tự soi
+  summary: 'Soi gương: tóm tắt thân phận hiện tại của Lilina (thiếu nữ, nữ u linh, nô lệ thuộc về ai,
+    chỉ số nô lệ), các vai trò ở từng thành (phu nhân hội trưởng, kỹ nữ, bồn cầu thịt, vợ côn trùng, vợ
+    thú yêu \N[11]).'
+CommonEvents.json:ce139:
+  effect: chức năng
+  mood: hệ thống
+  summary: Hiển thị buổi trong ngày và số ngày ở Học viện.
+CommonEvents.json:ce14:
+  effect: vừa ghê vừa thương
+  mood: đau đớn pha dịu dàng
+  summary: Mang thai quái, bụng hút ma lực rồi sinh nở. Lilina luyến tiếc bỏ đứa con lại, dặn nó 'tự cố
+    gắng lớn lên'.
+CommonEvents.json:ce143:
+  effect: chức năng
+  mood: hệ thống
+  summary: 'Menu tùy chỉnh kiểu Tamamo-no-Mae: tóc, mắt, mặt, độ dài tóc.'
+CommonEvents.json:ce145:
+  effect: chức năng
+  mood: đời thường
+  summary: 'Ở Học viện: thoại khi đến sai lớp hoặc lớp chưa xếp (hệ Thổ, Thủy, Lôi, Hỏa).'
+CommonEvents.json:ce147:
+  effect: hài/khiêu khích
+  mood: lả lơi
+  summary: Thoại kỹ năng quyến rũ trong chiến đấu.
+CommonEvents.json:ce148:
+  effect: nghẹn, tò mò về thầy hệ Thổ
+  mood: nặng nề, có chút hài khi Succubus phủ nhận 'lò ấp'
+  summary: Lilina sắp sinh nhưng không nuôi được con. Succubus gợi ý phá thai bằng dâm ma pháp; con trước
+    đã gửi cho thầy hệ Thổ (ông ta rất hứng thú với con của cô). Cô học kỹ năng Sinh nở & Phá thai và
+    phải chọn.
+CommonEvents.json:ce15:
+  effect: nội dung người lớn
+  mood: H
+  summary: 'H với slime: hai biến thể trong trắng/sa đọa, kết bằng thu gom tinh dịch và lời than về lời
+    nguyền.'
+CommonEvents.json:ce153:
+  effect: ngượng, giằng xé
+  mood: mê hoặc, tự giễu
+  summary: Ở dạng u linh, Lilina hút tinh khí nam sinh đang ngủ. Cô sợ nghiện, không muốn làm u linh,
+    tự gọi mình là 'si nữ'.
+CommonEvents.json:ce156:
+  effect: thương
+  mood: tuyệt vọng
+  summary: Lên cơn thèm thuốc; câu phải về hầu ngủ chủ nhân.
+CommonEvents.json:ce157:
+  effect: xác lập danh xưng
+  mood: hệ thống
+  summary: 'Các tiền tố cách NPC gọi Lilina: ''Phu nhân'', ''Đại nhân Thợ săn Thiên thần'' (kèm biến thể
+    lắp bắp, ngạc nhiên) hoặc gọi tên.'
+CommonEvents.json:ce158:
+  effect: ngột ngạt
+  mood: áp bức
+  summary: Người lạ nhận ra vòng cổ không lỗ khóa, biết cô là nô lệ vĩnh viễn rời Torres không có chủ,
+    và ép cô nhận hắn làm chủ.
+CommonEvents.json:ce16:
+  effect: nội dung người lớn
+  mood: H
+  summary: 'H với slime độc: lời thoại xen tiếng ho vì trúng độc.'
+CommonEvents.json:ce161:
+  effect: căng nhẹ
+  mood: gấp gáp
+  summary: Succubus phát hiện chủ nhân bị ký sinh, giục đi chữa trước khi cơ thể bị cải tạo.
+CommonEvents.json:ce168:
+  effect: chức năng
+  mood: hệ thống
+  summary: Menu hiệu ứng ký sinh trùng trên người và ở đuôi.
+CommonEvents.json:ce169:
+  effect: thông tin quan trọng
+  mood: hệ thống
+  summary: Bảng thống kê số lần đạt các kết cục và điều kiện (tuyến Di tích, Học viện, Thánh thú, Ma trùng,
+    True End của Giáp Nguyền Rủa); bật bỏ qua siêu tốc bằng phím A.
+CommonEvents.json:ce17:
+  effect: nội dung người lớn
+  mood: H
+  summary: 'H với slime gây tê: Lilina tê miệng, chỉ còn rên vô nghĩa.'
+CommonEvents.json:ce177:
+  effect: chức năng
+  mood: hệ thống
+  summary: Dùng 20 dâm năng để tăng tỉ lệ vùng thoát.
+CommonEvents.json:ce18:
+  effect: nội dung người lớn
+  mood: H
+  summary: H với ong sát thủ.
+CommonEvents.json:ce180:
+  effect: chức năng
+  mood: hệ thống
+  summary: Xem phòng CG, kèm hướng dẫn phím.
+CommonEvents.json:ce19:
+  effect: nội dung người lớn
+  mood: H
+  summary: H với bọ cạp độc.
+CommonEvents.json:ce2:
+  effect: ngượng
+  mood: ngượng
+  summary: 'Thoại khi không chịu cởi đồ: xấu hổ, còn trinh, giữa đông người.'
+CommonEvents.json:ce20:
+  effect: nội dung người lớn
+  mood: H
+  summary: 'Vắt sữa: các trường hợp bị trói hoặc ''giữ sữa cho vị đại nhân nào đó''; cảnh vắt sữa thu
+    được Ma Nhũ.'
+CommonEvents.json:ce24:
+  effect: chức năng
+  mood: hệ thống
+  summary: Menu lưu hoặc chọn bộ trang phục 1–9.
+CommonEvents.json:ce25:
+  effect: nhắc nhở
+  mood: cam chịu
+  summary: 'Nhắc lịch phải đến làm nô lệ cho các ''chủ'': Ba chị em Xà nữ, Thụ tinh Ngàn năm, Garon, Dâm
+    ma vệ binh, Thủy tinh linh, Hỏa tinh linh; có lựa chọn bỏ qua hoặc xem.'
+CommonEvents.json:ce27:
+  effect: cười ngượng
+  mood: hài – ngượng
+  summary: U linh nhập vào làm Lilina mọc 'dương vật'; cô thủ dâm cho nó bắn hết ma lực thì nó biến mất.
+CommonEvents.json:ce28:
+  effect: định hướng
+  mood: hướng dẫn, có chút hài trong ngoặc
+  summary: 'Danh sách mục tiêu nhiệm vụ chính: vào Hội Mạo hiểm, hỏi \N[2] về thánh vật, sáu thánh vật
+    ở các nơi, cởi giáp ở Di tích Đế quốc, chơi vòng mới.'
+CommonEvents.json:ce29:
+  effect: nội dung người lớn
+  mood: H
+  summary: Lần đầu tiết sữa, học kỹ năng Vắt sữa; thoại khi bị bắn đầy.
+CommonEvents.json:ce30:
+  effect: nội dung người lớn
+  mood: H, ghê
+  summary: H với zombie, kết bằng câu chê 'siêu ghê tởm'.
+CommonEvents.json:ce31:
+  effect: nội dung người lớn
+  mood: H, ghê
+  summary: H với xương binh.
+CommonEvents.json:ce32:
+  effect: nội dung người lớn, mở đầu cho ce27
+  mood: H, sợ
+  summary: Lilina sợ ma nhất; u linh hút ma lực rồi nhập vào, để lại 'vật nhô ra' bán trong suốt.
+CommonEvents.json:ce33:
+  effect: nội dung người lớn
+  mood: H
+  summary: Bị đám vong linh vệ binh vây, miệng bị chặn nên chỉ có tiếng ư ư; sau đó bị nhập như ce32.
+CommonEvents.json:ce34:
+  effect: chức năng
+  mood: căng/lả lơi
+  summary: Thoại khi bị lột đồ trong chiến đấu.
+CommonEvents.json:ce40:
+  effect: nội dung người lớn
+  mood: H
+  summary: H khi bị bắt (ở trạng thái sa đọa).
+CommonEvents.json:ce41:
+  effect: nội dung người lớn
+  mood: H
+  summary: H với dâm ma, thoại kèm độc thoại nội tâm.
+CommonEvents.json:ce42:
+  effect: căng
+  mood: H, thách thức
+  summary: Nhờ đai trinh tiết mà dâm ma thất bại và ném cô ra; ở biến thể khác, cô phải dẫn dâm ma về
+    phòng trong cùng, và khinh thường việc nó định thuần phục cô.
+CommonEvents.json:ce43:
+  effect: chức năng
+  mood: hệ thống
+  summary: Kỹ năng vô hiệu; menu dịch chuyển (Anvil, Vương thành Garon, Làng Đảo nhỏ, Di tích Đế quốc);
+    cô gái được cứu cảm ơn.
+CommonEvents.json:ce44:
+  effect: nội dung người lớn
+  mood: H
+  summary: H với chim ưng.
+CommonEvents.json:ce45:
+  effect: nội dung người lớn
+  mood: H
+  summary: H với ma ngưu.
+CommonEvents.json:ce46:
+  effect: chức năng
+  mood: hệ thống
+  summary: 'Chọn cách quyến rũ: theo lựa chọn hoặc trực tiếp.'
+CommonEvents.json:ce47:
+  effect: cảnh báo
+  mood: hệ thống
+  summary: Hấp thu tinh dịch còn sót làm Lilina sa đọa hơn; hỏi xác nhận.
+CommonEvents.json:ce48:
+  effect: nội dung người lớn
+  mood: H
+  summary: H với quái bạch tuộc.
+CommonEvents.json:ce49:
+  effect: nội dung người lớn
+  mood: H
+  summary: H với hỏa long; câu kết lo bị 'chinh phục' hoàn toàn.
+CommonEvents.json:ce5:
+  effect: rợn, tò mò về \N[8]
+  mood: lạnh lùng, đáng sợ
+  summary: 'Danh sách ám thị thôi miên trên người Lilina: mỗi hệ phép một ám thị (Phơi thân, Thiếu nữ
+    ham chơi, Lên đỉnh mất kiểm soát, Xả thân thỏa dục, Lò ấp dị chủng, Búp bê sống), cùng các ám thị
+    gắn với \N[8] (giữ bí mật, kháng cự cưỡng hiếp, không thể lên đỉnh…), kèm hiệu ứng khi thành Lạc ấn
+    vĩnh viễn.'
+CommonEvents.json:ce50:
+  effect: cười ngượng
+  mood: H, tự giễu
+  summary: Bị lửa vây, Lilina dùng tượng đá hút lửa và ma lực, rồi xấu hổ vì 'phù thủy lửa' lại thua lửa.
+CommonEvents.json:ce51:
+  effect: nội dung người lớn
+  mood: H
+  summary: H với dơi hút máu.
+CommonEvents.json:ce52:
+  effect: rợn
+  mood: ghê tởm
+  summary: Ký sinh trùng úp mặt, đẻ trứng vào dạ dày; cô phải về hội chữa.
+CommonEvents.json:ce54:
+  effect: căng/hài ('đàn ông dễ đối phó thật')
+  mood: căng, ranh mãnh
+  summary: Lính gác bắt vì khỏa thân hoặc lộ ký sinh, giật ký sinh, bắt giam. Có lựa chọn quyến rũ để
+    thoát; nếu không thì bị tống ngục.
+CommonEvents.json:ce55:
+  effect: chức năng
+  mood: hệ thống
+  summary: 'Menu kiểu tóc và ngoại hình nhân vật: đuôi ngựa, sừng, hắc hóa, thần hóa, kỵ sĩ công chúa
+    cuồng loạn hoặc phản loạn, dùng kiểu tóc của Melia/\N[9]…'
+CommonEvents.json:ce6:
+  effect: chức năng
+  mood: hệ thống
+  summary: Thoại khi kỹ năng không có tác dụng, thiếu dâm năng hoặc cần về phòng mới dịch chuyển được.
+CommonEvents.json:ce61:
+  effect: chức năng
+  mood: cực nhọc
+  summary: 'Lao động trong ngục: bị trói không làm được, đào được quặng bạc/vàng, ngất vì đói.'
+CommonEvents.json:ce63:
+  effect: khó chịu
+  mood: suy đồi, bất lực
+  summary: Trong ngục, Lilina mang dấu trói mai rùa của 'bồn cầu thịt' do quản ngục công nhận. Cô dụ hoặc
+    bị lính gác ép (dọa dùng thuốc), làm để xin giảm án và tự hỏi có phải giáp biến mình thành si nữ.
+CommonEvents.json:ce64:
+  effect: cười nhẹ
+  mood: hài nhẹ
+  summary: Uống thuốc vô hiệu, chọn tăng liều 10 bình; ăn phải thứ dở tệ.
+CommonEvents.json:ce66:
+  effect: căng – thở phào
+  mood: hồi hộp, lén lút
+  summary: 'Lục phòng Darren: lấy đồ ăn, tiền, chìa khóa, dây thép, đọc nhật ký ghi chép việc huấn luyện
+    mình. Gây tiếng động, Darren tỉnh dậy, cô viện cớ nhờ cởi trói.'
+CommonEvents.json:ce68:
+  effect: cười ('y hệt như cũ')
+  mood: H, hài nhẹ
+  summary: Lilina đổi đồ ăn lấy sự 'giúp đỡ' của nữ tù nhân; nữ tù cởi rồi buộc lại dây y hệt cũ.
+CommonEvents.json:ce69:
+  effect: cười, liều lĩnh
+  mood: tinh quái
+  summary: Ngày ra tù, Lilina dụ lính gác phá luật của quản ngục; lính sợ chết nhưng vẫn liều.
+CommonEvents.json:ce7:
+  effect: nội dung người lớn
+  mood: H, bức bối
+  summary: Thủ dâm để giảm dục vọng; bị ám thị chặn cực khoái.
+CommonEvents.json:ce70:
+  effect: cười nhẹ
+  mood: hệ thống, phá tường
+  summary: Menu can thiệp hiệu ứng hình ảnh; Giọng Thần nói đùa về trang phục, Succubus ngơ ngác 'cái
+    gì thế?'.
+CommonEvents.json:ce71:
+  effect: chức năng
+  mood: hệ thống
+  summary: 'Menu tùy chỉnh chân dung đứng: vị trí, đai trinh tiết, mũ miện nguyền, âm thanh.'
+CommonEvents.json:ce74:
+  effect: chức năng
+  mood: đời thường
+  summary: 'Menu tắm rửa: toàn thân, mặt, làm sạch tử cung; bị trói thì không tự tắm được.'
+CommonEvents.json:ce75:
+  effect: nội dung người lớn
+  mood: H
+  summary: Dùng 'Gông xiềng của Ác ma', món đồ tự chuyển động theo ý thức.
+CommonEvents.json:ce78:
+  effect: ngượng/cười đắng
+  mood: ghê, tự vả
+  summary: Đói quá phải 'ăn' tinh dịch côn trùng, rồi tự giật mình vì suýt cảm ơn nó.
+CommonEvents.json:ce8:
+  effect: chức năng
+  mood: hệ thống
+  summary: Bảng nhiệm vụ của hội, từ hạng D đến A.
+CommonEvents.json:ce81:
+  effect: ngượng/hài
+  mood: lả lơi, xã hội phán xét
+  summary: Vắt tinh dịch người qua đường hoặc dạng Futa; phản ứng của NPC khi Lilina ăn mặc hở hang (mắng
+    'si nữ', khen đẹp, trả tiền, ghen tị).
+CommonEvents.json:ce82:
+  effect: hài nhẹ
+  mood: lẫn lộn
+  summary: Bị giật ký sinh vì lộ ra ngoài; Lilina phát tờ rơi cá cược đua kỳ lân.
+CommonEvents.json:ce84:
+  effect: cột mốc, cám dỗ
+  mood: mê hoặc, hướng dẫn
+  summary: Giáp tiến hóa thành hình thái hoàn chỉnh bằng thịt. Succubus hướng dẫn mô phỏng (phím D) và
+    lưu bộ đồ (phím S), hứa tạo kết giới và xóa ký ức người khác để cô yên tâm 'đi chơi'.
+CommonEvents.json:ce88:
+  effect: cười, cài nhánh lựa chọn
+  mood: hài, giận hờn
+  summary: Rời nơi toàn kỳ lân, Lilina gặp lại Succubus. Succubus trách vì kỳ lân suýt giết nó, dỗi, rồi
+    bắt cô chọn 'em hay nó'; Lilina đùa rồi xoa dịu và tái khẳng định ước mơ.
+CommonEvents.json:ce89:
+  effect: căng, tức
+  mood: chính nghĩa → nhục nhã
+  summary: 'Truy bắt kẻ cờ bạc trộm tiền: thắng thì giải hắn vào ngục; thua thì bị hắn cướp và cưỡng bức,
+    Lilina thề trả thù.'
+CommonEvents.json:ce9:
+  effect: rõ ràng; bật cười vì 'phải tự mang đồ lót'
+  mood: hành chính, có chút hài châm biếm
+  summary: Bảng nhiệm vụ của hội (hái thảo dược, nấm, diệt slime, giếng bỏ hoang, trộm ở trang trại kỳ
+    lân, dọn nhà tắm, nằm vùng). Nếu bỏ nhiệm vụ đã thuê Meili/Melissa giúp thì cô vẫn phải trả công bằng
+    thân xác hoặc làm thí nghiệm.
+CommonEvents.json:ce92:
+  effect: tò mò
+  mood: gấp gáp
+  summary: Phép không có tác dụng; Succubus cảnh báo nếu bị 'nó' (kỳ lân?) xuất vào thì thần lực sẽ phá
+    hết dâm năng, rồi bày ra lựa chọn nộp tiền.
+CommonEvents.json:ce95:
+  effect: cảnh H thường lệ
+  mood: H lặp lại
+  summary: 'Gặp sói dữ: chọn làm chuyện người lớn, tiêu diệt, hoặc bỏ qua; có cảnh H biến thể trinh/sa
+    đọa, cuối cảnh thu gom tinh dịch.'
+CommonEvents.json:ce96:
+  effect: căng mà có chất hài thô (chơi chữ 'đi bán/giao hàng')
+  mood: cợt nhả, H
+  summary: 'Trò đuổi bắt với nhóm lính đánh thuê: bị bắt thì ''uống nước'' hoặc làm ''cừu non''. Lilina
+    dùng miệng và năng lực mê hoặc của giáp để thoát.'
+CommonEvents.json:ce97:
+  effect: rõ ràng
+  mood: hệ thống
+  summary: 'Bảng nhiệm vụ ở doanh trại: phần thưởng là thuốc giải đặc chế; bỏ nhiệm vụ thì phải làm kỹ
+    nữ một ngày.'
+Map001.json:ev19p3:
+  effect: day dứt, rợn
+  mood: u ám, giằng co
+  summary: Cô gái được cứu từ giếng nhớ 'các sinh vật'. Tùy chỉ số mà Lilina hoặc hẹn đưa cô xuống giếng
+    ban đêm (cảnh báo sẽ không quay về được), hoặc khuyên cô quên đi để sống bình thường.
+Map001.json:ev20p0:
+  effect: hơi rợn, buồn cười vì lời thầm 'kiếm bộn rồi'
+  mood: ngọt ngào mà có ẩn ý
+  summary: Cô bán hoa khen Lilina 'thơm như hoa', rủ tối tới nhà rồi rủ 'bán' cùng; lần sau thì trả công.
+Map001.json:ev22p2:
+  effect: cười
+  mood: hài nhẹ
+  summary: Lính gác nhắc cô mặc quần áo vào; Lilina dài giọng 'biết~ rồi~'.
+Map001.json:ev23p2:
+  effect: cười
+  mood: hài nhẹ
+  summary: 'Giống ev22p2: lính gác bắt cô mặc đồ.'
+Map001.json:ev24p2:
+  effect: cười
+  mood: hài nhẹ
+  summary: Giống ev22p2.
+Map001.json:ev26p1:
+  effect: rõ ràng
+  mood: hệ thống
+  summary: 'Menu dịch chuyển: Vương thành Garon, Làng Đảo Nhỏ, Di tích Đế quốc, Học viện Ma pháp, ở lại
+    Anvil.'
+Map001.json:ev34p0:
+  effect: cười vì Lilina chi li
+  mood: hài
+  summary: Lilina trình vé vào trang trại ở cảng hàng không, phải trả 500G thuê phi thuyền; tay cờ bạc
+    chạy tới xin đi ké và bị cô bắt chia đôi tiền.
+Map001.json:ev34p3:
+  effect: cười
+  mood: hài
+  summary: Bản ev34p0 kèm câu lính gác nhắc cô mặc quần áo.
+Map001.json:ev35p3:
+  effect: rợn, sốc; tiết lộ mặt tối của Simelia
+  mood: ma mị, sa đọa
+  summary: Lilina khỏa thân ngoài phố sắp bị bắt thì Simelia xuất hiện, thuyết phục lính gác rằng 'che
+    thân thể đẹp mới là tội'. Cô dẫn Lilina thành 'chó cái' của mình giữa đám đông, rồi quan hệ công khai
+    và trao 'phần thưởng vĩnh viễn'.
+Map001.json:ev9p1:
+  effect: tò mò
+  mood: tò mò
+  summary: Trong nhà phát ra tiếng lạ; dục vọng trên 1000 thì có thể vào xem.
+Map002.json:ev22p0:
+  effect: căng nhẹ
+  mood: lén lút
+  summary: Đợi trời tối để lẻn vào Khu phố cũ; Lilina thấy 'suôn sẻ hơn tưởng'.
+Map002.json:ev4p0:
+  effect: định hướng
+  mood: nhẹ nhõm, lo
+  summary: Cô gái được cứu cảm ơn và về với cha mẹ. Lilina trong tình trạng này không vào thành được,
+    định đêm trèo tường qua Khu phố cũ hoặc tới bệnh viện tư ở cảng.
+Map002.json:ev5p0:
+  effect: mở truyện, tò mò
+  mood: háo hức, bí ẩn
+  summary: 'Chọn độ khó và mở đầu: Lilina tới Anvil đầy hoài bão, ngắm tượng nữ anh hùng \N[60]; một giọng
+    bí ẩn dụ cô ra mộ lấy bí bảo, nhận Sổ ghi nhớ.'
+Map003.json:ev24p0:
+  effect: căng, ghê; tiết lộ âm mưu
+  mood: tàn khốc rồi mưu mô
+  summary: Lilina thua ba chị em Xà nữ và bị biến thành 'đồ chơi'. Succubus thương lượng khế ước linh
+    hồn (7 ngày một lần) và hứa hẹn về bảo vật thần điện, rồi tự đắc sẽ cài ám thị 'không lập đội'. Lilina
+    tỉnh dậy ngoài di tích, gần như không nhớ gì.
+Map003.json:ev2p0:
+  effect: ghê, rồi bất ngờ khi nhận thánh vật
+  mood: sa đọa, nặng nề
+  summary: Đến kỳ 7 ngày, Lilina quay lại gọi Xà nữ là chủ nhân và bị dùng làm 'ổ ươm' slime. Cô tỉnh
+    dậy mất trí nhớ, trên tay cầm Kết tinh Thủy thần.
+Map004.json:ev5p0:
+  effect: sốc, tạo động cơ cho cả game
+  mood: hài lúc đầu rồi kinh hoàng
+  summary: Lilina tìm thấy Vương miện Nguyền rủa, định đem bán chợ đen, nhưng tay tự ép cô đội lên. Bị
+    kích dục rồi zombie cưỡng hiếp, cha Hiller tới cứu.
+Map006.json:ev10p0:
+  effect: rõ ràng
+  mood: hệ thống
+  summary: 'Ngăn kéo cất/lấy đồ: chìa khóa đai trinh tiết, chìa khóa xiềng cổ ma cương, chìa khóa dụng
+    cụ trói, ma đạo thủy tinh.'
+Map006.json:ev15p0:
+  effect: rõ ràng
+  mood: hệ thống
+  summary: Ngăn kéo gửi/rút tiền, soi gương.
+Map006.json:ev2p0:
+  effect: tò mò, cười vì Lilina bị chạm tự ái
+  mood: bí ẩn, hài
+  summary: Đi ngủ ở nhà thì người bí ẩn hiện ra, làm cô bất động. Hắn chê cô 'chưa đủ đẹp', tặng Bình
+    tinh dịch (cấm dùng tinh dịch người kẻo hóa succubus) hoặc lễ phục 'đính ước', hứa sẽ cưới cô. Succubus
+    cho biết bình là bảo vật yêu thích của Nữ hoàng Succubus; Lilina tự ái vì bị chê xấu.
+Map006.json:ev4p0:
+  effect: cười, ấm áp
+  mood: ngọt ngào, hài lãng mạn
+  summary: 'Hẹn hò với \N[7]: anh chàng ngốc tưởng cô sốt, Lilina giận dỗi kiểu tsundere rồi chủ động
+    mời. Hai người âu yếm ngọt ngào, nói yêu nhau, anh tế nhị ra về.'
+Map006.json:ev6p0:
+  effect: nghẹn, ám ảnh
+  mood: buồn, méo mó
+  summary: Vài tháng sau, Succubus đã chiếm thân xác Lilina, còn Lilina ở thân xác cũ làm nô lệ cho nhiều
+    chủ; Succubus bất ngờ thấy áy náy. Đây là Normal End tuyến Di tích.
+Map007.json:ev14p0:
+  effect: tò mò, sốc; nắm luật game
+  mood: tiết lộ, trêu ngươi
+  summary: 'Succubus hiện hình trong giáo đường, tự giới thiệu (Cecilia/\N[4]): linh hồn bị rèn thành
+    giáp. Cô ta kể sự thật xấu xa về \N[60], giải thích dâm năng, ''trò chơi'' giữ trinh, rồi dạy kỹ năng
+    Tự an ủi. Simelia tìm thấy Lilina và cho ăn pizza táo.'
+Map007.json:ev1p0:
+  effect: đặt mục tiêu chính
+  mood: ấm áp, nghiêm túc
+  summary: Lilina tỉnh dậy ở giáo đường. Cha Hiller giải thích lời nguyền của Dâm Ma Vương Eros, nhắc
+    tới cuốn 'Chiếc nhẫn Dâm ma' và cô gái Kyle, đưa chìa khóa giáo đường và cho biết Simelia đã thành
+    Nữ tu Luyện đeo mặt nạ.
+Map007.json:ev6p0:
+  effect: rõ ràng
+  mood: hệ thống
+  summary: Đã có nhà riêng nên nên về nghỉ; nếu chưa xong nhiệm vụ hội thì không được nghỉ.
+Map007.json:ev8p1:
+  effect: ấm áp
+  mood: thân thương
+  summary: 'Gặp lại Simelia: chị trách yêu, Lilina làm mặt quỷ, chị đi làm pizza táo.'
+Map007.json:ev9p0:
+  effect: cười
+  mood: ấm áp rồi kỳ quặc hài
+  summary: Lilina tỉnh sau 3 ngày, được cứu khỏi hang ký sinh trùng; Simelia mắng yêu. Ở nhánh Ma trùng
+    thì Trùng vương nói thay cả suy nghĩ của cô, gây hài.
+Map008.json:ev7p0:
+  effect: định hướng; ngờ vực ngầm
+  mood: nghiêm túc, tin cậy
+  summary: Cha Hiller lần lượt chỉ vị trí sáu thánh vật, lỡ nói '7 thánh vật' rồi chữa; Lilina tin ông
+    như cha. Cuối cùng là lời gọi lên đường tới tế đàn Di tích Đế quốc.
+Map008.json:ev7p3:
+  effect: sốc, tiết lộ lớn
+  mood: sa đọa, chấn động
+  summary: Lilina trúng dâm độc; Hiller bị mê hoặc rồi quan hệ với cô giữa giáo đường trước mặt tín đồ.
+    Ông tự nhận đã hóa 'ngọn gió tự do' và tiết lộ mình là cha ruột; Lilina buông bỏ hoàn toàn.
+Map008.json:ev8p0:
+  effect: ngượng
+  mood: dịu dàng mập mờ
+  summary: Simelia mời ăn pizza; nếu Lilina bứt rứt thì đề nghị 'tu hành của Nữ tu Luyện' để giải dục.
+Map009.json:ev8p0:
+  effect: căng
+  mood: gấp gáp
+  summary: 'Lilina báo tin cho Resk: \N[12] yêu cầu tới điểm tập kết ở bãi biển phía đông vì cả nhóm bị
+    truy nã, đưa nhẫn của \N[12] làm tin.'
+Map010.json:ev22p0:
+  effect: rõ ràng
+  mood: hệ thống/nhục
+  summary: Thủy thủ chở đi cảng Vera hoặc thành Torres (500G). Lilina với thân phận nô lệ ('chó trung
+    thành của thành chủ') trình giấy thông hành để tới Torres.
+Map010.json:ev24p0:
+  effect: cay đắng
+  mood: bẽ bàng
+  summary: 'Gặp Shirley ở cảng: cô ta chính là người đã gửi Lilina tới Torres, nay là cấp trên; dặn cô
+    bỏ lối xưng hô nô lệ, che vòng cổ, rồi dẫn đi gặp chủ nhân \N[21].'
+Map010.json:ev30p0:
+  effect: nhẹ nhàng
+  mood: đời thường
+  summary: Ông Dale nhờ dạy kèm phép hệ phong cho con; Lilina nhận là cựu đặc đẳng sinh. Nếu không còn
+    dùng được phép thì cô có độc thoại riêng.
+Map010.json:ev30p1:
+  effect: nhẹ
+  mood: đời thường
+  summary: Lilina báo không dùng phép được nữa nhưng khen Seth có thiên phú; Dale vẫn mời vào.
+Map010.json:ev30p2:
+  effect: ngượng, ẩn ý
+  mood: ngượng
+  summary: Dale xin lỗi chuyện trước và đề nghị tiếp tục; Lilina đồng ý nhưng nhấn mạnh 'tôi không phải
+    kỹ nữ'.
+Map010.json:ev30p3:
+  effect: ngượng
+  mood: ẩn ý
+  summary: Dale đã chờ 'cô giáo'; có lựa chọn bỏ qua H lặp.
+Map011.json:ev3p0:
+  effect: hài cay đắng
+  mood: buôn bán
+  summary: Nữ nhân viên tiệm vũ khí phá khóa đai trinh tiết/dụng cụ trói (1.000G) hoặc đồ ma cương (50.000G).
+    Với vòng cổ không lỗ khóa thì chịu, đành trả lại tiền.
+Map012.json:ev11p1:
+  effect: bực mà buồn cười
+  mood: thực dụng
+  summary: 'Thuê Meili: lần đầu cô đòi Lilina ngủ một đêm thay tiền thuê. Sau vụ ''đai trinh tiết'' thì
+    Meili hết tin, phải kiểm tra người cô trước. Lilina nói ''tự dưng thấy phải làm một mình''.'
+Map012.json:ev13p0:
+  effect: cười vì giá cắt cổ
+  mood: buôn bán
+  summary: Melissa đòi 1.000.000G để kể về thần khí (nguồn thần lực của ma trùng Abaddon), tặng kèm thuốc
+    kháng thần lực; Succubus khuyên mua, Lilina hậm hực.
+Map012.json:ev13p1:
+  effect: ngờ vực
+  mood: mờ ám
+  summary: Melissa nhận giúp nhiệm vụ nếu Lilina làm 'chuột bạch' thí nghiệm, và giới thiệu Lucia, người
+    hầu háo hức của cô.
+Map012.json:ev16p0:
+  effect: cười
+  mood: căng mà hài
+  summary: Lilina bị thôi miên, dục vọng mất kiểm soát. \N[7] và Loki bàn việc đi cầu xin tội phạm \N[8];
+    Loki bị cô kéo khóa quần nên lập tức đồng ý.
+Map012.json:ev20p0:
+  effect: tò mò; kết tuyến
+  mood: phần kết, ngưỡng mộ có ẩn ý
+  summary: 'Nửa năm sau ở hội Anvil: hai mạo hiểm giả bàn về ''Thiên sứ săn'' Lilina, ma chiến sĩ được
+    cả hoàng đế tiếp kiến, đồng thời là ''phần thưởng cao nhất''.'
+Map012.json:ev23p0:
+  effect: cười
+  mood: hài, dâm nhẹ
+  summary: Bác sĩ của hội chữa ký sinh trùng cho Lilina; quá trình chữa sướng tới mức cô sợ 'nghiện'.
+    Ông ta cũng bán thuốc thông dụng.
+Map012.json:ev24p0:
+  effect: thân thiện, buồn cười nhẹ
+  mood: đời thường
+  summary: Tân binh Cospiro than khó hòa nhập, nhờ Lilina gom 15 phần dịch slime xanh. Cô có thể giúp
+    hoặc khuyên cậu tự rèn luyện.
+Map012.json:ev24p1:
+  effect: cười vì cô dễ mềm lòng
+  mood: nhẹ nhàng
+  summary: Lilina giao dịch slime xanh; Cospiro nhờ tiếp loại hồng. Cô càm ràm rồi vẫn giúp.
+Map012.json:ev24p2:
+  effect: tò mò về lý do của Cospiro
+  mood: ấm áp, có chút bí ẩn
+  summary: Cospiro đã hòa nhập được, xin lần cuối gom slime vàng để lên trung cấp vì một 'lý do không
+    thể nói'. Cậu gọi cô là thiên sứ khiến cô phổng mũi.
+Map012.json:ev24p3:
+  effect: hài lòng, cài chi tiết báo ơn
+  mood: vui
+  summary: Cospiro nhận slime vàng, hứa sau này sẽ báo đáp 'thiên sứ đại nhân'.
+Map012.json:ev29p0:
+  effect: rợn, mỉa mai
+  mood: giả tạo, đen tối ngầm
+  summary: Lilina trở về hội, kể câu chuyện bịa về \N[19]. Owen và Islabur tin ngay, an ủi cô. Cô được
+    biết mình đã mất khả năng dùng phép, còn trong lòng thì tính chuyện 'chọn nô lệ cho chủ nhân'.
+Map012.json:ev29p2:
+  effect: cười mỉa, thấy được vị thế nô lệ phủ vàng
+  mood: châm biếm, hài đen
+  summary: Owen báo tin hội được đổi tên thành Hội Mạo hiểm Đế quốc, Lilina thành Thiên sứ săn của Đế
+    quốc, có thể được dựng tượng, và được thưởng 1.000.000G. Owen thử lòng 'trung thành' bằng cách đòi
+    giữ tiền, rồi trả lại cho cô.
+Map012.json:ev32p0:
+  effect: khó chịu ngầm, thấy cô đã sa ngã
+  mood: ngọt ngào bề ngoài, đen tối bên trong
+  summary: Lilina bắt chuyện với mục sư mới Nell đang lo tiền nhà, dụ cô ấy đi làm 'hầu gái lương cao'
+    ở dinh thự cảng và tiết lộ mình cũng làm thêm ở đó.
+Map012.json:ev33p0:
+  effect: khó chịu ngầm, cười chua
+  mood: dụ dỗ
+  summary: 'Tương tự với tinh linh Lydis: Lilina dụ cô ấy làm hầu gái, lấy cớ ''hầu gái tinh linh rất
+    được ưa chuộng''.'
+Map012.json:ev35p0:
+  effect: nghi ngờ
+  mood: căng ngầm
+  summary: Lilina báo cáo đã điều tra xong tổ chức kia và 'không thấy ma túy', tức là báo cáo dối.
+Map012.json:ev4p0:
+  effect: căng, ngượng
+  mood: H, sỉ nhục
+  summary: 'Gặp hội trưởng Owen để xin nhập hội: trả 5000G hoặc trả bằng thân thể. Nhánh trả bằng thân
+    thể là cảnh H trên bàn; cô vẫn còn trinh nên đề nghị dùng cửa sau.'
+Map012.json:ev4p1:
+  effect: tò mò về Aisha
+  mood: bí ẩn rồi H
+  summary: Owen nhận ra dây chuyền của \N[23] (Aisha); Lilina nói dối rằng cô ấy chết ở hang ký sinh trùng.
+    Owen hiểu là 'cô ấy đã từ bỏ thân phận con người' và trao tiền thưởng như đã hứa. Sau đó hắn đề nghị
+    dùng thân thể để lên cấp hội.
+Map012.json:ev4p2:
+  effect: nghẹn, căng
+  mood: cay đắng, chính trị
+  summary: 'Owen giao nhiệm vụ cấp S: cứu Tam công chúa ở Torres. Hai bên đối thoại cay đắng về hôn nhân
+    giả, thuốc giải, danh hiệu Thiên sứ săn. Cảnh còn có các biến thể H lên cấp (cần độ sa đọa >100),
+    và nhánh cô chọn thà ngủ với lính đánh thuê.'
+Map012.json:ev4p4:
+  effect: rợn, xót
+  mood: bệnh hoạn, ngọt đắng
+  summary: Ở nhánh sa đọa, Lilina vẫn không dứt được Owen, thừa nhận chỉ hắn mới khiến cô mê mẩn. Hắn
+    thưởng thuốc giải đặc hiệu, cô tự cho rằng 'anh ấy vẫn yêu mình'.
+Map012.json:ev5p0:
+  effect: hướng dẫn
+  mood: thường
+  summary: Quầy nhiệm vụ sơ cấp chỉ đường Lilina tới văn phòng hội trưởng ở phía đông để nhập hội.
+Map012.json:ev6p1:
+  effect: tò mò, mở vụ án
+  mood: điều tra, căng nhẹ
+  summary: Chỉ huy Loki nhờ Lilina làm mồi bắt kẻ hiếp dâm hàng loạt dùng thôi miên, trả công 5000G, và
+    giao phó quan Berika bảo vệ cô.
+Map012.json:ev6p3:
+  effect: ngượng, nghi
+  mood: ngờ vực
+  summary: Nghi phạm đã bị bắt chỉ sau một đêm. Lilina xin giam lại vài ngày để điều tra thêm; Loki đồng
+    ý giữ nguyên ám thị trên người cô và cứ nhìn chằm chằm vào miệng cô.
+Map012.json:ev6p4:
+  effect: cười chua
+  mood: kết vụ án, mỉa mai
+  summary: Loki áp giải \N[8] về Đế quốc, kết thúc nhiệm kỳ, để lại cho Lilina căn nhà nhỏ (Chìa khóa
+    nhà nhỏ) đổi lấy 5000G, và nói sẽ 'nhớ cái miệng' của cô.
+Map012.json:ev7p0:
+  effect: căng, xót
+  mood: giằng xé
+  summary: Lựa chọn tố giác tổ chức buôn ma túy. Nếu không tố, cô lo không có thuốc thì sống sao nổi.
+    Nếu tố, cô giao ma túy cho quầy và dặn đưa trị an quan, đừng đưa người ủy thác.
+Map012.json:ev8p0:
+  effect: tò mò
+  mood: bí ẩn
+  summary: 'Quầy nhiệm vụ đặc biệt báo hội trưởng chỉ định Lilina làm nhiệm vụ cấp S bí ẩn: ngủ một đêm
+    ở quán rượu, người ủy thác sẽ tới.'
+Map013.json:ev12p0:
+  effect: bất an
+  mood: kiểm soát ngầm
+  summary: Berika chặn Lilina ở quán, hỏi có tìm Long Ngâm không, rồi giục cô về ngủ.
+Map013.json:ev13p0:
+  effect: cười, ngượng
+  mood: hài lãng mạn, say xỉn
+  summary: 'Chuỗi sự kiện với James: hai người uống rượu, Lilina say rồi tự an ủi trước mặt anh (Succubus
+    xúi). Ở lần sau, anh đòi xem ''sự trung thành'' (đai trinh tiết) rồi đưa cô đi phi thuyền tới ''lâu
+    đài tình yêu''. Nếu cô đòi tháo đai, anh nổi điên ''đàn bà đều dối trá''. Cũng có nhánh lữ khách mời
+    rượu tiến vua 100.000G.'
+Map013.json:ev15p0:
+  effect: nghẹn
+  mood: buồn
+  summary: 'Nhân viên quán gọi ''phu nhân hội trưởng'', trao thư của Long Ngâm: anh đã rời thành phố và
+    chúc cô hạnh phúc. Lilina bật khóc.'
+Map013.json:ev2p0:
+  effect: cười, mở tuyến Thánh thú
+  mood: hài
+  summary: Tay cờ bạc chào bán vé vào Trang trại Kỳ lân giá 5000G (chỉ phụ nữ được kỳ lân công nhận mới
+    cưỡi được). Lilina nghĩ đó chỉ là đua ngựa nhưng tò mò.
+Map013.json:ev3p0:
+  effect: ngượng, bất an
+  mood: ngượng rồi căng
+  summary: Nhân viên phát hiện trong áo choàng của Lilina không mặc gì. Jude dẫn cô ra cảng, bắt uống
+    thuốc ngủ để chuyển tới Torres.
+Map013.json:ev6p0:
+  effect: tò mò
+  mood: bí ẩn
+  summary: Ở quán 'Nhà Nhân Ngư', Lilina được \N[70] đặt sẵn phòng và rượu Lafite. Một người bí ẩn nhận
+    ra 'Thiên sứ săn' và dẫn cô đi. Cảnh cũng chứa phần thuê phòng thường.
+Map013.json:ev7p0:
+  effect: bất an
+  mood: kiểm soát ngầm
+  summary: 'Giống ev12p0: Berika giục Lilina về nghỉ, cô mệt lả đi ngủ.'
+Map014.json:ev11p0:
+  effect: căng, phẫn uất
+  mood: áp bức, chính trị
+  summary: 'Người ủy thác Jude giải thích nhiệm vụ Torres: cứu Công chúa Trăng Bạc \N[18], cô phải trở
+    thành nô lệ tình dục để được thành chủ \N[14] chọn. Hắn đeo cho cô vòng chém đầu, lật mặt bắt cô phục
+    vụ, dặn kế tiếp cận \N[15] ở đấu trường, nhận thuốc ở kỹ viện, rồi đưa cô ra cảng chỉ với một chiếc
+    áo choàng.'
+Map014.json:ev13p0:
+  effect: cười
+  mood: hài, đáng thương
+  summary: 'Cảnh H với James: anh xuất sớm, không cương lại được. Anh tự xưng là con trai độc nhất nhà
+    William và bắt cô mặc đai trinh tiết thề trung thành; cô có thể chấp nhận hoặc từ chối. Tỉnh rượu,
+    cô không nhớ gì.'
+Map014.json:ev6p0:
+  effect: căng, ghê tởm
+  mood: đen tối, phản bội
+  summary: Loki giới thiệu Lilina với đại sư Long Ngâm để thôi miên phòng thân. Nhân lúc cô mất ý thức,
+    hai người cài ám thị 'Ma nữ hút tinh' (kích hoạt bằng 'Có việc gì muốn làm không?'), 'ngủ và quên',
+    và 'Cởi đồ thì tỉnh', rồi lạm dụng cô suốt hơn một giờ. Cô suýt tỉnh vì tinh thần lực mạnh.
+Map014.json:ev6p2:
+  effect: tò mò, xót, ấm
+  mood: điều tra, ăn năn, ấm dần
+  summary: Lilina hỏi Long Ngâm cách tiết lộ bí mật khi bị thôi miên khóa miệng. Anh thử thôi miên, cô
+    chỉ kịp hé 'Bối… Bối Li…' rồi bị kích dục. Anh cho cô lệnh ân xá vào trại giam, nhờ cô kiếm nguyên
+    liệu, bôi thuốc ánh bạc để lần dấu cô. Nhánh Loki theo dõi cô và lại lạm dụng. Cuối cảnh cô tự nguyện
+    ngủ với anh (lần đầu của anh), dùng cửa sau vì đang mặc đai trinh tiết.
+Map014.json:ev6p3:
+  effect: cười, rồi nghẹn ngào
+  mood: lãng mạn, ấm áp, cảm động
+  summary: Long Ngâm gỡ ám thị 'Ma nữ hút tinh', giữ lại 'Cởi đồ thì tỉnh', đấu tranh và gạt bỏ ý định
+    cài ám thị 'yêu mình'. Anh tỏ tình; nếu cô đồng ý, anh tặng thẻ sinh viên Học viện Ma pháp Đế quốc,
+    cô gọi 'anh yêu'. Anh biết về vương miện nguyền rủa và hứa chờ cô. Cũng có nhánh cô từ chối.
+Map014.json:ev6p7:
+  effect: thấy cô bị thuốc chi phối và bẽ bàng ở câu cuối
+  mood: trụy lạc, kết đắng
+  summary: Lilina, phu nhân hội trưởng kiêm Thiên sứ săn, lén đổi thân lấy thuốc với một gã lạ trong phòng
+    trọ. Cuối cảnh gã để tiền lại, cô cay đắng tự nhận mình chẳng khác gì kỹ nữ.
+Map016.json:ev5p0:
+  effect: căng, nhục; tò mò về món thần khí
+  mood: áp bức, bạo dâm, cuối cảnh ỡm ờ
+  summary: Lilina trả công cho Meili bằng một đêm làm nô lệ SM, có đầy tớ Roger bị sai khiến. Đai trinh
+    tiết ma cương không mở được nên có nhánh Roger cho cô chạy. Sáng ra Meili trả tự do và cho mượn 'thần
+    khí điều giáo nữ tu'.
+Map017.json:ev11p3:
+  effect: buồn cười vì lời thuyết minh vô duyên, rồi bất ngờ ở cú lật mặt
+  mood: hài giả khoa học chuyển sang sa đọa
+  summary: 'Một nhiệm vụ cấp A mà Lilina không nhớ đã nhận, thù lao 6 chữ số: hỗ trợ ''học giả'' nghiên
+    cứu slime hồng. Học giả nghiêm túc thuyết minh trong lúc cô bị slime bắt, rồi lộ mặt là Nữ hoàng Slime.'
+Map017.json:ev30p0:
+  effect: căng nhẹ, cười vì Cospiro lười
+  mood: khẩn trương, hơi hài
+  summary: Lilina cầm nhẫn của Owen báo cho Parker biết cả hội bị truy nã, phải tới điểm tập kết bãi biển
+    phía đông Anvil. Parker phàn nàn Cospiro giả đau bụng trốn việc.
+Map020.json:ev35p0:
+  effect: đẩy mạch truyện
+  mood: khẩn trương
+  summary: Lilina truyền cùng mệnh lệnh cho Islebur. Islebur đòi xem tín vật rồi lên đường.
+Map023.json:ev6p0:
+  effect: ngượng, thấy cái khôn lỏi của cô bán hoa
+  mood: dâm đãng, ranh mãnh
+  summary: Lilina nhìn trộm cô bán hoa phục vụ đám khách theo 'mật mã hoa'. Nếu chọn gõ cửa, cô nhập cuộc,
+    tự chào 'hoa cúc', rồi được chia 800G.
+Map024.json:ev11p2:
+  effect: rợn, mỉa mai
+  mood: sa đọa méo mó khoác vỏ thánh thiện
+  summary: Ở khu phố cũ, Lilina, 'ma nữ lửa', không có tiền cho người ăn xin nên dùng thân thể 'sưởi ấm'
+    dân nghèo, được tung hô là thánh nữ. Long Ngâm còn cổ vũ và gọi thêm người.
+Map024.json:ev14p0:
+  effect: sốc vì lật mặt
+  mood: tự mãn chuyển sang lạnh gáy
+  summary: Lilina hạ được 'tên hiếp dâm' thì Berika tới và thôi miên cô qua ánh mắt. Berika lộ mặt là
+    kẻ chủ mưu duy nhất, gã kia chỉ là kẻ thế tội.
+Map024.json:ev15p0:
+  effect: chuyển cảnh
+  mood: thủ tục
+  summary: Lilina trình lệnh đặc xá để vào trại tạm giam.
+Map024.json:ev17p0:
+  effect: căng, mở mang luật chơi ám thị
+  mood: nghiêm trọng, bàn mưu
+  summary: 'Thoát khỏi Berika, Lilina được Succubus giải thích: Berika (Ma Nhãn) cũng sở hữu trang bị
+    Dâm Ma Vương, có năng lực ''cải biến'' sinh vật qua dấu ấn linh hồn. Succubus chỉ cách lách các ám
+    thị ''Không được nói dối'' và ''Giữ bí mật''.'
+Map024.json:ev17p2:
+  effect: thấy Succubus có lòng
+  mood: buông thả rồi lặng
+  summary: Lilina rơi vào trạng thái dâm loạn, Succubus hút bớt dục vọng để cứu cô. Tỉnh dậy, cô tưởng
+    đó chỉ là một giấc mơ lạ, còn Succubus lặng lẽ bỏ đi.
+Map024.json:ev25p0:
+  effect: tò mò
+  mood: bí mật
+  summary: Lilina chìa cho người ăn xin một vật gì đó, ông ta bảo cất đi và dẫn cô theo.
+Map024.json:ev28p0:
+  effect: không đáng kể
+  mood: H
+  summary: Cảnh chỉ có tiếng rên của Lilina, mảnh ngắn của một cảnh H.
+Map024.json:ev2p1:
+  effect: gợi mở
+  mood: tò mò
+  summary: Cửa bị khóa, trong nhà có tiếng lạ. Phải có dâm năng trên 1000 mới được chọn vào xem.
+Map026.json:ev1p0:
+  effect: thấy cột mốc tiến hóa, quyết tâm của nhân vật
+  mood: nghi lễ dâm ma, kháng cự
+  summary: Trong không gian dị thứ nguyên, Succubus làm 'nghi thức gia miện' cho Lilina. Giáp tiến hóa
+    thành vòng cổ, cô mở khóa năng lực (cần tối thiểu 5 dâm năng), nhưng vẫn thề không thành Nữ hoàng
+    Dâm ma.
+Map026.json:ev1p1:
+  effect: tiện dụng
+  mood: hệ thống
+  summary: 'Menu của Succubus: quản lý dâm năng (dâng hoặc thu hồi), không gian ký ức, xem CG, bẻ cong
+    thời không, đưa về.'
+Map026.json:ev1p3:
+  effect: nghẹn
+  mood: tuyệt vọng, khẩn cấp
+  summary: Linh hồn Lilina tổn hại nặng. Succubus nói thời gian ở đây chậm hơn Vestland 20 lần và cho
+    cô ôn lại ký ức vui để vực dậy.
+Map026.json:ev1p4:
+  effect: căng, nghẹn
+  mood: bước ngoặt, giằng xé
+  summary: 'Succubus vạch con đường: dùng 7 thánh vật, đánh bại Hiller và Simelia để cướp sức mạnh của
+    Dâm Ma Vương. Lilina chọn chiến đấu (cần độ nguyền ≥1000) hoặc từ chối. Nếu từ chối, Succubus giận
+    vì cô không chịu chọn mình, nhưng cuối cùng nhượng bộ.'
+Map026.json:ev3p0:
+  effect: tò mò, cười vì Succubus chống chế
+  mood: điều tra, lật bài
+  summary: 'Tuyến Học viện: Berika cướp dâm năng của Succubus, sửa ký ức Lilina và bẻ cong nhận thức cả
+    học viện, nhằm phá phong ấn Dâm Ma Vương từ bên ngoài. Succubus lỡ lộ mình không muốn Dâm Ma Vương
+    sống lại. Nghi phạm hút dâm năng là \N[25].'
+Map026.json:ev4p0:
+  effect: ngượng
+  mood: H, tinh nghịch
+  summary: Succubus 'chữa trị' trùng ký sinh cho Lilina bằng cách riêng của mình.
+Map026.json:ev4p2:
+  effect: rùng mình, tò mò phần sau
+  mood: kỳ dị, kết mở
+  summary: 'True End tuyến Ma trùng: Succubus nhờ con ''trùng vương'' của Lilina đồng hóa ấu trùng Vua
+    trùng Abaddon. Cô ta có được thần lực và quyền điều khiển thân thể Lilina khi cô bất tỉnh. Cảnh kết
+    bằng lời quảng cáo Cursed Armor II – Hoàng thành Đế quốc.'
+Map027.json:ev9p0:
+  effect: cười
+  mood: đùa, phá tường thứ tư
+  summary: 'Easter egg Tết 2017: Tamamo-no-Mae (tác giả nhập vai) chúc Tết người chơi, tặng tấm gương.
+    Lilina hoảng vì bị biến thành nhân vật lạ có đuôi.'
+Map030.json:ev3p0:
+  effect: cười vì lý lẽ tự tiện
+  mood: hài
+  summary: Lilina xin Thần thụ nghìn năm cho lấy Quả Vàng. Không thấy trả lời, cô coi như được 'ngầm đồng
+    ý' và lấy luôn.
+Map030.json:ev3p1:
+  effect: vừa cười vì tài buôn của Succubus, vừa rợn
+  mood: thương lượng ma quỷ
+  summary: 'Thụ tinh bắt Lilina. Succubus mặc cả một khế ước linh hồn: cứ 7 ngày cô quay lại làm nô lệ
+    một ngày; ngực được cải tạo bằng sức mạnh tự nhiên; được Quả Vàng nếu Thụ tinh hài lòng. Lilina học
+    kỹ năng Vắt sữa rồi quên sạch chuyện đã xảy ra.'
+Map030.json:ev7p0:
+  effect: bứt rứt, hoang mang
+  mood: lặp lại, mất trí nhớ
+  summary: 'Lần quay lại Thần thụ theo khế ước: có lựa chọn phản kháng. Lilina thoáng tỉnh táo rồi lại
+    sa vào khoái cảm, mất trí nhớ, tỉnh dậy thấy Quả Vàng trên tay.'
+Map031.json:ev14p0:
+  effect: ngượng
+  mood: trơ trẽn
+  summary: Lilina vào khu tắm nam và chào mời 'lỗ miễn phí'.
+Map031.json:ev19p0:
+  effect: ngượng
+  mood: dâm đãng
+  summary: Hai gã ở bồn tắm chơi với Lilina. Cô dặn họ giữ bí mật, rồi chê nhà tắm vắng khách.
+Map031.json:ev19p1:
+  effect: khó chịu, cười chua
+  mood: bóc lột, trớ trêu
+  summary: Ông chủ nhà tắm bán Lilina cho ba khách rồi tự mình lợi dụng lúc cô bất tỉnh. Người chơi chọn
+    xin tiếp hoặc giả vờ ngất; nhánh giả ngất làm lộ ông ta sợ vợ. Cô nhận 2000G.
+Map031.json:ev25p2:
+  effect: ngượng
+  mood: trớ trêu
+  summary: Đang dọn nhà tắm, Lilina trượt ngã bất tỉnh, hai khách lấy cớ 'cấp cứu' để giở trò. Ông chủ
+    mắng cô làm lỡ việc.
+Map031.json:ev4p0:
+  effect: gợi mở
+  mood: hệ thống
+  summary: Bà chủ hoặc ông chủ nhắc 'phu nhân' hoặc 'tiểu thư' rằng đây là khu tắm nam. Muốn kích hoạt
+    cần thỏa điều kiện về xấu hổ, dục vọng, không còn trinh.
+Map031.json:ev5p0:
+  effect: không đáng kể
+  mood: thường
+  summary: Nhắc Lilina ('phu nhân' hoặc 'tiểu thư') chưa trả tiền tắm.
+Map031.json:ev6p0:
+  effect: bất bình; nhánh sa đọa thì khoái trá vì được lật kèo
+  mood: ức hiếp, giả nhân giả nghĩa; nhánh sa đọa thì lém lỉnh
+  summary: 'Lilina làm thêm ở nhà tắm. Ông chủ lấy chuyện cô ở nhà tắm nam để tống tiền, ép cô bán thân
+    ban đêm. Nhánh sa đọa: cô dọa mách vợ ông ta, mặc cả chia 5 phần. Có thêm hội thoại bán vé tắm.'
+Map031.json:ev6p1:
+  effect: thông tin
+  mood: bình thường
+  summary: Bà chủ nhà tắm bán vé tắm 50G.
+Map031.json:ev6p2:
+  effect: ngột ngạt
+  mood: nặng nề
+  summary: Ban đêm ông chủ dẫn Lilina đi gặp 'mấy gã sung sức' đã chọn sẵn.
+Map031.json:ev8p0:
+  effect: cười vì lặp gag và màn xưng danh lố bịch
+  mood: hài nhảm, parody tokusatsu
+  summary: Hentai英雄ZERO trùm quần lót Lilina lên đầu, xưng danh anh hùng chính nghĩa rồi 'chế tài' cô.
+    Lặp lại nhiều lần, có nhánh Lilina sa đọa tự đòi.
+Map032.json:ev1p0:
+  effect: cảm giác hoàn thành
+  mood: trang trọng, cảm ơn
+  summary: 'Màn kết: wolfzq cảm ơn người chơi, credits đội ngũ, hỏi có tiếp tục chơi nhánh phụ không.'
+Map032.json:ev1p2:
+  effect: rõ ràng, dễ hiểu
+  mood: menu hệ thống
+  summary: 'Phần thưởng chu kỳ mới: các thần khí, nâng giới hạn chỉ số sau độ khó Khó, đặt lại chỉ số
+    bằng dâm năng đã dâng.'
+Map035.json:ev13p0:
+  effect: hiểu cơ chế
+  mood: khắc nghiệt
+  summary: 'Taylor giải thích luật mỏ: đào 10 quặng sắt lấy công, quặng bạc/vàng thì được thưởng thêm
+    và xin giảm án.'
+Map035.json:ev18p0:
+  effect: chạnh lòng
+  mood: u ám, thực tế
+  summary: Một tù nhân khuyên Lilina dùng 'vốn liếng' thân xác để thoát ra, kể chuyện người anh em chết
+    vùi trong vụ sập mỏ.
+Map035.json:ev21p0:
+  effect: bực bội
+  mood: áp bức
+  summary: Trùm phòng giam nhắc Lilina mỗi ngày phải đến phục vụ và nộp phiếu lao động.
+Map035.json:ev21p1:
+  effect: ngột ngạt
+  mood: nhục nhã
+  summary: Lần đầu Lilina phục vụ trùm phòng giam và tay chân, rồi bị biến thành 'đàn em' phải nộp phiếu
+    mỗi ngày.
+Map035.json:ev21p2:
+  effect: nặng nề
+  mood: sa đọa
+  summary: 'Cô bỏ buổi nên bị phạt: bị ép uống thuốc kích dục rồi phục vụ cả đám. Cuối cùng bị trói dây
+    đỏ, vứt ra cho lính canh thấy.'
+Map035.json:ev22p0:
+  effect: tức giận
+  mood: bất công, có chút hài khi bọn chúng sợ phép
+  summary: Quặng quý bị cướp, có 3 lựa chọn. Kêu lính canh thì bị vu khống, đưa vào phòng thẩm vấn. Dùng
+    phép thì đám kia co vòi nhưng cô bị phạt. Nhịn thì thành đàn em.
+Map035.json:ev23p0:
+  effect: căng
+  mood: đe dọa
+  summary: Trùm phòng giam bắt gặp Lilina tự an ủi, dọa tố cô định vượt ngục để ép quan hệ. Cô viện cớ
+    quy định của giám ngục, chỉ chịu phục vụ bằng miệng.
+Map036.json:ev1p0:
+  effect: thương
+  mood: khổ sở
+  summary: Lilina bị nhốt, xin nước và đồ ăn nhưng bị từ chối.
+Map036.json:ev5p0:
+  effect: ghê tởm, nặng nề
+  mood: tàn bạo, mỉa mai
+  summary: Bộ ba lính canh ở phòng thẩm vấn ép Lilina 'ăn cơm' bằng tinh dịch, tiêm thuốc kích dục cho
+    gia súc. Án tù của cô bị kéo dài.
+Map036.json:ev5p1:
+  effect: bất lực
+  mood: lạnh lùng
+  summary: Lilina bị khám người, tịch thu đồ cấm.
+Map036.json:ev5p3:
+  effect: nặng nề
+  mood: tra tấn
+  summary: Bị tra hỏi bằng cưỡng hiếp để buộc nhận tội trộm. Nhận hoặc không nhận đều chịu tiếp.
+Map036.json:ev6p0:
+  effect: thông tin
+  mood: hệ thống
+  summary: Hết hình phạt, cô bị thông báo án tăng thêm.
+Map037.json:ev1p0:
+  effect: ngộp thở
+  mood: ngột ngạt, tuyệt vọng
+  summary: 'Lần đầu Lilina thấy nhà ngục: đồng ruộng điền viên bị tường thành cao như pháo đài vây kín.'
+Map037.json:ev53p0:
+  effect: ghê, nhục
+  mood: nhục nhã cực độ
+  summary: Không nộp đủ phiếu nên ban đêm Potter bắt Lilina làm 'gia súc' kéo bừa, tưới, bón ruộng.
+Map037.json:ev62p0:
+  effect: căng thẳng rồi nhẹ nhõm
+  mood: hồi hộp
+  summary: Lilina dùng túi khí vượt ngục qua sông, có lựa chọn đi vòng để tránh bờ biển.
+Map037.json:ev6p0:
+  effect: hướng dẫn
+  mood: khô khan
+  summary: 'Potter và Bill giao việc nông trại: hái 10 củ cải, rau, lúa mì, nho.'
+Map038.json:ev11p0:
+  effect: căng, khó chịu
+  mood: nhục nhã, áp bức
+  summary: 'Darren tiếp nhận Lilina, khám người trước mặt lính canh. Có các nhánh: bắt lại sau vượt ngục
+    (án gấp đôi), hoặc cô tự quay về vì ''không rời được nơi này''.'
+Map038.json:ev11p2:
+  effect: rùng mình
+  mood: sa đọa
+  summary: Darren phát hiện cô vi phạm 'khế ước'. Thú thật thì cô xin ở lại làm nô lệ, được phòng 'bồn
+    cầu thịt' riêng. Nói dối thì bị cộng 20 ngày.
+Map038.json:ev12p0:
+  effect: bực vì cáo già
+  mood: âm mưu
+  summary: Darren tăng giá vật tư gấp đôi để ép Lilina nhận điều giáo, đổi lại đồ ăn và giảm án.
+Map038.json:ev12p1:
+  effect: căng
+  mood: đe dọa
+  summary: Darren thấy dây đỏ đánh dấu bị gỡ, tra xem ai gỡ. Mỗi lựa chọn dẫn tới một kiểu phạt, rồi hắn
+    đánh dấu lại.
+Map038.json:ev13p0:
+  effect: cười ngượng, ghê
+  mood: hài bẩn
+  summary: Lính canh hỏi có phải Lilina bón rau không rồi hớn hở định ăn 'phần đôi'.
+Map038.json:ev17p0:
+  effect: theo dõi tiến trình
+  mood: lặp lại hệ thống
+  summary: 'Vòng nghỉ ngày đêm: nộp phiếu cho đàn em của trùm hoặc lính canh, phạt khi thiếu, sự kiện
+    mất chìa khóa, rồi đến hạn ra tù và lựa chọn ở lại hay đi.'
+Map038.json:ev20p0:
+  effect: dễ chịu, thương
+  mood: ấm áp
+  summary: Ông lão tù xin thuốc lá. Lilina xin được từ quan vật tư, giấu ông cách cô có được nó. Ông tự
+    giới thiệu là Robert.
+Map038.json:ev20p1:
+  effect: xúc động, rồi tò mò
+  mood: ấm áp chuyển sang căng thẳng
+  summary: 'Robert lắng nghe Lilina khóc kể nỗi oan, đùa câu ''đầu gối trúng tên'', tặng túi khí và chỉ
+    đường vượt ngục qua sông. Tuyến Ma trùng: nghe hỏi về ma trùng Abaddon thì ông nổi giận, nghĩ cô là
+    người của \N[9].'
+Map038.json:ev20p2:
+  effect: tiết lộ, tò mò
+  mood: thân mật, buồn
+  summary: Ban đêm Lilina lẻn vào, kể bí mật lời nguyền và 'chứng minh' bằng thân thể. Robert đặt điều
+    kiện giết \N[9], sau đổi thành cứu con gái ông \N[10]. Cuối cùng ông tiết lộ chỗ giấu ma thạch ở bãi
+    biển phía tây cảng Anvil.
+Map038.json:ev25p0:
+  effect: tiến trình
+  mood: hệ thống
+  summary: Biến thể vòng nghỉ ngày đêm (không có lựa chọn làm nô lệ cho Darren), cuối có đàn em báo 'đại
+    ca tìm mày'.
+Map040.json:ev10p0:
+  effect: sốc, hả hê vì thủ phạm bị lộ
+  mood: sa đọa rồi bất ngờ
+  summary: Berika điều giáo Lilina, bắt sủa 'gâu gâu' và đổi cách xưng hô thì bị Loki và Long Ngâm bắt
+    quả tang. Lộ ra Berika là phụ nữ có dương vật, chính là kẻ hiếp dâm thật, và bị bắt.
+Map040.json:ev3p0:
+  effect: căng, ghê sợ, tò mò về Ma Nhãn và Dâm Ma Vương
+  mood: đen tối, căng, tuyệt vọng
+  summary: Succubus đối thoại với Ma Nhãn và Berika nhưng không cứu được Lilina, chỉ gài được lời hứa
+    không đổi nhân cách. Berika lộ mặt là kẻ hiếp dâm thật, cưỡng bức Lilina, dùng Lạc ấn linh hồn, cài
+    các ám thị 'Nói thật đi', 'Giữ bí mật', 'Điều giáo ban đêm' rồi thả cô đi lĩnh thưởng.
+Map040.json:ev3p1:
+  effect: nghẹn, căm phẫn; cuối cảnh Lilina quyết tìm cách tố giác
+  mood: áp bức, nhục nhã
+  summary: 'Đêm thứ hai: Berika trút giận vì bị Loki giao việc. Lilina bị ''Nói thật đi'' ép thú nhận
+    khoái cảm. Berika thêm ám thị ''Kháng cự cưỡng hiếp'', vì chê cô ''dâm quá nên mất vui''.'
+Map040.json:ev3p2:
+  effect: ghê rợn, đau đớn
+  mood: bạo liệt, cực đoan
+  summary: 'Đêm tiếp: Berika cố tình cưỡng hiếp để kích hoạt ám thị. Lilina gào lên muốn giết Berika thì
+    vỡ ám thị, khoái cảm ập tới làm cô sụp đổ. Linh hồn cô được mô tả đang quỳ như chó.'
+Map040.json:ev3p3:
+  effect: nghẹn (giọt nước mắt), rồi hả hê khi Berika bị bắt
+  mood: tuyệt vọng rồi đảo chiều
+  summary: 'Berika phát hiện Lilina nhờ Loki hoãn áp giải, liền phạt bằng ''Không thể lên đỉnh'' và bỏ
+    mặc cô 5 tiếng. Lilina sủa gâu gâu, lạc ấn ăn sâu vào linh hồn, cô vừa ''hạnh phúc'' vừa rơi nước
+    mắt. Nhánh khác: Loki và Long Ngâm ập vào bắt Berika.'
+Map041.json:ev10p4:
+  effect: ngượng, tò mò
+  mood: lả lơi
+  summary: Ban đêm, Lilina gợi ý với thầy Giáo vụ, nhắc lại 'buổi học Phong hệ' trước đó; ông nhận ra
+    cô và dẫn đi.
+Map041.json:ev11p0:
+  effect: ấm áp, hơi lo
+  mood: ngọt ngào nhưng có gợn
+  summary: Hẹn hò lần đầu ở góc khuất. Lilina dò hỏi Long Ngâm về nội quy và 'học sinh đặc đẳng'; anh
+    không biết gì đặc biệt. Hai người âu yếm, anh thề sẽ bảo vệ tình yêu của cô bằng cả mạng sống.
+Map041.json:ev11p1:
+  effect: buồn cười vì anh ngây ngô, xót vì cô đang dắt anh theo
+  mood: hài pha ngượng
+  summary: Lilina ép Long Ngâm 'chửi' và 'dùng' mình. Anh lúng túng nói theo rồi xin lỗi vì 'nói quá lời'.
+    Cô thầm nghĩ 'phải từ từ'.
+Map041.json:ev11p2:
+  effect: cười, ngượng
+  mood: tinh nghịch
+  summary: 'Trò nhập vai ''người lạ'': Lilina giả không quen Long Ngâm, gãi ngứa, tự nhận ''ma nữ hư'',
+    xin anh ''điều giáo''. Anh bảo ''bị em chinh phục rồi''.'
+Map041.json:ev11p3:
+  effect: căng, xót cho Long Ngâm
+  mood: hồi hộp, tội lỗi
+  summary: Các lần hẹn tới muộn với cớ 'ôn bài với bạn cùng phòng'. Lilina giấu chuyện tinh dịch đang
+    chảy ra, căng thẳng rồi xin về.
+Map041.json:ev12p0:
+  effect: tò mò, bất an
+  mood: ngọt rồi chuyển sang nghi ngờ
+  summary: Long Ngâm kể mình dạy Tâm linh ma pháp, tức môn chống thôi miên. Lilina khoe 'học ma pháp bằng
+    cơ thể', 'nước là thủy nguyên tố'. Chuyện ký túc xá chung nam nữ khiến anh hoảng, Lilina phải nói
+    đùa cho qua và nhận ra chỉ mình anh không biết 'thường thức' của học viện.
+Map041.json:ev12p1:
+  effect: buồn, lo
+  mood: trầm, phân vân
+  summary: Lilina dò lại chuyện 'trò đùa' ký túc, Long Ngâm vẫn không nhận ra. Có người tới, họ hẹn tối
+    mai gặp ở sân thượng tầng 2. Lilina buồn vì anh quá để ý người ngoài.
+Map041.json:ev1p0:
+  effect: mở đầu tuyến; biến thể kết gợi mất mát
+  mood: trung tính / u buồn (biến thể)
+  summary: 'Cổng học viện: nhập học, thầy Giáo vụ dẫn tân sinh lên phòng Hiệu trưởng. Một biến thể là
+    lúc Lilina đã mất ma pháp, không muốn quay lại ''nơi đau lòng''. Cổng cần thẻ sinh viên hoặc thẻ giáo
+    viên.'
+Map041.json:ev21p0:
+  effect: vừa sốc vừa buồn cười vì logic 'thường thức' bị bẻ cong
+  mood: nhại học thuật, trơ trẽn
+  summary: 'Lớp Thủy hệ ''cảnh giới tối cao'' với thầy \N[51] và đám học sinh, có cả ''bổ sung thủy nguyên
+    tố'' bằng nước tiểu và dụng cụ, rồi màn phun nước từ sân thượng; Lilina được phong ''Ma nữ Nước''.
+    Sau đó Bigas cho ''thực hành Quang hệ'': cô phô thân trước người giao hàng, hắn tưởng cô là gái làng
+    chơi.'
+Map041.json:ev21p2:
+  effect: ngượng, cười nhẹ
+  mood: lả lơi, tự do
+  summary: Lilina chuyển thư của thầy cho thầy Giáo vụ, nhờ ông 'phối hợp học Phong hệ'. Xong việc cô
+    chê ông không biết chiều, rồi lấy cớ 'sự tự do của gió' để đi tìm trải nghiệm mới, xin lỗi \N[28]
+    vì bắt đợi.
+Map041.json:ev22p0:
+  effect: cười, hồi hộp
+  mood: tinh quái
+  summary: 'Trốn học với Miller: gặp Hart, thấy một nữ sinh bị trói bỏ mặc, Miller dụ Lilina ''luyện thủy
+    nguyên tố'' ngoài trời. Cô làm bộ chê rồi đùa ''sẽ học hành tử tế''.'
+Map041.json:ev23p0:
+  effect: căng sợ bị phát hiện, buồn cười vì thầy Giáo vụ
+  mood: hồi hộp kiểu hài
+  summary: Lilina tự xin Hart trói mình bỏ mặc. Cô lần lượt nghe thầy Giáo vụ tự nói một mình, một vụ
+    bắt nạt đòi tiền bảo kê, rồi Miller dắt cô nữ sinh bí ẩn tới, hai người 'đổi vai' cho nhau.
+Map041.json:ev26p0:
+  effect: nghẹn
+  mood: tang thương, lặng
+  summary: Lilina từ biệt Hiệu trưởng, được giữ lại thẻ sinh viên và nhận chiếc đồng hồ quả quýt, 'di
+    vật' Long Ngâm để lại trước khi chết; rồi cô gọi Succubus.
+Map042.json:ev11p0:
+  effect: trung tính
+  mood: hệ thống
+  summary: 'Cửa lớp Quang hệ và Phong hệ: chọn đợi vào học, vào thẳng, hoặc để sau.'
+Map042.json:ev12p0:
+  effect: trung tính
+  mood: hệ thống
+  summary: Cửa lớp Thủy hệ và Hỏa hệ; nếu chưa đến lượt thì báo 'chưa xếp lớp này cho mình'.
+Map042.json:ev16p0:
+  effect: ấm áp, ngạc nhiên
+  mood: vui, bất ngờ
+  summary: Lilina gặp lại Long Ngâm ở học viện; anh tiết lộ mình chính là 'thầy đang tìm cô'.
+Map042.json:ev19p0:
+  effect: ngượng, hồi hộp
+  mood: tinh quái, hồi hộp
+  summary: Miller dắt Lilina đi trong vai 'chó cái nhỏ', nghe lén giờ học, rủ ra phơi nắng; cô sợ bị phát
+    hiện.
+Map043.json:ev11p4:
+  effect: Ghê sợ trước việc Ross thao túng. Bất an cho Long Ngâm. Bật cười ở màn chê 'Hoàn toàn không
+    được!'
+  mood: Ngột ngạt, mỉa mai, có lúc hài đen
+  summary: Chuỗi cảnh ở văn phòng Ross. Hắn 'dạy Lôi hệ' bằng cách thao túng thân thể Lilina và tiết lộ
+    Long Ngâm bị thôi miên. Hắn xui cô 'hư đi', đóng vai người lạ, dàn cảnh cho Long Ngâm bắt gặp, đánh
+    ngất anh và xóa ký ức. Có màn hài 'dạy quyến rũ'.
+Map043.json:ev11p5:
+  effect: Hả hê, rồi lại căng như trước trận đấu
+  mood: Căng thẳng, lật ngược tình thế
+  summary: Succubus trở lại, chỉ ra tiếng chuông là ám thị và viên thủy tinh là thứ hút dâm năng. Lilina
+    phá thủy tinh, Ross gọi 'hiệu trưởng đại nhân', Berika hiện ra.
+Map043.json:ev31p0:
+  effect: Đắng nghẹn. Lời nghĩ thầm phản kháng tương phản với lời nói ra.
+  mood: Nhục nhã, giằng xé
+  summary: Đang giờ Long Ngâm giảng bài, Lilina bị khống chế phải tự mời học sinh ngoài hành lang. Ross
+    cùng đám học sinh chế giễu cô.
+Map043.json:ev32p0:
+  effect: Tò mò, sốt ruột vì cô đang dựa vào chính kẻ hại mình
+  mood: Nghi ngờ lẫn mê muội
+  summary: Lilina gọi Succubus không thấy đáp, rồi phát hiện dâm năng biến mất mỗi khi Ross kiểm tra phòng
+    xong. Cô vẫn tìm tới Ross nương tựa, 'trả ơn', và giữ lại được dâm năng để dịch chuyển.
+Map043.json:ev32p2:
+  effect: Lộ dã tâm riêng của Ross
+  mood: Âm mưu
+  summary: Ross than vật liệu tổng hợp xúc tu khó kiếm, thôi miên Anna, rồi lẩm bẩm kế hoạch biến Lilina
+    thành búp bê của riêng hắn.
+Map043.json:ev35p0:
+  effect: Dựng nền cho trò dọa ma
+  mood: Vụng trộm
+  summary: Một giáo viên và một nữ sinh lén lút trên bục giảng.
+Map043.json:ev35p1:
+  effect: Cười
+  mood: Hài
+  summary: Lilina ở dạng 'u linh' dọa cặp kia bỏ chạy, không kịp mặc đồ.
+Map043.json:ev5p0:
+  effect: Ngượng, buồn cười
+  mood: Hài nhẹ
+  summary: Thầy Thổ hệ mời Lilina làm 'ổ giống thật', cô cười trừ từ chối.
+Map043.json:ev6p0:
+  effect: Thương Long Ngâm bị lừa
+  mood: Ngọt mà chua xót
+  summary: Long Ngâm bị Ross nói dối là Lilina phải học bù buổi tối nên vui vẻ thông cảm.
+Map043.json:ev8p0:
+  effect: Thoại phụ
+  mood: Bình thường
+  summary: Thầy Phong hệ nhắc cô cố gắng và mời học môn tự chọn.
+Map044.json:ev1p0:
+  effect: Hồi hộp, sợ hãi
+  mood: Căng thẳng
+  summary: Lilina vào ngục hỏi kẻ thế tội, xác nhận hắn chỉ là con tốt bị thôi miên. Berika bắt gặp và
+    dọa trừng phạt.
+Map044.json:ev6p0:
+  effect: Nhẹ nhõm xen bất an. Tò mò chuyện bí mật của Loki.
+  mood: Mỉa mai, căng thẳng ngầm
+  summary: Loki và Long Ngâm thăm Berika bị giam. Cô ta trêu Loki, dọa khui chuyện cũ, gỡ hết ám thị cho
+    Lilina, nhưng tuyên bố lạc ấn linh hồn thì không xóa được.
+Map044.json:ev9p0:
+  effect: Hệ thống
+  mood: Trung tính
+  summary: Hỏi có nghỉ ngơi không, lính canh cho Lilina rời đi.
+Map045.json:ev15p0:
+  effect: Gợi lại sự cố 'lửa dục vọng'
+  mood: Ngượng
+  summary: Lant, kẻ tự xưng thiên tài, né Lilina. Cô không có dịp xin lỗi.
+Map045.json:ev19p0:
+  effect: Buồn cười vì triết lý 'ánh sáng phơi bày chân thật'
+  mood: Hài giả triết lý
+  summary: 'Bài tập Quang hệ: Lilina khoe thân với người giữ kho rồi hỏi han ''tôi có đẹp không''. Thầy
+    Bigas nghe cô ''thu hoạch'' và khen.'
+Map045.json:ev19p2:
+  effect: Cười
+  mood: Hài
+  summary: Lilina lại tìm người giữ kho. Ông ta tưởng là lớp Quang hệ, hóa ra là 'Phong hệ'.
+Map045.json:ev19p5:
+  effect: Sợ hãi lẫn buồn cười vì lối nói thần bí
+  mood: Nghiêm, giả triết lý
+  summary: Lilina tỉnh dậy. Bigas giải thích cô bị lửa dục vọng nuốt chửng và suýt vắt kiệt Lant đến chết.
+    Charlotte đã kịp cứu.
+Map045.json:ev28p0:
+  effect: Nhục nhã
+  mood: Thô bạo
+  summary: Miller dẫn Lilina vào kho, bắt cô nhận mình là chó cái của hắn.
+Map045.json:ev29p0:
+  effect: Bức bối, thấy cô bị lôi kéo
+  mood: Ép buộc, giằng xé
+  summary: Tên côn đồ nhiều lần cưỡng ép Lilina, khích cô 'không đến thì là mẹ heo', dụ cô trốn học tới
+    phòng hắn ở đầu tây ký túc xá.
+Map045.json:ev31p0:
+  effect: Buồn cười vì cô sợ ma mà lại phải đóng vai ma
+  mood: Hài, giao kèo
+  summary: Jack biết Lilina là 'u linh dâm nữ', bắt cô hóa ma ba đêm liền ở nhà vệ sinh lúc nửa đêm, tặng
+    cô 3 bình Nước ma pháp.
+Map045.json:ev32p0:
+  effect: Cười
+  mood: Hài
+  summary: Một nữ sinh tham ăn 'đặc huấn bí mật' với ông quản lý nhà ăn để được ăn ngon.
+Map045.json:ev32p1:
+  effect: Cười
+  mood: Hài
+  summary: Lilina dọa ma, cặp kia bỏ chạy, ông già xin tha 'không bao giờ dám nữa'.
+Map045.json:ev4p0:
+  effect: Rùng mình, lộ ra nguồn gốc mọi chuyện
+  mood: Lạnh, bí ẩn
+  summary: 'Hồi tưởng: Ross cấy ''thường thức'' học sinh đặc đẳng ở chung nam nữ, rồi đánh thức Lilina
+    ở phòng y tế, nói dối là cô ngất lúc nhập học.'
+Map045.json:ev5p0:
+  effect: Cười ngượng
+  mood: Hài trơ trẽn
+  summary: Bác sĩ chữa ký sinh trùng. Lilina xin xuân dược 'để luyện Hỏa hệ', bác sĩ bắt cô 'chứng minh'.
+Map045.json:ev8p0:
+  effect: Cảnh H lặp
+  mood: Nhẹ
+  summary: Lilina lại nhờ người giữ kho 'luyện ma pháp'.
+Map046.json:ev7p0:
+  effect: Choáng vì sự thật, căm phẫn
+  mood: Đen tối, tiết lộ
+  summary: 'Hồi tưởng nhập học: quyền hiệu trưởng chính là Berika. Cô ta hạ Lilina bằng thuốc phá ma,
+    mắng ''lão già'' (hiệu trưởng thật đang bị Ma Nhãn khống chế), phong ấn Succubus bằng cấm chú, hút
+    sạch dâm năng, thiết lập khế ước linh hồn qua tiếng chuông rồi giao cho Ross.'
+Map046.json:ev7p2:
+  effect: Lo cho Lilina
+  mood: Hồi hộp, rợn
+  summary: Ross dẫn Lilina bịt mắt vào 'kỳ thi ảo cảnh' ở phòng hiệu trưởng. Cô ngạc nhiên vì hiệu trưởng
+    là phụ nữ.
+Map046.json:ev7p3:
+  effect: Phẫn nộ, đau xót
+  mood: Tàn nhẫn, mỉa mai
+  summary: Berika khắc năm ám thị thành lạc ấn linh hồn vĩnh viễn. Lilina tưởng đó là ảo cảnh và mừng
+    vì 'được hiệu trưởng hài lòng'. Berika giao Ross phá tan tình cảm giữa Lilina và Long Ngâm.
+Map046.json:ev7p4:
+  effect: Báo hiệu Ross sắp phản
+  mood: Âm mưu
+  summary: Ross báo 'thường thức' của Lilina đang hồi phục, rồi nảy ra ý dùng xúc tu Dâm Ma Tướng để khống
+    chế dâm ma cụ.
+Map046.json:ev7p5:
+  effect: Nghẹn ngào, đau lòng
+  mood: Bi kịch
+  summary: Ross, giờ là hiệu trưởng, ra lệnh cho Lilina giết Long Ngâm. Cô vùng vẫy, thét 'Em yêu anh!'
+    nhưng vẫn ra tay. Vị hiệu trưởng già sống lại diệt Ross. Lilina khóc, rời học viện. Tội của Ross bị
+    đổ lên đầu Berika.
+Map047.json:ev3p0:
+  effect: Sốc vì cú lật kèo
+  mood: Kịch tính, phản bội
+  summary: Ma Nhãn đề nghị Succubus cùng phục sinh Dâm Ma Vương, bị từ chối, giao chiến, Berika chạy thoát.
+    Ross lộ mặt, dùng xúc tu biến Lilina thành người hầu và đẩy cô vào lãnh địa của Succubus.
+Map047.json:ev7p0:
+  effect: Lạnh người, tuyệt vọng
+  mood: Kết xấu, u ám
+  summary: Lilina bị điều khiển giết vị hiệu trưởng già. Ross thành hiệu trưởng mới. Đoạn kết kể Lilina
+    làm búp bê sống, Long Ngâm có ánh thủy tinh trong mắt, học viện quên hiệu trưởng cũ.
+Map048.json:ev1p0:
+  effect: Buồn cười
+  mood: Sợ hãi, hài
+  summary: Trước cổng nơi có ma, Lilina sợ, phân vân có nên 'tìm ma dẫn đường' không.
+Map049.json:ev2p1:
+  effect: Rợn, cười vì cô lắp bắp
+  mood: Kinh dị pha hài
+  summary: Giọng bí ẩn cảnh báo đây là cõi vong linh. Lilina sợ đến nhũn chân, bị ảo giác ma hãm hiếp
+    và học được kỹ năng 'Xuất tinh'.
+Map050.json:ev2p0:
+  effect: Thương cảm cho Galon, nhục cho Lilina, cười vì lời nghĩ thầm
+  mood: Bi thương, ép buộc, hài đen
+  summary: Vua Galon kể chuyện người vợ Sophia và người phụ nữ đeo nhẫn Succubus từ 1000 năm trước. Ông
+    từ chối cho mượn quyền trượng. Lilina giật lấy, bị oán linh khống chế, bị ép để Sophia nhập xác. Vợ
+    chồng họ ân ái trên thân thể cô, cô chỉ biết chửi thầm.
+Map050.json:ev2p1:
+  effect: Nhẹ nhõm
+  mood: Ấm áp
+  summary: 'Nhánh hiền: Lilina mang Hoa Người Chết tới, Galon vui vẻ trao Quyền trượng Tử vong.'
+Map051.json:ev11p1:
+  effect: Cảnh lặp
+  mood: Nhẹ
+  summary: Lilina chủ động rủ Miller đi 'tìm vui'.
+Map051.json:ev12p0:
+  effect: Hệ thống
+  mood: Trung tính
+  summary: 'Menu dịch chuyển nhanh: tầng 2, tầng 3 học viện, vườn.'
+Map051.json:ev13p0:
+  effect: rợn người vì Lilina lặp lại từng lời như cái máy, buồn cười với màn 'hình tượng'
+  mood: ngột ngạt, rùng rợn, xen hài phản diện
+  summary: Menu ngủ/trốn học ở ký túc. Ross cấy lần lượt các ám thị theo từng hệ ma pháp ('đây là thường
+    thức'), hai cha con Ross–Roster bàn mưu, Ross cười lố bị con nhắc giữ hình tượng.
+Map051.json:ev13p1:
+  effect: chua chát, cười nhẹ ở câu kiểu gặp quái RPG
+  mood: uể oải, tự giễu
+  summary: Lilina độc thoại về việc trốn học, buông xuôi. Cô định đi 'chứng minh mình không phải chó cái'
+    thì gặp Miller, chọc hắn là 'côn đồ xuất hiện!'.
+Map051.json:ev14p0:
+  effect: hơi bất an, cảm giác bị nhốt
+  mood: bình thường
+  summary: Tủ đồ có kết giới, đồ cất vào chỉ lấy lại được khi làm thủ tục rời học viện.
+Map051.json:ev25p0:
+  effect: tò mò, thở phào
+  mood: mơ hồ, nhẹ nhõm hoặc cam chịu
+  summary: Lilina tỉnh dậy ở ký túc, thấy chiếc vòng 'vật tế' nên biết mình vẫn đang làm 'u linh dâm nữ'.
+    Trong nhánh cô thất hứa, Jack kể chuyện cho mọi người nhưng không ai tin.
+Map051.json:ev25p1:
+  effect: bất an, người chơi hiểu Ross đang lừa
+  mood: căng, âm mưu
+  summary: Ross nói Long Ngâm đã được xóa ký ức nhưng có 'chỗ bất thường', hẹn Lilina tới văn phòng. Hắn
+    lén hút dâm năng của cô, Lilina mệt rã rời mà không hiểu vì sao.
+Map051.json:ev34p0:
+  effect: trớ trêu
+  mood: ngây ngô lệch lạc
+  summary: Charlotte buồn vì Wendy không tới học cùng nữa, nhờ Lilina 'ôn Thủy hệ', thực chất là quan
+    hệ.
+Map051.json:ev42p1:
+  effect: buồn cười kiểu châm biếm
+  mood: hài hước méo mó
+  summary: Ba học sinh kém tôn Lilina làm 'nữ thần', cô tình nguyện 'thực hành cùng ôn bài'.
+Map051.json:ev4p0:
+  effect: rợn và buồn cười
+  mood: mở đầu âm mưu, xen hài
+  summary: Ross dẫn Lilina tới phòng chung với Roster, dùng chuông thôi miên ép cô chấp nhận 'đặc đẳng
+    sinh nam nữ ở chung là thường thức' rồi cấy ám thị Quang hệ. Lilina mắng Roster nhìn trộm, hăm dọa
+    đốt hắn thành than.
+Map051.json:ev5p4:
+  effect: ngượng, xót
+  mood: ngọt giả, sa đọa dần
+  summary: Chuỗi đêm 'ôn bài' với Roster theo từng hệ. Lilina từ chỗ ngượng ngùng, từ chối, dần dâng hiến
+    cả thân lẫn tâm và gọi hắn là 'anh yêu'. Có các chi tiết sinh ra slime và tiểu ma nhân.
+Map051.json:ev7p0:
+  effect: nghẹn, hồi hộp
+  mood: căng, tội lỗi
+  summary: Lilina phải chọn giữa hẹn với Long Ngâm và đi tìm Ross giữ dâm năng. Roster ép cô 'ôn Hỏa hệ'
+    ngay khi Long Ngâm đã tới, cô tự nhủ 'hắn mới là Long Ngâm'. Ross gõ cửa đúng lúc.
+Map052.json:ev26p0:
+  effect: khó chịu, rồi bất ngờ buồn cười ở đoạn kết
+  mood: nhục nhã rồi lật ngược
+  summary: Lilina, với tư cách 'ma nữ Lửa', đi 'sưởi ấm' Rant đang bỏ học. Hắn làm nhục cô trong nhà vệ
+    sinh nam, mềm lòng khi cô khóc rồi bắt cô làm thú cưng. Cuối cùng chính hắn bị vắt kiệt, phải kêu
+    cứu.
+Map052.json:ev33p0:
+  effect: khó chịu
+  mood: cưỡng ép
+  summary: Jack chặn Lilina ở nhà vệ sinh nữ, viện cớ 'ma nữ Lửa không được từ chối', rồi đòi cô 'biến
+    thành u linh'.
+Map052.json:ev33p4:
+  effect: cười với câu 'cậu là chó à', hơi ấm ở đoạn kết
+  mood: hài pha khổ
+  summary: Jack nhận ra 'u linh dâm nữ' là Lilina. Cô chỉ trả lời bằng gật/lắc đầu, bị hắn dọa khui bí
+    mật nên phải hẹn mỗi đêm. Ngày cuối hắn hứa quên chuyện.
+Map052.json:ev37p0:
+  effect: căng lúc Long Ngâm đi ngang
+  mood: liều lĩnh, hồi hộp
+  summary: Anna dẫn Lilina đi 'chơi' với nhóm học sinh trốn học trong nhà vệ sinh, suýt bị Long Ngâm phát
+    hiện ở buồng bên. Sau đó Lilina nhờ Anna bày cách gom dâm năng nhanh.
+Map052.json:ev37p3:
+  effect: nặng nề, hồi hộp
+  mood: tàn nhẫn, mệt mỏi
+  summary: Anna bố trí cho Lilina bị trói làm 'bồn chứa' cả ngày cho học sinh toàn trường, rồi bỏ quên
+    cô. Long Ngâm suýt bước vào. Lilina thú nhận đây là cách gom dâm năng nhanh, định dùng thêm xuân dược.
+Map052.json:ev4p0:
+  effect: trớ trêu
+  mood: lén lút
+  summary: Miller dẫn Lilina vào nhà vệ sinh nam, cho nghe Anna ở buồng bên. Hai người làm theo, cuối
+    cảnh Lilina hẹn Anna lần sau cùng trốn học.
+Map053.json:ev26p1:
+  effect: tò mò, ghép manh mối
+  mood: chuyện phiếm rùng rợn
+  summary: 'Nữ sinh trong ký túc tám chuyện: Roster dâm đãng nhưng có ''lão già'' chống lưng, một thầy
+    (\N[29]) đẹp trai, chính trực. Họ bàn chuyện ma ở hành lang, con trai mất sức, ma lực không hồi phục,
+    đêm có tiếng cười. Quản lý ký túc trước là nữ tu.'
+Map054.json:ev13p3:
+  effect: tò mò
+  mood: rờn rợn
+  summary: Wendy kể chuyện ma nữ trần truồng ở tấm gương trước lớp Ám hệ, rủ Lilina tới học lớp ban đêm.
+    Lilina sợ ma.
+Map054.json:ev14p0:
+  effect: bình thường
+  mood: thân thiện
+  summary: Anna mừng vì được vào học viện, nói Lilina cần gì cứ hỏi.
+Map054.json:ev15p0:
+  effect: hướng dẫn
+  mood: hệ thống
+  summary: 'Cửa lớp Thổ/Lôi hệ: chọn chờ, vào thẳng, hoặc báo chưa xếp lớp, cửa khóa.'
+Map054.json:ev16p0:
+  effect: nghẹn
+  mood: ngọt mà buồn
+  summary: Hẹn hò với Long Ngâm, cô xin anh nói 'anh yêu em' thêm lần nữa. Một mình, cô quyết không ngồi
+    chờ chết.
+Map054.json:ev16p1:
+  effect: dịu
+  mood: ấm áp
+  summary: Hai người hẹn tối mai gặp lại.
+Map054.json:ev16p2:
+  effect: nhắc người chơi về tình cảm đang hao dần
+  mood: ấm áp, âm ỉ lo
+  summary: Hẹn tối mai, kèm thông báo chỉ số 'độ quyến luyến' với Long Ngâm còn lại.
+Map054.json:ev18p0:
+  effect: khó chịu
+  mood: nhục nhã
+  summary: Miller bắt Lilina bò như chó cái xuống cầu thang, tiết lộ Anna là người giới thiệu cô cho hắn.
+Map054.json:ev20p0:
+  effect: tò mò
+  mood: kỳ quái
+  summary: Nghi thức lấy Lilina làm vật tế bắt đầu, cô lại thành 'u linh dâm nữ' và tự nhủ mình là ma
+    thì còn sợ gì.
+Map054.json:ev21p0:
+  effect: giật mình, tò mò
+  mood: rợn
+  summary: Lilina thấy hồn ma giống Wendy ở tấm gương, đoán có liên quan tới Ám hệ.
+Map056.json:ev3p0:
+  effect: căng, bất bình thay Lilina, tò mò về quá khứ Succubus
+  mood: âm mưu, ma mị, có chút hài
+  summary: 'Succubus hiện ra mặc cả với Galon: ký khế ước linh hồn (Lilina về làm thân xác cho Sophia
+    1/7 thời gian), hứa đem Hoa Người Chết ở mộ \N[60] để đổi Quyền trượng Tử vong, dặn giấu Lilina. Lilina
+    tỉnh dậy, bị Sophia nhập xác, rồi được thả đi tìm hoa.'
+Map056.json:ev6p0:
+  effect: xót, rợn
+  mood: u ám, mất mát
+  summary: Lilina về Galon theo kỳ 7 ngày, Succubus hỏi có muốn phản kháng không. Nếu không, Sophia đồng
+    hóa cô hoàn toàn suốt đêm, sáng ra cô mất trí nhớ ở ngoài thành.
+Map057.json:ev100p0:
+  effect: tra cứu
+  mood: hệ thống
+  summary: Menu hồi tưởng 'Ký ức của \N[66]' (Huấn luyện 1–3).
+Map057.json:ev101p0:
+  effect: tra cứu
+  mood: hệ thống
+  summary: Menu hồi tưởng 'Ký ức của \N[67]' (huấn luyện, vợ thú).
+Map057.json:ev103p0:
+  effect: tra cứu
+  mood: hệ thống
+  summary: Menu hồi tưởng 'Ký ức \N[55] làng Đảo Nhỏ' (nông dân, kho, bác sĩ, chủ quán trọ, dạ tập, bị
+    phát hiện).
+Map057.json:ev104p0:
+  effect: tra cứu
+  mood: hệ thống
+  summary: Menu hồi tưởng 'Ký ức Vua trùng Abaddon' (xâm thực, ngày 1–8, săn mồi, ôn dịch, sinh sản, kết
+    Nữ vương).
+Map057.json:ev105p0:
+  effect: tra cứu
+  mood: menu
+  summary: 'Menu hồi tưởng ''Ký ức về Thần lực'': Ngăn xâm thực, True End A/B.'
+Map057.json:ev107p0:
+  effect: tra cứu
+  mood: menu
+  summary: Hồi tưởng trận đánh thường (trinh nữ / không trinh nữ / chế độ bồn tiểu thịt).
+Map057.json:ev108p0:
+  effect: tra cứu
+  mood: menu
+  summary: 'Như ev107: hồi tưởng trận đánh thường.'
+Map057.json:ev109p0:
+  effect: tra cứu
+  mood: menu
+  summary: 'Như ev107: hồi tưởng trận đánh thường.'
+Map057.json:ev10p0:
+  effect: tra cứu
+  mood: menu
+  summary: 'Ký ức về Bill (nhà ngục): các biến thể dùng thuốc an thần / xuân dược, có phạm nhân vào hay
+    không, bị \N[35] phát hiện hay không.'
+Map057.json:ev110p0:
+  effect: tra cứu
+  mood: menu
+  summary: 'Như ev107: hồi tưởng trận đánh thường.'
+Map057.json:ev111p0:
+  effect: tra cứu
+  mood: menu
+  summary: 'Như ev107: hồi tưởng trận đánh thường.'
+Map057.json:ev112p0:
+  effect: tra cứu
+  mood: menu
+  summary: 'Như ev107: hồi tưởng trận đánh thường.'
+Map057.json:ev113p0:
+  effect: tra cứu
+  mood: menu
+  summary: 'Như ev107: hồi tưởng trận đánh thường.'
+Map057.json:ev114p0:
+  effect: tra cứu
+  mood: menu
+  summary: 'Như ev107: hồi tưởng trận đánh thường.'
+Map057.json:ev115p0:
+  effect: tra cứu
+  mood: menu
+  summary: 'Như ev107: hồi tưởng trận đánh thường.'
+Map057.json:ev116p0:
+  effect: tra cứu
+  mood: menu
+  summary: 'Như ev107: hồi tưởng trận đánh thường.'
+Map057.json:ev117p0:
+  effect: tra cứu
+  mood: menu
+  summary: 'Như ev107: hồi tưởng trận đánh thường.'
+Map057.json:ev118p0:
+  effect: tra cứu
+  mood: menu
+  summary: 'Như ev107: hồi tưởng trận đánh thường.'
+Map057.json:ev11p0:
+  effect: tra cứu
+  mood: menu
+  summary: 'Ký ức về \N[35] (Darren?): điều giáo, khế ước ác ma, các biến thể thể lực sung mãn hay không.'
+Map057.json:ev120p0:
+  effect: tra cứu
+  mood: menu
+  summary: 'Như ev107: hồi tưởng trận đánh thường.'
+Map057.json:ev121p0:
+  effect: tra cứu
+  mood: menu
+  summary: 'Như ev107: hồi tưởng trận đánh thường.'
+Map057.json:ev122p0:
+  effect: tra cứu
+  mood: menu
+  summary: 'Như ev107: hồi tưởng trận đánh thường.'
+Map057.json:ev123p0:
+  effect: tra cứu
+  mood: menu
+  summary: 'Như ev107: hồi tưởng trận đánh thường.'
+Map057.json:ev126p0:
+  effect: tra cứu
+  mood: menu
+  summary: 'Ký ức về \N[5]: SM (trinh nữ / không trinh nữ / phần thưởng).'
+Map057.json:ev128p0:
+  effect: tra cứu
+  mood: menu
+  summary: 'Ký ức về ông chủ nhà tắm: lần đầu, lặp lại, mua chuộc.'
+Map057.json:ev12p0:
+  effect: tra cứu
+  mood: menu
+  summary: 'Ký ức nhà ngục về \N[53]: cho ăn ở phòng thẩm vấn, tra khảo, quyến rũ, tập kích, hình phạt
+    cày ruộng.'
+Map057.json:ev131p0:
+  effect: tra cứu
+  mood: menu
+  summary: 'Ký ức về \N[9]: kết quả thí nghiệm A–D, phần thưởng thí nghiệm.'
+Map057.json:ev132p0:
+  effect: tra cứu
+  mood: menu
+  summary: 'Ký ức về \N[47]: Tình cờ gặp, Trung thành?, Lâu đài tình yêu?, Người yêu?, Chim hoàng yến
+    trong lồng.'
+Map057.json:ev133p0:
+  effect: tra cứu
+  mood: menu
+  summary: 'Ký ức về Ngôi nhà tình yêu: ngày 1–5, có bản vi phạm giao ước.'
+Map057.json:ev134p0:
+  effect: tra cứu
+  mood: menu
+  summary: 'Ký ức ''nữ biến thái ở nhà tắm'': lần đầu, lặp lại.'
+Map057.json:ev135p0:
+  effect: tra cứu
+  mood: menu
+  summary: 'Ký ức làm thêm ở nhà tắm: thất bại, thất bại khi động dục.'
+Map057.json:ev136p0:
+  effect: tra cứu
+  mood: menu
+  summary: 'Ký ức về Hentai英雄ZERO: lần đầu / lặp lại.'
+Map057.json:ev138p0:
+  effect: tra cứu
+  mood: menu
+  summary: 'Ký ức về \N[53]: ''Bắt nữ vương''.'
+Map057.json:ev139p0:
+  effect: tra cứu
+  mood: menu
+  summary: 'Ký ức bán hoa: lần đầu / lặp lại.'
+Map057.json:ev13p0:
+  effect: tra cứu
+  mood: menu
+  summary: 'Ký ức nhà ngục về \N[54]: H với \N[40], đại ca ngục đe dọa, nữ tù, nam tù.'
+Map057.json:ev141p0:
+  effect: tra cứu
+  mood: menu
+  summary: 'Ký ức về \N[70]: bẫy, buôn ma túy 1–3, kỹ nữ buôn ma túy.'
+Map057.json:ev142p0:
+  effect: tra cứu
+  mood: menu
+  summary: 'Ký ức về bác sĩ ở cảng: lần đầu / lặp lại.'
+Map057.json:ev143p0:
+  effect: tra cứu
+  mood: menu
+  summary: 'Ký ức ''bị giam cầm'': lộ thân phận, bị bắt lại, hầu hạ, bị bán; có nhãn ''Người bịt mặt''.'
+Map057.json:ev144p0:
+  effect: tra cứu
+  mood: menu
+  summary: 'Ký ức gia sư ở cảng: lần 1–3, lặp lại.'
+Map057.json:ev14p0:
+  effect: tra cứu
+  mood: menu
+  summary: 'Ký ức về \N[12] (Owen?): vào hội, thăng cấp, tình yêu ở biệt thự, sự thật, nghi thức nô lệ
+    tình dục.'
+Map057.json:ev15p0:
+  effect: tra cứu
+  mood: menu
+  summary: 'Ký ức Hội Lính đánh thuê: Cừu non 1–4, bị bắt, nô lệ tình dục, \N[13] điều giáo, trộm tình
+    báo, trận cuối.'
+Map057.json:ev16p0:
+  effect: tra cứu
+  mood: menu
+  summary: 'Ký ức về Lesk: quyến rũ, đai trinh tiết.'
+Map057.json:ev17p0:
+  effect: tra cứu
+  mood: menu
+  summary: 'Ký ức về Thần thú: thua trận, quyến rũ, cưỡng ép.'
+Map057.json:ev18p0:
+  effect: tra cứu
+  mood: menu
+  summary: 'Ký ức khác về \N[21]: hầu gái bán thời gian / toàn thời gian, bị bắt cóc, dụ bắt nô lệ (có
+    bản Futa).'
+Map057.json:ev19p0:
+  effect: tra cứu
+  mood: menu
+  summary: 'Ký ức Thành Torres: bị đưa tới, kiểm hàng, nữ thể thịnh (bày đồ ăn lên người), \N[53] hầu
+    hạ.'
+Map057.json:ev1p0:
+  effect: tra cứu
+  mood: menu
+  summary: 'Ký ức về Ba chị em Xà nữ: H lần đầu, lặp lại, sinh nở.'
+Map057.json:ev20p0:
+  effect: tra cứu
+  mood: menu
+  summary: 'Ký ức về Điều giáo sư: điều giáo, đấu giá, bị vứt bỏ, thi hoa hậu.'
+Map057.json:ev21p0:
+  effect: tra cứu
+  mood: menu
+  summary: 'Ký ức về chủ nô: điều giáo A–D.'
+Map057.json:ev22p0:
+  effect: tra cứu
+  mood: menu
+  summary: 'Ký ức về \N[17]: tiếp đầu mối, sự kiện kỹ nữ 1–5, âm mưu, tái ngộ.'
+Map057.json:ev23p0:
+  effect: tra cứu
+  mood: menu
+  summary: 'Ký ức về \N[15]: khế ước, điều giáo, hầu hạ, trừng phạt, nghiêm phạt.'
+Map057.json:ev24p0:
+  effect: tra cứu
+  mood: menu
+  summary: 'Ký ức về \N[14]: \N[61] ra đời, thị tẩm 1–4 người, gặp công chúa, đầu độc thành công/thất
+    bại.'
+Map057.json:ev25p0:
+  effect: tra cứu
+  mood: menu
+  summary: 'Ký ức về \N[18]: điều giáo 1–4, có bản Futa.'
+Map057.json:ev26p0:
+  effect: tra cứu
+  mood: menu
+  summary: 'Ký ức về \N[8] (Berika): thôi miên 1–4, giải thôi miên, quyền hiệu trưởng, lạc ấn linh hồn
+    1–6, lạc ấn ổ giống.'
+Map057.json:ev27p0:
+  effect: tra cứu
+  mood: menu
+  summary: 'Ký ức về \N[7] (Long Ngâm): thôi miên, báo đáp, hẹn hò, tái ngộ ở học viện, hẹn trên sân thượng.'
+Map057.json:ev28p0:
+  effect: tra cứu
+  mood: menu
+  summary: 'Ký ức về \N[25] (Ross): Lôi hệ 1–6, NTR 1–4, búp bê sống, cứu rỗi, Bad End A/B.'
+Map057.json:ev29p0:
+  effect: tra cứu
+  mood: menu
+  summary: 'Ký ức về \N[26] (Roster): ngày 1–10, lặp lại.'
+Map057.json:ev2p0:
+  effect: tra cứu
+  mood: menu
+  summary: 'Ký ức về Thần thụ: H lần đầu, lặp lại (nhiều dịch/nhiều sữa), vắt sữa.'
+Map057.json:ev30p0:
+  effect: tra cứu
+  mood: menu
+  summary: 'Ký ức về \N[29] (Bigas?): Quang hệ 1–6, Hỏa hệ 1–6.'
+Map057.json:ev31p0:
+  effect: tra cứu
+  mood: menu
+  summary: 'Ký ức Phong hệ về \N[51]: Phong hệ 1–6, sự kiện u linh.'
+Map057.json:ev32p0:
+  effect: tra cứu
+  mood: menu
+  summary: 'Ký ức Thủy hệ về \N[51]: Thủy hệ 1–6.'
+Map057.json:ev33p0:
+  effect: tra cứu
+  mood: menu
+  summary: 'Ký ức Thổ hệ về \N[51]: Thổ hệ 1–6.'
+Map057.json:ev34p0:
+  effect: tra cứu
+  mood: menu
+  summary: 'Ký ức ''Sâu trong mạch nước'': thoát ra, quay lại, giúp/quyến rũ thiếu nữ, bị ép làm ổ giống,
+    sinh nở.'
+Map057.json:ev3p0:
+  effect: tra cứu
+  mood: menu
+  summary: 'Ký ức về Vua Galon: H lần đầu / lặp lại.'
+Map057.json:ev4p0:
+  effect: tra cứu
+  mood: menu
+  summary: 'Ký ức về Dâm Ma Hộ Vệ: H lần đầu / lặp lại.'
+Map057.json:ev5p0:
+  effect: tra cứu
+  mood: menu
+  summary: 'Ký ức về Thủy tinh linh: H lần đầu / lặp lại.'
+Map057.json:ev6p0:
+  effect: tra cứu
+  mood: menu
+  summary: 'Ký ức về Hỏa tinh linh: H lần đầu / lặp lại.'
+Map057.json:ev7p0:
+  effect: tra cứu
+  mood: menu
+  summary: 'Ký ức về Eros (艾羅斯): trinh nữ / không trinh nữ.'
+Map057.json:ev8p0:
+  effect: tra cứu
+  mood: menu
+  summary: 'Ký ức về Giáp Nguyền rủa: nhận giáp, bị \N[4] điều giáo, bị \N[4] phá trinh.'
+Map057.json:ev91p0:
+  effect: tra cứu
+  mood: menu
+  summary: 'Ký ức về \N[33] (Wendy): sự kiện u linh, Ám hệ, vật tế hoàn hảo, vật tế thất cách.'
+Map057.json:ev92p0:
+  effect: tra cứu
+  mood: menu
+  summary: 'Ký ức về \N[34] (Jack): không phải u linh, bắt được u linh, đang có khế ước / không khế ước.'
+Map057.json:ev93p0:
+  effect: tra cứu
+  mood: menu
+  summary: 'Ký ức về \N[31] (Miller): sự kiện ban đêm 1–3, trốn học.'
+Map057.json:ev94p0:
+  effect: tra cứu
+  mood: menu
+  summary: 'Ký ức về \N[27] (Anna): trốn học, ''nhà xí nữ'', bồn tiểu thịt trong nhà vệ sinh.'
+Map057.json:ev95p0:
+  effect: tra cứu
+  mood: menu
+  summary: 'Ký ức khác về \N[52]: \N[32], u linh hút tinh (nam/nữ), \N[28], ôn bài nhiều người.'
+Map057.json:ev96p0:
+  effect: tra cứu
+  mood: menu
+  summary: 'Ký ức các nhân viên khác: bác sĩ, giáo vụ, quản lý, người giữ kho.'
+Map057.json:ev97p0:
+  effect: tra cứu
+  mood: menu
+  summary: 'Ký ức về Ký sinh trùng: về tổ, \N[23], ký sinh, cho ăn, vợ trùng, Vua trùng ra đời, Trùng
+    ái.'
+Map057.json:ev98p0:
+  effect: tra cứu
+  mood: menu
+  summary: 'Ký ức về \N[65]: ký hợp đồng, cờ bạc 1–3, âm mưu 1–4, huấn luyện, báo đáp, lựa chọn.'
+Map057.json:ev99p0:
+  effect: tra cứu
+  mood: menu
+  summary: 'Ký ức về \N[11]: cho ăn, cho uống, uống nước tiểu, thi đấu, trận biểu diễn.'
+Map057.json:ev9p0:
+  effect: tra cứu
+  mood: menu
+  summary: 'Ký ức kết tuyến Di tích: Normal End, Good End A, Good End B.'
+Map058.json:ev1p0:
+  effect: bất an, nghi ngờ Melissa
+  mood: dâm loạn, rợn ngầm
+  summary: 'Melissa làm thí nghiệm dâm ma lực trên Lilina và Lucia: năng lực hai người chuyển qua lại,
+    Lilina mọc dương vật rồi phải ''giải phóng'' với Lucia. Lilina nhận ra Lucia là Phong Kiếm Thánh sa
+    đọa, học kỹ năng Futa hóa và Xuất tinh.'
+Map058.json:ev1p1:
+  effect: tò mò, ghê sợ
+  mood: tiết lộ, lạnh gáy
+  summary: Melissa tiết lộ nguồn gốc thần lực Abaddon và việc cấy 'ma thần căn' cho \N[14], rồi chỉ đường
+    tới tử tù \N[40] ở Nhà ngục Rừng để tìm bảo thạch mở phong ấn Ma cảnh.
+Map058.json:ev1p3:
+  effect: nghẹn, tuyệt vọng
+  mood: u ám
+  summary: 'Bad End B tuyến Ma trùng: pháp sư giao Lilina cho Melissa (nhắc ma thạch đang ở chỗ hắn);
+    Lilina thành đồ chơi mới, giáp và thánh kiếm cũng bị Melissa chiếm.'
+Map059.json:ev8p0:
+  effect: ngượng, căng
+  mood: hồi hộp, sa đọa
+  summary: Lilina dẫn thiếu nữ quay lại chỗ dâm ma; cô gái run sợ nhưng vẫn quyết đi.
+Map061.json:ev17p0:
+  effect: giải đố
+  mood: nhẹ nhõm
+  summary: 'Lilina tìm thấy đồ của mình trong cửa dẫn nước, kèm một chìa khóa giống hệt: có lẽ là chìa
+    dự phòng cô gái đã trộm.'
+Map061.json:ev7p0:
+  effect: căng rồi bật cười vì Succubus
+  mood: dâm loạn, có chút hài
+  summary: Cứu thiếu nữ thì bị ký sinh trùng tấn công, có nhánh bị dâm độc làm sa đọa hẳn. Succubus khích
+    tướng 'chỉ là con thú cái', cứu Lilina rồi lại 'nhờ' lũ dâm ma điều giáo cô. Một nhánh kết bằng việc
+    Lilina mất tích vĩnh viễn.
+Map061.json:ev7p2:
+  effect: thở phào
+  mood: nhẹ nhõm
+  summary: Lilina cứu cô gái, nghĩ 'không có Succubus thì mình cũng thành thế này', rồi về Hội nộp nhiệm
+    vụ cấp B.
+Map061.json:ev8p1:
+  effect: cười vì Lilina chối quanh
+  mood: dâm loạn, tsundere
+  summary: Một con dâm ma hiền giúp Lilina tìm đồ đổi lấy thân xác. Cô bày trò 'đấu kiểu dâm ma', bị cả
+    đàn chơi xấu, thua và nghiện. Sau đó cô nhờ Succubus lập lãnh địa và kết giới 'chỉ cô vào được' trong
+    lúc vẫn chối là không thèm.
+Map061.json:ev8p4:
+  effect: kích thích
+  mood: dâm loạn
+  summary: Lũ dâm ma 'phạm luật' cùng xông lên; Lilina bị xúc tu bọc kín, bị bơm dâm độc, độc thoại khoái
+    lạc.
+Map062.json:ev17p0:
+  effect: căng, rùng mình
+  mood: dâm loạn, kỳ quặc
+  summary: Lilina bị trói làm ổ giống, cãi 'không giống đã hứa', rồi đẻ các 'con' xúc tu và gọi mình là
+    'mẹ'. Cuối cảnh có lựa chọn trốn thoát hay tiếp tục sa ngã.
+Map062.json:ev18p0:
+  effect: ngượng
+  mood: sa đọa
+  summary: Lilina dắt thiếu nữ quay lại lãnh địa dâm ma dự 'lễ chào đón', nhận ra mình hiểu tiếng dâm
+    ma (có lẽ nhờ giáp), rồi đồng ý cùng cô gái làm ổ giống 'một lần thôi'.
+Map062.json:ev21p0:
+  effect: hồi hộp
+  mood: căng
+  summary: Tìm thấy đồ của mình nhưng bị phát hiện, phải chọn trốn hay chờ bị bắt.
+Map062.json:ev27p0:
+  effect: cười chua
+  mood: dâm loạn, hài đen
+  summary: Lũ dâm ma xếp hàng thụ tinh suốt một tuần; Lilina phàn nàn chúng 'xuất nhanh như đàn ông',
+    rồi được đưa sang phòng sinh và tính chuyện trốn.
+Map062.json:ev28p0:
+  effect: ngượng
+  mood: sa đọa
+  summary: 'Lần quay lại sau: ''lễ chào đón'' thô tục, rồi Lilina từ chối làm ổ giống, nhận lại đồ và
+    hứa sẽ quay lại.'
+Map063.json:ev9p0:
+  effect: tò mò
+  mood: mơ hồ
+  summary: Sau khi hầu hạ Dâm Ma Hộ Vệ, Lilina tỉnh dậy mất trí nhớ, ngờ là do bộ giáp.
+Map066.json:ev2p1:
+  effect: cười vì hộ vệ ngây ngô; lạnh gáy vì 1/7 linh hồn
+  mood: dâm loạn, hài ngớ ngẩn
+  summary: Lilina lấy Sừng gãy Thần Ngưu, bị Hộ vệ Đại địa đánh ngất. Succubus đem 1/7 linh hồn cô ban
+    sự sống cho hộ vệ, biến nó thành Dâm Ma Hộ Vệ; nó truyền sức tinh linh đất cho cô (học Đại Địa Chi
+    Nộ). Lilina tỉnh dậy không nhớ gì nhưng có sừng.
+Map066.json:ev6p0:
+  effect: cười vì hộ vệ thật thà
+  mood: dâm loạn, hài
+  summary: Lilina quay lại 'nạp ma lực', tự nhận là nô lệ khế ước, để hộ vệ chui vào thân đất, rồi bị
+    nó ép phục vụ bằng miệng suýt ngạt và dắt đi 'dạo núi'.
+Map069.json:ev3p0:
+  effect: dễ chịu
+  mood: nhẹ nhàng
+  summary: Lilina lấy Hoa Băng Tinh, giải thoát Băng tinh linh vốn bị bông hoa làm mất hình dạng.
+Map070.json:ev18p1:
+  effect: căng; tò mò về 'vị đại nhân kia' và tên thật của Succubus
+  mood: căng, nhục dục, rồi bí ẩn
+  summary: 'Lilina đến đền Lửa xin Bảo châu Liệt Diễm. Có hai nhánh: thắng, lấy đủ 6 thánh vật và tinh
+    linh bị lửa nuốt; hoặc thua, bị nhét bảo châu vào người, Succubus (lộ tên 西西莉婭) trao khế ước và Hỏa
+    tinh linh chiếm xác.'
+Map070.json:ev20p0:
+  effect: nghẹn, thương
+  mood: buồn, trìu mến
+  summary: Độc thoại của Hỏa tinh linh về con ogre đã cứu nó, thường mang xương làm quà và bị bỏng vì
+    nó.
+Map070.json:ev20p2:
+  effect: vừa thương vừa bứt rứt
+  mood: cam chịu, ngọt đắng
+  summary: Lilina quay lại. Có thể chống khế ước, nhưng tinh linh cầu xin nên cô nhượng bộ ('1/7 thời
+    gian chẳng là gì với kẻ bất tử'), rồi bị chiếm xác để tinh linh gặp 'chồng'.
+Map071.json:ev18p0:
+  effect: rợn; nhấn mạnh việc mất trí nhớ
+  mood: nhục dục, phục tùng
+  summary: 'Lần quay lại đền Băng: Thủy tinh linh phạt Lilina vì đến trễ, dùng bạch tuộc và dùi băng hành
+    cô. Tỉnh dậy cô không nhớ gì, nghi do bộ giáp.'
+Map071.json:ev9p1:
+  effect: căng, tò mò ('hoa này không phải thứ cô thật sự cần')
+  mood: lạnh, căng, mưu mô
+  summary: Lilina gài được lời để biết Hoa Băng Tinh ở đây, thua trận rồi bị hành bằng hoa băng. Succubus
+    lập khế ước phân tách linh hồn (7 ngày/1 ngày); cô học Hàn Băng Chi Nộ và nhận được hoa. Kẻ kia hóa
+    ra đã chiếm xác Băng tinh linh.
+Map074.json:ev8p0:
+  effect: ngượng, buồn cười
+  mood: quái gở, hài đen
+  summary: Dâm Ma Hộ Vệ vừa làm tình với Lilina vừa giới thiệu 'chủ nhân' với muông thú.
+Map075.json:ev12p0:
+  effect: thông tin
+  mood: hệ thống
+  summary: \N[23]姬 giao việc bán đồ ở Ái Chi Ốc; menu chỉnh hình xăm và ngực, kèm cảnh báo áo quần lỗi
+    khi chọn ngực lớn.
+Map075.json:ev19p0:
+  effect: thông tin
+  mood: hệ thống
+  summary: 'Gói cosplay tháng Sáu (June): Hattori Kiriko, Vũ nữ, Tifa; trả phí chỉnh.'
+Map075.json:ev1p0:
+  effect: thông tin
+  mood: hệ thống
+  summary: 'Thẩm mỹ viện ''tốt nhất Anvil'': chỉnh màu tóc (kênh RGB), kiểu tóc, mắt, mặt.'
+Map075.json:ev20p0:
+  effect: thông tin
+  mood: hệ thống
+  summary: 'Gói tháng Bảy: Sylvie, Tamamo-no-Mae, hình xăm miễn phí (bỏng của Sylvie).'
+Map075.json:ev21p0:
+  effect: thông tin
+  mood: hệ thống
+  summary: 'Gói tháng Tám: Tokisaki Kurumi, Jeanne Alter, phụ kiện cosplay (chiến đấu/thường).'
+Map075.json:ev22p0:
+  effect: thông tin
+  mood: hệ thống
+  summary: 'Gói tháng Chín: Nero, Himeko.'
+Map075.json:ev23p0:
+  effect: thông tin
+  mood: hệ thống
+  summary: 'Gói tháng Mười: Asuna, Loli; chỉnh dáng người, ngực nhỏ (kèm cảnh báo).'
+Map075.json:ev24p0:
+  effect: thông tin
+  mood: hệ thống
+  summary: 'Gói tháng Mười một: Shiranui Mai, Kiana.'
+Map075.json:ev25p0:
+  effect: thông tin
+  mood: hệ thống
+  summary: 'Gói tháng Mười hai: Hoa yêu, Kỵ sĩ công chúa phản loạn/cuồng loạn.'
+Map075.json:ev26p0:
+  effect: thông tin
+  mood: hệ thống
+  summary: 'Gói tháng Một: Type 95, Sento Isuzu.'
+Map075.json:ev27p0:
+  effect: thông tin
+  mood: hệ thống
+  summary: 'Gói tháng Hai: Lang thần, Senpai; tùy chọn vùng kín.'
+Map075.json:ev28p0:
+  effect: thông tin
+  mood: hệ thống
+  summary: 'Gói tháng Ba: Kén Sao (星之繭), Elsa.'
+Map075.json:ev29p0:
+  effect: thông tin
+  mood: hệ thống
+  summary: 'Gói tháng Tư: Asmodeus, 塞露貝利亞.'
+Map075.json:ev30p0:
+  effect: thông tin
+  mood: hệ thống
+  summary: 'Gói tháng Năm: Miko Tomoe, Ong chúa.'
+Map075.json:ev4p0:
+  effect: thông tin
+  mood: hệ thống, hơi hài
+  summary: NPC \N[51] khoe tay nghề; menu thử biểu cảm (bình thường, giận, tủi, vui, vô hồn, suy sụp).
+Map075.json:ev7p0:
+  effect: thông tin
+  mood: hệ thống
+  summary: 'Gói thẩm mỹ dành riêng cho người ủng hộ gây quỹ: Taimanin Rinko, Asagi, Succubus yêu mị, Thánh
+    nữ trinh khiết, 緋月, Ma nữ, Nữ thần Cây Thế giới, Beelzebub…'
+Map079.json:ev1p0:
+  effect: sốc, nghẹn (cô vẫn mong được làm 'người nhà' của \N[2])
+  mood: tuyệt vọng, áp đảo
+  summary: Dâm Ma Vương Eros hé lộ \N[2] vốn là người bị xóa ký ức ('Đôi cánh Đen'). Hắn hút Lilina vào
+    ngực làm nguồn dâm năng vĩnh viễn và xóa dần ký ức của cô; thế giới rơi vào thời đại Dâm Ma Vương.
+    Bad End A tuyến Di tích.
+Map081.json:ev10p0:
+  effect: bồn chồn, nghi ngờ
+  mood: bất an, ấm áp
+  summary: Trên tàu tới cảng Đế quốc, Simelia hỏi giả sử \N[2] lừa dối em thì sao; \N[2] kể chuyện ru
+    Lilina ngủ.
+Map082.json:ev12p0:
+  effect: hồi hộp
+  mood: căng, ngột ngạt
+  summary: Lilina trốn trong hòm hàng, đeo vòng cổ nô lệ, đói khát suốt 3 ngày. Ở nhánh kiên nhẫn, cô
+    thoát ra và đòi Succubus trả đồ.
+Map082.json:ev15p0:
+  effect: cười ('các anh chẳng phải vừa đi sao?')
+  mood: hài, bẽ bàng
+  summary: Lilina không nhịn được ăn vụng, dính bẫy của thuyền trưởng và bị nhốt dưới đáy tàu.
+Map082.json:ev16p0:
+  effect: cười
+  mood: hài
+  summary: Như trên nhưng lần này dính bẫy vì uống nước.
+Map083.json:ev10p0:
+  effect: thương mến
+  mood: ấm áp
+  summary: 'Hồi tưởng: Lilina hồi hộp trước kỳ thi cuối kỳ đầu tiên, \N[2] kể chuyện cho cô.'
+Map083.json:ev10p1:
+  effect: mỉm cười
+  mood: ấm áp, hóm
+  summary: 'Hồi tưởng: trước kỳ thi tu sĩ tập sự, \N[2] bảo ''không muốn làm tu nữ thì làm qua loa thôi''.'
+Map083.json:ev10p2:
+  effect: nghẹn (vì người chơi đã có nghi ngờ)
+  mood: ấm áp, cay đắng ngầm
+  summary: 'Hồi tưởng: trước kỳ thi vào Học viện Ma pháp. Lilina tự nhủ dù anh có lừa mình thì cũng là
+    vì mình.'
+Map084.json:ev6p0:
+  effect: tò mò
+  mood: đời thường
+  summary: Shirley than thiếu người, rủ Lilina làm nữ hầu bán thời gian lương cao.
+Map084.json:ev8p0:
+  effect: cười, ngượng
+  mood: hài, ngượng
+  summary: Lydis trần truồng 'giữ không khí tự nhiên' trong vườn, đã gọi Shirley là chủ nhân.
+Map085.json:ev11p0:
+  effect: ngượng, nghi
+  mood: hài, mờ ám
+  summary: Sax phỏng vấn Lilina, lương 1000G/ngày. Shirley cho biết nữ hầu không được mặc đồ lót và bộ
+    đồ cho người mới rất dễ hở.
+Map085.json:ev14p0:
+  effect: hồi hộp
+  mood: căng
+  summary: Sax và Shirley ra ngoài, một tên cướp đột nhập và hạ Lilina.
+Map085.json:ev14p1:
+  effect: rợn, tò mò
+  mood: u tối, lạnh lùng
+  summary: 'Sax kể tiền sử: \N[40], \N[10], lời nguyền ở đôi tay, \N[14] cứu mạng. Ở nhánh nô lệ, Lilina
+    giúp hắn dụ Lydis và Nell rồi bán sang Torres.'
+Map085.json:ev16p0:
+  effect: tò mò
+  mood: bí ẩn
+  summary: 'Lilina nghe lén Shirley can Sax: nếu ''vị đại nhân kia'' biết thì công sức hắn làm cho ''lệnh
+    lang'' sẽ đổ sông đổ biển. Cô quyết điều tra dinh thự.'
+Map085.json:ev16p3:
+  effect: rợn
+  mood: chiếm hữu, u tối
+  summary: Lilina, giờ là nô lệ \N[61], được đưa trở lại. Sax mừng rỡ, tiết lộ đây là cứ điểm cung nô
+    lệ cho Torres và giao việc dụ gái ở Hội.
+Map085.json:ev21p4:
+  effect: ngượng; trớ trêu vì kẻ đi dụ lại bị dắt mũi
+  mood: nhục dục, trớ trêu
+  summary: Đêm ở chung phòng, Nell tấn công Lilina, phát hiện cô Futa, uy hiếp và hành cô. Cuối cùng Nell
+    ký hợp đồng toàn thời gian.
+Map085.json:ev23p0:
+  effect: bứt rứt
+  mood: lừa lọc nhẹ nhàng
+  summary: Lilina mời Nell làm nữ hầu toàn thời gian 3 tháng, lương gấp đôi nhưng không được ra ngoài;
+    Nell xin suy nghĩ.
+Map085.json:ev23p1:
+  effect: cười
+  mood: hài
+  summary: Lilina báo tối nay ở chung phòng; Nell lén mừng rỡ.
+Map085.json:ev3p0:
+  effect: tiết lộ, cười nhẹ
+  mood: căng, mờ ám, hài ngầm
+  summary: Shirley nhắc Sax rằng 'hai cha con' có được ngày nay và đôi tay hút sức Ma thần Abaddon là
+    nhờ 'vị đại nhân kia', nên phải dâng Lilina lên. Sax mắng cô là nô lệ vĩnh viễn; cô xin chịu phạt,
+    hóa ra đó là mục đích của cô.
+Map086.json:ev1p1:
+  effect: bứt rứt
+  mood: ngột ngạt
+  summary: Hết ngày làm việc, Sax trả lương và gọi Lilina tới phòng; cơ thể cô không cưỡng lại được.
+Map086.json:ev1p2:
+  effect: rợn, cám dỗ
+  mood: nhục dục
+  summary: Đêm trong phòng Sax, đôi tay hắn hút dâm năng của cô. Succubus thấy lạ nhưng mặc kệ; Sax mời
+    cô làm toàn thời gian.
+Map086.json:ev4p0:
+  effect: cười, hồi hộp
+  mood: hài, căng
+  summary: Học dọn phòng, Lilina làm vỡ chai rượu 200.000G. Sax ép cô làm 'đồ chơi' 3 ngày, sờ soạng cô
+    ngay khi Shirley đứng gõ cửa.
+Map087.json:ev3p0:
+  effect: nặng nề
+  mood: tối, sa đọa
+  summary: Loken bắt Lilina, dùng mị dược Skooma làm cô nghiện, ép cô diễn kịch chứng minh tổ chức không
+    buôn thuốc.
+Map089.json:ev10p0:
+  effect: thông tin
+  mood: hệ thống
+  summary: Phí bay về Anvil là 5000G.
+Map089.json:ev11p0:
+  effect: tò mò
+  mood: nhẹ nhàng
+  summary: Đến trang trại kỳ lân, bị một con bạc vội vã va phải; Lilina định 'cược nhỏ'.
+Map090.json:ev18p1:
+  effect: cười chua
+  mood: hài, khốn khó
+  summary: 'Lilina đói, xin ăn dân làng: cày ruộng hoặc ''trả bằng thân''; anh nông dân ''không cưỡng
+    nổi cám dỗ''.'
+Map090.json:ev70p0:
+  effect: căng
+  mood: rợn
+  summary: Lilina (Nữ vương Abaddon) đi săn đàn ông trong làng.
+Map090.json:ev70p2:
+  effect: lặng người
+  mood: sử thi, u ám
+  summary: 'Kết tuyến: Lilina chinh phục làng Tiểu Đảo, lập tổ Abaddon, đặt tên cho nữ yêu \N[41], rồi
+    dùng ma thạch mở Ma Cảnh và biến mất.'
+Map090.json:ev87p1:
+  effect: cười, ngượng
+  mood: hài
+  summary: Lilina trần trụi xin ăn ở kho lương, dân làng hoảng hốt.
+Map090.json:ev8p0:
+  effect: tò mò
+  mood: bí ẩn
+  summary: Đá phong ấn có một khe khớp hoàn toàn với ma thạch; Lilina hẹn quay lại vào đêm khuya hoặc
+    thôi.
+Map090.json:ev8p1:
+  effect: tò mò
+  mood: bí ẩn
+  summary: Đá phong ấn có rãnh khớp với ma thạch. Lilina chọn đặt ma thạch hoặc thôi. Succubus giữ phong
+    ấn tạm và lén trả cho cô một thứ khiến cô thấy 'mất rồi lại tìm được'.
+Map090.json:ev95p4:
+  effect: căng
+  mood: hồi hộp
+  summary: Lilina ăn trộm bị dân làng phát hiện, chạy thoát rồi vẫn bị bắt ở căn nhà hoang.
+Map090.json:ev95p5:
+  effect: căng, nối sang Bad End
+  mood: sợ hãi, nguy cấp
+  summary: Trưởng làng đòi thiêu 'nữ yêu Abaddon', nhưng lửa vô hiệu. Pháp sư đánh thuốc ngủ rồi một mình
+    áp giải cô về Hội Pháp sư ở Đế quốc.
+Map090.json:ev96p0:
+  effect: buồn cười vì anh dân làng ngây ngô
+  mood: dâm, hài nhẹ
+  summary: Lilina mang thai gạ một dân làng 'dã chiến', vắt kiệt anh ta, giấu tên rồi hỏi đường tới quán
+    trọ.
+Map092.json:ev2p0:
+  effect: xúc động
+  mood: hồi hộp, ngọt
+  summary: Hỏa tinh linh trong xác Lilina tìm tới Bruru, khoe mình đã có thân xác.
+Map092.json:ev2p1:
+  effect: nghẹn rồi bật cười
+  mood: bi-ngọt rồi chuyển hài thô (rặn bảo châu)
+  summary: Tinh linh xin làm vợ Bruru, chịu đau trong lần đầu mà giấu, hẹn 7 ngày gặp một lần và gọi 'chồng'.
+    Lilina tỉnh dậy, rặn ra Bảo châu Liệt Diễm, có đủ 6 thánh vật.
+Map092.json:ev3p0:
+  effect: thương cảm
+  mood: si tình, gượng gạo
+  summary: 'Lần gặp lặp lại: tinh linh gượng chiều Bruru tới đêm khuya. Lilina tỉnh ở đền Lửa, nghi bộ
+    giáp làm mình mất trí nhớ.'
+Map095.json:ev3p0:
+  effect: ghê tởm, ngượng
+  mood: nhục nhã
+  summary: Lilina xin Bill thuốc lá cho một lão tù không quen biết. Bill đòi đổi bằng 'giao dịch cửa sau',
+    và cô có thể nhận, bỏ đi hoặc nghĩ thêm.
+Map095.json:ev3p1:
+  effect: buồn cười kiểu suýt bị bắt; lo cho số phận Lilina
+  mood: farce lén lút căng thẳng
+  summary: Giá vật tư tăng gấp đôi. Đang 'giao dịch' thì tù nhân rồi giám ngục Darren lần lượt suýt bắt
+    gặp. Darren phát hiện, quyết biến cô thành nô lệ tình dục, ra lệnh làm khó cô và kéo dài án.
+Map098.json:ev10p0:
+  effect: căng, khó chịu
+  mood: áp bức
+  summary: Darren trói Lilina kiểu mai rùa, cấm cô nói, bắt khẩu dâm, hứa giảm nửa án nếu lính canh khen
+    cô. Nếu cô phản đối thì bị tiêm mị dược.
+Map098.json:ev10p1:
+  effect: căng; mở hệ thống độ phục tùng
+  mood: sa đọa
+  summary: 'Lilina bị thuốc và Darren chinh phục, ký ''khế ước ác ma'': âm hộ chỉ của Darren, đổi lại
+    mỗi ngày được giảm thêm một ngày án.'
+Map098.json:ev10p2:
+  effect: căng
+  mood: tàn nhẫn
+  summary: Hình phạt nhỏ sáp, Lilina kiệt sức.
+Map098.json:ev10p3:
+  effect: tò mò về đường thoát
+  mood: tính toán
+  summary: 'Kết buổi ''huấn luyện'': chọn đồng ý hay từ chối làm ''bồn cầu thịt'', nhận thù lao, rồi tranh
+    thủ dò tìm chìa khóa kho để vượt ngục.'
+Map098.json:ev6p1:
+  effect: hồi hộp
+  mood: lén lút
+  summary: Chọn trả lại hoặc lấy trộm chìa khóa (gỗ, đồng đỏ, sắt, thép).
+Map100.json:ev26p0:
+  effect: nghẹn, đau
+  mood: bi kịch, phản bội, chia ly
+  summary: 'Ở tế đàn, Succubus vạch mặt \N[2] là Dâm Ma Tướng. Lilina sụp đổ. Từ đây truyện rẽ nhiều kết:
+    Succubus chiếm xác và giết \N[2]; Lilina chọn làm ''người nhà''; hoặc Good End A, \N[2] đổi chỗ thánh
+    vật để tự phong ấn mình, Simelia đi theo hắn, Lilina ở lại một mình với 7 thánh vật.'
+Map100.json:ev26p1:
+  effect: nghẹn, rợn
+  mood: đau đớn rồi đen tối
+  summary: Succubus trong xác Lilina dùng sức tinh linh Đất, Băng, Lửa giết \N[2]. Simelia đòi chết theo.
+    Succubus dỗ Lilina cướp sức Dâm Ma Vương để 'báo thù', và cô 'nữ vương hóa', nhắc lại ước mơ làm mạo
+    hiểm giả như \N[60].
+Map100.json:ev30p0:
+  effect: sốc, hụt hẫng
+  mood: tuyệt vọng
+  summary: 'Bad End B: Bảo châu lấy được bằng cách giết Hỏa tinh linh, ngọn lửa không kiểm soát được thiêu
+    Lilina cùng Succubus. Thế gian quên tên cô.'
+Map101.json:ev5p0:
+  effect: chua chát
+  mood: sa đọa, mỉa mai
+  summary: 'Good End B: Lilina phải ở trong mật thất của Hội 10 năm cho mạo hiểm giả kỳ cựu dùng miễn
+    phí.'
+Map101.json:ev7p0:
+  effect: lặp
+  mood: dâm
+  summary: Nghỉ ở mật thất, cảnh H lặp lại.
+Map102.json:ev5p0:
+  effect: căng
+  mood: bẫy, ngột ngạt
+  summary: Tên ăn mày bảo Lilina đợi, rồi cô ngửi thấy mùi lạ, cửa bị bịt kín, cô ngất.
+Map102.json:ev5p2:
+  effect: căng, áy náy
+  mood: u ám, giằng co
+  summary: Loken bắt Lilina mặc đồ bó, giấu thuốc mang tới quán rượu 'phục vụ khách'. Cô chọn dừng lại
+    để mai báo Hội, hoặc tiếp tục vì nghiện.
+Map102.json:ev7p1:
+  effect: chuyển cảnh
+  mood: lạnh
+  summary: Loken nhắc mang thuốc tới quán rượu, có lựa chọn kích hoạt cảnh ngay.
+Map103.json:ev1p0:
+  effect: chuyển cảnh
+  mood: chuẩn bị
+  summary: Ở cửa hang, \N[5] và Melissa không chịu xuống. Hệ thống nhắc lưu game. Hang tối nên phải dùng
+    Viêm Chi Quang.
+Map103.json:ev2p0:
+  effect: gài đặt
+  mood: cảnh báo
+  summary: Lính canh cảnh báo hang ký sinh trùng, dặn đừng xuống cửa hang phía chính bắc vì đó là ổ mẹ.
+Map104.json:ev3p0:
+  effect: tò mò
+  mood: bất an
+  summary: Lilina rơi xuống một nơi 'không ổn chút nào'.
+Map105.json:ev18p0:
+  effect: sốc, buồn cười nhẹ
+  mood: căng, châm chọc
+  summary: Lilina gặp Aisha, cựu nữ mạo hiểm giả số 1, giờ tự nguyện làm ổ cho trùng. Aisha bảo hang 'sống'
+    và chỉ cho kẻ ham muốn vào. Lilina chửi 'lợn nái!' rồi bỏ đi.
+Map105.json:ev1p0:
+  effect: lưỡng lự
+  mood: ghê rợn
+  summary: Lối ra duy nhất là hang thịt đầy xúc tu. Lilina phân vân có nên vào.
+Map105.json:ev2p2:
+  effect: rợn
+  mood: sa đọa, quyến luyến
+  summary: Lilina đói, nghỉ ngơi và thai nghén trứng Trùng Vương cho tới lúc lâm bồn, rồi khao khát vào
+    hũ thịt để giữ lời hẹn với Aisha.
+Map105.json:ev30p1:
+  effect: rợn, ngượng
+  mood: điên loạn, dâm
+  summary: Aisha cứu Lilina, giấu đồ của cô, kể giấc mơ thành Nữ vương ký sinh trùng, rồi để một con trùng
+    cấy trứng vào dạ dày cô.
+Map105.json:ev30p4:
+  effect: nghẹn lẫn rợn
+  mood: chia ly kỳ quặc
+  summary: Lilina thành 'vợ trùng', được Trùng Vương thụ tinh. Aisha bảo cô 'giờ cũng là lợn nái', xin
+    đừng bỏ rơi mình nếu thành nữ vương, rồi tự vào hũ thịt.
+Map105.json:ev34p0:
+  effect: nhẹ nhõm
+  mood: mệt mỏi
+  summary: Tìm khắp không thấy lối ra, nhưng nhặt được Thánh Linh Dược.
+Map105.json:ev3p1:
+  effect: cười rồi nghẹn
+  mood: xúc động, hài nhẹ
+  summary: Trùng Vương của Lilina nói được bằng giọng cô, kể cả suy nghĩ thầm. Cô giải thoát Aisha, nhường
+    ngôi nữ vương cho cô ấy, nhận lại đồ và sợi dây chuyền, hứa sẽ thường quay lại 'với tư cách một con
+    trùng'.
+Map105.json:ev3p2:
+  effect: ấm áp, hé mở tuyến Abaddon
+  mood: thân mật, thông tin
+  summary: 'Lần ghé lại: Aisha (đã nói được nhờ Trùng Vương) giải thích ma trùng Abaddon: ngụy trang như
+    tắc kè hoa, vô hiệu trước Trùng Vương. Hai người ân ái, Aisha gọi Lilina là ''nữ vương của tôi''.'
+Map105.json:ev4p1:
+  effect: căng
+  mood: ngột ngạt, sinh tử
+  summary: Trong hũ thịt, Lilina bị chơi đùa tới mức gần chết, rồi ý chí muốn sống (vì Aisha) đưa cô tới
+    một cực khoái chưa từng có.
+Map105.json:ev6p3:
+  effect: nghẹn khi thấy cô suýt quên Aisha; bật cười với con trùng làm loa; xúc động khi nhận dây chuyền
+  mood: mê man, rồi tỉnh ra, rồi hài, cuối cùng ấm áp và chia tay
+  summary: Trong hũ thịt, Lilina mất dần bản ngã, quên cả Aisha. Succubus cứu cô và giữ Trùng Vương con
+    làm 'mũ'. Lilina giết hoặc thuyết phục lão Trùng Vương, con trùng của cô nói bằng giọng cô, Aisha
+    thành Nữ vương và tặng cô dây chuyền.
+Map105.json:ev7p0:
+  effect: rợn, thấy ý chí của cô đang bị bào mòn
+  mood: mơ hồ, bị chi phối
+  summary: Đói, ngủ một đêm, Lilina bị ký sinh trùng của riêng mình chiếm lấy đầu. Cô cảm nhận được mọi
+    thứ xung quanh và ngoan ngoãn theo Aisha vào hũ thịt.
+Map105.json:ev7p1:
+  effect: thương xót
+  mood: mê muội mà vẫn chung tình
+  summary: Trứng Trùng Vương lớn dần, Lilina thèm hũ thịt và nhớ lời hứa với Aisha.
+Map106.json:ev3p0:
+  effect: tò mò, bất an
+  mood: choáng váng
+  summary: Lilina tỉnh dậy ở một nơi lạ, đang bị kích thích liên tục.
+Map107.json:ev2p0:
+  effect: ghê tởm, có chút hài đen khi hắn cụt hứng
+  mood: lừa lọc, mỉa mai
+  summary: Bác sĩ gỡ ký sinh trùng với giá 300G, cho uống thuốc an thần rồi lợi dụng lúc cô mê. Nếu cô
+    đeo đai trinh tiết thì hắn đành bỏ cuộc.
+Map108.json:ev1p0:
+  effect: thấy chỗ này đắt cắt cổ
+  mood: chợ búa
+  summary: Chủ lều đòi 300G một đêm và khinh người nghèo.
+Map108.json:ev6p0:
+  effect: cười
+  mood: hài hước
+  summary: Gặp lại tên con bạc, hắn thấy mặt là chạy, Lilina đuổi không kịp.
+Map109.json:ev11p0:
+  effect: thót tim, cười vì câu 'lần sau nhất định trúng'
+  mood: căng, hài đen
+  summary: Công bố kỳ lân thắng. Thua sạch thì tay sai áo đen lôi cô đi gặp BOSS.
+Map109.json:ev1p0:
+  effect: thấy mình bị kẹt, tò mò
+  mood: bối rối, mở tuyến
+  summary: Lilina tới trường đua thì phát hiện bị móc túi. Ở đây vật giá gấp mười, vé phi thuyền về mất
+    5000G. Tay nhận cược mời cô làm thêm và cảnh báo về ông chủ cho vay chỉ nhắm vào gái đẹp ham cờ bạc.
+Map109.json:ev27p0:
+  effect: cười và hơi lo
+  mood: tươi tắn mà ngầm nguy
+  summary: 'Cô thỏ giao việc: mặc đồ thỏ đi phát tờ rơi cho con kỳ lân trắng, kèm lời nhắc ''nghe mà rợn''
+    đừng về phòng nghỉ nếu chưa làm xong.'
+Map109.json:ev27p1:
+  effect: cười
+  mood: nhẹ nhàng
+  summary: Làm tốt thì được tặng Quyền trượng Bunny, cô thỏ lỡ lời rồi vội chữa.
+Map109.json:ev31p0:
+  effect: áp lực
+  mood: lạnh
+  summary: 'Tay sai: trả đủ nợ thì khế ước chấm dứt.'
+Map109.json:ev32p0:
+  effect: căng, buồn cười vì cô ảo tưởng
+  mood: liều lĩnh
+  summary: Cô nhận 500G để gỡ nợ, còn dưới 100G thì thành đồ của ông chủ. Lilina vẫn tuyên bố chắc thắng.
+Map109.json:ev3p0:
+  effect: rõ ràng, dễ dùng
+  mood: hệ thống
+  summary: 'Giao diện đặt cược: tỷ lệ, cược thêm, cược kép.'
+Map110.json:ev1p0:
+  effect: căng
+  mood: đe dọa
+  summary: Tới hạn nộp lãi; hết tiền thì bị dẫn đi 'đánh cược mạng'.
+Map111.json:ev1p0:
+  effect: căng
+  mood: đe dọa
+  summary: 'Như Map110: thu lãi, cược mạng.'
+Map112.json:ev7p0:
+  effect: nghẹt thở, ngán ngẩm
+  mood: áp bức
+  summary: \N[65] cho vay 3000G, lãi 10% mỗi ngày. Lilina định từ chối thì bị đầu gấu đập bàn dọa, đành
+    ký.
+Map113.json:ev4p0:
+  effect: thương
+  mood: u ám
+  summary: Một cô gái bị giam cũng gán thân trả nợ, khóc vì nhớ nhà.
+Map113.json:ev6p0:
+  effect: cười đoạn 'cô cười tôi!', bất lực khi mất trợ thủ
+  mood: bức bối pha hài
+  summary: Lilina bị ép uống nước tiểu kỳ lân. Succubus thu hồi dâm năng rồi biến mất, còn bật cười 'phụt'
+    khi cô huênh hoang. Cô bị đưa lên phi thuyền.
+Map113.json:ev7p0:
+  effect: tuyệt vọng
+  mood: căng
+  summary: Đầu gấu đưa xích ma thép phong ấn phép. Cô chọn thuận theo, hoặc chống lại rồi bị đánh ngất.
+Map114.json:ev2p0:
+  effect: ngượng, ghê
+  mood: trụy lạc, lố bịch
+  summary: Quý tộc tranh nhau mua quyền đầu tư vào Lilina, giá lên tới 30 triệu G, rồi xem cô đua trận
+    biểu diễn.
+Map114.json:ev3p0:
+  effect: hồi hộp
+  mood: náo nhiệt
+  summary: Trận ra mắt với con kỳ lân vàng, tỷ lệ 1 ăn 20, quý tộc đua nhau đặt cược.
+Map114.json:ev40p0:
+  effect: hướng dẫn
+  mood: đời thường
+  summary: Huấn luyện viên \N[66] dạy cưỡi ngựa cơ bản.
+Map114.json:ev44p0:
+  effect: dễ thương
+  mood: nhẹ
+  summary: Huấn luyện để vun đắp tình cảm với \N[11].
+Map114.json:ev47p1:
+  effect: thỏa mãn
+  mood: vui
+  summary: Cùng \N[11] nhảy qua rào hoàn hảo, tăng kỹ năng cưỡi và độ thiện cảm.
+Map115.json:ev11p1:
+  effect: tò mò
+  mood: úp mở
+  summary: Lilina hỏi đường tắt, \N[68] bảo phải chuẩn bị tinh thần.
+Map115.json:ev9p0:
+  effect: cười vụ 'cứ như đi xem mắt', tò mò về thân phận cô
+  mood: lạ lùng, hơi hài
+  summary: Lần lượt các kỳ lân thử phản ứng với cô; tất cả đều chọn cô, kể cả Vua Kỳ Lân. \N[68] kinh
+    ngạc.
+Map115.json:ev9p1:
+  effect: cung cấp thông tin
+  mood: giảng giải
+  summary: \N[68] giải thích tính nết từng màu kỳ lân để Lilina chọn.
+Map115.json:ev9p3:
+  effect: hướng dẫn
+  mood: đời thường
+  summary: Giới thiệu huấn luyện viên \N[66], dặn tối về phải vun đắp tình cảm với kỳ lân.
+Map116.json:ev3p0:
+  effect: bất ngờ, rợn, cười vì hắn ghen
+  mood: đe dọa rồi chuyển sang âm mưu, lãng mạn kỳ quặc
+  summary: '\N[65] bắt cô gọi là chủ nhân, cược 7 ngày thắng một trận thì được tự do. Hé lộ: Vua Kỳ Lân,
+    người tình của hắn, muốn đồng hóa Lilina để cô sinh con cho tộc, và ra lệnh thay nước uống của cô
+    bằng nước tiểu của nó.'
+Map116.json:ev3p1:
+  effect: căng, thương Bạch Tuyết
+  mood: âm mưu
+  summary: Thắng hay thua đều dẫn tới khế ước đua mỗi ngày. Vua Kỳ Lân sai \N[67] 'an ủi' \N[65]. \N[65]
+    gài \N[67] làm tay trong, đẩy Lilina thành thú thê, đổi lại tiền chữa bệnh cho mẹ cô ấy.
+Map116.json:ev3p2:
+  effect: tức, tò mò
+  mood: thao túng, ngọt mà độc
+  summary: Báo kết quả đua. \N[65] biết Lilina đã thành vợ \N[11] và hét giá mua nó 10 triệu G. Hắn mời
+    trận biểu diễn rồi cược 2 triệu G với chế độ thú thê. \N[67] báo cáo và day dứt; \N[65] và Vua Kỳ
+    Lân bàn cách xóa nỗi xấu hổ của Lilina.
+Map116.json:ev3p3:
+  effect: thấy cô đã khuất phục
+  mood: sa ngã
+  summary: Thêm kết quả đua và ván cược; thua thì phải huấn luyện kiểu thú thê. Cuối cùng Lilina gọi 'Cảm
+    ơn chủ nhân khen ạ'.
+Map116.json:ev3p4:
+  effect: tức cười
+  mood: chua chát
+  summary: Mua được \N[11], nhận Bùa truyền tống, nhưng tiền thắng bị thu hết, chỉ được trả 10.000G.
+Map116.json:ev8p0:
+  effect: ngượng, khó đoán
+  mood: mập mờ
+  summary: Biết việc \N[65] làm cho tộc kỳ lân, Lilina muốn báo đáp. Hắn bảo cô cởi đồ rồi đuổi về, làm
+    cô hụt hẫng.
+Map116.json:ev8p1:
+  effect: bâng khuâng
+  mood: kết khép, êm mà buồn
+  summary: 'Chọn ở lại thì đạt Kỳ lân End: Lilina quên lời nguyền, thành nữ chủ trường đua, sinh con cho
+    \N[11].'
+Map117.json:ev10p0:
+  effect: nhẹ
+  mood: hệ thống, tình tứ
+  summary: Cho kỳ lân uống nước, có các lựa chọn tương tác mở dần theo độ thiện cảm.
+Map117.json:ev11p0:
+  effect: ấm, mà biết là có bẫy
+  mood: thân mật
+  summary: 'Đêm sang gặp \N[67]: đặc huấn, hoặc quyết định thành thú thê; \N[67] mừng vì ''được làm bạn
+    thật sự''.'
+Map117.json:ev13p0:
+  effect: cười, kinh
+  mood: hài đen
+  summary: Lilina phát hiện nước uống hằng ngày chính là nước tiểu \N[11] đã pha loãng.
+Map117.json:ev14p0:
+  effect: gợi ra manh mối
+  mood: nghi ngờ
+  summary: Uống trộm nước nhà bên thì thấy không có mùi lạ.
+Map117.json:ev15p0:
+  effect: cười
+  mood: vui
+  summary: Gặp \N[67] lúc tập; cô và kỳ lân của cô ấy cùng tên.
+Map117.json:ev16p0:
+  effect: dễ thương, đỏ mặt
+  mood: ngại ngùng, ấm áp
+  summary: \N[67] sang chào, hai người kết bạn, ngượng ngùng thú nhận cùng dùng phòng đặc huấn.
+Map117.json:ev3p0:
+  effect: cười
+  mood: hài nhẹ
+  summary: Lilina nhận phòng, đặt tên cho \N[11], ngủ chung với nó và bị đè lúc sáng.
+Map117.json:ev3p2:
+  effect: bất ngờ, rờn rợn
+  mood: tự sự, mê hoặc
+  summary: Lilina quyết phục tùng \N[65]. \N[11] hóa thành dáng Lilina, khen \N[65] là anh hùng của tộc
+    rồi kể về hắn một cách tô vẽ.
+Map117.json:ev7p0:
+  effect: nhẹ nhõm khi Succubus trở lại
+  mood: đời thường xen hy vọng
+  summary: Các lựa chọn trước khi ngủ. Succubus liên lạc qua tinh thần, hẹn gom 600 dâm năng để trốn bằng
+    'Truyền tống của Nữ vương'. Hôm có đua thì chọn tham gia hay bỏ.
+Map117.json:ev9p0:
+  effect: nhẹ
+  mood: tình tứ
+  summary: Cho kỳ lân ăn, có các lựa chọn từ cổ vũ tới tình tứ; cô dùng tóc chải lông cho nó.
+Map118.json:ev4p1:
+  effect: bị giam lỏng
+  mood: quy củ
+  summary: \N[68] dẫn tới Nhà Kỵ Sĩ, dặn không được đi lung tung.
+Map118.json:ev4p5:
+  effect: cười
+  mood: giận dỗi dễ thương
+  summary: \N[67] dỗi vì Lilina đi đặc huấn mà không rủ, cuối cùng nhận hướng dẫn cô.
+Map119.json:ev12p0:
+  effect: ngượng chín mặt
+  mood: ngượng, hài
+  summary: '''Đường tắt'': yên ngựa có gắn dụng cụ, dùng tiếng rên để tăng tốc kỳ lân. \N[68] không dám
+    nhìn và giao chìa khóa.'
+Map119.json:ev12p2:
+  effect: ngượng
+  mood: kỳ quặc
+  summary: \N[67] trói Lilina, dạy đi không cần dây cương mà dựa vào 'tình cảm'.
+Map119.json:ev12p4:
+  effect: cười vì lời thề cưới nhại, sốc
+  mood: nhại nghi lễ, sa ngã
+  summary: Ở phòng chứa đồ (vốn là phòng thẩm vấn), \N[67] chủ trì lời thề 'đám cưới thần thánh' giữa
+    Lilina và \N[11]. Sau đó lộ ra cô mang thai 30 năm.
+Map119.json:ev12p5:
+  effect: thấy tâm lý cô đã đổi
+  mood: sa ngã
+  summary: Lặp lại; Lilina muốn \N[67] nhìn mình và tự nhận là 'cô gái dâm đãng chỉ của riêng cậu'.
+Map119.json:ev12p6:
+  effect: căng, nhục
+  mood: cưỡng ép
+  summary: \N[65] ép Lilina chạy ở chế độ thú thê.
+Map119.json:ev1p0:
+  effect: khó chịu, thấy cô sa ngã dần
+  mood: ép buộc, nhơ nhớp
+  summary: Huấn luyện viên Matt cưỡng hiếp Lilina trên lưng kỳ lân, lấy cớ giúp cô thắng cuộc đua. Cô
+    xuôi theo.
+Map119.json:ev1p1:
+  effect: căng
+  mood: hành hạ
+  summary: Fitch bắt Lilina chạy mãi cho tới khi ngất, rồi sai Matt đưa cô về.
+Map119.json:ev1p2:
+  effect: ngượng, sốc, tò mò
+  mood: ngập ngừng, rồi sững lại
+  summary: \N[67] hỏi kỳ lân là gì trong lòng Lilina, rồi thú nhận mình là vợ thần thú và gợi ý cô lấy
+    \N[11] làm chồng.
+Map119.json:ev2p0:
+  effect: nhẹ
+  mood: mệt mỏi
+  summary: Đặc huấn kết thúc khi Lilina kiệt sức. Matt mắng cô lười.
+Map119.json:ev4p0:
+  effect: căng
+  mood: đe dọa
+  summary: Menu chọn đặc huấn với Matt hoặc Fitch. Fitch ra lệnh trói cô lại và khóa cửa phòng.
+Map119.json:ev6p2:
+  effect: ghê sợ
+  mood: bị cưỡng ép
+  summary: Lilina tự nhủ 'vì muốn thắng' để tiếp tục tập. Matt đòi làm tiếp và nói lộ ra rằng giới quý
+    tộc đã mua cô.
+Map119.json:ev7p0:
+  effect: khó chịu
+  mood: nhục nhã
+  summary: Matt xuất tinh trong người Lilina mà không cho cô đi rửa. Cô lo mang thai.
+Map120.json:ev2p0:
+  effect: cười
+  mood: tếu, phá vỡ bức tường thứ tư
+  summary: Succubus làm 'người dẫn' quảng cáo Patreon của wolfzq và dự án RPG đồng nhân của 鬼畜3G. Nếu
+    người chơi từ chối thì cô ta khóc '555'.
+Map121.json:ev11p0:
+  effect: ngượng, buồn cười
+  mood: nhẹ nhàng
+  summary: Meri trầm trồ chuyện Lilina một mình diệt ma vật dưới giếng. Lilina cười gượng vì đó thật ra
+    là dâm ma.
+Map121.json:ev19p0:
+  effect: căng, mở tuyến mới
+  mood: khẩn cấp
+  summary: Lính gác thành ập vào bắt người vì một lính gác bị ám sát. Owen giao nhẫn và mặt nạ cho Lilina,
+    cử cô đi gom thành viên về căn cứ ở bãi biển phía đông Anvil.
+Map121.json:ev21p0:
+  effect: mỉm cười
+  mood: vui
+  summary: Một mạo hiểm giả hâm mộ xin đi làm nhiệm vụ cùng Lilina.
+Map121.json:ev4p0:
+  effect: tự hào xen ngượng
+  mood: trang trọng, hơi gượng
+  summary: Owen chọn Lilina làm tấm gương của Hội, bảo cô gọi thẳng tên mình, rồi giới thiệu cô trước
+    toàn Hội.
+Map121.json:ev4p3:
+  effect: nghẹn, phẫn nộ, choáng vì cú lật
+  mood: lạnh, cay đắng
+  summary: 'Owen lật bài: người của hắn đã xúi \N[13] ám sát. Giờ chỉ hắn nắm thuốc giải nên Lilina phải
+    thề trung thành. Hắn công bố đám cưới ở Đại giáo đường Thánh đô.'
+Map122.json:ev11p0:
+  effect: ngượng, căng
+  mood: giằng xé
+  summary: Lilina phân vân có nên hôn Owen bằng cái miệng còn dính tinh dịch của \N[13] để tránh bị nghi.
+Map122.json:ev11p1:
+  effect: căng, ngờ vực
+  mood: mưu lược
+  summary: Lilina trao cho Owen các thư nhiệm vụ của lính đánh thuê. Owen điều Ils đi chặn, rồi chuyển
+    vật tư, nhưng không cho cô đi theo.
+Map122.json:ev3p0:
+  effect: bình thường
+  mood: bắt đầu nhiệm vụ
+  summary: Owen cử Lilina đi tìm đội thám hiểm ở dãy núi tây bắc và đưa cô thuốc nổ mạnh.
+Map122.json:ev3p1:
+  effect: tò mò
+  mood: điều tra
+  summary: Lilina báo chuyện sơn tặc khác thường. Owen nghi \N[13] và cử cô đến khu rừng tây nam.
+Map122.json:ev3p2:
+  effect: cảm mến (về sau thấy cay)
+  mood: ấm áp
+  summary: Lilina báo đã thấy trại lính đánh thuê. Owen đưa cô chìa khóa biệt thự, và cô thừa nhận đã
+    hiểu lầm hắn.
+Map122.json:ev3p5:
+  effect: mong đợi, hơi ngờ
+  mood: phấn khởi
+  summary: Owen muốn đề cử Lilina làm Thợ săn Thiên thần và sắp xếp trận đấu với Ils.
+Map122.json:ev3p9:
+  effect: căng
+  mood: gấp
+  summary: Mạo hiểm giả về báo bị phục kích. Owen giao việc cho Reno.
+Map123.json:ev10p0:
+  effect: xao xuyến, bất ngờ
+  mood: lãng mạn rồi bị cắt ngang
+  summary: Đêm bên bờ biển, Owen và Lilina tâm sự về những ước mơ giản dị khó đạt. Hắn vừa xin ôm cô thì
+    căn cứ bị đột kích.
+Map123.json:ev11p0:
+  effect: nhẹ
+  mood: lặt vặt
+  summary: Bác sĩ của Hội chữa ký sinh trùng và bán thuốc.
+Map123.json:ev29p1:
+  effect: sốc
+  mood: phản bội
+  summary: \N[13] lộ mình là lính đánh thuê, đánh bại Lilina rồi bắt cô đi.
+Map123.json:ev34p0:
+  effect: căng, ngượng
+  mood: dục vọng, giằng xé
+  summary: Đám lính đánh thuê giả làm thương nhân đưa Lilina, đang trúng dâm độc, về căn cứ. Cô dụ dỗ
+    Resk; nếu chọn 'kiềm chế' thì cô gượng dừng lại được.
+Map123.json:ev38p2:
+  effect: ngượng, buồn cười
+  mood: bối rối
+  summary: Lilina gần như không giữ nổi mình trước Islebur, rồi nhận đi núi tây bắc để rời khỏi căn cứ.
+Map123.json:ev48p0:
+  effect: cười, ngờ là có sắp đặt
+  mood: hội hè, hài kiểu fan service
+  summary: 'Trận đấu giành thẻ gỗ với Ils: áo quần Lilina bị xé, nhưng thẻ của Ils rơi xuống và cô thắng
+    một cách khó hiểu. Cô được phong Thợ săn Thiên thần.'
+Map123.json:ev4p0:
+  effect: không
+  mood: hệ thống
+  summary: Lời nhắc nghỉ ngơi.
+Map123.json:ev51p0:
+  effect: căng
+  mood: bí mật
+  summary: Lilina dẫn đội hộ tống mật danh 'Báo Săn'. Tên lính đánh thuê làm nhân chứng ngầm nhận ra cô.
+Map123.json:ev5p0:
+  effect: bình thường
+  mood: nhiệm vụ phụ
+  summary: Islebur nhờ mang về thuốc hồi phục, nước phép và thuốc vạn năng.
+Map123.json:ev5p2:
+  effect: bình thường
+  mood: nhiệm vụ phụ
+  summary: Lặp lại nhiệm vụ vật tư của Islebur.
+Map123.json:ev5p4:
+  effect: bình thường
+  mood: nhiệm vụ phụ
+  summary: Lặp lại nhiệm vụ vật tư của Islebur.
+Map123.json:ev71p0:
+  effect: thán phục xen ghê
+  mood: mưu kế
+  summary: 'Hồi tưởng: Owen bày bẫy doanh trại trống, giết chỉ huy lính đánh thuê, rồi dụ hàng bằng ''tiền,
+    danh, đàn bà''.'
+Map123.json:ev7p1:
+  effect: ngượng
+  mood: bối rối
+  summary: Parker muốn đỡ Lilina, nhưng cô đang trúng độc nên vừa cầu cứu vừa đẩy anh ra.
+Map124.json:ev2p0:
+  effect: chua chát
+  mood: ngọt mà độc
+  summary: Menu nghỉ. Nhánh H với Owen trong vai nô lệ tình dục; hắn thưởng thuốc giải và cô tin là hắn
+    yêu mình.
+Map124.json:ev5p0:
+  effect: nghẹn
+  mood: ấm áp, buồn
+  summary: Sau khi được cứu, Lilina chủ động xin được an ủi. Owen dịu dàng xin cô ở lại bên mình; trong
+    đầu cô thầm nghĩ 'mình trúng độc thì còn chọn được gì'.
+Map124.json:ev5p10:
+  effect: nghẹn, rùng mình
+  mood: bi tráng, lạnh
+  summary: Owen ra lệnh cho Reno đánh một trận để thua và chết thay mình, hứa chăm lo cho đứa con gái
+    bệnh của Reno.
+Map124.json:ev5p2:
+  effect: xót
+  mood: ấm, áy náy
+  summary: Owen khen tình báo của cô và dặn đừng đến rừng phía tây nữa. Cô thầm nghĩ mình buộc phải đi.
+Map124.json:ev5p4:
+  effect: xót
+  mood: giằng xé
+  summary: Sau vụ cháy, Owen van cô đừng dính dáng tới lính đánh thuê. Cô hứa nhưng trong lòng biết mình
+    'thân bất do kỷ'.
+Map124.json:ev5p6:
+  effect: xúc động (về sau thành mỉa mai)
+  mood: lãng mạn, gấp gáp
+  summary: Owen giao Lilina dẫn đội hộ tống 'Báo Săn' đưa nhân chứng đi, rồi cầu hôn. Chiếc nhẫn tổ truyền
+    vốn do phu nhân hội trưởng các đời giữ, và cô nhận lời.
+Map125.json:ev15p1:
+  effect: hả hê
+  mood: hành động
+  summary: Lilina cứu đội mạo hiểm giả khỏi sơn tặc và báo tin Hội gặp nạn.
+Map127.json:ev12p0:
+  effect: ngượng
+  mood: xấu hổ
+  summary: Lilina đang trần truồng nên phải đi lấy quần áo trước. Thoát ra rồi cô thấy 'kích thích, hơi
+    nghiện'.
+Map127.json:ev14p0:
+  effect: 'cười (cài cắm: hắn đang diễn)'
+  mood: hài nhẹ
+  summary: \N[13] bị nhốt, kể chuyện đau bụng đi giải rồi bị đánh úp. Lilina mắng hắn lười tập võ.
+Map127.json:ev15p0:
+  effect: căng
+  mood: hồi hộp
+  summary: Lilina thấy trại lính đánh thuê. Bị phát hiện thì cô chọn quyến rũ hoặc đánh. Nếu thua, Succubus
+    xen vào hút dâm năng.
+Map127.json:ev15p5:
+  effect: ngượng
+  mood: nhẹ nhõm, xấu hổ
+  summary: Các câu thoại khi trốn thoát ra cổng trại.
+Map127.json:ev15p6:
+  effect: ngượng
+  mood: nhẹ nhõm
+  summary: Như ev15p5.
+Map127.json:ev19p0:
+  effect: căng
+  mood: hệ thống
+  summary: Chọn trốn đợi trời tối.
+Map127.json:ev20p0:
+  effect: khó chịu
+  mood: tàn bạo
+  summary: 'Lính đánh thuê nhận ra Lilina và bày trò ''bắt cừu non'': lột trần, rượt đuổi, ép uống nước,
+    hiếp tập thể.'
+Map127.json:ev20p1:
+  effect: khó chịu
+  mood: nhục
+  summary: 'Các vòng lặp của trò chơi: bị ép uống nước, cấm đi tiểu, bị hiếp.'
+Map127.json:ev21p1:
+  effect: chua chát
+  mood: sa ngã
+  summary: Ngủ lại trong trại; Lilina đòi 'chơi thêm một lần'.
+Map127.json:ev22p2:
+  effect: hồi hộp
+  mood: căng
+  summary: Lính gác tra hỏi Lilina đi đâu. Có nhiều lựa chọn, nói dối thì bị bắt 'chơi'.
+Map127.json:ev23p0:
+  effect: áy náy
+  mood: nhẹ nhõm, dối trá
+  summary: Owen dẫn quân tới cứu. Lilina nói dối rằng mình đốt nhà mà thoát.
+Map127.json:ev25p0:
+  effect: căng ngầm
+  mood: bình thường
+  summary: Lính đánh thuê báo \N[13] chờ cô ở kho phía bắc.
+Map127.json:ev26p0:
+  effect: lo lắng
+  mood: âm mưu
+  summary: Đám lính đánh thuê giả thường dân áp giải Lilina đã bị chuốc thuốc về Hội, mưu làm cô mất lý
+    trí trước mặt mọi người.
+Map127.json:ev4p0:
+  effect: cười gượng
+  mood: tục tĩu, đùa
+  summary: Lính đánh thuê trêu tục '“em trai” tôi không có chỗ về'.
+Map127.json:ev5p0:
+  effect: cười gượng
+  mood: đùa
+  summary: Như ev4p0.
+Map127.json:ev6p0:
+  effect: cười gượng
+  mood: đùa
+  summary: Như ev4p0.
+Map128.json:ev16p0:
+  effect: cười
+  mood: hài
+  summary: Một tên lính đánh thuê kể đời mình bằng giọng kiếm hiệp sến súa. Lilina bóc mẽ từng câu, lộ
+    ra hắn bị đuổi vì nghiện rượu, đánh nhau.
+Map128.json:ev21p0:
+  effect: khó chịu, căng
+  mood: thống trị
+  summary: \N[13] gọi Lilina vào phòng, ép cô phục tùng gọi hắn 'chủ nhân', và ghen với Owen. Có nhiệm
+    vụ đổi lấy thuốc giải đặc chế.
+Map128.json:ev22p0:
+  effect: khó chịu
+  mood: nhục
+  summary: Một tên lính đánh thuê đổi thuốc giải lấy thân xác Lilina, gọi cô là kỹ nữ.
+Map128.json:ev25p0:
+  effect: căng, mở xung đột
+  mood: căng thẳng
+  summary: \N[13] giả vờ ra lệnh giết Owen để thử lòng cô, rồi cho cô về làm nội gián, kèm lời dặn 'bị
+    lộ là mất thuốc giải'.
+Map128.json:ev26p0:
+  effect: căng nhẹ
+  mood: thấp thỏm
+  summary: 'Lựa chọn nghỉ ở chỗ trốn trong trại lính: cô lo bị ''tập kích đêm''.'
+Map128.json:ev2p0:
+  effect: căng, ngượng
+  mood: ngột ngạt, lén lút
+  summary: Lilina ngủ trên giường thì bị một tên lính đánh thuê lén cưỡng hiếp ban đêm. Cô phải nín tiếng
+    để khỏi đánh thức cả trại.
+Map128.json:ev30p0:
+  effect: hồi hộp, thích thú vì lừa được địch
+  mood: hồi hộp, lém lỉnh
+  summary: Lilina đọc trộm ba mật lệnh của \N[13] (điều tra đường tiếp tế, đốt căn cứ, đích thân hắn dẫn
+    quân đánh đường tiếp tế), chép lại cho Owen rồi về giường chờ hắn.
+Map128.json:ev30p1:
+  effect: ngượng, bứt rứt
+  mood: ám muội, giằng xé
+  summary: \N[13] trở về. Lilina phục vụ hắn, gọi 'chủ nhân'. Hắn ra lệnh cô về hôn Owen để làm nhục Owen,
+    và hỏi nếu giải độc thì cô có ở lại không. Cô bắt đầu chớm rung động và đổ cho bộ giáp.
+Map128.json:ev35p0:
+  effect: trung tính
+  mood: chuyển cảnh
+  summary: Lựa chọn nằm chờ \N[13] trên giường.
+Map128.json:ev37p0:
+  effect: tò mò, bất ngờ
+  mood: tiết lộ, đắc ý
+  summary: Nhật ký của \N[13] tiết lộ hắn ám sát \N[53] để vu cho Hội, gọi Lilina là 'thiên thần may mắn',
+    khống chế cô bằng độc, bán thuốc giải kiếm lời và ngày càng mê cô.
+Map128.json:ev37p1:
+  effect: cười khẩy, hả hê
+  mood: hài
+  summary: 'Trang nhật ký sau: \N[13] tưởng đã đốt sạch kho, nhưng thực ra chỉ đốt cỏ khô. Lilina hả hê.'
+Map128.json:ev3p0:
+  effect: nghẹn, căng
+  mood: tàn nhẫn, tuyệt vọng
+  summary: '''Lễ chào mừng'': Lilina bị cả đám lính hiếp tập thể, suýt bị giết, rồi bị \N[13] ép uống
+    thuốc độc phát tác 5 ngày một lần để làm lính đánh thuê bí mật. Đây là nơi \N[13] lộ mình là thủ lĩnh.'
+Map128.json:ev3p2:
+  effect: ngột ngạt
+  mood: tàn nhẫn
+  summary: 'Cảnh lặp: cô bị cả doanh trại hiếp tập thể để đổi lấy thuốc giải.'
+Map128.json:ev7p0:
+  effect: ngượng, áy náy
+  mood: ám muội, tội lỗi
+  summary: Lilina vào phòng \N[13] để tìm cơ hội điều tra. Bị hắn ép, cô nhờ bộ giáp để nói ra lời thề
+    thuộc về hắn. \N[13] đắc ý tuyên bố sẽ cướp hết của Owen.
+Map129.json:ev6p0:
+  effect: căng, hài đen (cô tưởng mình miễn nhiễm)
+  mood: đe dọa, trớ trêu
+  summary: Một nhóm lính ghen ghét chặn Lilina, buộc tội cô hai mang rồi ép cô uống 20 chai mị dược định
+    đem đi làm nhục trước Hội. Cô tưởng bộ giáp sẽ chặn được thuốc nhưng không.
+Map130.json:ev8p1:
+  effect: ngượng, buồn cười (lời nói lắp lộ dục vọng)
+  mood: ngượng ngùng pha hài, dâm
+  summary: Đang dính mị dược, Lilina gặp đội thám hiểm bị quái cướp túi tiếp tế. Cô nói dối là dùng 'cấm
+    thuật' để đuổi họ đi, rồi để con quái mở đai trinh tiết và giao hợp với nó.
+Map130.json:ev8p3:
+  effect: mỉa mai nhẹ
+  mood: tự hào, trớ trêu
+  summary: Lilina mang túi tiếp tế về. Đội thám hiểm phục cô và hứa tiến cử cô làm 'Thợ săn Thiên thần',
+    danh dự cao nhất của nữ mạo hiểm giả.
+Map132.json:ev2p2:
+  effect: ngượng
+  mood: dâm, nũng nịu
+  summary: 'Cảnh lặp: cô quay lại ''chơi'' với thần thú, gọi nó là ''đứa trẻ hư'', rồi ngủ lại bên nó.'
+Map132.json:ev4p0:
+  effect: ngượng, hơi buồn cười
+  mood: dâm, dỗ dành
+  summary: Lilina tìm ra con quái hóa ra là thần thú. Cô giao hợp với nó để giải mị dược, dỗ được nó trả
+    túi tiếp tế và còn được nó tặng khoáng sản.
+Map132.json:ev4p1:
+  effect: ngượng
+  mood: dâm, sa đọa
+  summary: 'Nhánh khác: con quái vẫn hung dữ, Lilina tự hạ mình làm ''bô'' của nó, đến khi nó bỏ chạy
+    thì cô lấy lại túi tiếp tế.'
+Map133.json:ev23p0:
+  effect: căng, nghẹn
+  mood: căng, tuyệt vọng, hy sinh
+  summary: Đoàn hộ tống tên đào ngũ bị phục kích. Lilina nhận ra cái bẫy nhắm vào Owen nên đầu hàng để
+    cứu người. Cô cầu Succubus và phải chấp nhận làm 'nữ vương' để quyến rũ giữ chân \N[13]. Succubus
+    cảnh báo Owen không như cô thấy.
+Map133.json:ev23p1:
+  effect: nghẹn rồi bất ngờ
+  mood: đau đớn rồi đảo chiều
+  summary: Tin báo Owen đã chết khiến Lilina gục ngã trong lúc bị hiếp tập thể. Owen bất ngờ xuất hiện,
+    an ủi cô và nói kẻ chết là người bị nhầm, cánh quân đánh trại đã đầu hàng.
+Map133.json:ev23p2:
+  effect: tò mò, rợn
+  mood: lật ngược, bất an
+  summary: Owen ném lệnh bài, tuyên bố 'kịch bản là do ta viết'. \N[13] nhận ra tai mắt của Owen không
+    phải Lilina. Lilina nghi ngờ vì chuyện đính hôn bị lộ, dùng chiếc nhẫn tách đoàn về Anvil.
+Map134.json:ev12p0:
+  effect: trung tính
+  mood: hệ thống
+  summary: 'Tiệm làm đẹp tùy biến: đổi màu tóc (RGB), kiểu tóc, mắt, mặt và hình xăm theo các mẫu tham
+    chiếu.'
+Map134.json:ev13p0:
+  effect: trung tính
+  mood: hệ thống
+  summary: 'Tiệm tùy biến mẫu 祇堂鞠也: tóc, mắt, mặt, cơ thể (ngực phẳng, ''dương vật''), trang phục.'
+Map134.json:ev3p0:
+  effect: trung tính
+  mood: hệ thống
+  summary: Tiệm tùy biến có thêm tùy chọn đổi chủng tộc (người, tinh linh, hắc tinh linh).
+Map134.json:ev5p0:
+  effect: trung tính
+  mood: hệ thống
+  summary: Tiệm tùy biến, các mẫu nữ thần Cây Thế giới, Asagi, Valkyrie, trang điểm, hình xăm.
+Map134.json:ev7p0:
+  effect: trung tính
+  mood: hệ thống
+  summary: Tiệm tùy biến, các mẫu hắc tinh linh, Camilla, Enoshima Junko, Mika, thêm da trắng và LOLI.
+Map134.json:ev8p0:
+  effect: trung tính
+  mood: hệ thống
+  summary: Tiệm chuyên mẫu '7 tội' (Lucifer, Asmodeus, Samael, Mammon, Leviathan, Belphegor, Beelzebub)
+    cùng Kén Sao, Mèo.
+Map135.json:ev12p0:
+  effect: bứt rứt
+  mood: gượng gạo
+  summary: 伊斯萊布爾 chúc mừng tân hôn. Lilina định hỏi điều gì đó nhưng lại thôi.
+Map135.json:ev13p0:
+  effect: nghẹn nhẹ
+  mood: ngập ngừng, buồn
+  summary: Resk xin lỗi vì 'chuyện trước kia'. Lilina bảo coi đó là bí mật chung của hai người.
+Map135.json:ev7p0:
+  effect: gượng, rợn ngầm
+  mood: vui ngoài mặt, ngầm u ám
+  summary: 'Lễ cưới công khai tại giáo đường: thề nguyện, mọi người hò ''hôn đi''. Owen pha trò rằng điều
+    tiếc duy nhất là không còn kẻ thù.'
+Map135.json:ev7p1:
+  effect: căng, tò mò
+  mood: bất an
+  summary: Owen ép Lilina cười, hứa có 'bất ngờ lớn', bịt mắt cô rồi cấm tháo ra. Cô nghe tiếng ai đó
+    bị bịt miệng.
+Map135.json:ev7p2:
+  effect: sốc, nghẹn
+  mood: tàn nhẫn, phản bội
+  summary: 'Gỡ bịt mắt: \N[13] bị trói, đám lính đánh thuê đã có mặt. Owen lộ mình là thủ lĩnh mới, cưới
+    cô lần hai với lời thề ''phục tùng'', từ chối lời thề của chính mình và tuyên bố cô thuộc về cả đoàn.'
+Map135.json:ev7p3:
+  effect: nghẹn, ghê sợ
+  mood: tuyệt vọng, đồi bại
+  summary: Lilina bị hiếp tập thể trước mặt \N[13]. Owen trách cô vì đã thương \N[13] nên 'cướp mất hạnh
+    phúc của hai người', rồi linh mục tuyên bố cô là nô lệ tình dục của cả đoàn. \N[13] chửi Owen là cặn
+    bã. Cô ngất và tỉnh lại ở trại lính.
+Map136.json:ev9p0:
+  effect: căng
+  mood: căng thẳng
+  summary: Lilina trốn xem cảnh Owen dồn \N[13]. \N[13] bắt cô làm con tin, dọa khai chuyện giữa hai người,
+    rồi bắt đầu vạch trần rằng Owen biết hết kế hoạch.
+Map136.json:ev9p1:
+  effect: nghẹn, phẫn nộ
+  mood: vỡ mộng, cay đắng
+  summary: Lộ ra kẻ chết thay là Reno, tai mắt là tên lính từng ép cô uống mị dược, và mọi thứ đều do
+    Owen dựng. \N[13] bảo cô trốn rồi bị hạ. Lilina đổi sự phục tùng lấy mạng \N[13], còn Owen buộc cô
+    vẫn phải làm vợ 'trên danh nghĩa'.
+Map137.json:ev1p1:
+  effect: tò mò
+  mood: giả trang
+  summary: Ở cổng Torres, Lilina trong vai nô lệ \N[61] của thành chủ xin vào thành. Lính gác đeo vòng
+    cổ nô lệ cho cô.
+Map137.json:ev2p0:
+  effect: cười khẽ, tò mò
+  mood: hài nhẹ, giả trang
+  summary: Lilina muốn ra cảng nhưng định cứu công chúa trước. Lính gác lắm lời soi mái tóc đen của cô,
+    trong bụng cô chê 'ông chủ lắm mồm'.
+Map137.json:ev38p0:
+  effect: buồn cười vì tính toán hỏng
+  mood: rình rập, hài
+  summary: Thủy thủ chặn không cho nô lệ vào. Lilina rình tới đêm nhưng hắn không hề rời chỗ, đến lúc
+    khóa cửa bỏ đi.
+Map137.json:ev44p0:
+  effect: căng, tò mò
+  mood: mở tuyến, u ám
+  summary: 'Lính gác: phụ nữ không phải nô lệ thì cấm vào Torres. Lilina nhận mình là nô lệ và bị trói
+    đưa đến Thương hội nô lệ.'
+Map137.json:ev45p0:
+  effect: căng, ghê sợ trước luật lệ của thành
+  mood: tàn nhẫn, nhục nhã
+  summary: Buổi đấu giá đầu tiên. Mở màn là cảnh xử chém một nữ nô không ai mua. Lilina phản đối nên bị
+    siết cổ, sau đó bị giới thiệu là 'hàng hôm nay' kèm số đo, tuổi, 'trinh nữ', rồi bị 'dùng thử' tập
+    thể. Succubus tự ý mở phong ấn.
+Map137.json:ev45p1:
+  effect: thấy cô đã quen thân phận
+  mood: cam chịu, dần sa ngã
+  summary: 'Lần đấu giá lặp lại: Lilina tự rao bán mình và được một chủ mới mua.'
+Map137.json:ev45p2:
+  effect: hồi hộp, rồi nhẹ nhõm kèm chút hài đen ('chuồng heo cũng nói hài lòng')
+  mood: căng thẳng sinh tử
+  summary: Sau ba lần bị trả hàng, Lilina đứng trước máy chém và chọn cầu xin, chửi rủa hoặc im lặng.
+    Phút chót có người mua.
+Map137.json:ev45p3:
+  effect: tò mò về Thành chủ, cài Cloria đã nhắm Lilina từ trước
+  mood: phô trương, rợn
+  summary: Cuộc thi tuyển nô lệ. Thành chủ bí ẩn đến xem cùng Cloria và Trosi, Cloria xin chọn Lilina
+    làm 'thú cưng'.
+Map137.json:ev48p0:
+  effect: xót
+  mood: thảm hại
+  summary: Lilina nghiện Skooma, van nài thương nhân bán thêm dù giá tăng.
+Map137.json:ev50p0:
+  effect: cười với màn đối đáp ngốc nghếch, đồng thời căng vì đó là lời cảnh báo cho đường trốn bằng thuyền
+  mood: hài đen, đe dọa
+  summary: Hai thủy thủ bàn nhau đi tìm nữ nô trốn lên thuyền để giữ làm của riêng. Lilina nghe được.
+Map137.json:ev51p0:
+  effect: căng, bị nhìn thấu
+  mood: ngột ngạt
+  summary: Lilina mua lương khô một tuần với giá 3000G, thương nhân ngầm biết cô định trốn.
+Map137.json:ev53p0:
+  effect: cười mỉm
+  mood: nhẹ, hài
+  summary: Một nữ nô vụng về lẩm bẩm kế hoạch trốn. Lilina từ chối đi cùng.
+Map137.json:ev64p0:
+  effect: tò mò, cài manh mối về vòng tay và thần khí
+  mood: bí ẩn
+  summary: Cloria đeo chiếc vòng 'Xiềng xích nô lệ' đi nhận hàng. Thủy thủ kể hai truyền thuyết về chiếc
+    vòng và thần lực của Thành chủ. Cloria dụ thủy thủ chở hàng về kho.
+Map137.json:ev65p0:
+  effect: thấy cô đã bị trói buộc
+  mood: ngắn, bị kiểm soát
+  summary: Lilina thèm khát nằm nghỉ ngoài đường, bị lính gác đưa về lâu đài.
+Map137.json:ev66p0:
+  effect: như trên
+  mood: ngắn
+  summary: 'Giống ev65p0: lính gác lôi cô về lâu đài.'
+Map137.json:ev67p0:
+  effect: nhẹ nhõm và thương
+  mood: chua chát, le lói hy vọng
+  summary: Lilina lên thuyền về cảng Anvil làm tay sai dụ nô lệ cho chủ. Succubus quay lại, giải thích
+    vì sao đã cắt liên lạc (thần lực bộc phát khi Lilina giết \N[14]), chỉ cách tẩy thần tính và gợi ý
+    tìm Hắc ma nữ \N[9].
+Map137.json:ev71p0:
+  effect: cười
+  mood: hài nhẹ
+  summary: Bác sĩ chữa ký sinh trùng theo cách 'sướng tới mức gây nghiện', bán thuốc đắt.
+Map137.json:ev7p0:
+  effect: nghẹn, ớn lạnh
+  mood: u ám, tuyệt vọng
+  summary: 'Bad end: \N[17] bị bắt. Lilina bị trói nơi quảng trường, thành ''chó cái'' \N[61] của \N[14],
+    đích thân cho xử chém bạn cũ, ký khế ước vĩnh viễn. Công chúa cũng sa ngã, Succubus im lặng, ba tháng
+    trôi qua.'
+Map138.json:ev18p0:
+  effect: bất ngờ, rợn
+  mood: lật mặt
+  summary: Vừa khuất mắt lính gác, Cloria lộ bộ mặt khinh bỉ đàn ông, chỉ tôn \N[14] là 'đàn ông thật'.
+Map138.json:ev18p1:
+  effect: như trên
+  mood: lật mặt
+  summary: Biến thể của ev18p0, cùng nội dung.
+Map138.json:ev23p0:
+  effect: cười và tò mò
+  mood: hài nhẹ, mưu tính
+  summary: Nhờ chiếc vòng, Cloria vào được kho Thương hội. Lilina biết chiếc vòng là biểu tượng hoàng
+    quyền và nảy ý dùng nó để trốn. Có màn lẫn lộn 'chủ nhân' gọi ai.
+Map138.json:ev26p0:
+  effect: bất ngờ, mở biến cố
+  mood: căng
+  summary: Ngoài đấu trường, bọn côn đồ do \N[19] cầm đầu đánh thuốc mê, bắt cóc Cloria và Trosi để đưa
+    tới kho bỏ hoang.
+Map139.json:ev8p0:
+  effect: cười chua
+  mood: mỉa mai, giao dịch
+  summary: Quản lý Thương hội đề nghị Lilina thi 'Vũ hậu', đút lót 5.000.000G hoặc làm 'nyotaimori' cho
+    giám khảo. Cũng có nhánh trả tiền xong là có thủ tục ra khỏi thành.
+Map139.json:ev9p0:
+  effect: ngột ngạt; ở đây cài luật xưng hô
+  mood: chiếm hữu
+  summary: Cloria nhận Lilina làm nô lệ vĩnh viễn của Thành chủ (chủ cũ được thưởng 5.000.000G), đặt ba
+    luật, trong đó có luật cấm nói chữ 'tôi', phải xưng \N[59].
+Map139.json:ev9p1:
+  effect: ngượng, cười gượng với độc thoại nhịn nhột
+  mood: nhục nhã pha hài
+  summary: Lilina làm 'đĩa đựng thức ăn' cho tiệc quý tộc, cấm phát ra tiếng, rồi được làm đại diện vũ
+    cơ, cứ 10 ngày một tiệc.
+Map140.json:ev18p0:
+  effect: căng, ngột ngạt
+  mood: cưỡng ép
+  summary: Điều giáo sư bắt Lilina tự thỏa mãn trước mặt hắn, siết vòng cổ, ép gọi 'chủ nhân'. Có nhánh
+    phát hiện cô là nô lệ vĩnh viễn nên giao cho Cloria.
+Map140.json:ev18p1:
+  effect: sốc, cú lật cốt truyện
+  mood: bất ngờ
+  summary: 'Lilina trở lại. Cloria kể \N[14] đã đem cô ta và thần khí cho chủ mới \N[17]. Lilina sững
+    sờ vì tưởng \N[14] đã chết. Nhánh khác: Cloria trừng phạt cô vì bỏ đi, bắt làm ''chó Teddy''.'
+Map140.json:ev23p0:
+  effect: căng, giới thiệu luật chơi
+  mood: sợ hãi, nhục nhã
+  summary: Lilina bị bịt mắt lột trần dắt vào Torres. Điều giáo sư khám, giải thích vòng điều khiển, luật
+    cho thuê đấu giá, chuộc thân 5.000.000G và khế ước vĩnh viễn.
+Map140.json:ev23p2:
+  effect: chán nản
+  mood: thất bại
+  summary: Bị bắt lại sau lần trốn thất bại, Lilina bị lính gác xử lý đai trinh tiết.
+Map140.json:ev23p3:
+  effect: căng, phẫn nộ
+  mood: tuyệt vọng, lật mặt
+  summary: Lính gác trám lỗ khóa vòng cổ. Lilina phát hiện mình đã ký nhầm khế ước nô lệ vĩnh viễn. Cloria
+    tỏ tình kiểu chiếm hữu và đe dọa bằng thế lực của Thành chủ, Lilina phải nghe lời.
+Map141.json:ev13p0:
+  effect: ngượng và cười
+  mood: hài đen
+  summary: Trosi dắt Lilina đóng vai chó vào cung điện. Lilina sợ mình tự thôi miên thành chó thật.
+Map142.json:ev6p1:
+  effect: cười
+  mood: hài
+  summary: Lính gác khen Trosi lắm ý tưởng. Lilina sủa vì chỉ muốn được khen.
+Map143.json:ev17p1:
+  effect: hồi hộp
+  mood: căng, đào thoát
+  summary: Lilina dùng vòng 'Xiềng xích nô lệ' để đưa công chúa \N[64] ra khỏi lâu đài.
+Map143.json:ev23p1:
+  effect: cười
+  mood: hài đen
+  summary: Lilina tự nhẩm 'tiện nô là con chó cái' lặp N lần. Lính gác hỏi Trosi có đang dắt chó đi dạo
+    không, Lilina sủa chào.
+Map143.json:ev24p1:
+  effect: cười
+  mood: hài đen
+  summary: Giống ev23p1.
+Map143.json:ev35p1:
+  effect: cười
+  mood: hài đen
+  summary: Giống ev23p1.
+Map143.json:ev36p1:
+  effect: cười
+  mood: hài đen
+  summary: Giống ev23p1.
+Map143.json:ev37p0:
+  effect: cười rồi chột dạ
+  mood: hài đen, đáng lo
+  summary: Lính gác bảo 'chó người đẹp' sủa. Lilina sủa, nhập vai tới mức cảm ơn chủ.
+Map143.json:ev38p1:
+  effect: cười
+  mood: hài đen
+  summary: Giống ev23p1.
+Map143.json:ev39p1:
+  effect: cười
+  mood: hài đen
+  summary: Giống ev23p1.
+Map144.json:ev13p0:
+  effect: ngột ngạt; khắc họa Cloria
+  mood: tàn nhẫn, khoái trá
+  summary: Cloria dẫn Lilina về phòng giam cũ của mình, dạy xưng hô và biểu cảm, đeo đai trinh tiết ma
+    thép và gậy rung chạy bằng ma lực của Lilina, hành cô cả đêm. Sáng ra Lilina chọn cảm ơn hoặc chửi
+    'ác quỷ'.
+Map144.json:ev14p0:
+  effect: hồi hộp, tò mò
+  mood: mưu tính, căng
+  summary: 'Lilina một mình tính toán: phải ''điều giáo'' công chúa cho khỏi bị nghi, uống thuốc giải
+    trước rồi bôi độc để hạ độc ai đó.'
+Map144.json:ev16p0:
+  effect: cười với màn đảo vai, nghẹn ở đoạn tâm sự
+  mood: đảo vai, vừa hài vừa xót
+  summary: Lilina điều giáo công chúa \N[64]. Succubus khơi tính S và mọc 'của đàn ông' cho cô. Công chúa
+    đòi cô chịu trách nhiệm. Trong cảnh riêng, công chúa khóc nhớ nhà, Lilina khích lệ cô ấy giữ mình
+    là công chúa nhưng chưa tiết lộ thân phận, rồi định gặp \N[17] ở kỹ viện.
+Map144.json:ev16p1:
+  effect: ngượng, có chút hài vì vai chủ – tớ bị đảo
+  mood: H, giằng co giữa thích thú và tự trách
+  summary: Lilina huấn luyện Sanga bằng thiết bị ma lực. Succubus trỗi dậy làm cô mọc dương vật; Lilina
+    giao hợp với Sanga, rồi quất roi. Sanga tự nguyện gọi Lilina là chủ nhân và xin được 'hầu hạ' lại.
+Map144.json:ev16p6:
+  effect: nghẹn, hồi hộp
+  mood: khẩn trương, xúc động
+  summary: Nửa đêm Lilina đánh thức Sanga để đưa cô ấy trốn, nói mình nhận ủy thác của \N[17]. Sanga khóc,
+    cảm ơn và xin lỗi vì Lilina phải làm nô lệ để cứu mình.
+Map144.json:ev17p0:
+  effect: thao tác
+  mood: chuyển cảnh
+  summary: Lilina chọn trang phục trước khi đưa công chúa đi.
+Map144.json:ev24p0:
+  effect: lo lắng, bật cười vì Succubus cằn nhằn
+  mood: u ám xen hài
+  summary: 'Nhánh sa ngã: Trosi gọi \N[61] đi hầu ngủ. Succubus cằn nhằn chuyện Lilina mở miệng ra là
+    \N[59], giải thích cơ chế Dâm năng và chỉ số Phục tùng.'
+Map144.json:ev24p2:
+  effect: như trên
+  mood: như trên
+  summary: Biến thể của ev24p0.
+Map144.json:ev24p4:
+  effect: căng
+  mood: u ám
+  summary: Lính gác gọi \N[61] đi hầu ngủ Thành chủ; Succubus giải thích lại chuyện Dâm năng và Phục tùng.
+Map144.json:ev24p5:
+  effect: tò mò
+  mood: căng, có tiến triển
+  summary: Thành chủ gọi Lilina muộn vì Cloria và Trosi chưa về. Lilina đoán ra \N[17] đã ra tay.
+Map144.json:ev24p8:
+  effect: ngượng
+  mood: nhục nhã
+  summary: Trosi định tặng 'con chó cái hạng nhất' Lilina cho chủ nhân làm quà bất ngờ.
+Map144.json:ev28p0:
+  effect: thao tác
+  mood: chuyển cảnh
+  summary: Chọn trang phục (bản lặp của ev17p0).
+Map144.json:ev34p0:
+  effect: thao tác
+  mood: chuyển cảnh
+  summary: Chọn đi phía bắc hay phía nam thành; lính gác chặn nếu mặc sai đồ.
+Map144.json:ev7p1:
+  effect: căng, ghê sợ, có lúc hài đen
+  mood: H, ngột ngạt, sa ngã dần
+  summary: 'Cảnh trung tâm ở phòng Cloria, gom mọi lựa chọn: dắt chó đi gặp \N[14], xin nới đai trinh
+    tiết, các màn phạt, tự thôi miên, ký khế ước vĩnh viễn, cấm cực khoái bằng thuốc, ''thuốc giải'' là
+    tinh dịch lính gác.'
+Map144.json:ev7p2:
+  effect: ngượng
+  mood: nhục nhã
+  summary: Cloria đưa Lilina đi gặp \N[14]; Trosi hóa trang cho cô thành chó cái.
+Map144.json:ev7p3:
+  effect: cười chua chát
+  mood: nhục nhã xen tự giễu
+  summary: Lilina phản đối việc ra đường như chó; Trosi bảo cô hãy tự coi mình là chó cái. Lilina tự thôi
+    miên 'chỉ tối nay thôi'.
+Map144.json:ev7p5:
+  effect: căng
+  mood: H
+  summary: 'Màn phạt thử sức chịu đựng: Trosi phải làm Lilina ngất trong một giờ, nếu không chính Trosi
+    bị phạt.'
+Map144.json:ev7p6:
+  effect: nghẹn (nhánh ký khế ước)
+  mood: H, tuyệt vọng
+  summary: Màn quần lót có 'gậy' chạy bằng ma lực cho cả ba; Trosi dạy câu niệm phục tùng. Cloria rủ Lilina
+    làm nô lệ vĩnh viễn; nếu đồng ý thì vòng cổ bị trám kín.
+Map144.json:ev7p7:
+  effect: căng, khó chịu
+  mood: H, tra tấn
+  summary: Cloria cho Lilina uống thuốc cấm cực khoái, bỏ mặc sáu tiếng, rồi đưa lính gác tới làm 'thuốc
+    giải'.
+Map144.json:ev8p0:
+  effect: ngượng, tò mò về sức mê hoặc của Sanga
+  mood: H xen hài ghen tuông
+  summary: Cloria chỉ Lilina cách huấn luyện Sanga, vừa dạy vừa ghen gọi cô ấy là 'hồ ly tinh'. Sanga
+    thầm mong làm nô lệ của Lilina; Succubus nói công chúa có sức mê hoặc tự nhiên.
+Map145.json:ev13p1:
+  effect: căng, hả hê nếu phát hiện được
+  mood: lừa lọc
+  summary: 'Sau trận đấu: nếu thua mà thiếu tiền, Cloria ép ký giấy nợ lãi 10%/ngày, thật ra là khế ước
+    nô lệ vĩnh viễn; nếu đọc kỹ thì Lilina phát hiện ra.'
+Map145.json:ev8p0:
+  effect: tò mò
+  mood: thông tin, bất an
+  summary: Cloria dẫn Lilina ra cảng nhận hàng và giải thích luật đấu trường (thưởng gấp 3, tổng tối đa
+    gấp 13).
+Map145.json:ev9p0:
+  effect: bực, nhẹ nhõm (kết tự do)
+  mood: tống tiền / giải thoát
+  summary: 'Trosi ở quầy chuộc thân: thiếu tiền thì bị dọa mách để vòi tiền; đủ 5.000.000G thì được tự
+    do về cảng Anvil.'
+Map146.json:ev12p1:
+  effect: cười ngượng
+  mood: hài ngượng
+  summary: Lilina gõ cửa hỏi cô Shuria về chuyện tiếp khách ban đêm; cô đang 'bận', trả lời đứt quãng.
+Map146.json:ev1p0:
+  effect: nghẹn, chua chát
+  mood: bi hài, chua xót
+  summary: Lilina xin làm kỹ nữ, nhận ra bà chủ là cô giáo cũ Shuria. Cô kể mình bị chồng lừa bán, nay
+    'hạnh phúc' bên chủ nhân trong cảnh tự do giả.
+Map146.json:ev1p1:
+  effect: cảnh giác
+  mood: lo lắng
+  summary: Shuria trả thu nhập; phát hiện Lilina dùng Skooma thì cảnh báo về nghiện; có menu dịch vụ.
+Map146.json:ev21p0:
+  effect: tò mò về kế hoạch, căng khi Lilina suýt bị thần lực chiếm; khó chịu với sự thao túng của \N[17]
+  mood: âm mưu, căng thẳng xen nhục dục; đoạn khách lạ thì hơi trào phúng
+  summary: Chuỗi các buổi gặp ở kỹ viện. \N[17] nhận mình là người ủy thác và giao nhiệm vụ cứu công chúa,
+    cùng thuốc giải, thuốc kháng thần lực và cặp độc/giải. Hắn bày kế giam Cloria/Trosi, sau đó thuyết
+    phục Lilina đầu độc \N[14]. Xen kẽ là các khách làng chơi (khách nữ, người mang chó, khổng lồ, sinh
+    ba, gã ép dùng Skooma) và cảnh chờ \N[17] mãi không tới.
+Map146.json:ev23p0:
+  effect: rõ ràng, ngắn gọn
+  mood: thao tác hệ thống
+  summary: Menu chọn tư thế trong cảnh H (hệ thống).
+Map146.json:ev30p0:
+  effect: ngượng, chút chua xót
+  mood: ngượng, áy náy
+  summary: Lilina gặp lại \N[36], người quen giờ là kỹ nữ; cô ta không trách nhiều và rủ Lilina tối tới
+    bầu bạn.
+Map148.json:ev10p0:
+  effect: nghẹn, căng, bất lực
+  mood: u ám, tuyệt vọng, có chút cà khịa của Succubus
+  summary: Lilina tỉnh dậy trần truồng trên thuyền chở nô lệ, nghe cô gái kể về Torres 'thiên đường của
+    đàn ông, địa ngục của đàn bà'. Succubus trêu rằng \N[60] cũng từng tới đó và hứa giữ đồ cho cô. Gần
+    tới bờ, Lilina chống cự thì bị vòng cổ siết.
+Map148.json:ev10p2:
+  effect: cảm giác vòng lặp, bất lực
+  mood: chán chường
+  summary: Bản lặp của cảnh trên thuyền khi Lilina bị đưa về Torres lần nữa ('lại là nơi đó').
+Map148.json:ev10p4:
+  effect: ấm ức
+  mood: bức bối
+  summary: Thủy thủ phát hiện tiền trên người nô lệ, cướp lấy và dọa hiếp tập thể; ba ngày sau Lilina
+    bị đưa về Torres.
+Map149.json:ev16p0:
+  effect: ngắn gọn
+  mood: hệ thống
+  summary: Lựa chọn cởi áo, váy, đồ lót trong lúc múa thoát y.
+Map149.json:ev1p0:
+  effect: khó chịu
+  mood: thương mại, nhục nhã
+  summary: Ở quán rượu Diễm Vũ, Lilina mua túi nước (100G), viện cớ chủ nhân đi sa mạc; ông chủ mời cô
+    làm vũ nương nô lệ, rồi đeo bộ trang sức nô lệ hành hạ cho 'Vũ hậu'.
+Map149.json:ev1p1:
+  effect: thấy rõ sự thương mại hóa
+  mood: đon đả
+  summary: Chủ quán trả công, nhắn \N[61] sáng mai lên Thương hội, giới thiệu nghề vũ nương (100.000G
+    một đêm), dặn múa thoát y từ từ, ép đeo trang sức.
+Map150.json:ev11p0:
+  effect: cười
+  mood: hài nhẹ
+  summary: Lilina nấu ăn cho chủ nhân; món 'hắc ám' cuối cùng bị đổ đi.
+Map150.json:ev2p0:
+  effect: hiểu luật chơi, ghê tởm
+  mood: lạnh lùng, kẻ cả
+  summary: 'Gã chủ thuê không tên giảng luật nô lệ Torres: được đi lại ban ngày, ngoài chủ ra ai hiếp
+    cũng phạm luật, phải kiếm tiền ở đấu trường hoặc kỹ viện, hợp đồng 7 ngày, ba lần đấu giá ế thì bị
+    chém.'
+Map150.json:ev3p0:
+  effect: rõ ràng
+  mood: hệ thống
+  summary: 'Menu với chủ nhân: phá đai trinh tiết, nộp tiền theo chỉ tiêu, chọn kiểu điều giáo.'
+Map150.json:ev3p1:
+  effect: rõ ràng
+  mood: hệ thống
+  summary: Bản lặp của menu chủ nhân.
+Map150.json:ev3p2:
+  effect: rõ ràng
+  mood: hệ thống
+  summary: Bản lặp của menu chủ nhân.
+Map150.json:ev3p5:
+  effect: khó chịu
+  mood: cưỡng ép
+  summary: 'Điều giáo sức chịu đựng: phải nhịn cực khoái tới khi được phép, phải cảm ơn rồi mới được ''ra''.'
+Map150.json:ev3p6:
+  effect: căng, có chút hài đen
+  mood: tàn nhẫn, mỉa mai
+  summary: 'Điều giáo SM: trói kiểu mai rùa, nhỏ sáp. Chủ nhân chọc ''pháp sư hệ hỏa mà sợ lửa''; nến
+    bị ''dập tắt'' thay vì thổi tắt.'
+Map150.json:ev3p7:
+  effect: ngượng, cười nhạt
+  mood: nhục, hài đen trong độc thoại
+  summary: Điều giáo bơm nước căng bụng; Lilina chửi thầm 'logic chó má'. Kết bằng lựa chọn cảm ơn, than
+    phiền hoặc xin thêm.
+Map150.json:ev3p8:
+  effect: khó chịu
+  mood: lạnh
+  summary: Điều giáo sư được mời dùng thiết bị 'khai phá' để tăng sức bền.
+Map150.json:ev6p0:
+  effect: ngắn
+  mood: hệ thống
+  summary: Hỏi nghỉ ngơi hoặc hầu ngủ chủ nhân.
+Map150.json:ev7p2:
+  effect: chua chát
+  mood: mỉa mai
+  summary: 'Hết kỳ hợp đồng: chấm điểm nô lệ, gia hạn hoặc trả hàng. Lilina được dự cuộc tuyển nô lệ riêng
+    của Thành chủ; gã chủ tự nhận công, Lilina nhận ra hắn chỉ vì tiền.'
+Map150.json:ev7p3:
+  effect: căng
+  mood: sợ hãi
+  summary: Lilina bỏ trốn bị bắt, bị đánh, phải nộp tiền hoặc van xin để khỏi bị trả hàng.
+Map150.json:ev7p4:
+  effect: chua xót
+  mood: trào phúng, lạnh
+  summary: Lính gác \N[53] báo Lilina được Thành chủ chọn; gã chủ hớn hở với 5.000.000G, Lilina thấy nô
+    lệ chỉ là đồ vật.
+Map150.json:ev7p5:
+  effect: khó chịu
+  mood: cưỡng ép
+  summary: Bản lặp của điều giáo sức chịu đựng.
+Map150.json:ev7p6:
+  effect: căng
+  mood: tàn nhẫn
+  summary: Bản lặp của điều giáo SM nhỏ sáp.
+Map150.json:ev7p7:
+  effect: ngượng
+  mood: nhục
+  summary: Bản lặp của điều giáo căng bụng.
+Map150.json:ev7p8:
+  effect: khó chịu
+  mood: lạnh
+  summary: Bản lặp của điều giáo sư dùng thiết bị.
+Map151.json:ev1p0:
+  effect: hồi hộp
+  mood: lén lút, hy vọng
+  summary: Lilina lẻn vào kho ở bến cảng, tính trốn trong hàng hóa, cần chuẩn bị lương thực và nước.
+Map151.json:ev1p3:
+  effect: hồi hộp
+  mood: căng nhẹ
+  summary: Thủy thủ bắt gặp Lilina trong kho; lựa chọn 'giả động dục' hoặc nói chuyện. Nhánh còn ghi '(未完成)'.
+Map151.json:ev2p0:
+  effect: căng, mong thoát
+  mood: hồi hộp, hài đen
+  summary: Lilina trốn vào thùng bi sắt để lên thuyền; thủy thủ đùa rằng Thành chủ còn chê bi sắt nhẹ.
+Map153.json:ev2p0:
+  effect: nghẹn, bất an (Succubus đắc thắng)
+  mood: lặng, xúc động pha mưu mô
+  summary: Lilina bị chém đầu; Succubus hồi sinh cô ở 'mộ của cô', xóa ký ức của cả đảo. Nhờ lời nói đánh
+    vào tình cảm, Lilina lần đầu hứa sẽ cân nhắc làm nữ vương; hai người dịch chuyển rời đi.
+Map154.json:ev2p0:
+  effect: cười (bói lố tay, tự đào hố chôn mình)
+  mood: hài
+  summary: Lilina, giờ tự do, gặp \N[17] khi hắn đã không còn nhớ cô. Cô giả làm thầy bói để 'đoán trúng'
+    cả nhiệm vụ, rồi tự đưa mình trở lại vào bẫy.
+Map154.json:ev2p2:
+  effect: sốc, nghi ngờ
+  mood: âm mưu, lạnh
+  summary: 'Trong căn nhà ngoài thành, \N[17] báo cáo với kẻ giấu mặt: hắn là ''đệ nhất mưu sĩ của đế
+    quốc'', coi Lilina là quân cờ khó điều khiển và đẩy sớm thuốc kháng Abaddon.'
+Map154.json:ev2p4:
+  effect: rùng mình
+  mood: lạnh lùng, đáng sợ
+  summary: \N[17] thừa nhận cố ý cho người tố giác chính thuộc hạ mình, tính trước Cloria sẽ làm lớn chuyện
+    và Lilina sẽ chỉ còn một con đường.
+Map154.json:ev2p6:
+  effect: sốc, ghép lại được bí ẩn \N[14] 'như biến thành người khác'
+  mood: tiết lộ, đen tối
+  summary: \N[14] chết, Lilina và công chúa đã lên thuyền. Kẻ giấu mặt lấy 'Xiềng xích nô lệ', tháo 'mặt
+    nạ của cái bóng' và thành \N[14] mới; hắn là em trai và đem 'xác anh trai' đi xử lý. \N[17] được thần
+    khí cùng Cloria và Trosi.
+Map155.json:ev13p0:
+  effect: bất an
+  mood: nũng nịu, lạnh
+  summary: Thành chủ (giấu mặt) hỏi Cloria có muốn Lilina không rồi tặng cô cho Cloria và Trosi.
+Map156.json:ev12p0:
+  effect: rõ lựa chọn
+  mood: trung tính
+  summary: '\N[44] ngạc nhiên vì Lilina trốn được khỏi dinh thự của \N[46]; các lựa chọn: quay lại làm
+    nô lệ Futa, nhờ tháo gậy rung, hoặc chỉ mua hàng.'
+Map156.json:ev1p0:
+  effect: bực vì bị lừa, buồn cười kiểu 'không đọc hợp đồng'
+  mood: lừa đảo, dâm, hài đen
+  summary: Ở 'Ngôi nhà Tình yêu', \N[43] dụ Lilina 'trúng thưởng', \N[44] mời cô làm người trải nghiệm
+    hàng đặc cung. Lilina ký hợp đồng dày mà không đọc, bị đeo xiềng ma thép. Đó thực chất là thí nghiệm
+    Futa hóa vĩnh viễn (theo suy đoán của \N[9]), cuối cùng cô bị bán cho phu nhân \N[46], quản gia \N[45]
+    dỗ cô nghe lời.
+Map156.json:ev5p0:
+  effect: hồi hộp nhẹ
+  mood: tinh nghịch
+  summary: Nhân viên bắt gặp Lilina nghịch chìa khóa đồ trói; lựa chọn lấy trộm chìa khóa.
+Map156.json:ev6p0:
+  effect: hồi hộp nhẹ
+  mood: tinh nghịch
+  summary: 'Bản lặp: lấy chìa khóa đồ trói.'
+Map157.json:ev1p0:
+  effect: khó chịu
+  mood: dâm, nhục
+  summary: Cloria nhận hàng 'quần lót dương cụ ma động' ở kho, bắt Lilina thử cùng một thủy thủ cho tới
+    khi cô ngất.
+Map158.json:ev2p0:
+  effect: nghẹn, rùng mình
+  mood: lặng, sa ngã
+  summary: Hết thời gian làm chó, Lilina thấy hụt hẫng, đổ cho thần khí, rồi buông xuôi 'thành chó cái
+    cũng chẳng sao'.
+Map158.json:ev8p0:
+  effect: Lúc đầu buồn cười vì tương phản giữa tiếng sủa và lời nghĩ, về sau rợn vì mất ý chí
+  mood: nhục dục, mỉa mai trong đầu chuyển dần thành mê muội
+  summary: Lần đầu Lilina bị dắt tới làm chó cái của Thành chủ. Cô giả vờ phục tùng thì bị khoái cảm của
+    'thần khí' nuốt chửng, được nhận nuôi và ban tên \N[61]. Succubus cảnh báo thần lực.
+Map158.json:ev8p2:
+  effect: bất an
+  mood: mê muội
+  summary: Lặp lại cảnh hầu hạ. Lilina dần nghiện phục tùng, độ phục tùng +100. Thành chủ cho cô hầu hạ
+    dưới thân phận người, cô mừng vì thấy có cơ hội trốn, rồi tự hỏi sao mình lại muốn trốn.
+Map158.json:ev8p3:
+  effect: thấy rõ cả phòng đã sa ngã
+  mood: trụy lạc, có chút hài vì ghen tuông
+  summary: 'Nhánh sa ngã: Sanga (\N[64]) tranh nhau hầu hạ với Lilina. Thành chủ trừng phạt Cloria và
+    Trosi vì dám than bị ra rìa.'
+Map158.json:ev8p4:
+  effect: Hồi hộp vì Lilina dùng mưu
+  mood: căng ngầm dưới lớp nhục dục
+  summary: Gồm hai nhánh. (1) Thành chủ phái Lilina về Anvil săn nữ mạo hiểm giả, Sanga phải ở lại. (2)
+    Lilina lần đầu thấy công chúa Ngân Nguyệt, lấy cớ ghen tị để được giao việc huấn luyện công chúa,
+    nhận chìa khóa ngục và lời dọa chém đầu.
+Map158.json:ev8p5:
+  effect: nghẹn và căng; ngã rẽ số phận
+  mood: căng thẳng, bi kịch, đau lòng
+  summary: 'Đêm ám sát: Lilina đầu độc Thành chủ. Nếu trung thành, cô cứu hắn rồi khai ra \N[17], và bị
+    ép xử chém bạn. Nếu không, cô lấy vòng tay và chìa khóa rồi thoát. Nhánh khác: Cloria và Trosi trở
+    về, vụ xử chém bọn bắt cóc; Lilina được cấp giấy thông hành và được ra khỏi thành 30 ngày.'
+Map158.json:ev8p6:
+  effect: tò mò, hụt hẫng; có câu đùa phá tường thứ tư
+  mood: bí ẩn, lặng
+  summary: \N[17], chủ mới, nhận ra Lilina khi Cloria dắt cô tới. Hắn đòi cô thề trung thành thì mới kể
+    sự thật. Lilina từ chối và được nhắn rằng công chúa nhớ cô.
+Map158.json:ev9p0:
+  effect: gợi tò mò về nguồn gốc thần khí
+  mood: bình lặng, dò hỏi
+  summary: Sáng hôm sau, Thành chủ khen Lilina và chỉ lối mật đạo sau lò sưởi. Lilina hỏi thần khí có
+    phải bẩm sinh không thì bị gạt đi.
+Map158.json:ev9p1:
+  effect: thấy cô đã sa ngã
+  mood: êm, cam chịu
+  summary: Cũng cảnh sáng hôm sau nhưng Lilina vẫn ở dạng chó, chỉ sủa và vui vì được khen.
+Map159.json:ev10p0:
+  effect: ngượng và cười vì logic phi lý
+  mood: hài đen, phi lý kiểu cải biến thường thức
+  summary: 'Học viện ma pháp, lớp ma pháp Quang: thầy dùng ''thường thức'' bắt Lilina khỏa thân, bò như
+    chó, phơi bày trước lớp; cô dần thấy hưng phấn.'
+Map159.json:ev10p2:
+  effect: ngượng, có chút day dứt
+  mood: phi lý, nhục dục
+  summary: Lớp ma pháp Phong, nơi 'tự do' nghĩa là buông thả. Lilina giằng co giữa ham muốn với Charlotte
+    (Hạ Lạc) và lòng chung thủy với bạn trai \N[7].
+Map159.json:ev14p0:
+  effect: thấy cô đã 'học xong' lớp Phong
+  mood: hớn hở
+  summary: Lilina quay lại lớp sau khi đưa thư, chủ động đòi làm tình. Thầy khen cô là học trò thiên tài
+    nhất.
+Map160.json:ev10p0:
+  effect: ngượng, hài đen
+  mood: phi lý, nhục dục
+  summary: 'Lớp ma pháp Thủy: ''khống chế thủy nguyên tố'' bằng thủ dâm, bịt mắt, phục vụ bạn học. Lilina
+    dần thông thạo.'
+Map160.json:ev10p2:
+  effect: cười vì sự phi lý được nói như chân lý, rờn rợn trước quá trình tẩy não
+  mood: giảng đường nghiêm trang nhưng phi lý, dần dâm loạn
+  summary: 'Chuỗi các buổi học Hỏa hệ của \N[29]: ''sưởi ấm'' người khác bằng ôm hôn, rồi bằng thân thể.
+    Lilina tự nhận ra triết lý ''hiến thân hoàn toàn''. Có mạch phụ về học sinh cá biệt \N[30].'
+Map160.json:ev10p4:
+  effect: cười vì thầy quên trước quên sau và vì Lilina cà khịa trong đầu; ghê trước sự biến chất
+  mood: hài đen, ông thầy hố hàng
+  summary: 'Lớp Thổ hệ với ông thầy đãng trí: Lilina giao phối với thổ tinh linh, sinh dị chủng (slime,
+    ma nhân, dâm ma), bị dụ trở thành ''ổ ươm thật sự''.'
+Map160.json:ev10p6:
+  effect: căng thẳng, sởn gai khi Ross lộ mặt thật; tò mò về 'bà ta'
+  mood: từ hài hước sang âm mưu đen tối
+  summary: 'Lớp Lôi hệ của Ross: tê liệt, điều khiển, ''lớp đặc biệt'' với mọi thầy cô. Đêm đó Ross thi
+    triển cấm chú ''Búp bê sống'', moi bí mật về Succubus và \N[8], rồi xóa ký ức của Lilina. Các vòng
+    lặp sau: Lilina mượn cớ ''bị điều khiển'' để buông thả.'
+Map161.json:ev16p0:
+  effect: căng, lo lắng khi chỗ dựa của Lilina sụp đổ
+  mood: hoảng loạn
+  summary: Succubus phát hiện ấn ký cấm chú trên ngực Lilina, rồi bị xúc tu 'Dâm ma tướng' của Ross bắt.
+Map161.json:ev16p1:
+  effect: nghẹn và thấy bước ngoặt, đây là tiết lộ động cơ của Succubus
+  mood: trầm, thổ lộ, quyết tâm
+  summary: Lilina đã giết Ross và cứu Succubus. Succubus thổ lộ không muốn phục sinh Dâm ma vương. Lilina
+    quyết làm Nữ vương dâm ma, thề trả thù \N[8]. Điều kiện True END đạt được.
+Map161.json:ev16p3:
+  effect: rùng mình, cảm giác kết cục
+  mood: mê man, tuyệt vọng ngọt ngào
+  summary: 'Succubus trừng phạt Lilina vì vụ dị chủng: cô sinh dâm ma liên tục, chọn ở lại làm ''mẹ của
+    dâm ma'' và hòa vào vách thịt mãi mãi (kết xấu).'
+Map161.json:ev3p0:
+  effect: bực ông thầy rồi mềm lòng khi ông xin lỗi
+  mood: dâm loạn rồi chuyển sang ấm áp, dở khóc dở cười
+  summary: Thầy Thổ hệ theo dị chủng vào lĩnh vực dâm ma, bắt Lilina sinh liên tục. Ông lỡ miệng mong
+    tử cung cô không hồi phục, rồi xin lỗi chân thành, và hai thầy trò làm lành.
+Map162.json:ev11p1:
+  effect: rờn rợn pha hài (cô 'thành đúng thứ mình sợ nhất')
+  mood: ma quái, chuyện kinh dị trường học
+  summary: Lilina điều tra hồn ma, bị giáo viên Ám hệ (hồn ma nhập \N[33]) bắt làm vật tế, hóa u linh,
+    phải đi hút tinh khí nam sinh trong ký túc xá.
+Map162.json:ev9p1:
+  effect: phần thưởng/hình phạt cho gameplay
+  mood: nghi lễ
+  summary: 'Lilina quay về qua gương: hút đủ tinh khí thì chỉ số phép tăng, thiếu thì bị phạt. Cô được
+    nhận làm vật tế hợp lệ, nhận vòng tay, từ nay vào lớp qua ''lối vật tế''.'
+Map162.json:ev9p2:
+  effect: căng, tò mò về hiệu trưởng
+  mood: bất an
+  summary: Lilina tỉnh dậy, mù và không cử động được. Ross nói hiệu trưởng sai hắn 'điều giáo' cô vì cô
+    làm bà ta thất vọng.
+Map162.json:ev9p3:
+  effect: nghẹn, tiếc nuối trước số phận không tên
+  mood: u tối, sử thi bi thảm
+  summary: 'Ross dâng Lilina cho dâm ma để tăng ma lực. Bad End B: cô thành búp bê hoàn hảo, hắn chiếm
+    đế quốc, cô thành hoàng hậu không tên, Dâm ma vương phục sinh. Nhánh khác: tình yêu với \N[7] khiến
+    Ross định giết anh ta.'
+Map162.json:ev9p5:
+  effect: tò mò, giật mình
+  mood: căng, tiết lộ
+  summary: Lilina tỉnh dậy ở lớp Ám hệ. Khi Ross nhắc tới hiệu trưởng, cô nhận ra 'bà ta không phải hiệu
+    trưởng'.
+Map162.json:ev9p6:
+  effect: nặng nề, cảm giác kết cục
+  mood: tuyệt vọng
+  summary: Lilina bị tước nhân quyền, làm đồ dùng cho học sinh lớp Ám hệ đến khi tinh thần sụp đổ (Bad
+    End A).
+Map163.json:ev10p0:
+  effect: nghẹn, hồi hộp, nhẹ nhõm
+  mood: xúc động, cao trào
+  summary: Trong thế giới nội tâm của búp bê, \N[7] gọi Lilina. Cô vùng thoát khỏi cấm chú, hét 'Em cũng
+    yêu anh! Đừng bỏ em!'.
+Map165.json:ev5p0:
+  effect: cười với câu đùa 'quý ông' giữa hai anh em
+  mood: dâm loạn, hài nhẹ
+  summary: Lilina tìm thầy giáo vụ để 'nâng phép', gặp hai anh em giáo vụ và bị cả hai cùng làm.
+Map168.json:ev1p0:
+  effect: bất an kèm buồn cười vì cặp đôi ngốc
+  mood: rình rập, hài
+  summary: Ở làng, Lilina ngủ trong nhà kho thuê. Hai dân làng rình nhưng cô chưa uống thuốc nên chúng
+    bỏ đi.
+Map168.json:ev1p1:
+  effect: ghê, bất an
+  mood: đáng sợ, hèn hạ
+  summary: Lần này Lilina đã uống sữa có thuốc. Hai dân làng hiếp cô lúc ngủ (hoặc bỏ đi nếu cô mặc đai
+    trinh tiết) và cố ý để lại dấu vết. Sáng ra cô thấy người đầy tinh dịch, chai sữa biến mất.
+Map168.json:ev1p2:
+  effect: cười vì cặp anh em ngốc
+  mood: dâm tục pha hài ngớ ngẩn
+  summary: Hai anh em dân làng hiếp Lilina sau khi bỏ thuốc mê vào sữa. Cô mở mắt hoặc giả ngủ, người
+    anh bắt em 'cho cô ta bậc thang xuống'. Có biến thể khi Lilina đang có bầu.
+Map168.json:ev20p0:
+  effect: hồi hộp ngầm, người chơi biết có bẫy
+  mood: ngây thơ
+  summary: Lilina thấy ly sữa trong phòng, tưởng là dịch vụ đặc biệt của quán trọ.
+Map168.json:ev20p1:
+  effect: tò mò
+  mood: tính toán
+  summary: Chọn giả vờ uống, uống thật hoặc mặc kệ ly sữa. Cô giả uống để không cho ma trùng cơ hội.
+Map168.json:ev7p0:
+  effect: cười, căng nhẹ
+  mood: tục, hài vụng trộm
+  summary: Ông chủ quán báo giá phòng, cho trả tiền bằng thân thể. Hai người vụng trộm sau quầy, bà chủ
+    suýt bắt gặp, ông nói dối là 'mèo hoang kêu xuân'.
+Map169.json:ev22p0:
+  effect: rùng mình, hụt hẫng; nhận ra Luna là kẻ hưởng lợi
+  mood: sử thi, u ám
+  summary: 'Bad End A của tuyến Ma trùng: Lilina biến mất, tộc nữ yêu Abaddon miễn nhiễm lửa, đánh bại
+    đế quốc và chiếm đất. Sử sách chỉ ghi tên nữ yêu \N[41].'
+Map169.json:ev4p0:
+  effect: tò mò, bất an (cài cắm việc bị ký sinh)
+  mood: rờn rợn
+  summary: Trong ma cảnh, Lilina và Succubus thấy một 'ổ ươm'. Lilina cảm thấy sau lưng có thứ gì đó,
+    Succubus lại không cảm thấy gì. Hai người hẹn đêm mai quay lại.
+Map169.json:ev5p0:
+  effect: tò mò
+  mood: điều tra
+  summary: Khu vực bị phá hủy nặng như bị thứ gì ăn mất, hai người nghi là vương trùng.
+Map171.json:ev11p0:
+  effect: cười nhẹ ('Cô đi cướp à!')
+  mood: tục, hài nhẹ
+  summary: Lilina (đang có bầu) đòi một dân làng đưa mỗi thứ năm phần đồ ăn, đổi lại bằng thân xác.
+Map172.json:ev1p0:
+  effect: cười
+  mood: tục, hài
+  summary: Bác sĩ phát hiện dâm trùng đã làm tổ trong tử cung. Lilina năn nỉ đừng diệt mà 'chữa' bằng
+    tinh dịch. Ông than cả làng chỉ có mình ông làm bác sĩ.
+Map173.json:ev16p0:
+  effect: nhẹ
+  mood: khám phá
+  summary: Lục soát chiếc ghế trong nhà tên cướp, có thể tìm thấy đồ.
+Map173.json:ev17p0:
+  effect: nhẹ
+  mood: khám phá
+  summary: Lục thùng gỗ hỏng, có lúc tìm được đồ 'chủ nhân để lại'.
+Map173.json:ev3p0:
+  effect: căng nhẹ
+  mood: chờ đợi
+  summary: Bị xích, Lilina chọn ngủ hoặc thủ dâm, định chờ tối mới trốn.
+Map173.json:ev3p1:
+  effect: không đáng kể
+  mood: lặp
+  summary: 'Lựa chọn lặp: ngủ, thủ dâm hoặc nghĩ lại.'
+Map173.json:ev3p2:
+  effect: cười
+  mood: cãi cọ hài
+  summary: Lilina nhờ Succubus phá xích. Succubus đòi 500 dâm năng và cà khịa 'dễ thì tự làm đi'.
+Map173.json:ev3p3:
+  effect: ngượng, hụt hẫng
+  mood: đọa lạc
+  summary: Chủ nhân về, Lilina hầu hạ. Hắn gọi đồng bọn đến chơi chung, bọn cướp bàn chuyện bán cô vì
+    nô lệ vĩnh viễn đáng vài triệu. Một tháng sau hắn không thỏa mãn nổi cô nữa nên định bán, có nhánh
+    hắn 'còn tiếc'.
+Map173.json:ev4p0:
+  effect: căng, ngột ngạt
+  mood: áp bức
+  summary: Trốn bị bắt, chủ nhân điều giáo cô bằng gậy rung ma pháp suốt \V[19] ngày, rồi gắn khóa ma
+    cương và đai trinh tiết. Có nhánh hắn không tháo được đai trinh tiết nên định bán cô.
+Map173.json:ev5p0:
+  effect: nhẹ
+  mood: phân vân
+  summary: 'Đầu kia sợi xích: có thể tự khóa mình lại để không bị phát hiện.'
+Map173.json:ev7p0:
+  effect: mỉm cười
+  mood: hài nhẹ
+  summary: 'Lục rương: thấy đồ chơi người lớn chủ nhân giấu, hoặc đồ ăn đã hỏng.'
+Map173.json:ev8p0:
+  effect: nhẹ
+  mood: bế tắc
+  summary: 'Cửa sổ: bị bịt mắt hoặc trói nên không nhìn ra ngoài được.'
+Map173.json:ev8p1:
+  effect: căng
+  mood: liều lĩnh
+  summary: Ngoài cửa sổ là dòng nước xiết, có thể liều nhảy xuống.
+Map173.json:ev8p3:
+  effect: hồi hộp
+  mood: căng
+  summary: 'Kêu cứu qua cửa sổ: có thể có người qua đường cứu ra, hoặc bị chủ nhân phát hiện và trừng
+    phạt.'
+Map174.json:ev6p0:
+  effect: cười vì trò 'thường thức' bị bóp méo
+  mood: tục, hài nghịch lý
+  summary: Dale thuê Lilina dạy Seth ma pháp hệ Phong. Cô dạy 'thường thức' bằng tình dục, cha con mời
+    cơm và trả công.
+Map174.json:ev6p1:
+  effect: cười
+  mood: tục, hài
+  summary: 'Buổi học thứ hai: Seth làm mềm đai trinh tiết ma cương trong chốc lát. Dale bắt gặp rồi cũng
+    xin làm học trò.'
+Map174.json:ev6p2:
+  effect: cười lớn
+  mood: hài
+  summary: Hai cha con cùng 'học'. Ăn tối khỏa thân khiến Lilina khó xử. Seth lỡ miệng nói bố bảo cô 'rẻ
+    hơn gái điếm', Dale chữa cháy vụng về.
+Map174.json:ev6p3:
+  effect: cười
+  mood: hài châm biếm
+  summary: Buổi học lặp lại, Lilina đã quen ăn tối khỏa thân. Dale trả ít tiền hơn vì 'cô là giáo viên
+    cao quý, không phải gái điếm'.
+Map175.json:ev11p0:
+  effect: không
+  mood: hệ thống
+  summary: 'Hệ thống: đã múc bao nhiêu thùng nước suối (tối đa 40).'
+Map175.json:ev11p1:
+  effect: không
+  mood: hệ thống
+  summary: Như trên (múc nước suối).
+Map175.json:ev12p0:
+  effect: không
+  mood: hệ thống
+  summary: Như trên (múc nước suối).
+Map175.json:ev12p1:
+  effect: không
+  mood: hệ thống
+  summary: Như trên (múc nước suối).
+Map175.json:ev13p0:
+  effect: không
+  mood: hệ thống
+  summary: Như trên (múc nước suối).
+Map175.json:ev13p1:
+  effect: không
+  mood: hệ thống
+  summary: Như trên (múc nước suối).
+Map175.json:ev14p0:
+  effect: không
+  mood: hệ thống
+  summary: Như trên (múc nước suối).
+Map175.json:ev14p1:
+  effect: không
+  mood: hệ thống
+  summary: Như trên (múc nước suối).
+Map175.json:ev1p0:
+  effect: nhẹ
+  mood: sinh tồn
+  summary: Hỏi có nghỉ ngơi không; đói thì không ngủ được, phải kiểm tra lương thực dự trữ.
+Map175.json:ev1p10:
+  effect: ghê ghê, nhận ra cơ thể đang biến đổi
+  mood: dâm, kỳ dị
+  summary: Lilina thủ dâm với xúc tu (đuôi). Đuôi hút ngược tinh dịch cô dự trữ trong người, cô khát và
+    bò ra thùng nước.
+Map175.json:ev1p2:
+  effect: 'tò mò, rợn: nhân tính mất dần, Luna có mưu đồ'
+  mood: kỳ dị, biến đổi, ngầm u ám
+  summary: 'Cảnh chính: Luna bắt gặp Lilina trộm hoa màu, nhận ra cô là nữ yêu Abaddon, hứa mang đồ ăn
+    tới để đổi lấy việc được chiều bằng đuôi. Trùng vương báo Lilina đã bị vương trùng ký sinh. Lilina
+    bắt một dân làng về nuôi, không sợ lửa. Luna đoán cô là nữ vương và xin ''thành con của cô''.'
+Map175.json:ev1p3:
+  effect: rợn vì sự tự lừa mình ('đuôi chẳng phải vẫn luôn có sao')
+  mood: đáng sợ ngầm, giọng nhẹ tênh
+  summary: 'Thông báo theo ngày bị ký sinh (\V[155]): dục vọng bị đè nén hoặc bùng lên, dâm năng bị phản
+    phệ. Lilina phát hiện mình có đuôi, có sừng, quên ''hậu môn'' là gì, rồi cũng quên luôn việc quan
+    trọng.'
+Map175.json:ev1p6:
+  effect: bất an
+  mood: dâm, rờn rợn
+  summary: Thủ dâm lần đầu sau khi bị ký sinh, có thứ mềm mềm chui vào tử cung.
+Map175.json:ev1p7:
+  effect: thấy biến đổi tiến triển
+  mood: dâm
+  summary: Thủ dâm lần hai, ngực nhạy cảm hơn, có thứ gì đó ở trong vú. Sau đó cô khát nước.
+Map175.json:ev1p8:
+  effect: như trên
+  mood: dâm
+  summary: Biến thể lặp của ev1p7.
+Map175.json:ev1p9:
+  effect: nặng nề
+  mood: đọa lạc
+  summary: Thủ dâm đến mức đầu óc trống rỗng, sợ mất trí nhớ nhưng vẫn buông thả.
+Map175.json:ev2p0:
+  effect: không
+  mood: hệ thống
+  summary: 'Hệ thống: cất củ cải vào kho.'
+Map175.json:ev2p1:
+  effect: không
+  mood: hệ thống
+  summary: Như trên (củ cải).
+Map175.json:ev2p2:
+  effect: không
+  mood: hệ thống
+  summary: Như trên (củ cải).
+Map175.json:ev3p0:
+  effect: không
+  mood: hệ thống
+  summary: 'Hệ thống: cất lúa mì vào kho.'
+Map175.json:ev3p1:
+  effect: không
+  mood: hệ thống
+  summary: Như trên (lúa mì).
+Map175.json:ev3p2:
+  effect: không
+  mood: hệ thống
+  summary: Như trên (lúa mì).
+Map175.json:ev4p0:
+  effect: không
+  mood: hệ thống
+  summary: 'Hệ thống: cất rau xanh vào kho.'
+Map175.json:ev4p1:
+  effect: không
+  mood: hệ thống
+  summary: Như trên (rau xanh).
+Map175.json:ev4p2:
+  effect: không
+  mood: hệ thống
+  summary: Như trên (rau xanh).
+Map175.json:ev5p0:
+  effect: không
+  mood: hệ thống
+  summary: 'Hệ thống: cất nho vào kho.'
+Map175.json:ev5p1:
+  effect: không
+  mood: hệ thống
+  summary: Như trên (nho).
+Map175.json:ev5p2:
+  effect: không
+  mood: hệ thống
+  summary: Như trên (nho).
+Map175.json:ev6p0:
+  effect: thấy cô mất dần ý thức xấu hổ
+  mood: buông thả
+  summary: Ở cửa ra vào, Lilina phân vân có nên mặc đồ, có nên ra ngoài khi hết nước hoặc hết đồ ăn. Cô
+    ngày càng 'kệ nó'.
+Map175.json:ev8p0:
+  effect: 'giật mình: bước ngoặt bị ký sinh'
+  mood: căng, đột biến
+  summary: Lilina vào căn nhà hoang, thấy thích nên ngủ lại. Succubus tạm tháo Trùng vương ra, rồi phát
+    hiện thần lực phá hủy phi sinh vật và bị tê liệt. Lilina tỉnh dậy khỏa thân và cho đó là 'thói quen'.
+Map175.json:ev8p2:
+  effect: rợn, mỉa
+  mood: đảo vai, rùng rợn ngọt
+  summary: Lilina hóa yêu, cưỡng hiếp gã dân làng bị bắt. Gã nhận ra cô là 'thai phụ' lúc trước. Cô bắt
+    gã ở lại cho đến khi 'thích' mình.
+Map175.json:ev8p4:
+  effect: không
+  mood: sinh tồn
+  summary: 'Hệ thống: có ăn không.'
+Map175.json:ev8p5:
+  effect: không
+  mood: sinh tồn
+  summary: 'Hệ thống: có uống nước không.'
+Map175.json:ev8p6:
+  effect: rợn nhẹ
+  mood: quái dị mà dịu dàng
+  summary: Lilina mang đồ ăn cho gã dân làng bị nuôi.
+Map176.json:ev5p0:
+  effect: hồi hộp
+  mood: căng
+  summary: 'Vượt ngục ra ngoài thì bị lính canh đuổi tới: chống lại (thành tội phạm truy nã) hoặc chịu
+    bắt.'
+Map178.json:ev1p0:
+  effect: tò mò, cài cắm
+  mood: kể chuyện, u ám
+  summary: 'Ông lão kể truyền thuyết: ma thần giáng thế, phụ nữ trong làng hóa nữ yêu Abaddon và nuôi
+    đàn ông như gia súc. Đế quốc tiêu diệt chúng, phong ấn hang động, còn viên đá giải phong ấn bị trộm
+    hơn chục năm trước.'
+Map179.json:ev5p1:
+  effect: nhẹ
+  mood: lén lút
+  summary: 'Hệ thống: lấy hoặc trả lại chìa khóa (nhà trưởng làng).'
+Map180.json:ev1p0:
+  effect: cười / ngượng
+  mood: tục, hài
+  summary: Dân làng làm tình với Lilina có bầu trên bàn như đang 'biểu diễn', bảo cô tưởng tượng có người
+    xem. Gã do dự về đứa bé rồi vẫn xuất trong.
+Map182.json:ev10p0:
+  effect: thông tin
+  mood: hệ thống
+  summary: 'Cổng vặn xoắn: cứu \N[18], nhận 1.000.000G.'
+Map182.json:ev12p0:
+  effect: thông tin
+  mood: hệ thống
+  summary: 'Cổng vặn xoắn: không cứu được \N[18], thành ''chó trung thành'' của \N[14].'
+Map182.json:ev13p0:
+  effect: thông tin
+  mood: hệ thống
+  summary: 'Cổng: giữ nguyên tiến độ học viện, nhảy tới ngày 26, độ quyến luyến với \N[7] là 50.'
+Map182.json:ev14p0:
+  effect: thông tin
+  mood: hệ thống
+  summary: 'Cổng: giữ nguyên tiến độ học viện và rời học viện.'
+Map182.json:ev15p0:
+  effect: thông tin
+  mood: hệ thống
+  summary: 'Cổng: thành ''Phu nhân hội trưởng'', nhận danh hiệu Nô lệ tình dục.'
+Map182.json:ev16p0:
+  effect: thông tin
+  mood: hệ thống
+  summary: 'Cổng: thành ''bồn cầu thịt nhà ngục'', án 200 ngày.'
+Map182.json:ev2p0:
+  effect: thông tin
+  mood: hệ thống
+  summary: 'Cổng: hoàn tất Good End B tuyến Di tích, khởi đầu với 6 khế ước linh hồn.'
+Map182.json:ev3p0:
+  effect: thông tin
+  mood: hệ thống
+  summary: 'Cổng: hoàn tất sự kiện mạch nước ngầm (cô gái bị biến thành ổ ươm).'
+Map182.json:ev4p0:
+  effect: thông tin
+  mood: hệ thống
+  summary: 'Cổng: hoàn tất hang trùng ký sinh, nhận danh hiệu ''Vợ trùng''.'
+Map182.json:ev5p0:
+  effect: thông tin
+  mood: hệ thống
+  summary: 'Cổng: hoàn tất Normal End tuyến Thánh thú (trại kỳ lân), nhận danh hiệu ''Vợ thú''.'
+Map182.json:ev7p0:
+  effect: thông tin
+  mood: hệ thống
+  summary: 'Cổng: bắt được \N[8], kết thúc sự kiện kẻ hiếp dâm, có thể hẹn hò với \N[7].'
+Map182.json:ev8p0:
+  effect: thông tin
+  mood: hệ thống
+  summary: 'Cổng: nhập học viện ma pháp, nhảy tới ngày 10.'
+Map182.json:ev9p0:
+  effect: thông tin
+  mood: hệ thống
+  summary: 'Cổng: thành nô lệ của Thành chủ và được phép rời thành Torres.'
+Map183.json:ev1p0:
+  effect: rợn, cười nhẹ vì lời tác giả
+  mood: đọa lạc, có màn phá tường thứ tư
+  summary: 'Futa nô lệ End: Lilina bị cả dinh thự \N[46] hành hạ. Succubus thử cô: van xin thì bị bỏ rơi,
+    ra lệnh thì được cứu (có thể giữ lại gậy Futa, Thần chi âm chen vào giải thích). Nhánh xấu: cô sa
+    ngã hàng trăm năm, thành ''thần'' của gia tộc.'
+Map184.json:ev2p1:
+  effect: nghẹn, suy ngẫm về tự do
+  mood: trầm, day dứt
+  summary: 'Lilina phân vân về hạnh phúc ''chim trong lồng''. Nhánh kết: cưới \N[47], sống mãi trong lâu
+    đài với hạnh phúc giả. Nhánh khác: nghe lời Succubus, xin lỗi \N[47] rồi ra đi theo đuổi giấc mơ.'
+Map185.json:ev12p0:
+  effect: Cười chua chát, rờn rợn vì bị giam lỏng đội lốt tình yêu
+  mood: Ngọt ngào giả tạo, ngột ngạt
+  summary: 'James đưa Lilina tới lâu đài, giới thiệu hầu gái Ram và Rem, bắt cô qua ''thử thách cô dâu'':
+    nửa năm không rời phòng. Lilina chẳng nhớ đã hứa, nhưng vẫn đồng ý vì mơ làm ''nữ vương''.'
+Map185.json:ev3p0:
+  effect: Cảm giác bị giam lỏng
+  mood: Lịch sự mà gò bó
+  summary: Ram chặn không cho Lilina ra ngoài, gợi ý cô đọc sách hoặc để Ram đọc cho nghe.
+Map185.json:ev4p0:
+  effect: Buồn chán, bức bối
+  mood: Tẻ nhạt
+  summary: Rem cũng chặn, rồi chơi đàn cho cô nghe. Lilina im lặng chán chường.
+Map185.json:ev5p1:
+  effect: 'Ngượng, chua xót: cô tự an ủi ''nửa năm cũng chẳng sao'''
+  mood: Ngọt mà ngạt, hài đen
+  summary: 'Vòng lặp buổi tối: James đa nghi, ép cô ''chứng minh tình yêu''. Lilina say rồi ân ái, ''chữa''
+    được chứng bất lực của hắn. Sáng ra cô chỉ thấy mình ''lại say''.'
+Map186.json:ev2p0:
+  effect: Sốc, gây khó chịu
+  mood: Đồi bại
+  summary: Lilina rình qua cửa sổ một cảnh loạn luân trong gia đình (người mẹ, ông bố chồng và đứa con
+    trai bị ép mặc đồ nữ). Bị nghi thì cô giả tiếng mèo kêu rồi bỏ đi trong hưng phấn. Cảnh có nhân vật
+    '少年' chưa rõ tuổi, cần biên tập/chính sách xem xét.
+Map189.json:ev10p0:
+  effect: Bật cười vì tác giả tự trêu mình. Tò mò muốn đi tìm cách giết thần
+  mood: Hài meta, tự trào
+  summary: 'Kết xấu của tuyến thần điện: Lilina bị Lang thần điều giáo như ở mọi thế giới tuyến khác.
+    Lang thần phá bức tường thứ tư, chỉ đường tới Lang Thần điện (góc tây nam, phải nhờ Abaddon bay tới).
+    Hiện thông báo đạt True End tuyến Ma trùng.'
+Map189.json:ev6p0:
+  effect: Tò mò, cảm giác 'đây là trận cuối'
+  mood: Căng thẳng, có chút hi vọng
+  summary: 'Một Lilina từ thế giới song song tiết lộ: thế giới đang lặp lại, Lang thần chỉ điều khiển
+    được thần lực. Cô nhờ Lilina hiện tại giết thần và kích hoạt toàn bộ dâm năng cho Lilina.'
+Map189.json:ev6p2:
+  effect: Chức năng
+  mood: Trung tính (giao diện)
+  summary: Menu mở toàn bộ CG và chọn khiêu chiến Lang thần trong hồi ức, các hậu truyện 1/2/3 hoặc rời
+    đi.
+Map189.json:ev9p0:
+  effect: Mỉm cười
+  mood: Ấm áp, hài nhẹ
+  summary: Hai Lilina chia tay, cảm ơn nhau rồi cười vì 'khách sáo với chính mình làm gì'.
+Map190.json:ev5p0:
+  effect: Hả hê, bật cười ở câu 'sói non', rồi tiếc nuối
+  mood: Đắc thắng rồi hụt hẫng, hài
+  summary: Lilina không có thần lực xâm nhập thần điện, đánh các 'bản thân' bị nô lệ hóa, rồi dùng dâm
+    ma pháp khuất phục Lang thần (còn trinh) và làm nó mang thai. Nhưng Lang thần cướp Thần khí 'Vô hiệu
+    Lạc ấn' và xóa ký ức của cô. Lilina tỉnh dậy nghĩ 'chắc lại say'.
+Map190.json:ev6p0:
+  effect: Căng, bất lực
+  mood: Đe dọa
+  summary: Lilina vừa có thần lực thì bị kéo tới thần điện. Mối nối với bộ giáp bị cắt, không dùng được
+    ma pháp. Lang thần hả hê định điều giáo cô.
+Map190.json:ev6p1:
+  effect: Cười vì bị lật kèo và các câu đùa về patreon, wolfzq
+  mood: Trêu chọc, meta
+  summary: 'Hậu truyện, ngày 1 sau khi thụ thai: ''Lilina'' thật ra là Succubus mượn thân cô. Nó thoát
+    khỏi ''hình tượng wolfzq nam'' do Lang thần tạo ra, gọi Lang thần là ''Habi'' rồi phạt nó.'
+Map190.json:ev6p2:
+  effect: Cảm giác bị lật mặt, kiêu ngạo sụp đổ
+  mood: Điều giáo, đùa cợt
+  summary: 'Ngày 10: Succubus lừa Habi rằng chỉ dùng ma pháp tăng tinh lực chứ không phải kích dục, chứng
+    minh nó là ''nô lệ bẩm sinh''. Habi thừa nhận ''chủ nhân'' và tự nhận là Habi.'
+Map190.json:ev6p3:
+  effect: Bật cười, kèm một chút nghẹn ở câu về 'chân ái nơi nhân gian'
+  mood: Ngọt ngào lạ lùng, man mác buồn, hài
+  summary: 'Ngày 180: Habi bỏ thần lực, để lại cho đứa con. Lilina (thân vẫn phải nghe lệnh) và Habi thành
+    chủ–tớ hai chiều, Succubus gọi đó là ''chân ái''. Thế giới thôi rẽ nhánh. Kết bằng màn Lilina bắt
+    Succubus im miệng.'
+Map192.json:ev8p0:
+  effect: Chức năng
+  mood: Trung tính
+  summary: Nhân viên bán vé tàu đi cảng Anvil, giá 500G.
+Troops.json:tr29p0:
+  effect: Hồi hộp, có tiếng gọi 'Chủ nhân!' dồn dập
+  mood: Căng thẳng, nguy cấp
+  summary: 'Trận với \N[8]: ả dùng dâm ma pháp gọi ''chó cái'' để thôi miên Lilina. Succubus cắt tạm lạc
+    ấn linh hồn để giữ hình thái nữ vương, phải đánh thắng trước khi cạn dâm năng.'
+Troops.json:tr51p1:
+  effect: Phấn khích, có cảm giác nhân vật nổi dậy chống tác giả
+  mood: Đối đầu quyết liệt, meta
+  summary: 'Đầu trận với Lang thần: nó trách Lilina không theo ''kịch bản ta viết''. Lilina đáp ''chính
+    vì không theo kịch bản của ngươi nên ta mới đứng được ở đây''.'

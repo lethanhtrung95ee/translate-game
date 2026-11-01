@@ -1,0 +1,1197 @@
+# HO SO DICH - hay doc ky va sua truoc khi dich hang loat.
+# Sai o day = sai ca game (xung ho, gioi tinh, ten).
+# Xong thi doi `reviewed: false` thanh `reviewed: true`.
+#
+# characters[].names : moi cach ten xuat hien trong game (ke ca \N[1], ten trong 【】)
+# characters[].faces : ten file mat nhan vat (RPG Maker) de nhan ra nguoi noi khi khong co ten
+# characters[].self  : dai tu tu xung mac dinh; forbid: tu cam dung cho nhan vat nay
+# relations          : A noi voi B -> self (A xung), call (A goi B)
+# key_scenes         : nhom/canh quan trong -> dich bang model manh (xem config models.key_scene)
+reviewed: true
+source_lang: zh
+style:
+  genre: 'RPG fantasy người lớn (H-game RPG Maker, bản tiếng Trung phồn thể) – Cursed Armor / 詛咒鎧甲. Bối
+    cảnh phương Tây giả tưởng: thành Anvil, thành Torres, Hội Mạo hiểm giả, Học viện Ma pháp, nô lệ, quái
+    vật, lời nguyền.'
+  tone: Dâm tục, phóng túng, có lúc hài hước phá vỡ bức tường thứ tư (Giọng Thần, Lang Thần, Giọng Giáo
+    chủ nói về 'phần sau', 'người chơi'). Thoại ngắn, nhiều tiếng rên và dấu ～, ……
+  notes: '1) GIỮ NGUYÊN mọi mã điều khiển: \N[n], \C[n], \V[n], \G, \W[n], \S, \{ \}, \! \| \^ \. và xuống
+    dòng \n; không dịch, không thêm/bớt khoảng trắng bên trong mã. Dòng mở đầu kiểu ''\C[6]\N[1]\C[0]：''
+    là nhãn tên người nói – giữ y nguyên các mã, đổi dấu ''：'' thành '':''. 2) \N[59] là ĐẠI TỪ TỰ XƯNG
+    của nô lệ (tên DB 賤奴 → ''tiện nô''); câu chứa \N[59] phải viết sao cho thay ''tiện nô'' vào vẫn đúng
+    ngữ pháp (vd: ''\N[59] không hề muốn...'', ''tử cung của \N[59]''). 3) \N[61] = tên nô lệ/nghệ danh
+    của Lilina ở Torres (DB 黑泰迪 → ''Teddy Đen''), \N[62] = 金絲雀 ''Chim Hoàng Yến'', \N[60] = 奈斯特拉 ''Nestra''
+    (nữ anh hùng mạo hiểm nổi tiếng nhất đại lục) – suy ra từ thứ tự DB, CẦN XÁC NHẬN. 4) Đổi ～ thành
+    ~ (ASCII), giữ …… như bản gốc; tiếng rên: 啊→a/á, 嗯→ưm, 唔→ư/ưm, 嗚→hu/ư, 哈→ha, 嘖→chụt, 咕嚕→ực, 咳→khụ.
+    5) Văn trần thuật ([?]) dùng ngôi thứ ba, gọi Lilina là ''cô'' / ''nàng'' thống nhất là ''cô''. 6)
+    Hệ thống/UI: câu hỏi Có/Không ngắn gọn, ví dụ ''是否需要跳過重復H？'' → ''Bỏ qua cảnh H đã xem?''. 7) Từ ngữ
+    tình dục: dịch thẳng, tự nhiên kiểu H-game Việt (dương vật/cặc tùy giọng nhân vật: người thô lỗ dùng
+    từ thô, Lilina lúc tỉnh táo dùng từ nhẹ hơn), không kiểm duyệt nhưng không thêm thắt. 8) Mọi nhân
+    vật trong cảnh tình dục là người trưởng thành; các từ 少女/小女孩 dịch là ''cô gái''/''cô nhóc'' (giọng
+    điệu), không ám chỉ trẻ vị thành niên. 9) Tên người phương Tây: phiên âm Latin; tên gốc Hán (龍吟, 白雪):
+    dùng Hán-Việt.'
+characters:
+- id: lilina
+  names:
+  - 莉莉娜
+  - \N[1]
+  - \C[6]\N[1]\C[0]
+  name_vi: Lilina
+  gender: nữ
+  age: thiếu phụ trẻ (đã kết hôn)
+  role: Nhân vật chính; nữ pháp sư, mạo hiểm giả mạnh nhất Hội, danh hiệu 'Thợ Săn Thiên Thần', vợ hội
+    trưởng Owen; bị bộ giáp nguyền rủa ký sinh, dần sa đọa
+  personality: Ban đầu nghiêm túc, có chí làm 'mạo hiểm gia vĩ đại', sợ ma; bị lời nguyền và thôi miên
+    làm dâm đãng, thay đổi giữa xấu hổ/chống cự và ham muốn; tinh nghịch với Succubus
+  speech_style: 'Tự nhiên, nữ tính; lúc chống cự: ngắt quãng, kêu ''không cần đâu''; lúc sa đọa: nũng
+    nịu, kéo dài ～. Độc thoại trong ngoặc （）. Khi ở thân phận nô lệ dùng \N[59] tự xưng và gọi ''chủ nhân'''
+  self: tôi
+  forbid:
+  - tao
+  note: 'Với chị Simeria: ''em''; với chồng Owen: ''em''; với ''anh lính đánh thuê'' trong cảnh: ''em''/''người
+    ta'' (人家). Khi là nô lệ: \N[59] (tiện nô). Bản thân Lilina cũng có thể bị gọi bằng \N[61]. Lời dẫn
+    gọi Lilina là ''cô''. CẦN XÁC NHẬN: sau khi biết Owen lợi dụng mình, Lilina có đổi sang ''tôi – anh/ông''
+    với Owen không.'
+- id: succubus
+  names:
+  - 魅魔
+  - \N[4]
+  - \C[5]\N[4]\C[0]
+  name_vi: Succubus
+  gender: nữ
+  age: quỷ cổ xưa (ngoại hình trẻ)
+  role: Ma nữ trú trong bộ giáp nguyền rủa, đồng hành/hướng dẫn hệ thống của Lilina; muốn Lilina thành
+    Nữ vương Dâm ma
+  personality: Tinh nghịch, nũng nịu, hay dỗi, ghen với Kỳ Lân; quan tâm Lilina theo kiểu riêng
+  speech_style: Câu ngắn nối bằng ～, giọng lả lơi, hay hướng dẫn phím tắt
+  self: em
+  forbid:
+  - tao
+  - tôi
+  note: Gọi Lilina là 'chủ nhân' hoặc tên; khi phân tích nghiêm túc vẫn giữ 'em'. Tên có thể đổi thành
+    'Mị Ma' nếu nhóm muốn Hán-Việt – CẦN XÁC NHẬN một lần rồi dùng thống nhất.
+- id: owen
+  names:
+  - 歐文
+  - \N[12]
+  - 會長
+  name_vi: Owen
+  gender: nam
+  age: trưởng thành
+  role: Hội trưởng Hội Mạo hiểm giả Anvil, chồng Lilina (thực chất lợi dụng cô)
+  personality: Bề ngoài ân cần, lo thể diện Hội
+  speech_style: Gọi vợ là 'phu nhân' (夫人) nửa trìu mến nửa trang trọng
+  self: anh
+  forbid:
+  - tao
+  note: Trước cấp dưới xưng 'ta'.
+- id: longyin
+  names:
+  - 龍吟
+  - \N[7]
+  name_vi: Long Ngâm
+  gender: nam
+  age: thanh niên
+  role: '''Đại sư'', thầy của Loki; đối tượng tình cảm ở tuyến Học viện (độ quyến luyến)'
+  personality: Hiền, hơi ngượng ngùng, quan tâm Lilina
+  speech_style: Nhẹ nhàng, hay lắp bắp khi bối rối
+  self: tôi
+  forbid:
+  - tao
+  - ta
+  note: Quan hệ với Lilina có thể tiến triển; xưng hô ban đầu tôi–cô, CẦN XÁC NHẬN nếu sau thành người
+    yêu (anh–em).
+- id: berika
+  names:
+  - 貝莉卡
+  - \N[8]
+  name_vi: Berika
+  gender: nữ
+  age: trưởng thành
+  role: Quân nhân/thuộc hạ dưới quyền Long Ngâm; trùm phản diện tuyến Học viện (cài ám thị thôi miên Lilina)
+  personality: Bề ngoài nghiêm, cứng rắn; ẩn giấu bí mật
+  speech_style: Câu ngắn, kiểu quân đội ('Rõ, thưa trưởng quan!')
+  self: tôi
+  forbid:
+  - tao
+  note: Có cảnh 'bị Berika cưỡng hiếp' – có thể là futa/ma pháp, CẦN XÁC NHẬN.
+- id: simeria
+  names:
+  - 西玫莉婭
+  - \N[3]
+  name_vi: Simeria
+  gender: nữ
+  age: lớn tuổi hơn Lilina
+  role: '''Chị'' của Lilina (chị ruột hoặc chị kết nghĩa – CẦN XÁC NHẬN), giỏi ma pháp Ánh sáng, mang
+    ''dương vật thần ban'''
+  personality: Dịu dàng mà biến thái, thao túng, nói giọng tôn giáo
+  speech_style: Ngọt ngào, ～, hay nhắc 'Thần đang nhìn', 'chân thật'
+  self: chị
+  forbid:
+  - tao
+  note: 'CẦN XÁC NHẬN: chị ruột hay chị kết nghĩa (thoại chỉ thấy 姐姐).'
+- id: priest
+  names:
+  - 神父
+  - \N[2]
+  name_vi: Cha xứ
+  gender: nam
+  age: trung niên/già
+  role: Linh mục điều tra thánh vật giải lời nguyền, cứu Lilina
+  personality: Chính trực, lo lắng
+  speech_style: Trang nghiêm, câu cầu nguyện
+  self: ta
+  forbid:
+  - tao
+  note: Với Lilina có thể dùng 'cha – con'.
+- id: meili
+  names:
+  - 梅莉
+  - \N[5]
+  name_vi: Meri
+  gender: nữ (CẦN XÁC NHẬN)
+  role: Người ủy thác nhiệm vụ đổi lấy cơ thể Lilina một đêm; chủ của Roger
+  personality: Gian xảo, đắc ý
+  speech_style: Cười 'hừm hừm～', khinh khỉnh
+  self: ta
+  forbid:
+  - em
+- id: roger
+  names:
+  - 羅杰
+  - \N[6]
+  name_vi: Roger
+  gender: nam
+  role: Thuộc hạ của Meri
+  self: tôi
+- id: melissa
+  names:
+  - 梅麗莎
+  - \N[9]
+  name_vi: Melissa
+  gender: nữ (CẦN XÁC NHẬN)
+  role: Người ủy thác, nhà nghiên cứu muốn làm 'thí nghiệm' trên Lilina; biết về thần khí Abaddon
+  personality: Lạnh lùng, thực dụng
+  speech_style: Dứt khoát
+  self: ta
+  forbid:
+  - em
+- id: unicorn
+  names:
+  - 獨角獸
+  - \N[11]
+  name_vi: Kỳ Lân
+  gender: đực
+  role: Thần thú, 'người yêu' của Lilina ở tuyến Thánh thú
+  self: ta
+  note: Ít/không thoại.
+- id: cospiro
+  names:
+  - 柯斯皮洛
+  - \N[13]
+  name_vi: Cospiro
+  gender: nam (CẦN XÁC NHẬN)
+  age: trẻ
+  role: Tân binh Hội Mạo hiểm giả, không phải chiến binh, nhờ Lilina làm nhiệm vụ slime
+  personality: Tự ti, hay than thở, lễ phép
+  speech_style: Lắp bắp 'cái đó…', dùng kính ngữ 您
+  self: tôi
+  forbid:
+  - tao
+  - ta
+- id: jon
+  names:
+  - 瓊恩
+  - \N[14]
+  name_vi: Jon
+  gender: nam
+  role: Vua/thành chủ thành Torres (giết anh trai để lên ngôi), chủ của Lilina ở Torres
+  personality: Tàn nhẫn, kiêu ngạo
+  speech_style: Tự xưng 本王
+  self: bổn vương
+  forbid:
+  - tôi
+  - em
+- id: chloria
+  names:
+  - 克蘿莉亞
+  - \N[15]
+  name_vi: Chloria
+  gender: nữ
+  role: Nô lệ/thú cưng của thành chủ Torres; sở hữu Lilina một thời gian
+  personality: Nịnh chủ, nũng nịu
+  speech_style: ～, tự xưng \N[59], gọi 'chủ nhân'
+  self: \N[59] (tiện nô)
+  forbid:
+  - tao
+  note: Khi nói với người dưới quyền có thể xưng 'ta' – CẦN XÁC NHẬN.
+- id: trosie
+  names:
+  - 特蘿西
+  - \N[16]
+  name_vi: Trosie
+  gender: nữ
+  role: Nô lệ, gọi 'chị' (có lẽ là em của Chloria – CẦN XÁC NHẬN)
+  personality: Nhút nhát, phục tùng
+  self: \N[59] (tiện nô)
+  forbid:
+  - tao
+- id: jude
+  names:
+  - 尤德
+  - \N[17]
+  name_vi: Jude
+  gender: nam
+  role: Người ủy thác nhiệm vụ giải cứu công chúa thứ ba của Đế quốc ở Torres
+  personality: Lịch thiệp, hơi háo sắc
+  speech_style: Kính ngữ, gọi 'phu nhân'
+  self: tôi
+  forbid:
+  - tao
+- id: sanja
+  names:
+  - 珊嘉
+  - \N[18]
+  name_vi: Sanja
+  gender: nữ
+  role: Công chúa thứ ba của Đế quốc, bị bắt làm nô lệ; sau phục tùng Lilina là 'chủ nhân'
+  personality: Phục tùng, cam chịu
+  self: \N[59] (tiện nô)
+  forbid:
+  - tao
+- id: sax
+  names:
+  - 薩克斯
+  - \N[21]
+  name_vi: Sax
+  gender: nam
+  age: già
+  role: Chủ thuê hầu gái bán thời gian
+  speech_style: Tự xưng 老夫
+  self: lão phu
+  forbid:
+  - em
+- id: shirley
+  names:
+  - 雪莉
+  - \N[22]
+  name_vi: Shirley
+  gender: nữ
+  role: Thuộc hạ của Jon; người đưa Lilina đến Torres, sau làm cấp trên của cô
+  personality: Đắc ý, chế nhạo
+  self: tôi
+  note: Có dòng '\N[59]明白了' gắn với Shirley – có thể là gán người nói sai, CẦN XÁC NHẬN.
+- id: elsa
+  names:
+  - 艾莎
+  - \N[23]
+  name_vi: Elsa
+  gender: nữ
+  role: Cựu nữ mạo hiểm giả mạnh nhất Hội, bị cải tạo thành 'vợ trùng'
+  self: tôi
+  note: Thoại chủ yếu là rên.
+- id: ross
+  names:
+  - 羅斯
+  - \N[25]
+  - 老爹
+  name_vi: Ross
+  gender: nam
+  age: trung niên
+  role: Giáo viên ma pháp hệ Sấm, cha của Rost, dùng thôi miên/điều khiển
+  speech_style: Bình thản, ám muội
+  self: ta
+- id: rost
+  names:
+  - 羅斯特
+  - \N[26]
+  name_vi: Rost
+  gender: nam
+  age: học viên
+  role: Con trai Ross, học viên
+  self: tôi
+  note: Gọi Ross là 'bố già'/'cha' (老爹).
+- id: anna
+  names:
+  - 安娜
+  - \N[27]
+  name_vi: Anna
+  gender: nữ
+  role: Học viên bị thôi miên
+  self: tôi
+- id: charlo
+  names:
+  - 夏洛
+  - \N[28]
+  name_vi: Charlo
+  gender: nam
+  role: Học viên Học viện
+  self: tôi
+- id: bigas
+  names:
+  - 比加斯
+  - \N[29]
+  name_vi: Bigas
+  gender: nam
+  role: Giáo viên ma pháp hệ Ánh sáng
+  speech_style: Ra lệnh bình thản như giảng bài
+  self: thầy
+  forbid:
+  - tao
+- id: lant
+  names:
+  - 蘭特
+  - \N[30]
+  name_vi: Lant
+  gender: nam
+  role: Công tử nhà giàu lười học, cậy bố có tiền
+  personality: Ngạo mạn, thô lỗ
+  speech_style: Chửi bới, tự xưng 老子
+  self: tao
+  forbid:
+  - em
+- id: miller
+  names:
+  - 米勒
+  - \N[31]
+  name_vi: Miller
+  gender: nam
+  role: Học viên (bạn của Hart)
+  personality: Tinh quái
+  self: tôi
+- id: hart
+  names:
+  - 哈特
+  - \N[32]
+  name_vi: Hart
+  gender: nam (CẦN XÁC NHẬN)
+  role: Học viên
+  self: tôi
+- id: darren
+  names:
+  - 達倫
+  - \N[35]
+  name_vi: Darren
+  gender: nam
+  role: Giám ngục trưởng Nhà tù Rừng (có lẽ – CẦN XÁC NHẬN)
+  personality: Cáu kỉnh, ghét bị đánh thức
+  self: ta
+  forbid:
+  - em
+- id: nell
+  names:
+  - 妮爾
+  - \N[36]
+  name_vi: Nell
+  gender: nữ
+  role: Nữ mục sư nghèo cần đồng đội
+  personality: Rụt rè, khổ sở
+  self: tôi
+- id: robert
+  names:
+  - 羅伯特
+  - \N[40]
+  name_vi: Robert
+  gender: nam
+  role: Nhân vật trong nhà tù (CẦN XÁC NHẬN)
+  personality: Cộc cằn
+  self: tôi
+- id: luna
+  names:
+  - 露娜
+  - \N[41]
+  name_vi: Luna
+  gender: nữ
+  role: Điều tra viên, mang đồ ăn cho Lilina (dạng có đuôi)
+  personality: Thân thiện, hồn nhiên
+  self: tôi
+- id: lilith
+  names:
+  - 莉麗絲
+  - \N[44]
+  name_vi: Lilith
+  gender: nữ
+  role: Người quản lý 'Ngôi nhà Tình yêu' (nơi bán nô lệ)
+  speech_style: Lịch sự kiểu kinh doanh
+  self: tôi
+- id: lorin
+  names:
+  - 羅琳
+  - \N[46]
+  name_vi: Lorin
+  gender: CẦN XÁC NHẬN
+  role: Chủ dinh thự nơi Lilina bị bán tới (tuyến Futa)
+  self: ta
+- id: james
+  names:
+  - 詹姆士
+  - \N[47]
+  name_vi: James
+  gender: nam
+  role: Kẻ dụ Lilina bằng 'lâu đài tình yêu' (kết thúc Chim Hoàng Yến trong lồng)
+  speech_style: Ngọt ngào giả tạo, gọi 'em yêu'
+  self: anh
+  forbid:
+  - tao
+- id: voice_of_god
+  names:
+  - 神之音
+  - \N[50]
+  name_vi: Giọng Thần
+  gender: không rõ
+  role: Giọng của tác giả, phá bức tường thứ tư, nhắc 'phần sau'
+  self: ta
+- id: teacher
+  names:
+  - 老師
+  - \N[51]
+  name_vi: Thầy giáo
+  gender: nam
+  role: Giáo viên Học viện (dùng chung cho nhiều thầy)
+  self: thầy
+  forbid:
+  - tao
+- id: student
+  names:
+  - 學生
+  - \N[52]
+  name_vi: Học viên
+  gender: nam (thường)
+  role: Học viên chung
+  self: tôi
+- id: guard
+  names:
+  - 守衛
+  - \N[53]
+  name_vi: Lính gác
+  gender: nam
+  role: Lính gác chung (cổng thành, nhà tù, Torres)
+  personality: Háo sắc, hống hách
+  self: ta
+  note: Lúc thô tục có thể 'tao – mày'. Có chỗ gọi '衛兵大人' → 'ngài lính gác'.
+- id: villager
+  names:
+  - 村民
+  - \N[55]
+  - 村民1
+  - 村民2
+  name_vi: Dân làng
+  gender: nam (thường)
+  self: tôi
+  note: '村民2 gọi 村民1 là ''đại ca''; giữa hai người: ''tao – mày''.'
+- id: wolf_god
+  names:
+  - 狼神
+  - \N[56]
+  name_vi: Lang Thần
+  gender: CẦN XÁC NHẬN
+  role: Thần sói, boss ẩn, nói chuyện meta về 'các quý ông'
+  speech_style: Trêu chọc, ～
+  self: ta
+- id: fitch
+  names:
+  - 費奇
+  - \N[65]
+  name_vi: Fitch
+  gender: nam
+  role: Chủ cho vay nặng lãi/sòng bạc, Đấu trường Bí mật
+  personality: Tham lam, gắt gỏng
+  self: ta
+  forbid:
+  - em
+- id: baixue
+  names:
+  - 白雪
+  - \N[67]
+  name_vi: Bạch Tuyết
+  gender: nữ
+  role: Thú nhân (tộc sói/cáo – CẦN XÁC NHẬN) có thể hóa hình người; gọi thủ lĩnh 'thủ lĩnh', gọi Lilina
+    'chủ nhân'
+  personality: Ngoan, lo cho mẹ
+  self: em
+  forbid:
+  - tao
+- id: loki
+  names:
+  - 洛基
+  - \N[69]
+  name_vi: Loki
+  gender: nam
+  role: Đệ tử của Long Ngâm
+  personality: Nguyên tắc, nóng vội
+  self: tôi
+- id: master_npc
+  names:
+  - 主人
+  name_vi: Chủ nhân
+  gender: nam
+  role: Chủ mua Lilina (khách hàng/chủ nô)
+  self: ta
+  forbid:
+  - em
+- id: mercenary
+  names:
+  - 傭兵
+  name_vi: Lính đánh thuê
+  gender: nam
+  role: Lính đánh thuê trong trò 'đuổi bắt cừu non'
+  speech_style: Thô, cợt nhả
+  self: anh
+  note: Gọi Lilina 'cừu non', 'con đĩ nhỏ'; tự xưng 本大爺 → 'bổn đại gia'.
+- id: garon
+  names:
+  - 加隆
+  name_vi: Garon
+  gender: nam
+  age: vua bất tử hơn 1000 năm
+  role: Vua người chết ở Vương thành Garon, giữ Quyền trượng Tử vong, vợ là Sofia (索菲亞)
+  personality: Bi thương, cố chấp
+  self: ta
+  forbid:
+  - tôi
+  - em
+- id: trainer
+  names:
+  - 調教師
+  name_vi: Người huấn luyện nô lệ
+  gender: nam
+  role: Người điều khiển buổi đấu giá nô lệ
+  self: ta
+- id: dale
+  names:
+  - 戴爾
+  name_vi: Dale
+  gender: nam
+  role: Người cha thuê gia sư hệ Gió cho con
+  self: tôi
+- id: doctor
+  names:
+  - 醫生
+  name_vi: Bác sĩ
+  gender: CẦN XÁC NHẬN
+  role: Bác sĩ của Hội, chữa ký sinh trùng
+  self: tôi
+- id: prison_boss
+  names:
+  - 獄霸
+  name_vi: Đại ca nhà tù
+  gender: nam
+  role: Tù nhân cầm đầu
+  speech_style: Thô lỗ, tự xưng 老子
+  self: tao
+- id: bill
+  names:
+  - 比爾
+  name_vi: Bill
+  gender: nam
+  role: Quản lý kho/đổi đồ trong nhà tù
+  self: tao
+- id: potter
+  names:
+  - 波特
+  name_vi: Potter
+  gender: nam
+  role: Quản ngục/giám sát lao động
+  self: ta
+- id: water_spirit
+  names:
+  - 水精靈
+  name_vi: Tinh linh Nước
+  gender: nữ
+  role: Chủ nhân của Lilina tại Thần điện Băng
+  speech_style: Tinh nghịch, ～
+  self: ta
+- id: generic_w1
+  names:
+  - \W[1]
+  name_vi: (giữ \W[1])
+  gender: thay đổi
+  role: Tên NPC động theo biến; câu thoại phải trung tính về giới
+  self: tôi
+  note: Không dịch mã; khi NPC hành xử như chủ nô dùng 'ta – ngươi'.
+- id: unknown
+  names:
+  - ？？？
+  name_vi: ???
+  gender: thay đổi
+  role: Người chưa lộ danh tính
+  self: ta
+  note: Giữ '？？？'.
+relations:
+- from: lilina
+  to: succubus
+  self: tôi
+  call: cô / \N[4]
+  note: Thân, hay trêu
+- from: succubus
+  to: lilina
+  self: em
+  call: chủ nhân / \N[1]
+- from: lilina
+  to: owen
+  self: em
+  call: anh
+  note: 'CẦN XÁC NHẬN: đổi xưng hô khi quan hệ xấu đi (thoại có 好老公 lúc bị điều khiển).'
+- from: owen
+  to: lilina
+  self: anh
+  call: phu nhân / em
+- from: lilina
+  to: simeria
+  self: em
+  call: chị / chị \N[3]
+- from: simeria
+  to: lilina
+  self: chị
+  call: em / \N[1]
+- from: lilina
+  to: longyin
+  self: tôi
+  call: anh
+  note: CẦN XÁC NHẬN nếu tiến tới yêu đương
+- from: longyin
+  to: lilina
+  self: tôi
+  call: cô / \N[1]
+- from: berika
+  to: lilina
+  self: tôi
+  call: cô
+- from: lilina
+  to: priest
+  self: con
+  call: cha / Cha xứ
+- from: priest
+  to: lilina
+  self: ta
+  call: con
+- from: lilina
+  to: guard
+  self: 'tôi (khi là nô lệ: \N[59])'
+  call: ngài lính gác / chủ nhân (khi là nô lệ)
+- from: guard
+  to: lilina
+  self: ta
+  call: ngươi / cô
+  note: 'Lúc thô tục: tao – mày; khi ra lệnh nô lệ tự gọi mình là ''chủ nhân'''
+- from: lilina
+  to: master_npc
+  self: \N[59] / tôi
+  call: chủ nhân
+- from: master_npc
+  to: lilina
+  self: ta
+  call: ngươi
+- from: jon
+  to: lilina
+  self: bổn vương
+  call: ngươi
+- from: lilina
+  to: jon
+  self: \N[59]
+  call: chủ nhân / bệ hạ
+- from: chloria
+  to: jon
+  self: \N[59]
+  call: chủ nhân / chủ nhân thành chủ
+- from: chloria
+  to: lilina
+  self: \N[59] / ta
+  call: chủ nhân (khi Lilina là chủ) / ngươi
+  note: CẦN XÁC NHẬN theo ngữ cảnh
+- from: trosie
+  to: chloria
+  self: \N[59]
+  call: chị
+- from: sanja
+  to: lilina
+  self: \N[59]
+  call: chủ nhân
+- from: lilina
+  to: sanja
+  self: tôi
+  call: cô / công chúa
+- from: jude
+  to: lilina
+  self: tôi
+  call: phu nhân / ngài
+- from: lilina
+  to: jude
+  self: tôi
+  call: ông / anh
+- from: cospiro
+  to: lilina
+  self: tôi
+  call: cô / ngài
+- from: lilina
+  to: cospiro
+  self: tôi
+  call: cậu
+- from: sax
+  to: lilina
+  self: lão phu
+  call: cô
+- from: lilina
+  to: sax
+  self: tôi
+  call: ông / ngài
+- from: teacher
+  to: lilina
+  self: thầy
+  call: em
+- from: lilina
+  to: teacher
+  self: em
+  call: thầy
+- from: bigas
+  to: lilina
+  self: thầy
+  call: em / \N[1]
+- from: ross
+  to: lilina
+  self: ta
+  call: em
+- from: rost
+  to: ross
+  self: con
+  call: bố / bố già
+- from: student
+  to: lilina
+  self: tôi
+  call: cậu / \N[1]
+- from: lant
+  to: lilina
+  self: tao
+  call: mày / con đĩ
+- from: miller
+  to: hart
+  self: tao
+  call: mày / \N[32]
+- from: mercenary
+  to: lilina
+  self: anh / bổn đại gia
+  call: em / cừu non
+- from: lilina
+  to: mercenary
+  self: em / người ta
+  call: anh lính đánh thuê
+- from: garon
+  to: lilina
+  self: ta
+  call: ngươi / cô nhóc
+- from: lilina
+  to: garon
+  self: tôi
+  call: ngài
+- from: fitch
+  to: lilina
+  self: ta
+  call: ngươi
+- from: darren
+  to: lilina
+  self: ta
+  call: ngươi
+- from: prison_boss
+  to: lilina
+  self: tao
+  call: mày
+- from: baixue
+  to: lilina
+  self: em
+  call: chủ nhân
+- from: loki
+  to: longyin
+  self: con / tôi
+  call: đại sư
+- from: loki
+  to: lilina
+  self: tôi
+  call: cô
+- from: james
+  to: lilina
+  self: anh
+  call: em yêu
+- from: meili
+  to: lilina
+  self: ta
+  call: cô
+- from: melissa
+  to: lilina
+  self: ta
+  call: cô
+- from: lilith
+  to: lilina
+  self: tôi
+  call: cô
+- from: shirley
+  to: lilina
+  self: tôi
+  call: cô / \N[61]
+- from: water_spirit
+  to: lilina
+  self: ta
+  call: ngươi
+- from: nell
+  to: lilina
+  self: tôi
+  call: cô
+- from: luna
+  to: lilina
+  self: tôi
+  call: cô / \N[1]
+- from: villager
+  to: villager
+  self: tao
+  call: mày / đại ca
+  note: 村民2 gọi 村民1 là đại ca
+glossary:
+- src: 詛咒鎧甲 / 詛咒的鎧甲
+  vi: Bộ giáp nguyền rủa
+- src: 詛咒的頭冠
+  vi: Vương miện nguyền rủa
+- src: 詛咒的枷鎖
+  vi: Gông xiềng nguyền rủa
+- src: 詛咒的項圈
+  vi: Vòng cổ nguyền rủa
+- src: 詛咒的貞操守護
+  vi: Bảo hộ trinh tiết nguyền rủa
+- src: 淫能
+  vi: dâm năng
+  note: Chỉ số/tài nguyên chính
+- src: 欲望
+  vi: dục vọng
+  note: Chỉ số
+- src: 墮落
+  vi: sa đọa
+  note: Chỉ số
+- src: 詛咒度
+  vi: độ nguyền rủa
+- src: 依戀值
+  vi: độ quyến luyến
+- src: 淫魔
+  vi: dâm ma
+- src: 淫魔女王
+  vi: Nữ vương Dâm ma
+- src: 淫魔王
+  vi: Dâm Ma Vương
+- src: 淫魔法
+  vi: dâm ma pháp
+- src: 獵天使
+  vi: Thợ Săn Thiên Thần
+  note: Danh hiệu của Lilina
+- src: 冒險者公會 / 公會
+  vi: Hội Mạo hiểm giả / Hội
+- src: 冒險者 / 冒險家
+  vi: mạo hiểm giả / nhà mạo hiểm
+- src: 會長
+  vi: hội trưởng
+- src: 安維爾城 / 安維爾
+  vi: thành Anvil / Anvil
+- src: 安維爾港口
+  vi: cảng Anvil
+- src: 安維爾空港
+  vi: không cảng Anvil
+- src: 托雷斯城
+  vi: thành Torres
+- src: 舊城區
+  vi: khu phố cũ
+- src: 森林監獄
+  vi: Nhà tù Rừng
+- src: 典獄長
+  vi: giám ngục trưởng
+- src: 看守所
+  vi: trại tạm giam
+- src: 失落森林
+  vi: Rừng Thất Lạc
+- src: 加隆王城
+  vi: Vương thành Garon
+- src: 神牛山
+  vi: Núi Thần Ngưu
+- src: 冰之神殿
+  vi: Thần điện Băng
+- src: 火之神殿
+  vi: Thần điện Lửa
+- src: 帝國遺跡
+  vi: Di tích Đế quốc
+- src: 帝國
+  vi: Đế quốc
+- src: 森林遺跡
+  vi: Di tích Rừng
+- src: 神樹圣地
+  vi: Thánh địa Thần Thụ
+- src: 狼神殿
+  vi: Điện Lang Thần
+- src: 維拉
+  vi: Vera
+  note: Quê/địa danh – CẦN XÁC NHẬN
+- src: 奴隸商會 / 商會
+  vi: Thương hội Nô lệ / thương hội
+- src: 愛之屋
+  vi: Ngôi nhà Tình yêu
+- src: 艷舞酒館
+  vi: Quán rượu Vũ Điệu Gợi Cảm
+- src: 秘密競賽場
+  vi: Đấu trường Bí mật
+- src: 獨角獸牧場
+  vi: Trại Kỳ Lân
+- src: 浴場
+  vi: nhà tắm
+- src: 研究院
+  vi: Viện Nghiên cứu
+- src: 魔法學院 / 學院
+  vi: Học viện Ma pháp / Học viện
+- src: 特等生
+  vi: học viên đặc cấp
+- src: 光系/風系/火系/水系/土系/雷系魔法
+  vi: ma pháp hệ Ánh sáng/Gió/Lửa/Nước/Đất/Sấm
+- src: 水的魔女 / 火的魔女
+  vi: Ma nữ của Nước / Ma nữ của Lửa
+- src: 城主
+  vi: thành chủ
+- src: 性奴隸
+  vi: nô lệ tình dục
+- src: 永久性奴隸
+  vi: nô lệ tình dục vĩnh viễn
+- src: 賤奴 (\N[59])
+  vi: tiện nô
+  note: Đại từ tự xưng của nô lệ
+- src: 肉便器
+  vi: bồn cầu thịt
+- src: 苗床 / 異種苗床
+  vi: ổ ươm / ổ ươm dị chủng
+- src: 蟲妻 / 獸妻
+  vi: vợ trùng / vợ thú
+- src: 癡女
+  vi: dâm nữ
+- src: 娼淫的館 / 妓女
+  vi: kỹ viện / kỹ nữ
+- src: 神獸 / 圣獸
+  vi: thần thú / thánh thú
+- src: 獨角獸
+  vi: kỳ lân
+- src: 魅魔
+  vi: Succubus
+  note: Tên nhân vật; xem note nhân vật
+- src: 史萊姆
+  vi: slime
+- src: 寄生蟲 / 寄生體 / 寄生幼蟲
+  vi: ký sinh trùng / vật ký sinh / ấu trùng ký sinh
+- src: 亞巴頓魔蟲 / 亞巴頓王蟲 / 王蟲
+  vi: Ma trùng Abaddon / Vương trùng Abaddon / vương trùng
+- src: 殺人蜂
+  vi: ong sát thủ
+- src: 毒蝎
+  vi: bọ cạp độc
+- src: 魔牛
+  vi: ma ngưu
+- src: 章魚怪
+  vi: quái bạch tuộc
+- src: 火龍
+  vi: hỏa long
+- src: 骸骨戰士
+  vi: chiến binh xương
+- src: 僵尸
+  vi: xác sống
+- src: 幽靈 / 女幽靈 / 亡靈
+  vi: u linh / nữ u linh / vong linh
+- src: 惡狼
+  vi: sói dữ
+- src: 獵鷹
+  vi: chim ưng
+- src: 吸血蝙蝠
+  vi: dơi hút máu
+- src: 水精靈 / 火精靈
+  vi: Tinh linh Nước / Tinh linh Lửa
+- src: 蛇女三姐妹
+  vi: Ba chị em Xà nữ
+- src: 千年樹精
+  vi: Thụ tinh Ngàn năm
+- src: 淫魔守衛
+  vi: Hộ vệ Dâm ma
+- src: 神器
+  vi: thần khí
+- src: 圣物
+  vi: thánh vật
+- src: 水神的結晶
+  vi: Kết tinh Thủy thần
+- src: 黃金的果實
+  vi: Trái Hoàng kim
+- src: 死亡的權杖
+  vi: Quyền trượng Tử vong
+- src: 逝者之花
+  vi: Hoa Người Đã Khuất
+- src: 神牛的斷角
+  vi: Sừng gãy Thần Ngưu
+- src: 冰晶的花朵
+  vi: Hoa Băng tinh
+- src: 烈焰的寶珠
+  vi: Bảo châu Liệt diễm
+- src: 淫魔的戒指
+  vi: nhẫn dâm ma
+- src: 貞操帶 / 魔鋼貞操帶
+  vi: đai trinh tiết / đai trinh tiết ma thép
+- src: 魔鋼
+  vi: ma thép
+- src: 魔導水晶
+  vi: pha lê ma đạo
+- src: 精液寶瓶
+  vi: bảo bình tinh dịch
+- src: 回城卷軸
+  vi: cuộn giấy hồi thành
+- src: 斯庫瑪
+  vi: Skooma
+- src: 鎮定劑
+  vi: thuốc an thần
+- src: 特制解藥
+  vi: thuốc giải đặc chế
+- src: 魔乳
+  vi: Ma nhũ
+- src: 惡魔的禁錮
+  vi: Xiềng xích Ác ma
+- src: 龜甲束
+  vi: trói mai rùa
+- src: 鐐銬（手/腳/頸）
+  vi: cùm (tay/chân/cổ)
+- src: 結局一覽
+  vi: Danh sách kết thúc
+- src: 重返新的旅程
+  vi: Trở lại hành trình mới
+  note: Vật phẩm New Game+
+- src: 下周目
+  vi: lượt chơi mới
+- src: 靈魂契約 / 契約之日 / 契約的反噬
+  vi: khế ước linh hồn / ngày khế ước / phản phệ của khế ước
+- src: 擬態
+  vi: ngụy trang
+  note: Kỹ năng giáp biến thành trang phục
+- src: 套裝 / 記錄當前套裝 / 過去的套裝
+  vi: bộ trang phục / Lưu bộ hiện tại / Bộ đã lưu
+- src: 榨乳
+  vi: vắt sữa
+- src: 出產&流產
+  vi: Sinh nở & Phá thai
+- src: 誘惑
+  vi: quyến rũ
+- src: 催眠暗示 / 暗示 / 永久烙印 / 烙印效果
+  vi: ám thị thôi miên / ám thị / dấu ấn vĩnh viễn / hiệu ứng dấu ấn
+- src: 發情 / 強制發情
+  vi: động dục / động dục cưỡng chế
+- src: 虛化
+  vi: hư hóa
+- src: 精氣
+  vi: tinh khí
+- src: 祭品
+  vi: vật tế
+- src: 跳過重復H
+  vi: bỏ qua cảnh H đã xem
+- src: 全回想
+  vi: toàn bộ hồi tưởng
+- src: CG收集率
+  vi: tỷ lệ thu thập CG
+- src: 立繪
+  vi: ảnh nhân vật
+- src: 虛擬搖桿
+  vi: cần điều khiển ảo
+- src: A鍵極速跳過
+  vi: tua nhanh bằng phím A
+- src: 遺跡線 / 學院線 / 圣獸線 / 魔蟲線
+  vi: tuyến Di tích / tuyến Học viện / tuyến Thánh thú / tuyến Ma trùng
+- src: 真結局
+  vi: Kết thúc thật
+- src: 任務 / 委托 / 委托人
+  vi: nhiệm vụ / ủy thác / người ủy thác
+- src: 高級任務管理員 / 初級任務管理員
+  vi: Quản lý nhiệm vụ cao cấp / Quản lý nhiệm vụ sơ cấp
+- src: 商會管理員
+  vi: Quản lý thương hội
+- src: 違約金
+  vi: tiền bồi thường hợp đồng
+- src: 公會借金
+  vi: tiền Hội cho mượn
+- src: 傭兵團 / 傭兵公會
+  vi: đoàn lính đánh thuê / Hội Lính đánh thuê
+- src: 教主之聲 / 神教
+  vi: Giọng Giáo chủ / Thần giáo
+- src: 迷之聲音
+  vi: Giọng nói bí ẩn
+- src: 女店員
+  vi: nữ nhân viên
+- src: 賣花少女
+  vi: cô bán hoa
+- src: 女囚犯
+  vi: nữ tù nhân
+- src: 賭徒
+  vi: con bạc
+- src: 強盜
+  vi: tên cướp
+- src: 市民
+  vi: thị dân
+- src: 水手
+  vi: thủy thủ
+- src: 老板 / 浴場老板
+  vi: ông chủ / ông chủ nhà tắm
+- src: 姬騎士
+  vi: kỵ sĩ công chúa
+- src: 時崎狂三
+  vi: Tokisaki Kurumi
+- src: 尼祿
+  vi: Nero
+- src: 緋月
+  vi: Hizuki
+  note: CẦN XÁC NHẬN
+- src: 伊賀忍者
+  vi: ninja Iga
+- src: 黑泰迪 (\N[61])
+  vi: Teddy Đen
+  note: CẦN XÁC NHẬN
+- src: 金絲雀 (\N[62])
+  vi: Chim Hoàng Yến
+- src: 紅松鼠 (\N[63])
+  vi: Sóc Đỏ
+  note: Biệt danh, CẦN XÁC NHẬN người mang
+- src: 白銀狐 (\N[64])
+  vi: Cáo Bạc
+  note: Biệt danh, CẦN XÁC NHẬN
+- src: 奈斯特拉 (\N[60])
+  vi: Nestra
+  note: Nữ anh hùng có tượng ở Anvil – CẦN XÁC NHẬN
+- src: 索菲亞
+  vi: Sofia
+- src: 雷斯克 / 帕克 / 伊斯萊布爾
+  vi: Resk / Parker / Islebur
+- src: 清晨/上午/中午/下午/傍晚/夜晚
+  vi: Sáng sớm/Buổi sáng/Buổi trưa/Buổi chiều/Chạng vạng/Ban đêm
+- src: G
+  vi: G
+  note: Đơn vị tiền
+dont_translate:
+- \N[n]
+- \C[n]
+- \V[n]
+- \W[n]
+- \G
+- \S
+- \{
+- \}
+- \!
+- \|
+- \^
+- \.
+- Zapfkiel
+- Aleph
+- G
+- EXP
+- HP
+- CG
+- H
+- Futa
+- VIP
+- Normal End
+- Good End A
+- Good End B
+- Bad End A
+- Bad End B
+- True End
+- End
+- ？？？
+key_scenes: []

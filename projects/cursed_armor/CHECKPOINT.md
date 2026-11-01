@@ -1,0 +1,23 @@
+# Cursed Armor (詛咒鎧甲) v2.60 – cập nhật 30/10/2026 (khuya)
+- Thư mục gốc: `C:\Users\letha\Downloads\[Hentai]\Cursed_Armor_v2-60\Cursed Armor\Game` (không sửa)   Engine: RPG Maker MV (YEP_CoreEngine)   Ngôn ngữ gốc: zh Phồn thể (`www/data`)
+- Bản Việt hóa: `C:\Users\letha\Desktop\Projects\Translation\Cursed Armor\` – `CAI_VIETHOA.bat`, `GO_VIETHOA.bat`, `_viethoa\` (ẩn: 181 file dịch 23 MB, script, manifest).
+- **ĐANG CÀI** vào game (người dùng chạy CAI lúc 22:34 ngày 30/10): `_viethoa\_backup` = 180 file gốc (21 MB, đã kiểm sha256 khớp). Muốn sửa bản dịch: GO_VIETHOA.bat trước (apply/extract sẽ từ chối nếu chưa gỡ).
+- Đã xóa: bản chép cả game `output\Game` (771 MB), `translate.log`.
+- Ngôn ngữ trong game: `Z_All.js` đọc `StorageManager.load("language")` (""/EN/JP/CH) để chọn `www/data*` và bảng `wolfzqText*`. Bản lưu của người dùng = "EN" → bản cũ ra tiếng Anh. Đã ép cả 3 chỗ thành `""` (`rpgmaker.js_replace`) → chọn ngôn ngữ nào cũng ra tiếng Việt.
+- Kiểm chứng sau khi người dùng cài (game đã cài, bản lưu thật = EN, không --patch): `OK scene=Scene_Title font=true tieng_viet=25730 chu_goc_CJK=0 → DAT`
+- Kiểm chứng 30/10 trước khi cài (`node tools/boot_check_mvmz.mjs "<game gốc>" --patch "../Cursed Armor" --langs ",EN,JP,CH" --expr "<getT mọi khóa wolfzqText>"`):
+  - Patch: `OK` cả 4 ngôn ngữ: scene=Scene_Title font=true tieng_viet=25730 chu_goc_CJK=0 → DAT
+  - Đối chứng bản cũ + bản lưu thật (EN): tieng_viet=1 CJK=115 → KHONG DAT (đúng lỗi người dùng gặp)
+  - Đối chứng game gốc không patch: "" CJK=30970, EN tieng_viet=1 → KHONG DAT
+  - Cài/gỡ: test `test_patch_install_uninstall_roundtrip` (game giả, đường dẫn có `[ ]`) pass. CAI trên game thật: người dùng đã chạy, thành công (181/181 file = bản dịch). GO trên game thật: chưa chạy.
+  - Chạy trong Edge headless (cùng nhân Chromium), chưa chạy bằng Game.exe/NW.js.
+- Dòng: 28.238 (21.156 không trùng); 177 file data + `Z_Wolfzq_Text.js` (188 chuỗi UI) + `Z_All.js` (ép ngôn ngữ) + font Segoe UI
+- Đã xong: 28.238 / 28.238   Lỗi QA (E): 0   Cần duyệt: 2.005 dòng có cảnh báo W (`review.csv` đã xóa 31/10, tạo lại bằng `vgt review-export`)
+- Mức dùng (vgt status): haiku 33 lần gọi (UI); sonnet 518 lần gọi (thoại); opus 2 lần gọi bible + 2 lần gọi sửa lỗi (37 dòng); quy đổi API ≈ $43.5 (gói Max, không trả tiền)
+- CẦN XÁC NHẬN (trong `bible.yaml`): biệt danh Nestra/\N[60–64]; "Succubus" hay "Mị Ma"; quan hệ Long Ngâm; Berika; Simeria là chị ruột hay chị em kết nghĩa; giới tính Meri/Melissa/Cospiro/Hart/Lorin/Lang Thần/Bác sĩ; Chloria/Trosie; dòng Shirley \N[59]; vai trò Darren/Robert; chủng tộc Bạch Tuyết; Lilina có đổi xưng hô với Owen không; Vera, Hizuki; tên theo bible khác bản EN chính thức (Semalya, Mhairi, Loki…)
+- Việc người dùng cần làm: chơi thử bằng Game.exe (đã cài); kiểm dấu tiếng Việt (Segoe UI), bề rộng khung 44 ký tự (giả định); duyệt `review.csv` nếu muốn
+- Thống kê QA (W, không chặn): tách nhiều khung ~1.680 dòng; tên UI dài hơn gốc (MV tự co chữ) 327; dấu CJK 0; thiếu/thừa mã 0; mã lạ 0; dòng >44 ký tự sau ngắt 0
+- Bài học đã kiểm "Dấu hiệu": áp dụng G-003, G-006…G-012, E-001…E-005, P-001…P-004; không áp dụng G-005 (không dùng điều khiển máy)
+- Lỗi đã sửa 30/10: font arial.ttf → "Failed to load GameFont" (E-rpgmaker_mvmz-005); bản lưu EN → không thấy tiếng Việt (P-004); giao bản chép cả game (G-012)
+- Lỗi chưa giải quyết: chưa chơi thử bằng tay; khung tách giữa mã màu (vd `\C[27]Hiệu ứng dấu⏎ấn\C[0]`) có thể mất màu ở khung sau; `C[4]` thiếu `\` ở Map012 là lỗi của game gốc (giữ nguyên)
+- Bước tiếp theo: người dùng báo dòng sai → nếu đang cài thì chạy `GO_VIETHOA.bat` trước → sửa `review.csv` → `vgt review-import` → `vgt apply projects\cursed_armor` (ra `Translation\Cursed Armor`) → boot check `--patch "../Cursed Armor" --langs ",EN,JP,CH"` phải DAT → người dùng chạy lại `CAI_VIETHOA.bat`

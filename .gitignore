@@ -1,6 +1,14 @@
 __pycache__/
 *.pyc
-projects/
-*.db
 .claude_work/
 output/
+# Du lieu lam viec tung game: chi day len phan "kien thuc" giup phien sau
+# (CHECKPOINT, LESSONS, bible, scenes, research, config). Khong day db, ban nhap, patch.
+projects/*/*
+!projects/*/CHECKPOINT.md
+!projects/*/LESSONS.md
+!projects/*/bible.yaml
+!projects/*/scenes.yaml
+!projects/*/research.md
+!projects/*/config.yaml
+*.db

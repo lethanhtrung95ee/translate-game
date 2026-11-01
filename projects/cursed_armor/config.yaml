@@ -1,0 +1,20 @@
+# Ghi de cau hinh cho rieng game nay (xem config.default.yaml)
+# Ban Viet hoa giao o Translation/Cursed Armor (CAI/GO_VIETHOA.bat)
+patch:
+  dir: "../Cursed Armor"
+# Font goc fz.ttf (SimSun_YaHei) thieu 60/79 chu co dau tieng Viet.
+# Khong dung arial.ttf: trung metric sans-serif -> MV "Failed to load GameFont" (E-rpgmaker_mvmz-005).
+rpgmaker:
+  font_file: C:/Windows/Fonts/segoeui.ttf
+  # Chu UI cung trong plugin (bang mac dinh = ngon ngu "data" Phon the). Bang EN/JP/CH giu nguyen.
+  js_tables:
+    - {file: js/plugins/Z_Wolfzq_Text.js, start: "var wolfzqText = {"}
+  # Game nap data + bang chu theo ngon ngu da luu (save/filelanguage.rpgsave: ""/EN/JP/CH).
+  # Ep luon dung "" (= www/data da dich) de chon ngon ngu nao cung ra tieng Viet (P-004).
+  js_replace:
+    - {file: js/plugins/Z_All.js, find: 'StorageManager.load("language")', replace: '""', count: 3}
+# YEP_CoreEngine: font 28, line height 36; khung 816px co anh mat -> ~44 ky tu Arial/dong (gia dinh, can choi thu).
+qa:
+  max_line_chars: 44
+  # Ten vat pham zh->vi dai ~4 lan; MV drawText tu co chu theo maxWidth -> chi canh bao.
+  ui_too_long: warn
