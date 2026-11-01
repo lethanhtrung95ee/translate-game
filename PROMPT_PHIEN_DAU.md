@@ -20,7 +20,7 @@ Mục tiêu dài hạn: chạy được hoàn toàn bằng **gói Claude Pro** (
 1. Đọc `CHECKPOINT.md` (mục "Prompt cho phiên tiếp theo") và `CLAUDE.md`. Đọc `docs/HUONG_DAN_DICH_GAME_MOI.md` mục 1, 2 và mục ứng với engine.
 2. Chỉ có tên game: tìm trong `C:\Games\`, `Downloads\` (tối đa 2 cấp, không quét cả ổ đĩa), xin quyền thư mục nếu cần. Ghi đường dẫn tìm được vào checkpoint, không hỏi xác nhận lại nếu chỉ có đúng một kết quả khớp.
 3. Đã có `projects\<game>\`: đọc `CHECKPOINT.md` + `LESSONS.md` của game rồi **làm tiếp từ đó**, không `init` lại. Game đang cài patch (`_viethoa\_backup` tồn tại) thì không extract/apply, chỉ làm phần không ghi đè.
-4. Nhận diện engine (HUONG_DAN mục 2), rồi đọc `docs/lessons/global.md` + `docs/lessons/engines/<engine>.md`:
+4. Nhận diện engine (HUONG_DAN mục 2). Sau `init`/`extract`: chạy `python -m vgt lessons projects\<game>` và chỉ xử lý những bài nó in ra (không đọc cả file bài học):
 
 | Engine | Cách làm | Kiểm chứng |
 |---|---|---|
@@ -30,6 +30,8 @@ Mục tiêu dài hạn: chạy được hoàn toàn bằng **gói Claude Pro** (
 | Unity / engine khác | mục 5 + `docs/BAI_HOC_TU_LEGEND_OF_MORTAL.md` | tự dựng kiểm tương đương |
 
    Engine chưa có adapter: làm spike nhỏ (đọc được chữ chưa, mã hóa không, font ở đâu). Ghi phương án vào checkpoint của game và **dừng hỏi** trước khi viết adapter mới, vì việc này tốn hạn mức lớn.
+
+**Xương sống:** với engine có adapter, mọi bước dịch đi qua `python -m vgt run projects\<game>`. Lệnh tự chạy tiếp từ chỗ dở (an toàn khi chạy lại bao nhiêu lần) và dừng với một mã: `CAN_RESEARCH` → bước 2.0; `CAN_DUYET_BIBLE` → bước 3; `CAN_CHON_CANH_THU` → `vgt trial` (bước 4.1); `CAN_NGUOI_DUNG_DOC_THU` → bước 4.3–4.4, người dùng đồng ý thì `vgt approve-trial`; `CON_LOI`/`XONG_DICH` → bước 6–7. Bước hiện tại, lần chờ hạn mức, lỗi gần nhất luôn có trong `projects\<game>\TIEN_DO.json`. Hồ sơ (bible/scenes) bị sửa giữa chừng: dòng dịch theo hồ sơ cũ được kiểm định viên chấm lại tự động.
 
 ## Bước 1 – Môi trường
 `claude auth status` phải là gói đăng ký (Pro/Max, không API key; chạy `set ANTHROPIC_API_KEY=` trước). Ghi gói vào checkpoint. `python -m unittest discover -s tests` phải pass. Thiếu thư viện thì chạy lại `setup.ps1`.
@@ -65,7 +67,7 @@ Làm đủ HUONG_DAN mục 7 "Kiểm chứng bắt buộc": mọi lựa chọn n
 ## Kết thúc phiên (kể cả khi phải dừng giữa chừng)
 1. Báo bằng tiếng Việt, ngắn, theo bảng `mục | đã làm + đã kiểm chứng / đã làm chưa kiểm / còn lại | ghi chú`:
    đường dẫn CAI_VIETHOA.bat, output kiểm chứng thật (dòng DAT/KHONG DAT), số dòng xong/lỗi/cần duyệt, mức dùng theo model (`vgt status`), ước tính còn bao lâu nếu chưa xong, danh sách `CẦN XÁC NHẬN`, việc chỉ người dùng làm được (chơi thử, xác nhận font). Tách rõ đã kiểm chứng / giả định.
-2. Mỗi lỗi gặp phải → một bài học trong `projects\<game>\LESSONS.md`, chặn ở mức cao nhất có thể. `python tools/check_lessons.py` phải pass.
+2. Mỗi lỗi gặp phải → một bài học theo `docs/lessons/README.md` (có `Loại`; lỗi dịch thì có `Luật dịch`; dấu hiệu viết được thành code thì thêm bộ `Dò`), chặn ở mức cao nhất có thể. Lỗi đã có bài thì thêm game vào `Gặp ở`. `python tools/check_lessons.py` phải pass.
 3. Dọn dẹp theo CLAUDE.md, liệt kê những gì đã xóa.
 4. Cập nhật `projects\<game>\CHECKPOINT.md`, `CHECKPOINT.md` chung và mục "Prompt cho phiên tiếp theo".
 

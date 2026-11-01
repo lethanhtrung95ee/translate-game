@@ -2,8 +2,10 @@
 from __future__ import annotations
 
 import csv
+import hashlib
 import json
 import shutil
+import time
 from collections import Counter, defaultdict
 from pathlib import Path
 
@@ -11,6 +13,7 @@ import yaml
 
 from . import bible as biblemod
 from . import dossier
+from . import lessons as lessonsmod
 from .batching import pack
 from . import patch as patchmod
 from . import review as reviewmod
@@ -87,7 +90,58 @@ class Project:
     def backend(self, kind: str):
         if kind == "mock":
             return MockBackend()
-        return ClaudeCodeBackend(self.cfg, self.path / ".claude_work", self.log)
+        return ClaudeCodeBackend(self.cfg, self.path / ".claude_work", self._backend_log)
+
+    # ------------------------------------------------------------------ chay tiep an toan
+    def _backend_log(self, msg: str) -> None:
+        self.log(msg)
+        if "[han muc]" in msg:
+            self.progress(cho_han_muc=msg[:300])
+        elif "[mang]" in msg:
+            self.progress(loi_mang=msg[:300])
+
+    def progress(self, **kw) -> None:
+        """projects/<game>/TIEN_DO.json: buoc hien tai, so dong xong, lan cho han muc/loi gan nhat.
+        Ghi lien tuc de nguoi dung/phien sau biet dang o dau ma khong can doc log."""
+        f = self.path / "TIEN_DO.json"
+        try:
+            d = json.loads(f.read_text(encoding="utf-8")) if f.exists() else {}
+        except (OSError, ValueError):
+            d = {}
+        d.update(kw)
+        d["cap_nhat"] = time.strftime("%Y-%m-%d %H:%M:%S")
+        try:
+            f.write_text(json.dumps(d, ensure_ascii=False, indent=1), encoding="utf-8")
+        except OSError:
+            pass
+
+    def bible_version(self) -> str:
+        """Dau van tay cua ho so (bible + scenes, bo co reviewed). Doi -> dong dich theo ho so cu
+        duoc kiem dinh vien cham lai."""
+        b = dict(biblemod.load(self.path))
+        b.pop("reviewed", None)
+        sc = biblemod.load_scenes(self.path)
+        if not b and not sc:
+            return ""
+        raw = json.dumps([b, sc], sort_keys=True, ensure_ascii=False, default=str)
+        return hashlib.sha1(raw.encode("utf-8")).hexdigest()[:10]
+
+    def system_prompt(self, base: str) -> str:
+        """Prompt he thong + luat dich tu bai hoc khop voi game (co dinh trong 1 lan chay -> van cache)."""
+        if getattr(self, "_rules", None) is None:
+            try:
+                self._rules = lessonsmod.quality_rules(self)
+            except Exception as e:  # bai hoc loi khong duoc lam dung dich
+                self.log(f"[bai hoc] bo qua: {e}")
+                self._rules = []
+        if not self._rules:
+            return base
+        return base + "\n\nBÀI HỌC TỪ CÁC GAME TRƯỚC (bắt buộc):\n" + "\n".join(f"- {r}" for r in self._rules)
+
+    def old_bible_lines(self) -> int:
+        return self.store.db.execute(
+            "SELECT COUNT(*) FROM entries WHERE bible_ver IS NOT NULL AND bible_ver != ?",
+            (self.bible_version(),)).fetchone()[0]
 
     def model_of(self, role: str) -> tuple[str, str | None]:
         """Vai tro (bible, dialogue, ui...) -> (model, muc effort)."""
@@ -221,6 +275,11 @@ class Project:
                              "hoac dung --force de thu nghiem.")
         bidx = biblemod.BibleIndex(bib)
         src_lang = self.store.get_meta("source_lang", "ja")
+        self._bver = self.bible_version()
+        n_old = self.old_bible_lines()
+        if n_old:
+            self.log(f"Canh bao: {n_old} dong da dich theo ho so cu (bible/scenes da doi). "
+                     f"`vgt review` se cham lai cac dong nay theo ho so moi.")
         n_tm = self._apply_tm()
         if n_tm:
             self.log(f"Translation memory: dung lai {n_tm} dong, khong ton han muc.")
@@ -310,7 +369,7 @@ class Project:
                        **({"scenes": sc} if multi else {"scene": sc.get(batch[0].grp)}),
                        "before": self._context(batch), "lines": lines}
             payload = {k: v for k, v in payload.items() if v not in ([], {}, None, "")}
-            data = self._call(be, SYSTEM_TRANSLATE, payload, TRANSLATE_SCHEMA, model,
+            data = self._call(be, self.system_prompt(SYSTEM_TRANSLATE), payload, TRANSLATE_SCHEMA, model,
                               "translate", len(batch))
             role, model = model, self.model_of(model)[0]
             got = {str(x.get("id")): x.get("v", "") for x in data.get("t", [])}
@@ -321,6 +380,7 @@ class Project:
                 final = unmask(out, codes)
                 e.attempts += 1
                 e.model = model
+                e.bible_ver = getattr(self, "_bver", None)
                 e.target = final or e.target
                 e.qa = check(e, m, out, final, bidx, self.cfg, src_lang)
                 if notes.get(str(i)):  # ghi chu chien luoc cua dich gia -> kiem dinh vien doc
@@ -328,11 +388,12 @@ class Project:
                 e.status = "qa_fail" if blocking(e.qa) else "done"
                 self.store.save_result(e)
                 for d in dupes.get(tm_key(e), []):
-                    d.target, d.status, d.model, d.qa, d.attempts = (e.target, e.status, "dup",
-                                                                     e.qa, e.attempts)
+                    d.target, d.status, d.model, d.qa, d.attempts, d.bible_ver = (
+                        e.target, e.status, "dup", e.qa, e.attempts, e.bible_ver)
                     self.store.save_result(d)
             done += len(batch)
             self.log(f"  [{role}->{model}] {done}/{len(work)}  {self.store.counts()}")
+            self.progress(buoc="translate", lo=f"{done}/{len(work)}", trang_thai=self.store.counts())
 
     # ------------------------------------------------------------------ review/report
     def export_review(self, out: Path | None = None) -> Path:
@@ -375,9 +436,14 @@ class Project:
     def status(self) -> str:
         c = self.store.counts()
         lines = [f"Trang thai: {c}"]
-        rv = reviewmod.summary(self.store)
+        rv = reviewmod.summary(self.store, self.bible_version())
         if rv:
             lines.append(f"Kiem dinh: {rv}")
+        n_old = self.old_bible_lines()
+        if n_old:
+            lines.append(f"Dich theo ho so cu (can cham lai): {n_old} dong")
+        if (self.path / "TIEN_DO.json").exists():
+            lines.append(f"Tien do: {(self.path / 'TIEN_DO.json').read_text(encoding='utf-8')}")
         for u in self.store.usage_summary():
             lines.append(f"  {u['model']:<7} {u['purpose']:<9} goi={u['calls']} dong={u['n']} "
                          f"in={u['inp']} out={u['outp']} cache_read={u['cr']} loi={u['fails']} "
@@ -481,6 +547,86 @@ class Project:
         old.db.close()
         new.db.close()
         return out
+
+    # ------------------------------------------------------------------ may trang thai
+    def set_trial(self, grps: list[str]) -> None:
+        known = {r[0] for r in self.store.db.execute("SELECT DISTINCT grp FROM entries")}
+        bad = [g for g in grps if g not in known]
+        if bad:
+            raise SystemExit(f"Khong co canh: {bad}")
+        self.store.set_meta("trial_grps", list(grps))
+        self.store.set_meta("trial_ok", False)
+        self.log(f"Canh thu: {grps}")
+
+    def approve_trial(self) -> None:
+        self.store.set_meta("trial_ok", True)
+        self.log("Nguoi dung da dong y ban thu -> `vgt run` se dich toan bo.")
+
+    def _sent_back(self, grps=None) -> int:
+        es = self.store.entries("status='qa_fail'")
+        return sum(1 for e in es if (not grps or e.grp in grps)
+                   and any("[kiểm định]" in x for x in e.qa))
+
+    def _translate_review_loop(self, backend: str, grps=None) -> None:
+        """Dich -> kiem dinh -> dich lai dong bi tra ve, toi da review.max_rounds + 1 vong (co chan tren)."""
+        for rnd in range(self.cfg["review"]["max_rounds"] + 1):
+            self.progress(buoc="translate" if not grps else "thu_translate", vong=rnd + 1)
+            self.translate(backend, grps=grps)
+            self.progress(buoc="review" if not grps else "thu_review", vong=rnd + 1)
+            self.review(backend, grps=grps)
+            if not self._sent_back(grps):
+                break
+
+    def _trial_suggestions(self, n: int = 6) -> str:
+        scenes = biblemod.load_scenes(self.path)
+        key = set(biblemod.load(self.path).get("key_scenes") or [])
+        size = dict(self.store.db.execute(
+            "SELECT grp, COUNT(*) FROM entries WHERE kind IN ('dialogue','choice') GROUP BY grp"))
+        cand = sorted((g for g in scenes if size.get(g, 0) >= 10),
+                      key=lambda g: (g not in key, -size.get(g, 0)))[:n]
+        return "; ".join(f"{g} ({size.get(g)} dong, {(scenes[g].get('effect') or '')[:30]}: "
+                         f"{(scenes[g].get('summary') or '')[:60]})" for g in cand)
+
+    def run(self, backend: str = "claude") -> str:
+        """Chay tiep tu dung cho dang do, tu dung o cac cua can nguoi/phien dieu phoi.
+        Tra ve ma buoc dung. Chay lai bao nhieu lan cung an toan (moi buoc deu chay tiep duoc)."""
+        def stop(code: str, msg: str) -> str:
+            self.progress(buoc=code, can_lam=msg)
+            self.log(f"[DUNG] {code}: {msg}")
+            return code
+        try:
+            if not self.store.db.execute("SELECT COUNT(*) FROM entries").fetchone()[0]:
+                self.progress(buoc="extract")
+                self.extract()
+            rf = self.path / self.cfg["dossier"].get("research_file", "research.md")
+            if not rf.exists():
+                return stop("CAN_RESEARCH", f"Phien dieu phoi tim boi canh tren web, ghi {rf} "
+                                            "(khong tim duoc thi ghi 'khong co nguon').")
+            if not biblemod.load(self.path).get("work"):
+                self.progress(buoc="bible")
+                self.draft_bible(backend)
+            if not biblemod.load(self.path).get("reviewed"):
+                return stop("CAN_DUYET_BIBLE", "Ra soat bible.yaml (HUONG_DAN muc 6, can_xac_nhan), "
+                                               "dat reviewed: true roi `vgt run` lai.")
+            trial = self.store.get_meta("trial_grps") or []
+            if not trial:
+                return stop("CAN_CHON_CANH_THU", "Chon 2-3 canh (hai, cam xuc, UI): `vgt trial <du an> "
+                                                 f"--grp ...`. Goi y: {self._trial_suggestions()}")
+            if not self.store.get_meta("trial_ok"):
+                self._translate_review_loop(backend, trial)
+                return stop("CAN_NGUOI_DUNG_DOC_THU", "Apply + kiem chung ban thu, gui nguoi dung doc "
+                                                      "(vgt compare); dong y thi `vgt approve-trial`.")
+            self._translate_review_loop(backend)
+            c = self.store.counts()
+            left = c.get("new", 0) + c.get("qa_fail", 0)
+            if left or self._sent_back():
+                return stop("CON_LOI", f"Con {left} dong chua dat ({c}); xem `vgt review-export`.")
+            return stop("XONG_DICH", "Chay apply + kiem chung (PROMPT_PHIEN_DAU buoc 6-7).")
+        except SystemExit:
+            raise
+        except Exception as e:
+            self.progress(loi_gan_nhat=f"{type(e).__name__}: {str(e)[:300]}")
+            raise
 
     # ------------------------------------------------------------------ apply
     def apply(self, out_dir: Path | None = None) -> Path:

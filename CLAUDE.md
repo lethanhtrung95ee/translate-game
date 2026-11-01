@@ -8,6 +8,7 @@
 - Trả lời người dùng bằng tiếng Việt, ngắn gọn.
 
 - Gốc của hệ thống (mục tiêu, vai trò, cửa, tiêu chuẩn "xong", testing): `docs/DAC_TA_HE_THONG.md`. Muốn cải tiến thì sửa ở đó trước. Sơ đồ: `docs/SO_DO_HE_THONG.html`.
+- Chạy pipeline bằng `python -m vgt run projects\<game>`: tự chạy tiếp từ chỗ dở, dừng ở cửa và in việc cần làm (`TIEN_DO.json` ghi bước hiện tại).
 - Dịch game: làm theo `PROMPT_PHIEN_DAU.md` (quy trình) + `docs/HUONG_DAN_DICH_GAME_MOI.md` (kỹ thuật theo engine); mỗi game có `projects\<game>\CHECKPOINT.md` riêng.
 
 ## Bắt buộc từ người dùng (30/10/2026)
@@ -34,6 +35,6 @@
 - Báo cáo theo bảng: mã lỗi | đã sửa + đã kiểm chứng / đã sửa chưa test / còn lại | 1 dòng ghi chú.
 
 ## Bài học & chống lặp lỗi (quy tắc đầy đủ: docs/lessons/README.md)
-- Đầu phiên dịch game: chỉ đọc `docs/lessons/global.md`, `docs/lessons/engines/<engine của game>.md` và `projects/<game>/LESSONS.md`. Không đọc lessons của engine/game khác.
-- Chỉ áp dụng một bài học khi đã chạy "Dấu hiệu kiểm tra" trên dữ liệu thật và thấy khớp; không khớp thì bỏ qua.
+- Đầu phiên dịch game: chạy `python -m vgt lessons projects\<game>` (chỉ in bài KHỚP game này), không đọc cả file bài học. Luật dịch từ bài học tự vào prompt.
+- Bài không có `Dò` thì phải chạy "Dấu hiệu kiểm tra" trên dữ liệu thật và thấy khớp mới áp dụng.
 - Cuối phiên: mỗi lỗi gặp phải thành một bài học theo mẫu trong `projects/<game>/LESSONS.md`; chặn ở mức cao nhất có thể (1-test > 2-qa > 3-config > 4-hướng dẫn); xét nâng phạm vi (≥2 game cùng engine → engine; ≥2 engine hoặc code chung → global); chạy `python tools/check_lessons.py` phải pass.

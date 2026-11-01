@@ -71,6 +71,7 @@ class Entry:
     attempts: int = 0
     qa: list = field(default_factory=list)
     tags: list = field(default_factory=list)
+    bible_ver: str | None = None   # phien ban ho so (bible+scenes) dung khi dich dong nay
 
 
 def tm_key(e: Entry) -> str:
@@ -85,6 +86,10 @@ class Store:
         self.db = sqlite3.connect(self.path)
         self.db.row_factory = sqlite3.Row
         self.db.executescript(SCHEMA)
+        cols = {r[1] for r in self.db.execute("PRAGMA table_info(entries)")}
+        if "bible_ver" not in cols:  # du an cu: them cot, khong mat du lieu
+            self.db.execute("ALTER TABLE entries ADD COLUMN bible_ver TEXT")
+            self.db.commit()
 
     # ---- meta ----
     def set_meta(self, k: str, v) -> None:
@@ -127,7 +132,7 @@ class Store:
                      seq=r["seq"], kind=r["kind"], source=r["source"], speaker=r["speaker"],
                      face=r["face"], target=r["target"], status=r["status"], model=r["model"],
                      attempts=r["attempts"], qa=json.loads(r["qa"] or "[]"),
-                     tags=json.loads(r["tags"] or "[]"))
+                     tags=json.loads(r["tags"] or "[]"), bible_ver=r["bible_ver"])
 
     def entries(self, where: str = "1=1", params: tuple = ()) -> list[Entry]:
         q = f"SELECT * FROM entries WHERE {where} ORDER BY grp, seq"
@@ -135,8 +140,9 @@ class Store:
 
     def save_result(self, e: Entry) -> None:
         self.db.execute(
-            "UPDATE entries SET target=?,status=?,model=?,attempts=?,qa=? WHERE id=?",
-            (e.target, e.status, e.model, e.attempts, json.dumps(e.qa, ensure_ascii=False), e.id))
+            "UPDATE entries SET target=?,status=?,model=?,attempts=?,qa=?,bible_ver=? WHERE id=?",
+            (e.target, e.status, e.model, e.attempts, json.dumps(e.qa, ensure_ascii=False),
+             e.bible_ver, e.id))
         if e.status in ("done", "manual") and e.target:
             self.db.execute("REPLACE INTO tm VALUES (?,?,?)", (tm_key(e), e.source, e.target))
         self.db.commit()

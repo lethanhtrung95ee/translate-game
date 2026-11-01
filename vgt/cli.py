@@ -47,6 +47,20 @@ def main(argv=None) -> int:
     s.add_argument("--limit", type=int, help="toi da N lan goi")
     s.add_argument("--grp", action="append", help="chi cham canh nay (lap lai duoc)")
 
+    s = sub.add_parser("run", help="chay tiep tu cho dang do, tu dung o cac cua (bible, ban thu, xong)")
+    s.add_argument("project_dir")
+    s.add_argument("--backend", default="claude", choices=["claude", "mock"])
+
+    s = sub.add_parser("trial", help="dat 2-3 canh lam ban thu")
+    s.add_argument("project_dir")
+    s.add_argument("--grp", action="append", required=True)
+
+    s = sub.add_parser("approve-trial", help="nguoi dung da doc va dong y ban thu")
+    s.add_argument("project_dir")
+
+    s = sub.add_parser("lessons", help="bai hoc KHOP voi game nay (khong in bai khong lien quan)")
+    s.add_argument("project_dir")
+
     s = sub.add_parser("fork", help="tao du an thu (cung game, chua dich) de dich lai vai canh va so sanh")
     s.add_argument("src_project")
     s.add_argument("dst_project")
@@ -86,6 +100,15 @@ def main(argv=None) -> int:
     elif a.cmd == "review":
         p.review(a.backend, a.limit, a.grp)
         print(p.status())
+    elif a.cmd == "run":
+        print(p.run(a.backend))
+    elif a.cmd == "trial":
+        p.set_trial(a.grp)
+    elif a.cmd == "approve-trial":
+        p.approve_trial()
+    elif a.cmd == "lessons":
+        from .lessons import report
+        print(report(p))
     elif a.cmd == "status":
         print(p.status())
     elif a.cmd == "estimate":

@@ -113,8 +113,8 @@ Lập hồ sơ, gộp và đối chiếu mọi phần (thông tin phần sau có
 - style: genre, tone, notes, strategy: han_viet (mức Hán-Việt và lý do theo thể loại), wordplay (cách xử lý chơi chữ/hài), poetry (thơ, kệ, thần chú, bài hát), names (quy ước tên: theo bản Việt quen thuộc của nguyên tác nếu có).
 - characters: id ngắn, names (MỌI cách tên xuất hiện, kể cả mã như \\N[1], tên trong 【】), faces nếu có, name_vi, gender, age, role, personality, speech_style, catchphrases, comedic_role, arc, self (đại từ tự xưng mặc định), forbid (từ không bao giờ dùng cho nhân vật này), note.
 - relations: theo từng cặp (from/to là id nhân vật): self (from xưng), call (from gọi to), changes (mốc đổi xưng hô theo cốt truyện, nếu có), note.
-- handbook: câu đùa, chơi chữ, thơ, kệ, thần chú lặp lại hoặc quan trọng, với cách dịch thống nhất (src, type, meaning, why, vi).
-- glossary: MỖI MỤC MỘT THUẬT NGỮ (src một từ/cụm gốc, vi một bản dịch). Không gộp kiểu "A/B/C + X"; cần nêu khuôn ghép thì ghi vào note hoặc handbook. Hệ thống dùng glossary để bắt lỗi tự động, mục gộp sẽ bị bỏ qua khi kiểm.
+- handbook: code đã gộp sổ tay từ mọi phần; chỉ thêm mục mới thật cần (thường để trống).
+- glossary: code đã gộp các thuật ngữ mà mọi phần dịch giống nhau. Bạn CHỈ quyết các mục trong glossary_conflicts (cùng thuật ngữ, các phần dịch khác nhau): mỗi src chọn một bản dịch cuối, lý do ngắn trong note; thêm thuật ngữ mới chỉ khi thật cần. MỖI MỤC MỘT THUẬT NGỮ (src một từ/cụm gốc, vi một bản dịch). Không gộp kiểu "A/B/C + X"; cần nêu khuôn ghép thì ghi vào note hoặc handbook. Hệ thống dùng glossary để bắt lỗi tự động, mục gộp sẽ bị bỏ qua khi kiểm.
 - dont_translate.
 - key_scenes: id cảnh quan trọng (cao trào, tỏ tình, chia ly, kết, tiết lộ).
 - can_xac_nhan: mọi điểm không chắc hoặc các phần mâu thuẫn nhau, kèm dẫn chứng. Không đoán bừa.

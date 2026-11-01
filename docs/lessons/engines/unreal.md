@@ -4,6 +4,7 @@ Quy tắc dùng: `docs/lessons/README.md`. Code: `vgt/unreal/`, `vgt/adapters/un
 
 ### E-unreal-001: Pak mod có pruned directory index rỗng → game shipping không tìm thấy .locres
 - Phạm vi: engine unreal
+- Loại: ky-thuat
 - Chỉ áp dụng khi: ghi pak mod v10+ có path hash index
 - Không áp dụng khi: pak chỉ có full directory index
 - Dấu hiệu kiểm tra: pak gốc của game: phần đuôi path hash index chứa danh sách thư mục (FFRS-Windows.pak: 344 thư mục, có `Content/Localization/Game/<culture>/`)
@@ -15,6 +16,7 @@ Quy tắc dùng: `docs/lessons/README.md`. Code: `vgt/unreal/`, `vgt/adapters/un
 
 ### E-unreal-002: Pak mod trong ~mods bị pak gốc '<Project>-Windows.pak' đè → game vẫn tiếng Anh
 - Phạm vi: engine unreal
+- Loại: ky-thuat
 - Chỉ áp dụng khi: pak gốc của game nằm trong `<Project>/Content/Paks/` và tên bắt đầu bằng `<Project>-` (vd `FFRS-Windows.pak`)
 - Không áp dụng khi: pak gốc tên `pakchunk0-...` (ưu tiên 3000, mod `_P` trong ~mods vẫn đè được)
 - Dấu hiệu kiểm tra: `python -c "from vgt.unreal.pak import pak_order, game_paks; ..."` so ưu tiên mod với mọi pak gốc; exe có chuỗi UTF-16 `%sPaks/%s-`
@@ -26,6 +28,7 @@ Quy tắc dùng: `docs/lessons/README.md`. Code: `vgt/unreal/`, `vgt/adapters/un
 
 ### E-unreal-003: Game UE5 IoStore bỏ qua pak mod không có .utoc/.ucas cùng tên
 - Phạm vi: engine unreal
+- Loại: ky-thuat
 - Chỉ áp dụng khi: thư mục `<Project>/Content/Paks/` của game có `.utoc` (IoStore, UE5)
 - Không áp dụng khi: game chỉ có `.pak` (UE4 không IoStore)
 - Dấu hiệu kiểm tra: exe có chuỗi UTF-16 `utoc not found` cạnh `Pak is invalid`/`Mounting pak file`; `python tools/check_unreal_patch.py projects/<game>` in dòng "game IoStore"

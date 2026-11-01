@@ -4,6 +4,7 @@ Quy tắc dùng: `docs/lessons/README.md`. Chỉ đọc khi game đang làm là 
 
 ### E-rpgmaker_mvmz-001: Dòng tên người nói có mã màu không được nhận ra
 - Phạm vi: engine rpgmaker_mvmz
+- Loại: ky-thuat
 - Chỉ áp dụng khi: dòng 401 đầu khung có dạng `\C[n]Tên\C[0]：` hoặc `\C[n]\N[k]\C[0]：`
 - Không áp dụng khi: MZ có speakerName ở lệnh 101
 - Dấu hiệu kiểm tra: đếm dòng thoại có speaker sau `extract` (vd script đếm `speaker` trong project.db)
@@ -15,6 +16,8 @@ Quy tắc dùng: `docs/lessons/README.md`. Chỉ đọc khi game đang làm là 
 
 ### E-rpgmaker_mvmz-002: Tên vật phẩm zh→vi luôn vượt giới hạn độ dài UI
 - Phạm vi: engine rpgmaker_mvmz
+- Loại: ky-thuat
+- Thẻ: lang=zh,ja
 - Chỉ áp dụng khi: nguồn zh/ja, kind name/ui
 - Không áp dụng khi: plugin vẽ chữ không co theo maxWidth
 - Dấu hiệu kiểm tra: tỷ lệ qa_fail "quá dài cho giao diện" trong 300 dòng UI đầu
@@ -26,6 +29,8 @@ Quy tắc dùng: `docs/lessons/README.md`. Chỉ đọc khi game đang làm là 
 
 ### E-rpgmaker_mvmz-003: '\' lẻ trước chữ CJK thành mã nuốt chữ sau khi dịch
 - Phạm vi: engine rpgmaker_mvmz
+- Loại: ky-thuat
+- Dò: mv_backslash_lac
 - Chỉ áp dụng khi: nguồn có `\` đứng trước chữ không phải ASCII (vd `\C[5]\精液寶瓶`)
 - Không áp dụng khi: —
 - Dấu hiệu kiểm tra: QA "bản dịch sinh mã lạ"; hoặc so tập mã `\X` bản dịch vs nguồn
@@ -37,6 +42,7 @@ Quy tắc dùng: `docs/lessons/README.md`. Chỉ đọc khi game đang làm là 
 
 ### E-rpgmaker_mvmz-004: Mã trần `\S` dính chữ Latin thành mã khác
 - Phạm vi: engine rpgmaker_mvmz
+- Loại: ky-thuat
 - Chỉ áp dụng khi: mã không ngoặc `\X` đứng ngay trước chữ (nguồn CJK nên không có khoảng cách)
 - Không áp dụng khi: mã có ngoặc `\C[n]`
 - Dấu hiệu kiểm tra: grep `\[A-Z][a-z]` trong bản apply
@@ -48,6 +54,7 @@ Quy tắc dùng: `docs/lessons/README.md`. Chỉ đọc khi game đang làm là 
 
 ### E-rpgmaker_mvmz-005: Font thay thế trùng metric Arial → "Failed to load GameFont"
 - Phạm vi: engine rpgmaker_mvmz
+- Loại: ky-thuat
 - Chỉ áp dụng khi: thay GameFont (`rpgmaker.font_file`) bằng font khác
 - Không áp dụng khi: giữ font gốc
 - Dấu hiệu kiểm tra: `Graphics.isFontLoaded` trong `js/rpg_core.js` so độ rộng 'GameFont' với `sans-serif`
@@ -59,6 +66,8 @@ Quy tắc dùng: `docs/lessons/README.md`. Chỉ đọc khi game đang làm là 
 
 ### E-rpgmaker_mvmz-006: Dấu `\` lạc trước chữ Hán trong gốc (`\安維爾`)
 - Phạm vi: engine
+- Loại: ky-thuat
+- Dò: mv_backslash_lac
 - Chỉ áp dụng khi: gốc có `\` + ký tự không phải mã điều khiển MV
 - Không áp dụng khi: `\` thuộc mã thật (`\C[n]`, `\N[n]`, `\G`, `\{`…)
 - Dấu hiệu kiểm tra: grep `\[^\x00-\x7F]` trong nguồn

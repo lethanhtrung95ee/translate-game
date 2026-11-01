@@ -4,6 +4,9 @@ Quy tắc dùng: `docs/lessons/README.md`. Chỉ ghi lỗi của pipeline/quy tr
 
 ### G-001: Dịch sát chữ thay vì theo nghĩa
 - Phạm vi: global
+- Loại: chat-luong-dich
+- Dò: luon
+- Luật dịch: Dịch theo nghĩa trong ngữ cảnh, không sát từng chữ; thuật ngữ phải là tiếng Việt tự nhiên.
 - Chỉ áp dụng khi: mọi lượt dịch
 - Không áp dụng khi: —
 - Dấu hiệu kiểm tra: đọc mẫu 20 dòng ở bản thử
@@ -15,6 +18,9 @@ Quy tắc dùng: `docs/lessons/README.md`. Chỉ ghi lỗi của pipeline/quy tr
 
 ### G-002: Sai góc nhìn người nói (xưng hô đảo chiều)
 - Phạm vi: global
+- Loại: chat-luong-dich
+- Dò: co_nguoi_noi
+- Luật dịch: Xưng hô luôn theo NGƯỜI NÓI của dòng đó (ai nói với ai), đối chiếu đúng cặp trong relations.
 - Chỉ áp dụng khi: dòng thoại có người nói xác định
 - Không áp dụng khi: lời dẫn, UI
 - Dấu hiệu kiểm tra: dòng có speaker trong dữ liệu
@@ -26,6 +32,8 @@ Quy tắc dùng: `docs/lessons/README.md`. Chỉ ghi lỗi của pipeline/quy tr
 
 ### G-003: Còn sót dấu câu CJK/toàn khổ
 - Phạm vi: global
+- Loại: ky-thuat
+- Dò: nguon_cjk
 - Chỉ áp dụng khi: ngôn ngữ gốc zh/ja/ko
 - Không áp dụng khi: game gốc tiếng Anh
 - Dấu hiệu kiểm tra: grep 「」《》～・！？ trong bản dịch
@@ -37,6 +45,7 @@ Quy tắc dùng: `docs/lessons/README.md`. Chỉ ghi lỗi của pipeline/quy tr
 
 ### G-004: Build từ file đã patch thay vì file gốc sạch
 - Phạm vi: global
+- Loại: ky-thuat
 - Chỉ áp dụng khi: có bước build/patch đè lên file game
 - Không áp dụng khi: chỉ dùng `apply` của vgt khi game chưa cài patch (luôn đọc từ game gốc)
 - Dấu hiệu kiểm tra: so kích thước file gốc với số ghi trong checkpoint
@@ -48,6 +57,7 @@ Quy tắc dùng: `docs/lessons/README.md`. Chỉ ghi lỗi của pipeline/quy tr
 
 ### G-005: device_commit_files ghi bản cũ khi commit lại cùng đường dẫn staged
 - Phạm vi: global
+- Loại: ky-thuat
 - Chỉ áp dụng khi: phiên cloud chép file về máy người dùng bằng device_commit_files
 - Không áp dụng khi: chạy Claude Code trực tiếp trên Windows
 - Dấu hiệu kiểm tra: device_list_dir so kích thước sau commit
@@ -59,6 +69,7 @@ Quy tắc dùng: `docs/lessons/README.md`. Chỉ ghi lỗi của pipeline/quy tr
 
 ### G-006: Windows: claude -p không thấy file system prompt
 - Phạm vi: global
+- Loại: ky-thuat
 - Chỉ áp dụng khi: chạy backend claude với project_dir tương đối
 - Không áp dụng khi: —
 - Dấu hiệu kiểm tra: lỗi "System prompt file not found: ...\.claude_work\projects\...\.claude_work\..."
@@ -70,6 +81,8 @@ Quy tắc dùng: `docs/lessons/README.md`. Chỉ ghi lỗi của pipeline/quy tr
 
 ### G-007: Glossary do Opus soạn ghi gộp "A / B", "(chú thích)" → không khớp hoặc ép sai
 - Phạm vi: global
+- Loại: ky-thuat
+- Dò: glossary_gop
 - Chỉ áp dụng khi: bible.glossary có src chứa "/" hoặc "(...)", hoặc src ngắn nằm trong src dài
 - Không áp dụng khi: —
 - Dấu hiệu kiểm tra: grep " / " và "(" trong glossary của bible.yaml
@@ -81,6 +94,7 @@ Quy tắc dùng: `docs/lessons/README.md`. Chỉ ghi lỗi của pipeline/quy tr
 
 ### G-008: Ngắt dòng chèn khoảng trắng sau mã và gộp mất xuống dòng có chủ ý
 - Phạm vi: global
+- Loại: ky-thuat
 - Chỉ áp dụng khi: qa.auto_wrap bật
 - Không áp dụng khi: —
 - Dấu hiệu kiểm tra: đọc bản đã apply, tìm `\C[n] ` (mã theo sau khoảng trắng mới)
@@ -92,6 +106,7 @@ Quy tắc dùng: `docs/lessons/README.md`. Chỉ ghi lỗi của pipeline/quy tr
 
 ### G-009: QA bắt nhầm dòng tên người nói dài là lỗi
 - Phạm vi: global
+- Loại: ky-thuat
 - Chỉ áp dụng khi: dòng thoại có dòng tên riêng (locator name_line)
 - Không áp dụng khi: —
 - Dấu hiệu kiểm tra: qa_fail "giữ dòng tên người nói" mà bản dịch vẫn có dòng tên riêng
@@ -103,6 +118,7 @@ Quy tắc dùng: `docs/lessons/README.md`. Chỉ ghi lỗi của pipeline/quy tr
 
 ### G-010: Ngắt dòng gộp mất dòng tiêu đề
 - Phạm vi: global
+- Loại: ky-thuat
 - Chỉ áp dụng khi: qa.auto_wrap bật, dòng không kết bằng dấu câu
 - Không áp dụng khi: —
 - Dấu hiệu kiểm tra: đọc bản apply, tìm `\C[0] ` + chữ hoa ngay sau tiêu đề màu
@@ -114,6 +130,7 @@ Quy tắc dùng: `docs/lessons/README.md`. Chỉ ghi lỗi của pipeline/quy tr
 
 ### G-011: Báo "xong" khi chưa khởi động bản dịch / chưa thấy tiếng Việt trên màn hình
 - Phạm vi: global
+- Loại: ky-thuat
 - Chỉ áp dụng khi: đã apply ra patch
 - Không áp dụng khi: chỉ chạy thử --limit chưa apply
 - Dấu hiệu kiểm tra: checkpoint/báo cáo không dán output boot check DAT cho mọi ngôn ngữ + đối chứng KHONG DAT
@@ -125,6 +142,7 @@ Quy tắc dùng: `docs/lessons/README.md`. Chỉ ghi lỗi của pipeline/quy tr
 
 ### G-012: Giao bản chép cả game thay vì patch
 - Phạm vi: global
+- Loại: ky-thuat
 - Chỉ áp dụng khi: engine vgt ghi trực tiếp (adapter patchable)
 - Không áp dụng khi: adapter bảng (Translator++), đầu ra là CSV
 - Dấu hiệu kiểm tra: `projects/<game>/output/<thư mục game>` tồn tại, dung lượng ≈ game
@@ -136,6 +154,7 @@ Quy tắc dùng: `docs/lessons/README.md`. Chỉ ghi lỗi của pipeline/quy tr
 
 ### G-013: Lỗi mạng tạm thời làm chết cả lệnh dài
 - Phạm vi: global
+- Loại: ky-thuat
 - Chỉ áp dụng khi: chạy thật bằng `claude -p` (bible, translate, review)
 - Không áp dụng khi: `--backend mock`
 - Dấu hiệu kiểm tra: log có `ENOTFOUND` / `ECONNRESET` / `Can't reach the API server` rồi Traceback
@@ -147,6 +166,8 @@ Quy tắc dùng: `docs/lessons/README.md`. Chỉ ghi lỗi của pipeline/quy tr
 
 ### G-014: Glossary gộp nhiều thuật ngữ → QA ghép cặp sai, ép dịch sai
 - Phạm vi: global
+- Loại: ky-thuat
+- Dò: glossary_gop
 - Chỉ áp dụng khi: bible có mục glossary dạng `A/B/C + X` hoặc `A/B / C/D`
 - Không áp dụng khi: mục một nguồn ↔ một bản dịch
 - Dấu hiệu kiểm tra: qa có `E: thuật ngữ 'X' phải dịch là '...'` mà bản dịch thật ra đúng; đếm mục glossary có `/` hoặc `+` trong src
@@ -158,6 +179,8 @@ Quy tắc dùng: `docs/lessons/README.md`. Chỉ ghi lỗi của pipeline/quy tr
 
 ### G-015: Bible/kiểm định viên đòi giữ dấu toàn khổ mà hệ thống tự đổi
 - Phạm vi: global
+- Loại: ky-thuat
+- Dò: nguon_cjk
 - Chỉ áp dụng khi: game nguồn CJK có ～ ： ！ ？ （）
 - Không áp dụng khi: —
 - Dấu hiệu kiểm tra: review có lỗi nặng "đổi ～ thành ~"; style.notes của bible ghi "giữ ～"
@@ -169,6 +192,7 @@ Quy tắc dùng: `docs/lessons/README.md`. Chỉ ghi lỗi của pipeline/quy tr
 
 ### G-016: Dòng kẹt qa_fail sau khi sửa luật QA
 - Phạm vi: global
+- Loại: ky-thuat
 - Chỉ áp dụng khi: dòng qa_fail đã hết `max_attempts` vì lỗi QA tự động (không phải lỗi kiểm định viên)
 - Không áp dụng khi: lỗi `[kiểm định]`
 - Dấu hiệu kiểm tra: `translate --grp` báo "Can dich 0 dong" mà vẫn còn qa_fail; review báo `chua_dich_xong`
@@ -180,6 +204,7 @@ Quy tắc dùng: `docs/lessons/README.md`. Chỉ ghi lỗi của pipeline/quy tr
 
 ### G-017: Review trượt chỉ vì lỗi nhẹ nhưng log vẫn bảo dịch lại
 - Phạm vi: global
+- Loại: ky-thuat
 - Chỉ áp dụng khi: verdict truot, loi_nang = 0
 - Không áp dụng khi: có lỗi nặng
 - Dấu hiệu kiểm tra: log "Co phan truot" mà `tra_ve_dich_lai: 0`
@@ -188,3 +213,48 @@ Quy tắc dùng: `docs/lessons/README.md`. Chỉ ghi lỗi của pipeline/quy tr
 - Mức chặn: 4-hướng dẫn
 - Chặn bởi: thông báo trong `vgt/review.py`
 - Trạng thái: đã chặn
+
+### G-018: Một nhân vật xưng lẫn hai đại từ trong một lượt thoại
+- Phạm vi: global
+- Loại: chat-luong-dich
+- Dò: co_nguoi_noi
+- Luật dịch: Trong cùng một lượt thoại, mỗi nhân vật chỉ dùng MỘT đại từ tự xưng (không "tôi… ta…" lẫn lộn) và một cách gọi người nghe.
+- Gặp ở: cursed_armor_v2
+- Chỉ áp dụng khi: dòng thoại có người nói
+- Không áp dụng khi: nhân vật cố ý đổi xưng hô (có mốc trong relations.changes)
+- Dấu hiệu kiểm tra: dòng của 1 nhân vật chứa ≥ 2 đại từ tự xưng khác nhau (tôi/ta/tớ/em/anh/chị...)
+- Bằng chứng: cursed_armor_v2 CommonEvents.json:ce9, Meili "tôi … ta" trong một câu; kiểm định viên bỏ sót
+- Xử lý: luật dịch trong prompt dịch giả + kiểm định viên; cần thêm luật QA tự động
+- Mức chặn: 4-hướng dẫn
+- Chặn bởi: luật dịch tự động đưa vào prompt (vgt lessons); chưa có luật QA (đại từ phụ thuộc ngữ cảnh, cần danh sách đại từ theo nhân vật)
+- Trạng thái: mở
+
+### G-019: Dịch thêm ý / thêm sắc thái tác giả không có
+- Phạm vi: global
+- Loại: chat-luong-dich
+- Dò: luon
+- Luật dịch: Không thêm thông tin, sắc thái hay kịch tính mà câu gốc không có (vd 任務書 là "tờ nhiệm vụ", không phải "mật lệnh").
+- Gặp ở: cursed_armor_v2
+- Chỉ áp dụng khi: mọi lượt dịch
+- Không áp dụng khi: chơi chữ được đổi có chủ đích và có ghi chú "n"
+- Dấu hiệu kiểm tra: kiểm định viên báo dung_y "thêm ý"
+- Bằng chứng: cursed_armor_v2 ce9: 任務書 → "mật lệnh"; Map006 thêm "của Tokisaki Kurumi" (do glossary gộp, G-014)
+- Xử lý: luật dịch trong prompt dịch giả + kiểm định viên
+- Mức chặn: 4-hướng dẫn
+- Chặn bởi: luật dịch tự động đưa vào prompt; lỗi ngữ nghĩa không kiểm bằng code được
+- Trạng thái: mở
+
+### G-020: Mất tật nói của nhân vật (lắp bắp, kéo dài, tiếng đệm)
+- Phạm vi: global
+- Loại: chat-luong-dich
+- Dò: co_nguoi_noi
+- Luật dịch: Giữ tật nói của nhân vật: gốc lắp bắp, ngắt quãng, kéo dài âm hay có tiếng đệm thì bản dịch cũng phải thể hiện (vd "G-ghét quá!").
+- Gặp ở: cursed_armor_v2
+- Chỉ áp dụng khi: dòng thoại có lặp âm/ngắt quãng (vd 討、討厭, あ、あの, "I-I")
+- Không áp dụng khi: —
+- Dấu hiệu kiểm tra: nguồn có mẫu lặp ký tự + dấu ngắt (、…—-) ở đầu từ
+- Bằng chứng: cursed_armor_v2: "Ghét quá!" mất lắp bắp của gốc
+- Xử lý: luật dịch; nên thêm luật QA W khi nguồn lắp bắp mà bản dịch không có dấu "-" lặp âm
+- Mức chặn: 4-hướng dẫn
+- Chặn bởi: luật dịch tự động đưa vào prompt; QA chưa có
+- Trạng thái: mở

@@ -5,6 +5,8 @@ Engine: <engine>   Ngôn ngữ gốc: <ja/zh/ko/en>
 
 ### P-001: <tiêu đề>
 - Phạm vi: game <tên>
+- Loại: ky-thuat
+- Gặp ở: <thư mục game>
 - Chỉ áp dụng khi: 
 - Không áp dụng khi: 
 - Dấu hiệu kiểm tra: 

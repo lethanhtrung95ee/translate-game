@@ -21,8 +21,9 @@ DONE = ("done", "tm", "manual")
 TAG = "[kiểm định]"  # danh dau loi do kiem dinh vien ghi (E:/W: nhu QA)
 
 
-def thash(e) -> str:
-    return hashlib.sha1((e.target or "").encode("utf-8")).hexdigest()[:12]
+def thash(e, bver: str = "") -> str:
+    """Ban dich + phien ban ho so: ho so doi (sua xung ho, ten...) thi moi dong phai cham lai."""
+    return hashlib.sha1(f"{e.target or ''}\x1f{bver}".encode("utf-8")).hexdigest()[:12]
 
 
 def _size(e) -> int:
@@ -33,7 +34,7 @@ def _strip(qa: list) -> list:
     return [x for x in qa if TAG not in x]
 
 
-def pending_groups(store, grps=None):
+def pending_groups(store, grps=None, bver=""):
     """(cac canh can cham, so canh chua dich xong, so canh da cham)."""
     groups: dict[str, list] = defaultdict(list)
     for e in store.entries():
@@ -44,7 +45,7 @@ def pending_groups(store, grps=None):
         if any(e.status not in DONE for e in es):
             unfinished += 1
             continue
-        if all((r := store.get_reviewed(e.id)) and r["thash"] == thash(e) for e in es):
+        if all((r := store.get_reviewed(e.id)) and r["thash"] == thash(e, bver) for e in es):
             done += 1
             continue
         todo.append(es)
@@ -58,7 +59,8 @@ def run(project, be, limit: int | None = None, grps: list[str] | None = None) ->
     scenes = biblemod.load_scenes(project.path)
     lang = lang_line(store.get_meta("source_lang", "ja"))
     max_att = project.cfg["max_attempts"]
-    todo, unfinished, done = pending_groups(store, grps)
+    bver = project.bible_version()
+    todo, unfinished, done = pending_groups(store, grps, bver)
     stat = defaultdict(int)
     stat["chua_dich_xong"], stat["da_cham"] = unfinished, done
     for part in pack(todo, cfg["max_lines_per_call"], cfg["max_chars_per_call"], _size):
@@ -82,7 +84,7 @@ def run(project, be, limit: int | None = None, grps: list[str] | None = None) ->
         payload = {"lang": lang, **bidx.context_for(part),
                    **({"scenes": sc} if multi else {"scene": sc.get(part[0].grp)}), "lines": lines}
         payload = {k: v for k, v in payload.items() if v not in ([], {}, None, "")}
-        data = project._call(be, SYSTEM_REVIEW, payload, REVIEW_SCHEMA, "review", "review",
+        data = project._call(be, project.system_prompt(SYSTEM_REVIEW), payload, REVIEW_SCHEMA, "review", "review",
                              len(part))
         stat["goi"] += 1
         valid = {str(i) for i in range(len(part))}
@@ -121,7 +123,7 @@ def run(project, be, limit: int | None = None, grps: list[str] | None = None) ->
                 e.attempts = min(max(e.attempts, 2), max_att - 1)  # dich lai bang repair
             store.save_result(e)
             # Dong bi tra ve: chua tinh la da cham (cham lai sau khi dich lai).
-            store.set_reviewed(e.id, "" if back else thash(e), fails)
+            store.set_reviewed(e.id, "" if back else thash(e, bver), fails)
         ok = not n_major and n_minor <= cfg["minor_ratio"] * len(part)
         store.log_review(sorted({e.grp for e in part}), len(part), "dat" if ok else "truot",
                          data.get("scores") or {}, issues)
@@ -149,14 +151,14 @@ def calls_needed(store, cfg, grps=None) -> int:
                                cfg["max_chars_per_call"], _size))
 
 
-def summary(store) -> dict:
+def summary(store, bver: str = "") -> dict:
     """Trang thai hien tai: so dong da cham (ban dich hien tai), dong dang tra ve dich lai,
     dong can nguoi duyet; kem so lan goi dat/truot (nhat ky)."""
     rv = {r["id"]: r["thash"] for r in store.db.execute("SELECT id, thash FROM reviewed")}
     if not rv:
         return {}
     es = store.entries()
-    out = {"dong_da_cham": sum(1 for e in es if rv.get(e.id) and rv[e.id] == thash(e)),
+    out = {"dong_da_cham": sum(1 for e in es if rv.get(e.id) and rv[e.id] == thash(e, bver)),
            "tong_dong": len(es),
            "tra_ve_dich_lai": sum(1 for e in es if any(x.startswith("E: " + TAG) for x in e.qa)),
            "can_nguoi_duyet": sum(1 for e in es if any("cần người duyệt" in x for x in e.qa))}

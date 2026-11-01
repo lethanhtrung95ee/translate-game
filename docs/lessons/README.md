@@ -2,24 +2,34 @@
 
 Mục tiêu: lỗi đã gặp không lặp lại, nhưng lỗi riêng của một game **không** bị áp sang game khác.
 
-## 1. Phạm vi và đọc gì
+## 1. Phạm vi và đọc gì (thiết kế cho 100–1.000 game)
 
-| File | Phạm vi | Khi nào đọc |
-|---|---|---|
-| `docs/lessons/global.md` | Pipeline chung, mọi game | Mọi phiên |
-| `docs/lessons/engines/<engine>.md` | Một engine (`rpgmaker_mvmz`, `unity`, …) | Chỉ khi game đang làm thuộc engine đó |
-| `projects/<game>/LESSONS.md` | Chỉ game đó | Chỉ khi làm chính game đó |
+| File | Phạm vi |
+|---|---|
+| `docs/lessons/global.md` | Pipeline chung, mọi game |
+| `docs/lessons/engines/<engine>.md` | Một engine (`rpgmaker_mvmz`, `unreal`, `unity`, …) |
+| `projects/<game>/LESSONS.md` | Chỉ game đó |
 
-**Không đọc** lessons của engine khác hay game khác. Không suy luận "game này chắc cũng vậy".
+**Không đọc file bài học bằng tay.** Đầu phiên chạy `python -m vgt lessons projects\<game>`: lệnh tự
+1. lấy sự thật về game (engine, ngôn ngữ nguồn, plugin, thể loại),
+2. chỉ nạp global + engine của game + LESSONS của game,
+3. lọc theo `Thẻ` và chạy `Dò` (code tự kiểm "Dấu hiệu" trên dữ liệu thật),
+4. in: bài cần làm/kiểm (khớp), luật dịch đang tự đưa vào prompt, số bài đã chặn bằng test/QA (không cần đọc).
+Bài không khớp không in ra, nên số game tăng thì phần phải đọc vẫn nhỏ.
 
 ## 2. Mẫu một bài học (bắt buộc đủ trường)
 
 ```
 ### <MÃ>: <tiêu đề ngắn>
 - Phạm vi: global | engine <tên> | game <tên>
+- Loại: ky-thuat | chat-luong-dich
+- Thẻ: engine=rpgmaker_mvmz; lang=zh,ja; plugin=yep_coreengine; genre=...   (tùy chọn, mọi khóa phải khớp)
+- Dò: <tên bộ dò trong vgt/lessons.py DETECTORS>   (tùy chọn, nên có)
+- Luật dịch: <1 câu>   (bắt buộc với chat-luong-dich: tự đưa vào prompt dịch giả + kiểm định viên)
+- Gặp ở: <game1>, <game2>   (tùy chọn; ≥ 2 game → check_lessons gợi ý nâng phạm vi)
 - Chỉ áp dụng khi: <điều kiện cụ thể, kiểm được>
 - Không áp dụng khi: <trường hợp loại trừ, hoặc "—">
-- Dấu hiệu kiểm tra: <lệnh grep / file / giá trị để xác minh điều kiện trên dữ liệu thật>
+- Dấu hiệu kiểm tra: <cách xác minh trên dữ liệu thật; có Dò thì mô tả bộ dò>
 - Bằng chứng: <game, file/dòng/id gây lỗi>
 - Xử lý: <cách sửa>
 - Mức chặn: 1-test | 2-qa | 3-config | 4-hướng dẫn
@@ -28,12 +38,16 @@ Mục tiêu: lỗi đã gặp không lặp lại, nhưng lỗi riêng của mộ
 ```
 
 Mã: `G-###` (global), `E-<engine>-###`, `P-###` (trong file của game).
+Hai loại:
+- **ky-thuat**: lỗi engine, pipeline, patch, font… chặn bằng test/QA/config.
+- **chat-luong-dich**: lỗi dịch (thêm ý, mất tật nói, xưng lẫn…). `Luật dịch` tự vào prompt; khi nào kiểm được bằng code thì thêm luật QA và nâng mức chặn.
 
 ## 3. Quy tắc áp dụng (chống ảo giác)
 
-1. Chỉ áp dụng bài học khi **đã chạy "Dấu hiệu kiểm tra" trên dữ liệu thật và thấy khớp**. Không khớp hoặc không kiểm được → bỏ qua, ghi "không áp dụng" trong checkpoint.
+1. Bài có `Dò`: chỉ áp dụng khi bộ dò trả về khớp. Bài không có `Dò` mà khớp `Thẻ`: phiên phải tự chạy "Dấu hiệu kiểm tra" trên dữ liệu thật trước khi áp dụng.
 2. Bài học mâu thuẫn với dữ liệu thật → dữ liệu thật thắng; ghi lại để sửa bài học.
 3. Không mở rộng bài học sang trường hợp "na ná". Cần mở rộng thì viết bài học mới có bằng chứng mới.
+4. Dấu hiệu viết được thành code thì viết bộ dò (`vgt/lessons.py`) + test, đừng để ở dạng chữ.
 
 ## 4. Quy tắc nâng phạm vi
 
@@ -57,7 +71,8 @@ Lỗi lặp lại dù đã "đã chặn" → mức chặn hiện tại chưa đ�
 2. Với từng lỗi: làm đến mức chặn cao nhất có thể (ưu tiên 1 → 4).
 3. Xét nâng phạm vi (mục 4).
 4. Ghi thống kê QA theo loại vào checkpoint của game (để so giữa các game).
-5. Chạy `python tools/check_lessons.py` (kiểm đủ trường, giới hạn kích thước). Phải pass.
+5. Chạy `python tools/check_lessons.py` (kiểm đủ trường, `Loại`, `Luật dịch`, bộ `Dò` tồn tại, giới hạn kích thước; in gợi ý nâng phạm vi). Phải pass.
+6. Thêm tên game vào `Gặp ở` của bài cũ nếu lỗi đó lặp lại ở game này.
 
 ## 7. Giữ file gọn
 

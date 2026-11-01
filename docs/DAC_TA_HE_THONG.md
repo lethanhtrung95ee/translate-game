@@ -98,7 +98,7 @@ Mức lỗi:
 | Lời dặn dịch giả / kiểm định viên / biên tập trưởng (prompt thật gửi model) | `vgt/prompts.py` |
 | Luật bắt lỗi kỹ thuật | `vgt/qa.py` |
 | Model, effort, chờ hạn mức, độ dài dòng | `config.default.yaml`; riêng từng game: `projects/<game>/config.yaml` |
-| Bài học, chống lặp lỗi | `docs/lessons/` (+ `projects/<game>/LESSONS.md`) |
+| Bài học, chống lặp lỗi | `docs/lessons/README.md` (cách hệ thống), `vgt/lessons.py` (bộ dò), `python -m vgt lessons <game>` |
 | Tiến độ, việc tiếp theo | `CHECKPOINT.md`; riêng từng game: `projects/<game>/CHECKPOINT.md` |
 
 ## 10. Trạng thái triển khai (cập nhật khi làm xong từng mục)
@@ -112,5 +112,8 @@ Mức lỗi:
 | Vai dịch giả / biên tập trưởng / kiểm định viên | Có | `vgt/prompts.py` |
 | Kiểm định 5 tiêu chí; lỗi nặng → dịch lại bằng Opus; quá 2 vòng → cần người | Có, test giả | `vgt/review.py`, `vgt review` |
 | Bản thử theo cảnh, so sánh bản cũ/mới | Có, test giả | `vgt translate --grp`, `vgt fork`, `vgt compare` |
-| **Chạy thật bằng Claude** cho các phần mới | **CHƯA** — bước tiếp theo: so sánh 2–3 cảnh Cursed Armor | `CHECKPOINT.md` |
+| Chạy tiếp an toàn: `vgt run` (máy trạng thái, dừng ở cửa), `TIEN_DO.json`, phiên bản hồ sơ trên từng dòng (hồ sơ đổi → chấm lại) | Có, test giả (01/11) | `vgt/pipeline.py`, `vgt/store.py`, `vgt/review.py` |
+| Bài học theo quy mô: `vgt lessons` lọc theo thẻ + bộ dò, 2 loại (kỹ thuật / chất lượng dịch), luật dịch tự vào prompt, `Gặp ở` | Có, test giả (01/11) | `vgt/lessons.py`, `docs/lessons/README.md` |
+| Bible series + bộ nhớ dịch dùng chung cho chữ hệ thống; hàng đợi nhiều game | Chưa (đợt 2) | — |
+| **Chạy thật bằng Claude** | Hồ sơ + dịch + kiểm định đã chạy thật 31/10 (3 cảnh Cursed Armor, người dùng đánh giá tốt hơn nhiều); `vgt run`/bài học mới chưa chạy thật | `CHECKPOINT.md` |
 | Cấu hình riêng cho gói Pro | Chờ số liệu tháng thử | — |

@@ -5,6 +5,8 @@ Engine: Unreal 5 (IoStore + pak v11 nén Oodle)   Ngôn ngữ gốc: ja (native)
 
 ### P-001: Bản tiếng Anh còn ~2.100 dòng tiếng Nhật → tự nhận nguồn = ja, QA không bắt sót kana
 - Phạm vi: game FINAL FANTASY RESONANCE
+- Loại: ky-thuat
+- Gặp ở: ff_resonance
 - Chỉ áp dụng khi: bản nguồn en/Latin có dòng chứa kana/kanji
 - Không áp dụng khi: mọi dòng nguồn cùng một ngôn ngữ
 - Dấu hiệu kiểm tra: `vgt extract` in "Ngon ngu nguon: ja {'en': ..., 'ja': ...}" với game dịch từ en
@@ -16,6 +18,8 @@ Engine: Unreal 5 (IoStore + pak v11 nén Oodle)   Ngôn ngữ gốc: ja (native)
 
 ### P-002: Font gốc thiếu dấu Việt; Noto Sans thay thế lại thiếu ←↑→↓★ và chữ Nhật
 - Phạm vi: game FINAL FANTASY RESONANCE
+- Loại: ky-thuat
+- Gặp ở: ff_resonance
 - Chỉ áp dụng khi: thay font bằng `unreal.fonts`
 - Không áp dụng khi: —
 - Dấu hiệu kiểm tra: fontTools getBestCmap của font thay so với tập ký tự mọi locres trong pak mod
@@ -27,6 +31,8 @@ Engine: Unreal 5 (IoStore + pak v11 nén Oodle)   Ngôn ngữ gốc: ja (native)
 
 ### P-003: Claude tự chạy được game và chụp màn hình; chỉ điều khiển được bằng rê chuột + Enter
 - Phạm vi: game FINAL FANTASY RESONANCE
+- Loại: ky-thuat
+- Gặp ở: ff_resonance
 - Chỉ áp dụng khi: cần kiểm trong game (máy người dùng đã bật VBS.cmd, `FFRS.exe` chạy được)
 - Không áp dụng khi: FFRS.exe không mở được (máy khởi động lại, chưa bật VBS)
 - Dấu hiệu kiểm tra: khởi chạy FFRS.exe bằng ProcessStartInfo (Start-Process lỗi vì `[Normal]` trong đường dẫn) → sau 60 s có `FFRS-Win64-Shipping` với cửa sổ "FINAL FANTASY RESONANCE"

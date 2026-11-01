@@ -169,7 +169,7 @@ class TestUpgrade(unittest.TestCase):
         st = p.review("mock")
         self.assertEqual(st.get("goi", 0), 0)
         from vgt import review as reviewmod
-        sm = reviewmod.summary(p.store)
+        sm = reviewmod.summary(p.store, p.bible_version())
         self.assertEqual(sm["dong_da_cham"], sm["tong_dong"])
         self.assertEqual(sm["tra_ve_dich_lai"], 0)
 

@@ -24,6 +24,14 @@
   - Nhận xét Claude (chưa phải ý người dùng): v2 hơn ở xưng hô anh–em nhất quán trong cảnh hẹn hò (v0.1 lẫn tôi–cô), giữ chơi chữ 性福 ("hạnh phịch"), độc thoại tự nhiên hơn. Kiểm định viên bắt đúng lỗi thật (thêm "của Tokisaki Kurumi", `\N[60]` dính chữ) nhưng bỏ sót: ce9 Meili lẫn "tôi…ta" trong một câu; "mật lệnh" cho 任務書 (thêm ý); "cái Nguyền rủa chết tiệt" viết hoa lạ; "Ghét quá!" mất lắp bắp.
   - Lỗi hệ thống đã sửa + test (bài học G-013…G-017, E-rpgmaker_mvmz-006): thử lại khi lỗi mạng; glossary gộp không dùng cho QA (`strict`); quy ước dấu toàn khổ trong prompt kiểm định/bible; QA lại dòng kẹt qa_fail; log review phân biệt trượt vì lỗi nhẹ. File: `vgt/{backend,bible,qa,pipeline,prompts,review}.py`, `config.default.yaml`, `tests/test_{pipeline,upgrade}.py`. 42 test pass (1 skip), check_lessons 0 lỗi.
 
+- **01/11 (phiên cloud, test giả, chưa chạy thật):**
+  - Người dùng đọc `so_sanh.html`: bản v0.2 **tốt hơn nhiều, trơn tru hơn**.
+  - Chạy tiếp an toàn: `vgt run` (máy trạng thái: CAN_RESEARCH → CAN_DUYET_BIBLE → CAN_CHON_CANH_THU → CAN_NGUOI_DUNG_DOC_THU → CON_LOI/XONG_DICH), `vgt trial`, `vgt approve-trial`; `TIEN_DO.json` (bước, lô, chờ hạn mức, lỗi mạng, lỗi gần nhất); cột `bible_ver` trên từng dòng, hồ sơ đổi → kiểm định chấm lại (hash gồm phiên bản hồ sơ).
+  - Bài học quy mô lớn: `vgt lessons` (lọc Thẻ + bộ Dò, chỉ in bài khớp), trường `Loại`/`Dò`/`Thẻ`/`Luật dịch`/`Gặp ở`; luật dịch tự vào prompt dịch giả + kiểm định viên; bài mới G-018 (xưng lẫn), G-019 (thêm ý), G-020 (mất tật nói); `check_lessons.py` kiểm trường mới + gợi ý nâng phạm vi.
+  - Gộp bible: thuật ngữ + sổ tay do code gộp, chỉ xung đột gửi Opus (xung đột Opus bỏ sót → CẦN XÁC NHẬN).
+  - File: `vgt/{lessons}.py` (mới), `vgt/{pipeline,store,review,dossier,prompts,cli}.py`, `tools/check_lessons.py`, `tests/test_resume_lessons.py` (mới), `docs/lessons/*`, `CLAUDE.md`, `PROMPT_PHIEN_DAU.md`, `docs/DAC_TA_HE_THONG.md`. 52 test pass (1 skip), check_lessons 0 lỗi.
+  - GitHub: repo private `lethanhtrung95ee/translate-game` (người dùng tạo); đẩy lên khi app Claude được cấp quyền repo đó.
+
 ## Game
 - **Cursed Armor** (MV, zh): dịch 100% bằng v0.1, đang cài trong game người dùng. Xem `projects\cursed_armor\CHECKPOINT.md`. Là **mốc so sánh** cho v0.2.
 - **FINAL FANTASY RESONANCE** (Unreal 5): TẠM DỪNG theo người dùng (31/10). Chi tiết `projects\ff_resonance\CHECKPOINT.md`.
@@ -37,9 +45,8 @@
 - `bible_read` lần đọc 60k ký tự ra ~17k token/phần, không bị timeout 600 giây.
 
 ## Prompt cho phiên tiếp theo
-Đọc CLAUDE.md, CHECKPOINT.md, `docs/DAC_TA_HE_THONG.md`. So sánh v0.1/v0.2 trên Cursed Armor ĐÃ CHẠY XONG (xem "Chạy thật v0.2 lần đầu"). Việc tiếp:
-1. Nếu người dùng đã trả lời về `projects\cursed_armor_v2\so_sanh.html`: ghi ý kiến vào checkpoint, biến điểm họ chê thành luật (bible/prompt/QA) + test. Chưa trả lời thì hỏi lại đúng 1 câu: bản mới có hay hơn không, chỗ nào.
-2. Thêm QA: một dòng không được dùng hai đại từ tự xưng khác nhau của cùng nhân vật (ca bị sót: ce9 Meili "tôi…ta"). Test trước, rồi `translate --grp CommonEvents.json:ce9` + `review` kiểm lại.
-3. Kiểm nguồn 1314 dòng `tm` trong v2 (fork có chép tm của v0.1 không?). Nếu có thì sửa `vgt fork` để không chép tm (so sánh phải sạch) + test.
-4. Hỏi người dùng có muốn dịch lại toàn bộ Cursed Armor bằng v0.2 không (ước tính: ~618 gọi Sonnet + ~434 gọi Opus kiểm định/vòng). Không tự chạy.
-Không chạy `translate` thật ngoài các cảnh trên khi người dùng chưa yêu cầu. Cuối phiên dọn file tạm, cập nhật checkpoint.
+Đọc CLAUDE.md, CHECKPOINT.md, `docs/DAC_TA_HE_THONG.md`. Người dùng đã đánh giá v0.2 tốt hơn nhiều (01/11).
+Đợt 1 còn chờ người dùng duyệt (hỏi trước khi làm): menu `BAT_DAU.bat` (tiếp việc dở / game mới); test tầng 1–3 (đo mọi dòng thoại bằng font + khung thật của game, chụp màn hình mẫu); gửi kèm bản tiếng Anh làm tham khảo; luật QA cho G-018/G-020.
+Đợt 2 (đặc tả trước): bible series + bộ nhớ dịch chung cho chữ hệ thống; hàng đợi nhiều game chạy 24/7; số liệu token theo game.
+Chưa chạy thật: `vgt run`, `vgt lessons`, gộp bible bằng code — lần chạy thật đầu tiên phải ghi lỗi thành bài học.
+Cuối phiên dọn file tạm, cập nhật checkpoint, commit git.

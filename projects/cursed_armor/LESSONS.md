@@ -5,6 +5,9 @@ Engine: RPG Maker MV (YEP_CoreEngine)   Ngôn ngữ gốc: zh (Phồn thể tron
 
 ### P-001: Game có nhiều thư mục data theo ngôn ngữ
 - Phạm vi: game Cursed Armor
+- Loại: ky-thuat
+- Dò: nhieu_bo_data
+- Gặp ở: cursed_armor
 - Chỉ áp dụng khi: có `www/dataCH`, `dataEN`, `dataJP` cạnh `www/data`
 - Không áp dụng khi: chỉ có `www/data`
 - Dấu hiệu kiểm tra: `Z_All.js` có `"data"+StorageManager.load("language")`
@@ -16,6 +19,8 @@ Engine: RPG Maker MV (YEP_CoreEngine)   Ngôn ngữ gốc: zh (Phồn thể tron
 
 ### P-002: Chữ UI cứng trong plugin `Z_Wolfzq_Text.js`
 - Phạm vi: game Cursed Armor
+- Loại: ky-thuat
+- Gặp ở: cursed_armor
 - Chỉ áp dụng khi: plugin có `var wolfzqText = {'key': 'value'}`
 - Không áp dụng khi: —
 - Dấu hiệu kiểm tra: grep `wolfzqText` trong `www/js/plugins`
@@ -27,6 +32,8 @@ Engine: RPG Maker MV (YEP_CoreEngine)   Ngôn ngữ gốc: zh (Phồn thể tron
 
 ### P-003: Font gốc thiếu dấu tiếng Việt
 - Phạm vi: game Cursed Armor
+- Loại: ky-thuat
+- Gặp ở: cursed_armor
 - Chỉ áp dụng khi: `www/fonts/fz.ttf` (SimSun_YaHei)
 - Không áp dụng khi: đã thay font
 - Dấu hiệu kiểm tra: fontTools cmap thiếu 60/79 ký tự có dấu
@@ -38,6 +45,8 @@ Engine: RPG Maker MV (YEP_CoreEngine)   Ngôn ngữ gốc: zh (Phồn thể tron
 
 ### P-004: Bản lưu chọn EN → game nạp `dataEN`, không thấy tiếng Việt
 - Phạm vi: game Cursed Armor
+- Loại: ky-thuat
+- Gặp ở: cursed_armor
 - Chỉ áp dụng khi: `Z_All.js` có `StorageManager.load("language")` (3 chỗ: thư mục data + 2 hàm getT)
 - Không áp dụng khi: plugin khác phiên bản (số lần xuất hiện khác 3 → apply dừng)
 - Dấu hiệu kiểm tra: giải LZString `www/save/filelanguage.rpgsave` (máy người dùng = "EN")

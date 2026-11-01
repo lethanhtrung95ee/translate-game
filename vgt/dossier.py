@@ -106,6 +106,8 @@ def read_parts(project, be) -> list[dict]:
                        "scene_ids": scene_ids, "script": text}
             payload = {a: b for a, b in payload.items() if b not in ("", [], None)}
             project.log(f"  Doc phan {k}/{len(chunks)} ({len(text)} ky tu, {len(scene_ids)} canh)...")
+            if hasattr(project, "progress"):
+                project.progress(buoc="bible_read", phan=f"{k}/{len(chunks)}")
             data = project._call(be, SYSTEM_BIBLE_READ, payload, READ_SCHEMA, "bible_read",
                                  "bible_read", len(ch))
             f.write_text(json.dumps({"hash": h, "data": data}, ensure_ascii=False, indent=1),
@@ -123,7 +125,50 @@ def read_parts(project, be) -> list[dict]:
 
 
 def _compact(part: dict) -> dict:
-    return {k: v for k, v in part.items() if k != "scenes" and v not in ("", [], None)}
+    # Thuat ngu + so tay do code gop (merge_lists), khong bat Opus chep lai.
+    return {k: v for k, v in part.items()
+            if k not in ("scenes", "glossary", "handbook") and v not in ("", [], None)}
+
+
+def _norm(s: str) -> str:
+    return " ".join((s or "").lower().split())
+
+
+def merge_lists(parts: list[dict]) -> tuple[list, list, list]:
+    """Gop glossary + handbook cua cac phan bang code.
+    Tra (glossary da thong nhat, xung dot [{src, options}], handbook da loc trung).
+    Cung src ma cac phan dich khac nhau -> xung dot, chi phan nay gui Opus quyet."""
+    by_src: dict[str, list] = defaultdict(list)
+    for p in parts:
+        for g in p.get("glossary") or []:
+            if g.get("src") and g.get("vi"):
+                by_src[g["src"].strip()].append(g)
+    agreed, conflicts = [], []
+    for src, items in by_src.items():
+        opts = list(dict.fromkeys(i["vi"].strip() for i in items))
+        if len({_norm(o) for o in opts}) == 1:
+            note = next((i.get("note") for i in items if i.get("note")), "")
+            agreed.append({"src": src, "vi": opts[0], **({"note": note} if note else {})})
+        else:
+            conflicts.append({"src": src, "options": opts,
+                              "notes": [i.get("note") for i in items if i.get("note")][:3]})
+    hb, seen = [], {}
+    for p in parts:
+        for h in p.get("handbook") or []:
+            k = _norm(h.get("src", ""))
+            if not k:
+                continue
+            if k in seen:  # giu muc day du nhat, ghi them goi y dich khac
+                old = seen[k]
+                if h.get("vi") and _norm(h["vi"]) != _norm(old.get("vi", "")):
+                    old.setdefault("alt", [])
+                    if h["vi"] not in old["alt"]:
+                        old["alt"].append(h["vi"])
+                continue
+            item = {a: b for a, b in h.items() if b}
+            seen[k] = item
+            hb.append(item)
+    return agreed, conflicts, hb
 
 
 def merge(project, be, parts: list[dict]) -> dict:
@@ -140,6 +185,11 @@ def merge(project, be, parts: list[dict]) -> dict:
                          sorted(spk.items(), key=lambda x: -x[1])[:80]],
             "names_in_db": [e.source for e in store.entries("kind='name'")][:200]}
     notes = [_compact(p) for p in parts]
+    agreed, conflicts, hb = merge_lists(parts)
+    if conflicts:
+        base["glossary_conflicts"] = conflicts[:400]
+    project.log(f"  Code gop: {len(agreed)} thuat ngu thong nhat, {len(conflicts)} xung dot gui Opus, "
+                f"{len(hb)} muc so tay")
     # Ghi chep qua lon -> gop theo tang (moi nhom thanh 1 bible tam, roi gop tiep).
     rnd = 0
     while len(json.dumps(notes, ensure_ascii=False)) > cfg["merge_max_chars"] and len(notes) > 1:
@@ -159,8 +209,29 @@ def merge(project, be, parts: list[dict]) -> dict:
         notes = [project._call(be, SYSTEM_BIBLE, {**base, "notes": g}, BIBLE_SCHEMA, "bible",
                                "bible_merge", len(g)) for g in groups]
     project.log(f"  Gop {len(notes)} ghi chep thanh ho so tac pham...")
-    return project._call(be, SYSTEM_BIBLE, {**base, "notes": notes}, BIBLE_SCHEMA, "bible",
+    data = project._call(be, SYSTEM_BIBLE, {**base, "notes": notes}, BIBLE_SCHEMA, "bible",
                          "bible", len(parts))
+    # Ghep: thuat ngu thong nhat (code) + quyet dinh cua Opus cho xung dot; xung dot Opus bo sot
+    # -> lay phuong an dau, ghi CAN XAC NHAN.
+    decided = {g.get("src", "").strip(): g for g in data.get("glossary") or [] if g.get("vi")}
+    final = list(agreed)
+    have = {g["src"] for g in agreed}
+    cxn = list(data.get("can_xac_nhan") or [])
+    for c in conflicts:
+        g = decided.get(c["src"])
+        if g:
+            final.append(g)
+        else:
+            final.append({"src": c["src"], "vi": c["options"][0],
+                          "note": "chưa thống nhất: " + " | ".join(c["options"])})
+            cxn.append(f"Thuật ngữ {c['src']}: chọn giữa {' / '.join(c['options'])}")
+        have.add(c["src"])
+    final += [g for s, g in decided.items() if s and s not in have]  # Opus them muc moi
+    data["glossary"] = final
+    data["handbook"] = hb + [h for h in data.get("handbook") or []
+                             if _norm(h.get("src", "")) not in {_norm(x["src"]) for x in hb}]
+    data["can_xac_nhan"] = cxn
+    return data
 
 
 def build(project, be) -> tuple[dict, dict]:
