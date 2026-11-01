@@ -11,6 +11,10 @@ from __future__ import annotations
 
 from .lang import NAMES
 
+_PUNCT_RULE = ("QUY ƯỚC KỸ THUẬT CỐ ĐỊNH: font tiếng Việt của game không có dấu toàn khổ, hệ thống tự đổi "
+               "～ → ~, ： → :, ！ → !, ？ → ?, （） → (), ， → , trong bản dịch. Dấu kéo dài ～ của nhân vật thể hiện "
+               "bằng ~ ở đúng vị trí.")
+
 _FAITH = """NGUYÊN TẮC TRUNG THÀNH VÀ GIỮ HỒN
 - Không được đổi: cốt truyện, ý của câu, tính cách nhân vật, chi tiết cài cắm (không làm mất, không làm lộ sớm hơn bản gốc).
 - Được đổi chữ để giữ TÁC DỤNG: chơi chữ, nhịp hài, vần thơ, câu thần chú. Chơi chữ không dịch được thì tạo câu tiếng Việt có cùng tác dụng (cười đúng chỗ, ngượng đúng chỗ).
@@ -110,9 +114,11 @@ Lập hồ sơ, gộp và đối chiếu mọi phần (thông tin phần sau có
 - characters: id ngắn, names (MỌI cách tên xuất hiện, kể cả mã như \\N[1], tên trong 【】), faces nếu có, name_vi, gender, age, role, personality, speech_style, catchphrases, comedic_role, arc, self (đại từ tự xưng mặc định), forbid (từ không bao giờ dùng cho nhân vật này), note.
 - relations: theo từng cặp (from/to là id nhân vật): self (from xưng), call (from gọi to), changes (mốc đổi xưng hô theo cốt truyện, nếu có), note.
 - handbook: câu đùa, chơi chữ, thơ, kệ, thần chú lặp lại hoặc quan trọng, với cách dịch thống nhất (src, type, meaning, why, vi).
-- glossary, dont_translate.
+- glossary: MỖI MỤC MỘT THUẬT NGỮ (src một từ/cụm gốc, vi một bản dịch). Không gộp kiểu "A/B/C + X"; cần nêu khuôn ghép thì ghi vào note hoặc handbook. Hệ thống dùng glossary để bắt lỗi tự động, mục gộp sẽ bị bỏ qua khi kiểm.
+- dont_translate.
 - key_scenes: id cảnh quan trọng (cao trào, tỏ tình, chia ly, kết, tiết lộ).
 - can_xac_nhan: mọi điểm không chắc hoặc các phần mâu thuẫn nhau, kèm dẫn chứng. Không đoán bừa.
+""" + _PUNCT_RULE + """ Đừng ghi quy ước dấu câu trái điều này vào style.
 Chỉ trả về JSON theo schema."""
 
 BIBLE_SCHEMA = {
@@ -176,6 +182,7 @@ LIỆT KÊ LỖI (issues), mỗi lỗi một dòng id:
 - severity "minor": câu gượng, chọn từ chưa hay, nhịp chưa tới.
 - criterion: một trong dung_y, xung_ho, giong, hon, tu_nhien. problem: lỗi cụ thể (ngắn). fix: bản sửa đề xuất cho cả dòng.
 Dòng có "n" là ghi chú chiến lược của dịch giả: chấp nhận đổi chữ nếu giữ được tác dụng và không đổi ý; không chấp nhận nếu thêm ý hoặc làm mất ý.
+""" + _PUNCT_RULE + """ Không bắt lỗi việc này.
 Không bắt lỗi khẩu vị khi bản dịch đã đúng và hay. Không có lỗi thì issues rỗng. Chỉ trả về JSON theo schema."""
 
 REVIEW_SCHEMA = {

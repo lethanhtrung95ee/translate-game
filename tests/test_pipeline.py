@@ -396,6 +396,27 @@ class TestClaudeBackend(unittest.TestCase):
         with self.assertRaises(LimitReached):
             ClaudeCodeBackend(cfg, tmp / "w").call("sys", "x", {"type": "object"}, "sonnet")
 
+    def test_network_error_retried(self):
+        """Loi mang tam thoi (ENOTFOUND, gap khi chay bible that 31/10) phai thu lai, khong chet."""
+        import subprocess as sp
+        from unittest import mock
+        from vgt.backend import BackendError
+        tmp = tmpdir(self)
+        cfg = load_config()
+        cfg["claude"]["network_wait_sec"] = 0
+        cfg["claude"]["network_retries"] = 2
+        bad = sp.CompletedProcess([], 1, json.dumps({"is_error": True, "result":
+                                  "API Error: Can't reach the API server (ENOTFOUND)"}), "")
+        good = sp.CompletedProcess([], 0, json.dumps({"is_error": False,
+                                   "structured_output": {"t": []}}), "")
+        be = ClaudeCodeBackend(cfg, tmp / "w", log=lambda *a: None)
+        with mock.patch("vgt.backend.subprocess.run", side_effect=[bad, good]) as m:
+            self.assertEqual(be.call("sys", "x", {"type": "object"}, "sonnet")["data"], {"t": []})
+            self.assertEqual(m.call_count, 2)
+        with mock.patch("vgt.backend.subprocess.run", side_effect=[bad, bad, bad]):
+            with self.assertRaises(BackendError):
+                be.call("sys", "x", {"type": "object"}, "sonnet")
+
 
 if __name__ == "__main__":
     unittest.main()

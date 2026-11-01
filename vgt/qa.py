@@ -28,7 +28,7 @@ def check(entry, masked_src: str, masked_out: str, final: str, bidx, cfg: dict,
     if any(has_source_script(visible(final), x) for x in {src_lang, detect_one(entry.source) or src_lang}):
         errs.append("E: còn sót chữ gốc chưa dịch")
     low = final.lower()
-    for _, src, vis in glossary_hits(bidx.b.get("glossary"), entry.source):
+    for _, src, vis in glossary_hits(bidx.b.get("glossary"), entry.source, strict=True):
         if not any(v.lower() in low for v in vis):
             errs.append(f"E: thuật ngữ '{src}' phải dịch là '{' / '.join(vis)}'")
     for w in bidx.forbid_for(entry):

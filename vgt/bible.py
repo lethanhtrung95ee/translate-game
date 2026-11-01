@@ -17,15 +17,28 @@ def _alts(s: str) -> list[str]:
     return [x.strip() for x in _PAREN.sub("", s or "").split("/") if x.strip()]
 
 
-def glossary_hits(glossary: list[dict], text: str) -> list[tuple[dict, str, list[str]]]:
+def _compound(g: dict) -> bool:
+    """Muc gop nhieu thuat ngu (`初級/中級/高級/特殊任務管理員`, `銅/鐵/鋼 + 頭盔/盔甲`).
+
+    Ghep cap theo vi tri o muc nay sai (cursed_armor_v2 31/10: 初級 -> 'mạo hiểm giả sơ cấp',
+    鐵則 -> 'Giáp'), nen chi dung lam ngu canh cho dich gia, khong dung de bat loi QA.
+    """
+    src = _PAREN.sub("", g.get("src") or "")
+    return "/" in src or "+" in src
+
+
+def glossary_hits(glossary: list[dict], text: str, strict: bool = False
+                  ) -> list[tuple[dict, str, list[str]]]:
     """Muc thuat ngu xuat hien trong text: (muc, src khop, cac cach dich chap nhan).
 
     Bible hay ghi gop `A / B` va chu thich `(..)`: tach ra. So vi bang so src thi ghep cap,
     khong thi chap nhan bat ky cach dich nao. Bo src ngan nam trong src dai hon cung khop
-    (浴場 trong 浴場老板) de khong ep dich sai.
+    (浴場 trong 浴場老板) de khong ep dich sai. strict=True (QA): bo qua muc gop.
     """
     hits = []
     for g in glossary or []:
+        if strict and _compound(g):
+            continue
         srcs, vis = _alts(g.get("src")), _alts(g.get("vi"))
         if not vis:
             continue

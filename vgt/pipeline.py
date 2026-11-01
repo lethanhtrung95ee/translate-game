@@ -224,6 +224,9 @@ class Project:
         n_tm = self._apply_tm()
         if n_tm:
             self.log(f"Translation memory: dung lai {n_tm} dong, khong ton han muc.")
+        n_ok = self._recheck_qa_fail(bidx, src_lang, grps)
+        if n_ok:
+            self.log(f"QA lai: {n_ok} dong qa_fail nay da dat (luat QA da doi), khong can dich lai.")
         where = "status IN ('new','qa_fail') AND attempts < ?"
         params: tuple = (self.cfg["max_attempts"],)
         if only_kind:
@@ -252,6 +255,31 @@ class Project:
             ids = [e.id for e in work]
             work = [e for e in (self.store.entries("id=?", (i,))[0] for i in ids)
                     if e.status == "qa_fail" and e.attempts < self.cfg["max_attempts"]]
+
+    def _recheck_qa_fail(self, bidx, src_lang, grps=None) -> int:
+        """Dong qa_fail chi vi loi QA tu dong (khong phai kiem dinh vien): chay lai QA hien tai.
+
+        Luat QA sai (vd glossary gop, cursed_armor_v2 31/10) lam dong bi ket o qa_fail sau
+        max_attempts; sua luat xong thi dong dung phai tu thoat ra ma khong ton them lan goi.
+        """
+        where, params = "status='qa_fail' AND target IS NOT NULL AND target!=''", ()
+        if grps:
+            where += f" AND grp IN ({','.join('?' * len(grps))})"
+            params = tuple(grps)
+        n = 0
+        for e in self.store.entries(where, params):
+            if any("[kiểm định]" in x for x in e.qa):
+                continue
+            m, c_src = mask(e.source)
+            _, c_out = mask(e.target)
+            notes = [x for x in e.qa if x.startswith("N:")]
+            e.qa = check(e, m, m if sorted(c_src) == sorted(c_out) else "", e.target, bidx,
+                         self.cfg, src_lang) + notes
+            if not blocking(e.qa):
+                e.status = "done"
+                self.store.save_result(e)
+                n += 1
+        return n
 
     def _run_batches(self, be, work, dupes, bidx, src_lang, scenes=None):
         done = 0

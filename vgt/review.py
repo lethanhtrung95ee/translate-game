@@ -130,8 +130,12 @@ def run(project, be, limit: int | None = None, grps: list[str] | None = None) ->
         stat["loi_nhe"] += n_minor
     out = {k: v for k, v in stat.items() if v}
     project.log(f"Kiem dinh: {out}")
-    if stat["truot"]:
+    if stat["truot"] and stat["loi_nang"]:
         project.log("Co phan truot: chay `vgt translate` (dich lai dong loi nang) roi `vgt review` lai.")
+    elif stat["truot"]:
+        # Chi loi nhe vuot review.minor_ratio: khong co dong nao bi tra ve, cham lai chi ton luot.
+        project.log("Co phan truot chi vi loi nhe vuot nguong: khong co dong de dich lai; xem goi y "
+                    "'W: [kiểm định]' qua `vgt review-export` va sua tay neu can.")
     return out
 
 

@@ -56,3 +56,14 @@ Quy tắc dùng: `docs/lessons/README.md`. Chỉ đọc khi game đang làm là 
 - Mức chặn: 1-test
 - Chặn bởi: `test_apply_font_override`; `tools/boot_check_mvmz.mjs` sau mỗi apply
 - Trạng thái: đã chặn
+
+### E-rpgmaker_mvmz-006: Dấu `\` lạc trước chữ Hán trong gốc (`\安維爾`)
+- Phạm vi: engine
+- Chỉ áp dụng khi: gốc có `\` + ký tự không phải mã điều khiển MV
+- Không áp dụng khi: `\` thuộc mã thật (`\C[n]`, `\N[n]`, `\G`, `\{`…)
+- Dấu hiệu kiểm tra: grep `\[^\x00-\x7F]` trong nguồn
+- Bằng chứng: Cursed Armor Map007 ev1p0 `\C[6]\安維爾教堂鑰匙`; bible v0.2 bảo "giữ mã lỗi" → kiểm định viên bắt lỗi bản dịch đã bỏ `\`; giữ `\` trước "Chìa" thì MV đọc `\Ch` nuốt chữ
+- Xử lý: bỏ dấu `\` lạc khi dịch (MV vốn không hiển thị nó); ghi vào style.notes của bible
+- Mức chặn: 4-hướng dẫn
+- Chặn bởi: bible cursed_armor_v2 style.notes mục 1
+- Trạng thái: chưa chặn bằng test

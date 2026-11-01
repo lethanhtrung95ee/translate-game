@@ -226,3 +226,49 @@ class TestUpgrade(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+
+
+class TestRealRunFixes(unittest.TestCase):
+    """Loi gap khi chay that cursed_armor_v2 (31/10/2026)."""
+
+    def test_compound_glossary_not_used_for_qa(self):
+        g = [{"src": "初級/中級/高級/特殊任務管理員", "vi": "Quản lý nhiệm vụ sơ cấp/trung cấp/cao cấp/đặc biệt"},
+             {"src": "初級/中級冒險者 / 資深冒險者憑證 / 公會經驗值",
+              "vi": "mạo hiểm giả sơ cấp/trung cấp / chứng chỉ Mạo hiểm giả Kỳ cựu / điểm kinh nghiệm hội"},
+             {"src": "銅/鐵/鋼/合金 + 頭盔/盔甲/盾/護手/靴", "vi": "Mũ giáp / Giáp / Khiên / Hộ thủ / Ủng"},
+             {"src": "煉之修女", "vi": "Nữ tu Luyện"}]
+        self.assertEqual(biblemod.glossary_hits(g, "初級任務管理員：這個鐵則", strict=True), [])
+        hit = biblemod.glossary_hits(g, "她已經成為煉之修女了", strict=True)
+        self.assertEqual([(s, v) for _, s, v in hit], [("煉之修女", ["Nữ tu Luyện"])])
+        self.assertTrue(biblemod.glossary_hits(g, "初級任務管理員"))  # van gui lam ngu canh
+
+    def test_punct_rule_in_review_and_bible_prompts(self):
+        from vgt import prompts
+        for p in (prompts.SYSTEM_REVIEW, prompts.SYSTEM_BIBLE):
+            self.assertIn("～ → ~", p)
+
+
+
+class TestRecheckStuck(unittest.TestCase):
+    def test_stuck_qa_fail_rechecked_without_calls(self):
+        """Dong ket qa_fail vi luat QA sai (attempts = max) phai tu thoat khi QA hien tai dat."""
+        tmp = tmpdir(self)
+        p = Project.init(make_game(tmp), tmp / "proj", log=lambda *a: None)
+        p.log = lambda *a: None
+        self.addCleanup(lambda: p.store.db.close())
+        p.extract()
+        p.draft_bible("mock")
+        b = biblemod.load(p.path)
+        b["reviewed"] = True
+        biblemod.save(p.path, b)
+        ds = p.store.entries("kind='dialogue'")
+        plain = [x for x in ds if x.source == "ポーションを持ってる？"] + [x for x in ds if "【" in x.source]
+        mx = p.cfg["max_attempts"]
+        for x, err in zip(plain, ["E: thuật ngữ '初級' phải dịch là 'mạo hiểm giả sơ cấp'",
+                                  "E: [kiểm định] giong: sai giọng"]):
+            x.target, x.status, x.attempts, x.qa = "Bạn có thuốc không?", "qa_fail", mx, [err]
+            p.store.save_result(x)
+        p.translate("mock", grps=[plain[0].grp, plain[1].grp])
+        self.assertEqual(p.store.entries("id=?", (plain[0].id,))[0].status, "done")
+        self.assertEqual(p.store.entries("id=?", (plain[1].id,))[0].status, "qa_fail")
+        self.assertEqual(p.store.entries("id=?", (plain[0].id,))[0].target, "Bạn có thuốc không?")  # khong dich lai

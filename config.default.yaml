@@ -53,6 +53,9 @@ claude:
   wait_on_limit: true
   limit_wait_minutes: 30
   max_limit_waits: 48
+  # Loi mang tam thoi (ENOTFOUND, ECONNRESET, 5xx, overloaded...): cho roi thu lai.
+  network_retries: 6
+  network_wait_sec: 60
 
 # ---- Ho so tac pham (vgt bible: doc toan bo kich ban) ----
 dossier:

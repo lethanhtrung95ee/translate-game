@@ -133,3 +133,58 @@ Quy tắc dùng: `docs/lessons/README.md`. Chỉ ghi lỗi của pipeline/quy tr
 - Mức chặn: 1-test
 - Chặn bởi: `test_patch_only_changed_files_no_game_copy`, `test_patch_install_uninstall_roundtrip`
 - Trạng thái: đã chặn
+
+### G-013: Lỗi mạng tạm thời làm chết cả lệnh dài
+- Phạm vi: global
+- Chỉ áp dụng khi: chạy thật bằng `claude -p` (bible, translate, review)
+- Không áp dụng khi: `--backend mock`
+- Dấu hiệu kiểm tra: log có `ENOTFOUND` / `ECONNRESET` / `Can't reach the API server` rồi Traceback
+- Bằng chứng: cursed_armor_v2 31/10, `vgt bible` chết ở phần 20/21 sau ~75 phút (`API Error: Can't reach the API server (ENOTFOUND)`)
+- Xử lý: backend nhận diện lỗi mạng (`NET_RX`) → chờ `claude.network_wait_sec` × lần rồi thử lại, tối đa `claude.network_retries`
+- Mức chặn: 1-test
+- Chặn bởi: `test_network_error_retried`
+- Trạng thái: đã chặn
+
+### G-014: Glossary gộp nhiều thuật ngữ → QA ghép cặp sai, ép dịch sai
+- Phạm vi: global
+- Chỉ áp dụng khi: bible có mục glossary dạng `A/B/C + X` hoặc `A/B / C/D`
+- Không áp dụng khi: mục một nguồn ↔ một bản dịch
+- Dấu hiệu kiểm tra: qa có `E: thuật ngữ 'X' phải dịch là '...'` mà bản dịch thật ra đúng; đếm mục glossary có `/` hoặc `+` trong src
+- Bằng chứng: cursed_armor_v2 (161/216 mục gộp): 初級 → "mạo hiểm giả sơ cấp", 鐵則 → "Giáp", 內衣 → "Nội y của Tokisaki Kurumi"; dịch giả bị ép thêm "của Tokisaki Kurumi", kiểm định viên phải bắt lại
+- Xử lý: QA chỉ dùng mục đơn (`glossary_hits(..., strict=True)`); mục gộp vẫn gửi làm ngữ cảnh; prompt bible yêu cầu mỗi mục một thuật ngữ
+- Mức chặn: 1-test
+- Chặn bởi: `test_compound_glossary_not_used_for_qa`
+- Trạng thái: đã chặn
+
+### G-015: Bible/kiểm định viên đòi giữ dấu toàn khổ mà hệ thống tự đổi
+- Phạm vi: global
+- Chỉ áp dụng khi: game nguồn CJK có ～ ： ！ ？ （）
+- Không áp dụng khi: —
+- Dấu hiệu kiểm tra: review có lỗi nặng "đổi ～ thành ~"; style.notes của bible ghi "giữ ～"
+- Bằng chứng: cursed_armor_v2 Map006.json:ev4p0 bị chấm trượt 2 vòng chỉ vì ~ (textfit.norm_punct đổi ～ → ~ do font)
+- Xử lý: `_PUNCT_RULE` đưa vào SYSTEM_REVIEW và SYSTEM_BIBLE
+- Mức chặn: 1-test
+- Chặn bởi: `test_punct_rule_in_review_and_bible_prompts`
+- Trạng thái: đã chặn
+
+### G-016: Dòng kẹt qa_fail sau khi sửa luật QA
+- Phạm vi: global
+- Chỉ áp dụng khi: dòng qa_fail đã hết `max_attempts` vì lỗi QA tự động (không phải lỗi kiểm định viên)
+- Không áp dụng khi: lỗi `[kiểm định]`
+- Dấu hiệu kiểm tra: `translate --grp` báo "Can dich 0 dong" mà vẫn còn qa_fail; review báo `chua_dich_xong`
+- Bằng chứng: cursed_armor_v2 ce9, Map007 ev1p0 kẹt sau G-014 nên kiểm định viên bỏ qua cả cảnh
+- Xử lý: `translate` chạy lại QA hiện tại cho dòng qa_fail trước (`_recheck_qa_fail`), đạt thì thành done, không tốn lượt gọi
+- Mức chặn: 1-test
+- Chặn bởi: `test_stuck_qa_fail_rechecked_without_calls`
+- Trạng thái: đã chặn
+
+### G-017: Review trượt chỉ vì lỗi nhẹ nhưng log vẫn bảo dịch lại
+- Phạm vi: global
+- Chỉ áp dụng khi: verdict truot, loi_nang = 0
+- Không áp dụng khi: có lỗi nặng
+- Dấu hiệu kiểm tra: log "Co phan truot" mà `tra_ve_dich_lai: 0`
+- Bằng chứng: cursed_armor_v2 Map006 (4 lỗi nhẹ / 65 dòng > minor_ratio) — chạy lại chỉ tốn lượt Opus
+- Xử lý: log phân biệt; lỗi nhẹ xem qua `review-export`, sửa tay
+- Mức chặn: 4-hướng dẫn
+- Chặn bởi: thông báo trong `vgt/review.py`
+- Trạng thái: đã chặn

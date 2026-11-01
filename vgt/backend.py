@@ -20,9 +20,16 @@ from pathlib import Path
 
 LIMIT_RX = re.compile(r"(usage|rate)[ _-]?limit|limit (reached|exceeded)|out of (usage|extra usage)"
                       r"|resets? (at|in)|hit your limit|429", re.I)
+NET_RX = re.compile(r"ENOTFOUND|ECONNRESET|ECONNREFUSED|ETIMEDOUT|EAI_AGAIN|socket hang up"
+                    r"|can'?t reach the API|connection (error|reset|refused)|network"
+                    r"|overloaded|\b5(00|02|03|04|29)\b|internal server error", re.I)
 
 
 class LimitReached(Exception):
+    pass
+
+
+class TransientError(Exception):
     pass
 
 
@@ -62,10 +69,18 @@ class ClaudeCodeBackend:
         sysf = self.workdir / f"system_{hashlib.sha1(system.encode()).hexdigest()[:10]}.txt"
         if not sysf.exists():
             sysf.write_text(system, encoding="utf-8")
-        waits = 0
+        waits = net = 0
         while True:
             try:
                 return self._once(self._cmd(model, schema, sysf, effort), prompt, timeout)
+            except TransientError as e:
+                if net >= int(self.c.get("network_retries", 6)):
+                    raise BackendError(f"Loi mang lap lai {net} lan: {e}") from e
+                net += 1
+                sec = int(self.c.get("network_wait_sec", 60)) * net
+                self.log(f"[mang] {e} -> cho {sec} giay roi thu lai ({net}/"
+                         f"{self.c.get('network_retries', 6)}).")
+                time.sleep(sec)
             except LimitReached as e:
                 if not self.c.get("wait_on_limit") or waits >= self.c["max_limit_waits"]:
                     raise
@@ -93,6 +108,8 @@ class ClaudeCodeBackend:
         if data.get("is_error") or p.returncode != 0 or not data:
             if LIMIT_RX.search(msg) or data.get("subtype") == "error_rate_limit":
                 raise LimitReached(msg[:200])
+            if NET_RX.search(msg):
+                raise TransientError(msg[:200])
             raise BackendError(f"claude -p loi (exit {p.returncode}): {msg[:300]}")
         so = data.get("structured_output")
         if so is None:
