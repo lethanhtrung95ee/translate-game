@@ -1,0 +1,563 @@
+speaker	listener	tu_canh	xung	goi	note
+レイン	*		tôi	anh/chị	người lạ, dân thường, lính: Rain xuề xòa nhưng là chỉ huy; "tôi" trung tính; với cấp dưới gọi "cậu/các cậu"
+レイン	ラスウェル		mình	cậu	bạn từ nhỏ, lớn lên chung nhà như anh em; Rain thân, xuề xòa → mình – cậu, thường gọi tên
+レイン	フィーナ		anh	em	Fina trẻ, hồn nhiên, được Rain che chở; Rain gọi 君 → anh – em, hay gọi tên
+レイン	魔人フィーナ		tôi	cô	Archwitch là nhân cách khác, tự tin, hay trêu; Rain giữ khoảng cách hơn với cô
+レイン	リド		tôi	cô	đồng đội cùng lứa, Lid bộc trực; giữ ngang hàng, hay gọi tên
+レイン	ニコル		tôi	anh	đồng đội lịch sự, Nichol lớn hơn và trịnh trọng
+レイン	ジェイク		tôi	anh	Jake lớn tuổi hơn, tay chơi; Rain vừa nể vừa bực
+レイン	サクラ		tôi	cô	Sakura trông như bé gái nhưng là hiền giả; Rain gọi tên, "cô" giữ lễ
+レイン	グランシェルト王		thần	Bệ hạ	kỵ sĩ với vua, nghi lễ cung đình
+レイン	シャルロット		mình	cậu	bạn cùng khóa học viện, ngang hàng
+レイン	兵士		tôi	các cậu	đội trưởng với lính dưới quyền
+レイン	グランシェルト兵		tôi	các cậu	đội trưởng với lính dưới quyền
+レイン	クロエ		em	chị	Chloe kèm Rain học từ nhỏ, muốn được gọi như chị; Rain ngượng
+レイン	エマ		anh	em	người lớn với bé gái
+レイン	スコット		tôi	anh	kỹ sư lớn tuổi, cộng sự cũ
+レイン	ザイル		tôi	anh	đàn anh trong kỵ sĩ đoàn; khi trịnh trọng gọi "ngài Zile"
+レイン	ラザロフ博士		ta	ngươi	kẻ thù ghê tởm, đối đầu
+レイン	常闇のヴェリアス		ta	ngươi	kẻ thù, đối đầu
+レイン	レーゲン	ST_C06_629_01	con	cha	gặp lại cha; đã biết cha không giết mẹ (615); gọi 父さん → "cha", giọng con trai xuề xòa, không xa cách
+レイン	謎の姫		tôi	công chúa	lịch sự với công chúa
+レイン	光のモーグリ		tôi	cậu	Moogle nhỏ, nhí nhố
+レイン	シルヴィア		tôi	chị	Silvia tự nhận là đàn chị
+ラスウェル	*		tôi	anh/chị	nghiêm, lễ độ với mọi người
+ラスウェル	レイン		tôi	cậu	bạn từ nhỏ, lớn lên chung nhà như anh em (Raegen nuôi); JA 俺/お前 thân nhưng Lasswell chỉn chu như người anh khó tính → tôi – cậu, hay gọi tên; không 'mình', không 'ngươi'
+ラスウェル	フィーナ		tôi	cô	ban đầu dè dặt với cô gái lạ, giữ lịch sự
+ラスウェル	グランシェルト王		thần	Bệ hạ	nghi lễ cung đình
+ラスウェル	シャルロット		tôi	cậu	bạn cùng khóa
+ラスウェル	エマ		anh	em	người lớn với bé gái
+ラスウェル	ロラン		tôi	anh	từng tha cho Rolan, quý trọng
+ラスウェル	レーゲン	ST_C06_629_01	cháu	chú	được Raegen nuôi nhưng không phải con ruột, gọi レーゲンさん (EN Sir Raegen)
+ラスウェル	兵士		tôi	các cậu	phó đội trưởng với lính
+ラスウェル	リド		tôi	cô	đồng đội
+ラスウェル	サクラ		tôi	cô	giữ lễ
+ラスウェル	ザイル		tôi	ngài	đàn anh, Lasswell trịnh trọng (Sir Zile)
+フィーナ	*		tôi	anh/chị	lịch sự với người lạ; với trẻ con xưng "chị"
+フィーナ	レイン		em	anh	cô gái trẻ với người che chở mình, thân, gọi tên
+フィーナ	ラスウェル		em	anh	như với Rain
+フィーナ	エマ		chị	em	chị lớn với bé gái
+フィーナ	リド		mình	cậu	bạn gái cùng lứa
+フィーナ	魔人フィーナ	ST_C05_540_01	tôi	cô	hai nhân cách đối diện nhau (sau khi tách)
+魔人フィーナ	*		chị	các cậu	với nhóm Rain và người quen (あなたたち): chị – các cậu, kẻ cả ngọt; người lạ lễ độ: tôi – anh/chị/bác; kẻ thù: ta – ngươi (cặp riêng: Alluvion, Tellus…)
+魔人フィーナ	レイン		chị	cậu	trêu Rain như cậu em ngoan (お利口さん), ngọt và tự tin
+魔人フィーナ	ラスウェル		chị	cậu	cùng giọng trêu như với Rain
+魔人フィーナ	フィーナ	ST_C05_540_01	chị	em	nhân cách từng trải với nhân cách hồn nhiên
+黒衣の魔女	*		ta	ngươi	phù thủy trên chiến trường với quân địch
+リド	*		tôi	anh/chị	bộc trực, tự tin
+リド	レイン		tôi	anh	cô gái 18 bộc trực với đồng đội lớn hơn chút; gọi tên
+リド	エヴァン		em	anh	em gái với anh ruột (兄さん)
+リド	フィーナ		mình	cậu	bạn gái cùng lứa
+エヴァン	リド		tôi	cô	đang lạnh nhạt, xa cách với em gái (gốc 愚かな女)
+エヴァン	リド	ST_C04_441_01	anh	em	đã trở lại là anh trai
+エヴァン	*		tôi	các người	lạnh, mệnh lệnh
+ニコル	*		tôi	anh/chị	lịch sự, です・ます; người ngoài: "các vị"
+ニコル	ルルカ		anh	em	anh cả với em gái
+ニコル	エル		anh	em	anh cả với em trai
+ニコル	アルシャ		tôi	cô	anh chồng với em dâu, lịch sự
+ルルカ	*		tôi	anh/chị	Thủy vu nữ lễ độ
+ルルカ	ニコル		em	anh	em gái với anh (兄さん)
+エル	*		tôi	các anh	tự trọng, khó chịu với người ngoài
+エル	ニコル		em	anh	em trai với anh cả (兄上), lễ phép
+エル	アルシャ		anh	em	vợ chồng
+アルシャ	*		tôi	anh/chị	lịch sự
+アルシャ	エル		em	anh	vợ chồng
+アルシャ	ニコル		em	anh	em dâu với anh chồng
+ジェイク	*		tôi	cậu	tay chơi, thân mật kiểu đàn anh với đàn ông
+ジェイク	フィーナ		anh	em	tán tỉnh (お嬢さん)
+ジェイク	リド		anh	em	tán tỉnh, trêu
+ジェイク	シエラ皇太子	ST_C04_441_01:441_01_012	anh	em	anh ruột với em (sau khi lộ)
+シエラ皇太子	*		tôi	các vị	thái tử lễ độ
+シエラ皇帝	*		tôi	các vị	hoàng đế lễ độ
+シエラ皇帝	ジェイク		em	anh	em với anh ruột
+アメリア	*		tôi	quý vị	hầu gái
+アメリア	ジェイク		tôi	ngài	ジェイク様
+シモン	*		tôi	anh	lính nổi dậy
+サクラ	*		ta	cậu	hiền giả già trong hình bé gái, bề trên mà tôn trọng; với nữ gọi "cô"
+サクラ	光輝のヴェリアス		ta	ngươi	đối đầu
+アヤカ	サクラ		em	sư phụ	đệ tử với thầy (師匠); bối cảnh Pharm mang màu phương Đông nhẹ
+アヤカ	*		tôi	anh/chị	lễ phép
+グランシェルト王	*		ta	khanh	vua với thần dân, kỵ sĩ: cách xưng cung đình, ấm áp; không dùng ta – ngươi vì vua quý họ
+シャルロット	*		tôi	các anh	nữ kỵ sĩ, giọng quân nhân
+シャルロット	レイン		tôi	cậu	bạn cùng khóa
+シャルロット	ラスウェル		tôi	cậu	bạn cùng khóa
+シャルロット	グランシェルト王		thần	Bệ hạ	nghi lễ
+シャルロット	母上		con	mẹ	con với mẹ
+母上	シャルロット		mẹ	con	mẹ với con, lạnh
+母上	*		ta	các ngươi	bề trên lạnh lùng
+常闇のヴェリアス	*		ta	ngươi	Veritas tự coi mình trên con người; với nhóm Rain: ta – ngươi
+光輝のヴェリアス	*		ta	ngươi	Veritas tự coi mình trên con người; với nhóm Rain: ta – ngươi
+劫火のヴェリアス	*		ta	ngươi	Veritas tự coi mình trên con người; với nhóm Rain: ta – ngươi
+水華のヴェリアス	*		ta	ngươi	Veritas tự coi mình trên con người; với nhóm Rain: ta – ngươi
+天風のヴェリアス	*		ta	ngươi	Veritas tự coi mình trên con người; với nhóm Rain: ta – ngươi
+王土のヴェリアス	*		ta	ngươi	Veritas tự coi mình trên con người; với nhóm Rain: ta – ngươi
+氷刃のヴェリアス	*		ta	ngươi	Veritas tự coi mình trên con người; với nhóm Rain: ta – ngươi
+光輝のヴェリアス	常闇のヴェリアス		tôi	anh	với Umbra: nữ tính, thân, ngượng ngùng
+常闇のヴェリアス	光輝のヴェリアス		ta	cô	đồng đội tin cậy
+ラザロフ博士	*		tôi	các người	lễ độ giả, khinh người
+レーゲン	*		ta	các người	ít lời, xa cách
+レーゲン	レイン		cha	con	cha với con trai
+レーゲン	ラスウェル		chú	cháu	người nuôi dưỡng với Lasswell
+ソル	*		tôi	cậu	hiền giả điềm đạm
+ソル	*	ST_C07_721_01	ta	ngươi	đã lộ bộ mặt muốn diệt mọi sinh mạng
+エルダリート	*		tôi	các cậu	hiền giả trẻ, thân thiện
+クロエ	レイン		chị	em	gọi Rain là "Rainy" như hồi bé
+クロエ	*		tôi	các cậu	học giả thân thiện
+エマ	*		em	anh/chị	bé gái với người lớn trẻ
+エマ	エマの伯母		cháu	dì	cháu với dì
+スコット	*		tôi	cậu	kỹ sư cộc
+ザイル	*		tôi	cậu	đàn anh vui tính với đàn em (後輩)
+ロラン	*		tôi	cậu	thẳng thắn
+謎の姫	*		ta	ngài	công chúa lễ độ, lời cổ kính
+ラピス姫	*		ta	ngài	như trên
+光のモーグリ	*		tớ	các cậu	Moogle nhí nhố, cuối câu "kupo"
+シルヴィア	*		chị	cậu	đàn chị tự xưng (後輩クン)
+ギルガメッシュ	*		ta	ngươi	kiếm khách khoa trương
+カーミル	*		tôi	anh	lính đánh thuê lạnh
+アイリーン	*		tôi	các cậu	thợ rèn thân thiện
+オゼッタ	*		tôi	anh	lễ độ
+フレイヴィア	*		tôi	anh	quý phái, lễ độ
+ローゼリア	*		tôi	anh	ân cần
+真・ビクトリア	*		tôi	cậu	điệu đà, trêu
+イルズ	*		tôi	anh	dược sĩ lễ độ
+ロイ	*		tôi	anh	người hát rong
+メルセデス	*		tôi	mấy người	nữ hải tặc cộc (アタイ)
+ボーリン	*		tôi	cậu	người lùn, cuối câu "lali"
+ドワーフ	*		tôi	cậu	người lùn, cuối câu "lali"
+ヴェルン	*		ta	cậu	ông thợ máy sảng khoái
+商会長	*		tôi	cậu	hội trưởng hiền
+商会長	リド		bác	cháu	gọi リドちゃん
+サハギン	*		tôi	các người	nói đứt quãng
+イフリート	*		ta	ngươi	huyễn thú, bề trên con người
+シヴァ	*		ta	ngươi	huyễn thú, bề trên con người
+タイタン	*		ta	ngươi	huyễn thú, bề trên con người
+セイレーン	*		ta	ngươi	huyễn thú, bề trên con người
+ラムウ	*		ta	các ngươi	huyễn thú, ông lão thông thái
+兵士	*		tôi	ngài	lính với kỵ sĩ, chỉ huy; với dân gọi "bà con/anh/chị"
+グランシェルト兵	*		tôi	ngài	lính với kỵ sĩ
+帝国兵	*		ta	các ngươi	lính Đế quốc hống hách; 貴様 chửi → vẫn ta – ngươi, không tao – mày
+空白	*		-	-	nhãn lựa chọn của người chơi (lời/hành động của Rain), viết ngắn dạng mệnh lệnh, không đại từ
+？？？	*		tôi	anh/chị	người nói giấu tên; xưng theo người thật nếu đã biết qua glossary/cảnh, không làm lộ danh tính
+青年	*		tôi	anh	chàng trai với kỵ sĩ trẻ
+老婆	*		bà	cậu	bà lão hiền với kỵ sĩ trẻ; gốc có 殿/様 thì gọi "ngài"
+老人	*		ông	cậu	ông lão (ワシ) với kỵ sĩ trẻ
+おじさん	*		tôi	cậu	người đàn ông trung niên
+おばさん	*		tôi	cậu	phụ nữ trung niên; gốc 騎士様 thì gọi "ngài kỵ sĩ"
+おばば	*		bà	các cậu	bà trưởng lão (お前さん)
+男の子	*		em	anh	bé trai với người lớn trẻ
+女の子	*		em	anh	bé gái
+元気な女の子	*		em	anh	bé gái (お兄ちゃん)
+男性	*		tôi	anh	người đàn ông; người ngoại quốc lạ thì cộc ("mấy người")
+商人	*		tôi	quý khách	người bán hàng
+支配人	*		tôi	ngài	quản lý đấu trường, kính cẩn (様)
+闘技場司会	*		tôi	quý vị	người dẫn chương trình đấu trường, hô to
+闘技場受付	*		tôi	quý khách	lễ tân
+白魔道士	*		tôi	quý khách	pháp sư trắng ở quán trọ; trong cốt truyện Mysidia: "tôi – các vị"
+船乗り	*		tôi	anh	thủy thủ thô mộc
+宿屋の店主	*		tôi	quý khách	chủ quán trọ (người lùn thì thêm "lali")
+屈強な男性	*		tôi	cậu	người đàn ông vạm vỡ, xởi lởi
+エマの伯母	*		tôi	anh/chị	dì của Emma, lễ phép với kỵ sĩ
+調査団員	*		tôi	anh/chị	thành viên đoàn khảo sát
+船長	*		tôi	các cậu	thuyền trưởng giọng dân biển, thô mộc nhưng không phương ngữ đậm
+チョコボ車の御者	*		tôi	cậu	người đánh xe lịch sự
+偽グランシェルト兵	*		tôi	các người	kẻ trộm vặt bị dồn, hoảng; gốc không có テメエ nên không tao – mày
+レイン	シエラ皇太子		tôi	Điện hạ	kỵ sĩ nước ngoài với thái tử; lễ độ, cần đại từ thì 'ngài'
+シエラ皇太子	レイン		tôi	anh	thái tử lễ độ (です・ます), coi Rain là ân nhân, đồng minh
+レイン	シエラ皇帝		tôi	Bệ hạ	lễ độ với hoàng đế; khi nhắc với người khác Rain gọi trống tên 'Shera' (ChrEv_0340_001_01_009)
+シエラ皇帝	レイン		tôi	anh	như lúc làm thái tử, lễ độ, thân
+レイン	ソル		tôi	anh	đồng minh từ thời Hess, Rain tôn trọng; Rain gọi お前 khi van Sol tỉnh lại vẫn giữ 'anh'
+サクラ	光輝のヴェリアス	ST_C05_534_01	em	chị	Lux là chị ruột (C05_534_01_068, C06_611_01_046); Sakura gọi 姉さん = 'chị'; luôn xưng 'em' với Lux, kể cả khi tranh luận gay gắt (542, 612) và lúc Lux lâm chung (811); giọng già ワシ chỉ thể hiện ở trợ từ, không đổi đại từ
+光輝のヴェリアス	サクラ	ST_C05_534_01	ta	em	chị với em gái đã phản bội; lạnh, お前 → 'em'/gọi tên, không 'ngươi'
+リド	ボーリン		cháu	bác	Lid quen người lùn từ bé (FEV_Town_04Dir_20), gọi trống tên 'Borin', thân; người lùn nhiều tuổi hơn hẳn
+ボーリン	リド		bác	cháu	người lùn già quý Lid từ bé; cuối câu 'lali'
+老人	リド		ông	cháu	ông lão ở xưởng quen Lid từ nhỏ
+レイン	ボーリン		tôi	ông	người lùn lớn tuổi
+レイン	ヴェルン		tôi	ông	thợ rèn, thợ máy nổi tiếng lớn tuổi
+リド	ヴェルン		tôi	ông	Lid nể ông như bậc thầy trong nghề, gọi trống tên 'Verun'
+ロレーヌ	*		ta	các cậu	Giáo quan Lorraine (ロレーヌ教官), từng dạy Rain, Lasswell ở học viện; giọng chỉ huy, ít lời
+レイン	ロレーヌ		tôi	Giáo quan	học trò cũ với giáo quan; kính trọng, xưng 'tôi', số nhiều 'bọn tôi'
+盗賊	*		bọn này	mấy người	băng trộm Eldin (SubEv_C01_DesertBandit), ra oai vụng về; không tao – mày vì gốc không テメエ; thủ lĩnh một mình xưng 'ta'
+野盗	*		bọn này	mấy người	thảo khấu, như băng trộm
+エヴァン	レイン		tôi	các người	lạnh, coi nhóm Rain là kẻ xâm nhập
+？？？（クロエ）	レイン		chị	em	Chloe chưa lộ tên, thân tình như chị gái
+元気な子供	*		em	anh	trẻ mồ côi nói với người lớn lạ
+明るい子供	*		em	anh	trẻ mồ côi nói với người lớn lạ
+しっかりとした女の子	*		em	anh	bé gái chững chạc, lễ phép
+？？？	*	ST_SubEv_C01_Collection_01	ta	ngài	công chúa bí ẩn (sau là 謎の姫): lễ độ, cổ kính, ta – ngài; không gọi tên/thân phận
+？？？	レイン	ST_SubEv_C01_Collection_01	ta	ngài	công chúa bí ẩn nói với Rain (kỵ sĩ): ta – ngài
+？？？	*	ST_SubEv_C01_Collection_02	tôi	anh/chị	hết cảnh công chúa: về mặc định người giấu tên
+？？？	レイン	ST_SubEv_C01_Collection_02	tôi	anh	hết cảnh công chúa: về mặc định
+？？？	*	ST_SubEv_C01_Moogle_01	tớ	các cậu	Moogle Ánh sáng chưa xưng tên: tớ – các cậu, cuối câu kupo (như 光のモーグリ)
+？？？	レイン	ST_SubEv_C01_Moogle_01	tớ	cậu	Moogle Ánh sáng với Rain
+？？？	*	ST_SubEv_C01_Moogle_02	tôi	anh/chị	hết cảnh Moogle: về mặc định
+？？？	レイン	ST_SubEv_C01_Moogle_02	tôi	anh	hết cảnh Moogle: về mặc định
+？？？	*	ST_C02_215_01	tôi	các người	Evan chặn đường trước khi lộ mặt: lạnh, như エヴァン (tôi – các người)
+？？？	*	ST_C02_219_01	ta	các cậu	Verun (thợ rèn sảng khoái, như ヴェルン: ta – cậu) xen vào trước khi được gọi tên
+？？？	*	ST_C03_309_C	em	anh	El gọi anh cả (兄上) và em gái Luka: lễ phép
+？？？	*	ST_C03_310_01	tôi	anh/chị	về mặc định
+？？？（ラザロフ）	*		tôi	các người	Lazarov chưa xưng tên: lễ độ giả, khinh người (như ラザロフ博士)
+ラスウェル	ラザロフ博士		ta	ngươi	kẻ thù ghê tởm (貴様): Lasswell lạnh, đối đầu
+フィーナ	ラザロフ博士		tôi	ông	Fina tức giận với kẻ ác lạ mặt, vẫn không thô
+エマ	ラザロフ博士		cháu	ông	bé gái với kẻ lạ
+ニコル	レイン		tôi	cậu	Nichol lớn hơn, quân sư lịch sự (あなた, です・ます); ban đầu nghi ngờ, lạnh; từ C03_330_01 coi Rain là đồng đội nhưng vẫn giữ lễ
+ニコル	ラスウェル		tôi	cậu	lịch sự, ngang hàng
+ニコル	リド		tôi	cô	lịch sự, hơi kẻ cả
+ニコル	フィーナ		tôi	cô	lịch sự
+ニコル	魔人フィーナ		tôi	cô	lịch sự, dè chừng
+ニコル	サーラ		anh	em	người lớn tử tế với cô bé bệnh
+？？？（ニコル）	*		tôi	các vị	Nichol chưa xưng tên: lịch sự, lạnh
+？？？（ルルカ）	ニコル		em	anh	Luka gọi anh cả (兄さん)
+ルルカ	フィーナ		mình	cậu	Luka gọi フィーナさん, vẫn lễ độ, câu trang nhã; hai cô gái thân dần
+フィーナ	ルルカ		mình	cậu	bạn gái cùng lứa
+ルルカ	レイン		tôi	anh	Thủy vu nữ lễ độ
+エル	レイン		tôi	anh	ban đầu gắt, khó chịu người ngoài; từ C03_322_01 tin Rain, vẫn tôi – anh
+アルシャ	レイン		tôi	anh	lịch sự, tin cậy
+フィーナ	ニコル		em	anh	Fina với người lớn hơn
+フィーナ	エル		em	anh	Fina với người lớn hơn
+フィーナ	アルシャ		em	chị	Fina với người lớn hơn
+リド	ニコル		tôi	anh	bực Nichol kẻ cả; bộc trực, gọi tên
+リド	エル		tôi	anh	bộc trực
+リド	ルルカ		tôi	cô	lịch sự, quý cô em gái dễ thương
+ラスウェル	ニコル		tôi	anh	lễ độ, nể quân sư
+ラスウェル	エル		tôi	anh	lễ độ
+ラスウェル	魔人フィーナ		tôi	cô	bị trêu thì bực, lúng túng
+魔人フィーナ	ニコル		chị	cậu	trêu, kẻ cả ngọt ngào như với Rain
+魔人フィーナ	エル		chị	cậu	dịu, kẻ cả
+魔人フィーナ	リド		chị	em	trêu
+魔人フィーナ	水華のヴェリアス		ta	ngươi	kẻ cũ, kẻ thù: kiêu ngạo
+水華のヴェリアス	魔人フィーナ		ta	ngươi	kinh ngạc, căm
+？？？（メルセデス）	ニコル		tôi	anh	nữ hải tặc cộc, mỉa Người canh giữ Nước
+メルセデス	ニコル		tôi	anh	cộc cằn, mỉa; sau khi được tin thì nể
+サーラ	ニコル		em	anh	cô bé gọi ニコルさん
+謎の少女	レイン(子ども)		chị	em	cô gái lạ dịu dàng với cậu bé Rain; không lộ là ai
+レイン(子ども)	レーゲン		con	cha	cậu bé gọi cha (父さん)
+レイン(子ども)	謎の少女		em	chị	cậu bé với cô gái lạ
+海賊	*		tao	mày	lính hải tặc thô lỗ, gây sự (SubEv_C03_Mercedes_02)
+フィーナ	レイン	ST_C03_320_01:320_01_015	chị	cậu	từ đây là nhân cách Archwitch dù nhãn còn フィーナ: trêu, ngọt, kẻ cả
+フィーナ	水華のヴェリアス	ST_C03_320_01:320_01_015	ta	ngươi	Archwitch (nhãn フィーナ) với kẻ cũ Alluvion
+フィーナ	レイン	ST_C03_328_01:328_01_048	em	anh	Fina trở lại nhân cách thường
+フィーナ	水華のヴェリアス	ST_C03_328_01:328_01_048	tôi	ngươi	Fina thường với kẻ thù
+おやじ	レイン		tôi	chú em	ông bác dân thường nói với chàng trai trẻ
+警備メカ	*		-	-	máy móc, câu cụt, không xưng hô
+メカボ	*		-	-	Chocobo máy, chỉ kêu
+？？？(ロイ)	*		tôi	anh	người hát rong điềm đạm, nói với Rain và Lid như người ngang vai
+？？？(シルヴィア)	レイン		chị	cậu	Silvia tưng tửng, tự nhận đàn chị; gọi Rain là cậu kỵ sĩ trẻ
+オルデリオン兵	*		tôi	anh	lính thành, nói thân với dân thường
+オルデリオン兵	ニコル		tôi	ngài	cấp dưới với quân sư
+ネコ	レイン		tôi	anh	mèo; ở Mysidia/Sian là pháp sư hóa mèo biết nói: giọng bề trên đùa cợt nhưng vẫn 'tôi – anh' (phiếu #36)
+エヴァン	リド	ST_C04_437_01	anh	em	thoát tẩy não, trở lại là anh trai (sớm hơn mốc 441_01 cũ)
+エヴァン	ジェイク	ST_C04_437_01	tôi	cậu	君: lịch sự với bạn của em gái
+ジェイク	エヴァン		tôi	anh	あんた: thẳng mà tôn trọng người anh lớn tuổi
+ジェイク	シエラ皇太子		tôi	cậu	trước mốc 441_01_012: thân, che chở kiểu đàn anh; gọi trống tên 'Shera'; không để lộ máu mủ
+シエラ皇太子	ジェイク		tôi	anh	thái tử lễ độ, tin cậy thủ lĩnh nổi dậy
+ソゼ皇帝	シエラ皇太子		ta	con	hoàng đế với con trai (息子よ)
+シエラ皇太子	ソゼ皇帝		con	phụ hoàng	父上
+アメリア	シエラ皇太子		tôi	Điện hạ	hầu gái với chủ (シエラ様)
+ジェイク	アメリア		anh	em	tán tỉnh
+リド	ジェイク		tôi	anh	bực gã tán tỉnh, gọi trống tên; lúc tức gọi 'anh' cộc, không mày – tao; sau 437_01 cảm ơn thật lòng
+フィーナ	ジェイク		em	anh	Fina với người lớn hơn
+ニコル	ジェイク		tôi	anh	lịch sự, mỉa nhã nhặn
+ラスウェル	ジェイク		tôi	anh	ban đầu nghi ngờ (お前), vẫn giữ lễ
+レイン	劫火のヴェリアス		ta	ngươi	kẻ thù; cả lúc liên minh tạm vẫn giữ
+ラスウェル	劫火のヴェリアス		ta	ngươi	kẻ thù, sau trận 424_01 kính trọng nhưng giữ
+リド	劫火のヴェリアス		tôi	ông	Lid mỉa gã giáp mù đường (あんた)
+劫火のヴェリアス	リド		ta	cô bé	お嬢ちゃん
+レイン	シモン		tôi	cậu	お前: lính nổi dậy trẻ
+ラザロフ博士	エヴァン		tôi	cậu	ra lệnh kẻ bị tẩy não, giọng lễ độ giả
+ラスウェル(子ども)	レーゲン		cháu	chú	hồi ức, gọi レーゲンさん → 'chú Raegen'
+軽薄な男	*		tôi	cậu	là Jake chưa xưng tên
+軽薄な男	フィーナ		anh	em	tán tỉnh (お嬢さん)
+軽薄な男	リド		anh	em	tán tỉnh
+お婆さん	*		bà	các cậu	bà lão gọi người lớn trẻ hơn là "các cậu", gọi Mercedes là "con bé"
+？？？（劫火のヴェリアス）	常闇のヴェリアス		ta	ngươi	cùng phe Sworn Six, giọng bặm
+反乱軍	*		tôi	các vị	lính nổi dậy nói với nhóm kỵ sĩ
+反乱軍の兵士	ジェイク		tôi	anh	lính nổi dậy gọi thủ lĩnh là "anh Jake"
+？？？（サクラ）	レイン		ta	cậu	hiền giả trông như bé gái, giọng cụ già
+？？？（光輝のヴェリアス）	？？？（王土のヴェリアス）		ta	ngươi	kẻ địch Sworn Six, nặng và lạnh
+？？？（王土のヴェリアス）	？？？（光輝のヴェリアス）		ta	ngươi	kẻ địch Sworn Six
+常闇のヴェリアス	レイン	ST_C05_531_01	ta	cậu	700 năm trước (ký ức Sakura): chiến binh Aldore trọng danh dự, quý Rain như chiến hữu mạnh; お前 → cậu
+常闇のヴェリアス	レイン	ST_C05_540_01	ta	ngươi	trở lại hiện tại: kẻ thù
+常闇のヴェリアス	*	ST_C05_531_01	ta	các cậu	700 năm trước: với nhóm Rain đứng đắn, không khinh miệt
+常闇のヴェリアス	*	ST_C05_540_01	ta	ngươi	trở lại hiện tại
+レイン	常闇のヴェリアス	ST_C05_531_01	tôi	anh	700 năm trước: Rain gọi tên 'Umbra', kính một chiến binh đáng tin
+レイン	常闇のヴェリアス	ST_C05_540_01	ta	ngươi	trở lại hiện tại: kẻ thù, đối đầu
+光輝のヴェリアス	レイン	ST_C05_531_01	tôi	cậu	700 năm trước: chị cả hay lo, thân thiện
+光輝のヴェリアス	レイン	ST_C05_540_01	ta	ngươi	trở lại hiện tại
+光輝のヴェリアス	*	ST_C05_531_01	tôi	các cậu	700 năm trước
+光輝のヴェリアス	*	ST_C05_540_01	ta	ngươi	trở lại hiện tại
+光輝のヴェリアス	王土のヴェリアス	ST_C05_531_01	tôi	cậu	700 năm trước: bị Tellus trêu thì cự (あなた)
+光輝のヴェリアス	王土のヴェリアス	ST_C05_540_01	ta	ngươi	hiện tại: lạnh, cùng phe
+王土のヴェリアス	光輝のヴェリアス		ta	cô	cùng phe Sworn Six; lời nhờ (頼む) vẫn giữ 'ta'
+王土のヴェリアス	光輝のヴェリアス	ST_C05_531_01	tôi	chị	700 năm trước: trêu 光輝の姉さん → 'chị Lux'
+王土のヴェリアス	光輝のヴェリアス	ST_C05_540_01	ta	cô	trở lại hiện tại
+天風のヴェリアス	*	ST_C05_531_01	ta	các cậu	700 năm trước: Cid điềm đạm, nhờ vả lịch sự
+天風のヴェリアス	*	ST_C05_540_01	ta	ngươi	trở lại hiện tại
+天風のヴェリアス	リド	ST_C05_531_01	ta	cô	700 năm trước: trả lời Lid ôn hòa
+天風のヴェリアス	リド	ST_C05_540_01	ta	ngươi	trở lại hiện tại
+リド	天風のヴェリアス	ST_C05_531_01	tôi	ông	Lid với Cid huyền thoại: kính, ngập ngừng, gọi tên 'Cid'
+劫火のヴェリアス	ラスウェル	ST_C05_531_01	ta	cậu	700 năm trước: khen Lasswell, bặm mà thân
+劫火のヴェリアス	ラスウェル	ST_C05_540_01	ta	ngươi	trở lại hiện tại
+劫火のヴェリアス	*	ST_C05_531_01	ta	các cậu	700 năm trước
+劫火のヴェリアス	*	ST_C05_540_01	ta	ngươi	trở lại hiện tại
+ラスウェル	劫火のヴェリアス	ST_C05_531_01	tôi	anh	700 năm trước: Ignis chưa là kẻ thù, Lasswell lễ độ
+ラスウェル	劫火のヴェリアス	ST_C05_540_01	ta	ngươi	trở lại hiện tại
+水華のヴェリアス	ニコル	ST_C05_531_01	tôi	anh	700 năm trước: rụt rè, xin lỗi (あなた)
+水華のヴェリアス	ニコル	ST_C05_540_01	ta	ngươi	trở lại hiện tại
+水華のヴェリアス	*	ST_C05_531_01	tôi	các anh	700 năm trước: rụt rè
+水華のヴェリアス	*	ST_C05_540_01	ta	ngươi	trở lại hiện tại
+ニコル	水華のヴェリアス		tôi	ngươi	kẻ giết em mình: lạnh (C03_327_01_001 'Tôi sẽ không tha thứ cho ngươi')
+ニコル	水華のヴェリアス	ST_C05_531_01	tôi	cô	700 năm trước: Alluvion chưa làm gì, Nichol lịch sự, nén lòng
+ニコル	水華のヴェリアス	ST_C05_540_01	tôi	ngươi	trở lại hiện tại
+レイン	氷刃のヴェリアス	ST_C05_531_01	tôi	anh	700 năm trước: Rain chào xã giao (あんた)
+レイン	氷刃のヴェリアス	ST_C05_540_01	ta	ngươi	Veritas phe địch
+レイン	光輝のヴェリアス	ST_C05_531_01	tôi	cô	あんた; cả khi đối đầu ở hiện tại Rain vẫn nói lý với Lux
+レイン	迅雷のヴェリアス		tôi	cô	như Rain với Sakura (君)
+迅雷のヴェリアス	レイン		tôi	anh	thiếu nữ hoạt bát nói với người lạ
+迅雷のヴェリアス	*		tôi	anh/chị	thiếu nữ hoạt bát
+レイン	エルダリート		tôi	cậu	hiền giả trẻ, ngang lứa (君)
+？？？（エルダリート）	*		tôi	các cậu	Elfdrit chưa xưng tên: như エルダリート
+？？？（ソル）	*		tôi	cậu	Sol chưa xưng tên: như ソル
+？？？（ソル）	魔人フィーナ		tôi	cô	Sol với Archwitch (君)
+ソル	魔人フィーナ		tôi	cô	đồng liêu Tám hiền giả (君)
+魔人フィーナ	ソル		tôi	anh	đồng liêu, gọi tên 'Sol'
+魔人フィーナ	レイン	ST_C05_522_01	tôi	anh	Archwitch 700 năm trước (ký ức) chưa quen Rain: あなた, xa cách
+魔人フィーナ	レイン	ST_C05_526_01	chị	cậu	Archwitch hiện tại
+魔人フィーナ	レイン	ST_C05_537_01	tôi	anh	Archwitch 700 năm trước trên chiến trường Alcare: lạnh, coi Rain là người lạ
+魔人フィーナ	レイン	ST_C05_540_01	chị	cậu	Archwitch hiện tại, đã tách khỏi Fina
+魔人フィーナ	サクラ		tôi	cô	người Paladia cùng thời, ngang hàng
+魔人フィーナ	おばば		tôi	bà	trách bà lão vô lễ, vẫn lễ độ
+フィーナ	おばば		cháu	bà	cô gái trẻ với bà lão
+おばば	フィーナ		bà	cháu	お前さん với cô gái trẻ
+フィーナ	王土のヴェリアス		tôi	anh	bối rối với kẻ lạ tự nhận quen mình (あなた)
+サクラ	王土のヴェリアス		ta	ngươi	đối đầu, quen cũ
+ジェイク	サクラ		anh	cô bé	trêu như trẻ con (お嬢ちゃん), tán tỉnh thì xưng anh; サクラちゃん → 'cô bé Sakura'
+リド	サクラ		tôi	cô	gọi tên 'Sakura'
+ニコル	サクラ		tôi	cô	lịch sự (です・ます)
+白魔道士	サクラ		tôi	cô	503_01 gọi trống tên 'Sakura' + あなた → 'cô'; khi gốc có サクラ様 (514_01) thì gọi 'ngài Sakura'
+ミシディアの民	*		tôi	các vị	dân Mysidia lễ độ với người lạ
+ミシディアの民	サクラ		tôi	cô	サクラさん → 'cô Sakura'
+魔道士	*		tôi	các vị	nữ pháp sư xưởng Potion (C05_505_01), dè chừng người lạ
+魔道士	サクラ		tôi	cô	gọi tên 'Sakura'
+村長	*		tôi	các vị	trưởng làng Sunioo, biết ơn
+ヘスの兵士	*		tôi	các anh	lính Hess với nhóm lạ
+元気なモーグリ	*		tớ	cậu	Moogle, モグたち = bọn tớ, cuối câu kupo
+明るいモーグリ	*		tớ	cậu	Moogle, cuối câu kupo
+おっとりとしたモーグリ	*		tớ	cậu	Moogle hiền, cuối câu kupo
+レイン	元気なモーグリ		tôi	các cậu	chơi với Moogle
+レイン	明るいモーグリ		tôi	các cậu	chơi với Moogle
+レイン	おっとりとしたモーグリ		tôi	các cậu	chơi với Moogle
+機械的な音声	*		-	-	giọng máy thông báo, không xưng hô
+のんびりしている女性	*		tôi	cậu	dân Zoldaad thong thả nói với Rain/Jake
+暇そうな男	*		tôi	cậu	dân Zoldaad rảnh rỗi, xởi lởi
+おとなしそうな子供	*		em	anh	trẻ con ngoan với người lớn trẻ
+ローブの男	*		tôi	cậu	người áo choàng giữ thư của Dario: ít lời, đề phòng (お前)
+レイン	氷刃のヴェリアス	ST_C06_627_01	tôi	ông	Gelidus không theo Umbra, võ nhân đáng nể; Rain lễ độ đề nghị (やめてくれないか)
+レイン	劫火のヴェリアス	ST_C07_709_01	tôi	anh	Ignis hấp hối, Rain kính trọng (尊敬できる戦士)
+ラスウェル	劫火のヴェリアス	ST_C07_709_01	tôi	anh	あなた: kính người rèn Shiden, kiếm không mang hận
+レイン	常闇のヴェリアス	ST_C07_717_01	tôi	anh	trận quyết đấu: đối thủ đáng nể, cùng vui được đấu; không còn hận
+常闇のヴェリアス	レイン	ST_C07_717_01	ta	cậu	vui được đấu với Rain như đối thủ xứng tầm
+常闇のヴェリアス	光輝のヴェリアス	ST_C07_716_02	anh	em	gọi tên thật Citra, dịu dàng, như người thương
+光輝のヴェリアス	常闇のヴェリアス	ST_C07_716_02	em	anh	được gọi tên thật sau 700 năm; mềm, tin cậy (わかったわ。信じてる)
+光輝のヴェリアス	レーゲン		tôi	anh	đồng đội cũ, yêu Raegen; お前 → "anh"; cả hồi ức (611, 614) và hiện tại (719)
+レーゲン	光輝のヴェリアス		tôi	cô	đồng đội cũ, thương mà dứt khoát; お前 → "cô"
+レーゲン	サクラ		tôi	cô	đồng đội cũ cùng bỏ báo thù
+レーゲン	ソフィア		anh	em	vợ chồng
+ソフィア	レーゲン		em	anh	vợ gọi chồng (あなた)
+ソフィア	光輝のヴェリアス		tôi	cô	lịch sự mà cứng: xin Lux về
+ソフィア	*		tôi	anh/chị	dịu dàng, lễ độ
+光輝のヴェリアス	ソフィア		ta	cô	tình địch, kiêu hãnh (お前がレーゲンの……)
+光輝のヴェリアス	サクラ	ST_C06_611_01:611_01_017	chị	em	hồi ức sau khi rơi xuống đây: chị gái hớn hở rồi đau lòng
+光輝のヴェリアス	サクラ	ST_C06_611_01:611_01_049	ta	em	hết hồi ức: lại lạnh với em gái
+光輝のヴェリアス	*	ST_C06_611_01:611_01_017	tôi	hai người	hồi ức: nói với Raegen và Sakura (お前たち)
+光輝のヴェリアス	*	ST_C06_611_01:611_01_049	ta	ngươi	hết hồi ức
+光輝のヴェリアス	レイン	ST_C06_617_01:617_01_013	ta	cậu	sau khi cứu nhóm: đã tôn trọng Rain, vẫn kiêu (勘違いするな)
+水華のヴェリアス	ニコル	ST_C07_707_01	tôi	anh	nhân cách thật: hiền, sợ giết chóc, です/ます
+水華のヴェリアス	ニコル	ST_C07_710_01	ta	ngươi	giọng nhân cách tàn ác (diễn), ngọt mà độc
+水華のヴェリアス	ニコル	ST_C07_712_01:712_01_010	tôi	anh	bỏ diễn: giọng thật, cam chịu
+水華のヴェリアス	*	ST_C07_707_01	tôi	các vị	nhân cách thật: nhỏ nhẹ, lễ phép
+水華のヴェリアス	*	ST_C07_710_01	ta	các ngươi	giọng nhân cách tàn ác (diễn)
+水華のヴェリアス	*	ST_C07_712_01:712_01_010	tôi	các vị	bỏ diễn: giọng thật
+水華のヴェリアス	劫火のヴェリアス		tôi	anh	nhân cách thật với đồng đội che chở mình
+ニコル	水華のヴェリアス	ST_C07_712_01:712_01_023	tôi	cô	đã biết Alluvion là Thủy vu nữ đời đầu, tổ tiên mình: vẫn nghiêm, không còn "ngươi"
+劫火のヴェリアス	*	ST_C07_707_01	ta	các cậu	trận cuối: sảng khoái, tôn trọng đối thủ; giọng bặm
+劫火のヴェリアス	ラスウェル	ST_C07_707_01	ta	cậu	mừng Lasswell làm chủ Shiden, tiếc phải đấu
+劫火のヴェリアス	ニコル	ST_C07_707_01	ta	cậu	nói lý, xin Nichol nói chuyện với Alluvion
+劫火のヴェリアス	水華のヴェリアス		ta	cô	đồng đội, che chở
+天風のヴェリアス	リド	ST_C07_701_01	ta	cô	trận với Lid: trầm, ấm như người cha nhìn cô gái thẳng thắn
+王土のヴェリアス	魔人フィーナ	ST_C07_713_01	ta	cô	đối thủ đáng nể; 魔人フィーナよ
+魔人フィーナ	王土のヴェリアス	ST_C07_713_01	tôi	anh	kẻ cũ đáng nể, tiễn bằng lời tử tế (あなた)
+魔人フィーナ	エルダリート		chị	cậu	bạn cũ trẻ trong Tám hiền giả (あの子), thương
+エヴァン	*	ST_C04_437_01	tôi	các cậu	đã thoát tẩy não, là đồng minh, ân cần
+エヴァン	レイン	ST_C04_437_01	tôi	cậu	đã là đồng minh, nói như bạn của em gái
+サクラ	アヤカ		ta	em	thầy với đệ tử, hay bị Ayaka trêu bằng kẹo
+サクラ	おばば		ta	bà già	Sakura trông như bé gái mà gọi bà là おばば: trò đùa, giữ "bà già"
+ローゼリア	サクラ		mình	cậu	bạn thân (あなた), hồi ức ChrEv_0080
+サクラ	ローゼリア		mình	cậu	Sakura thời trẻ nói như cô gái thường (しっかりして)
+光のモーグリ	レイン		tớ	cậu	Moogle nói với Rain: tớ – cậu, cuối câu kupo (cặp riêng thắng dòng *)
+元気なモーグリ	レイン		tớ	cậu	Moogle nói với Rain: tớ – cậu, kupo
+明るいモーグリ	レイン		tớ	cậu	Moogle nói với Rain: tớ – cậu, kupo
+おっとりとしたモーグリ	レイン		tớ	cậu	Moogle nói với Rain: tớ – cậu, kupo
+フィーナ	魔人フィーナ	ST_C08_802_01	em	chị	Archwitch bắt đầu che chở Fina như chị với em (chị – em); Fina hồn nhiên đáp lại em – chị, không 'tôi – cô' lạnh
+レーゲン	*	ST_C07_716_03	ta	các cậu	đồng minh với cả nhóm Rain: ta – các cậu/mọi người, câu ngắn chắc; nói riêng với Rain và Lasswell (hai đứa con nuôi/con ruột): cha/chú – các con; riêng Rain: cha – con, riêng Lasswell: chú – cháu; kẻ thù: ta – ngươi (cặp riêng)
+レーゲン	ソル		ta	ngươi	kẻ thù muốn diệt mọi sinh mạng; Raegen lạnh, chất vấn
+光輝のヴェリアス	*	ST_C08_806_01	ta	các cậu	đã về phe nhóm Rain sau khi mất Umbra; vẫn kiêu, ra lệnh nhưng tôn trọng (お前たち → các cậu); kẻ thù vẫn ngươi
+光輝のヴェリアス	サクラ	ST_C08_811_01	chị	em	lúc lâm chung: nhận Sakura và Raegen trưởng thành hơn mình, dịu lại là chị gái
+光輝のヴェリアス	水華のヴェリアス		ta	cô	đồng đội Veritas; Lux như chị cả ra lệnh (水華、お前の魔力を…)
+水華のヴェリアス	レイン	ST_C08_806_01	tôi	cậu	đồng hành chuộc tội; lễ phép (です), Rain trẻ hơn
+レイン	ギルガメッシュ		tôi	anh	Rain xuề xòa, coi Gilgamesh là gã ồn ào đáng mến
+ラスウェル	ギルガメッシュ		tôi	ngươi	khinh kẻ trộm đồ (ぬすっと), nghiêm
+ラスウェル	ギルガメッシュ	ST_SubEv_C09_Gilgamesh_08	tôi	anh	hiểu nỗi nhớ quê của Gilgamesh, đồng ý giúp
+レイン	フレイヴィア		tôi	cô	Rain gọi 君; thân thiện, giúp đỡ
+レイン	不思議な女性		tôi	cô	người lạ (là Fryevia trước khi xưng tên)
+不思議な女性	*		tôi	anh	quý phái, lễ độ (ですわ), giữ khoảng cách
+シルヴィア	フレイヴィア		mình	cậu	Silvia rủ Fryevia làm bạn (友だち), sôi nổi
+フレイヴィア	シルヴィア		tôi	cô	lễ độ kiểu cách (ですわ)
+ロイ	フレイヴィア		tôi	cô	エルフの君; nghệ sĩ trầm tĩnh
+ソル（ＯＦＦ）	*		ta	ngươi	giọng Sol vọng tới (nhãn OFF), như Sol sau ST_C07_721_01
+レーゲン	魔人フィーナ		tôi	cô	Umbra gốc thời Sworn Eight đối đầu Hess 700 năm trước, nay đồng minh; gọi 君, xin lỗi chuyện cũ (ATC43)
+魔人フィーナ	レーゲン		tôi	anh	người cùng thời 700 năm trước, ngang hàng; không trêu như với Rain
+レーゲン	フィーナ		chú	cháu	cha của Rain với cô gái đồng hành của con trai, hiền, ít lời (君)
+フィーナ	レーゲン		cháu	chú	Fina lễ phép với cha Rain (です・ます); レーゲンさん = 'chú Raegen'
+サクラ	レーゲン		ta	cậu	đồng đội cũ từ Paladia, cùng bỏ báo thù; お主, mắng yêu như bà chị già
+ジェイク	シエラ皇帝		anh	em	anh cả với em trai đã lên ngôi hoàng đế (sau C04); シエラ gọi tên
+リド	商会長		cháu	bác	Hội trưởng thương hội phi thuyền quen Lid từ nhỏ (リドちゃん); 商会長さん = 'bác Hội trưởng'
+レイン	商会長		tôi	ông	lịch sự với người lớn tuổi
+魔人フィーナ	ジェイク		chị	cậu	trêu Jake kẻ cả như với Rain
+ジェイク	魔人フィーナ		anh	em	tán tỉnh như với các cô gái khác; bị Archwitch đáp trả
+魔人フィーナ	シャルロット		chị	em	trêu Charlotte (cùng lứa Rain), kẻ cả ngọt
+シャルロット	魔人フィーナ		tôi	cô	nữ kỵ sĩ nghiêm với người lạ
+魔人フィーナ	グランシェルト王		tôi	Bệ hạ	lễ độ trước vua
+グランシェルト王	魔人フィーナ		ta	cô	そなた, vua với người đồng hành của Rain
+荒んだ漁師	*		tôi	anh	ngư dân với Nichol/Rain; ニコルさん = 'anh Nichol'; nói về mình 'chúng tôi'
+悲しそうな漁師	*		tôi	anh	ngư dân buồn, lễ độ ('vâng'), với Nichol/Rain
+ニコル	荒んだ漁師		tôi	anh	Nichol lễ độ với dân (です)
+ニコル	悲しそうな漁師		tôi	anh	Nichol lễ độ với dân (です)
+魔人フィーナ	店主		tôi	bác	CHỐT: lễ độ với chủ quán lớn tuổi (お世話になっています), như bản đã dịch ChrEv_0060_002_01; không 'chị'
+店主	レイン		tôi	cậu	quen Rain từ hồi tập sự, trêu
+店主	魔人フィーナ		tôi	cô em	彼女さん = 'cô em'
+店主	*		tôi	cậu	chủ quán bình dân
+情報屋	*		tôi	cậu	bà bán tin lõi đời, cộc
+ジェイク	情報屋		tôi	bà	Jake với bà già bán tin
+中級受付	*		tôi	cậu	lễ tân đấu trường xởi lởi (như bản đã dịch Arena_RankRecp)
+上級受付	*		tôi	cậu	lễ tân đấu trường (như bản đã dịch)
+アメリア	シエラ皇帝		tôi	Bệ hạ	hầu cận với Hoàng đế (シエラ様 → 'Bệ hạ'; cần đại từ thì 'ngài'); trước khi lên ngôi là 'Điện hạ'
+シエラ皇帝	アメリア		tôi	cô	Hoàng đế lễ độ, trân trọng Amelia
+帝国兵	シエラ皇帝		thần	Bệ hạ	lính với Hoàng đế (陛下)
+帝国兵	レイン	ST_ChrEv_0340_002_01	tôi	anh	sau cách mạng lính Đế quốc thân thiện với Rain
+帝国兵	オゼッタ		tôi	cô	đồng ngũ (お前)
+記憶のサクラ	ローゼリア		tôi	cô	lúc mới gặp: lạnh, khép lòng
+ローゼリア	記憶のサクラ		tôi	cô	lúc mới gặp người lạ đang hồi sức: dịu, hơi tinh nghịch
+レイン	カーミル		tôi	cô	君; hợp tác điều tra
+カーミル	レイン		tôi	anh	lính đánh thuê, trêu nhẹ
+カーミル	オゼッタ		tôi	cô	mới quen
+オゼッタ	カーミル		tôi	cô	lễ độ
+レイン	オゼッタ		tôi	cô	giúp điều tra
+オゼッタ	フォクシー		tôi	chị	bạn quen, lễ độ (です)
+フォクシー	オゼッタ		chị	em	thân, lớn hơn, あら、オゼッタ
+フォクシー	*		tôi	cậu	nhà báo tự tin
+レイン	アイリーン		tôi	cô	nhờ làm vũ khí
+アイリーン	レイン		tôi	cậu	あなた; điềm tĩnh, dò xét
+アイリーン	ジェイク		tôi	anh	bạn chiến đấu cũ
+ジェイク	アイリーン		tôi	cô	君; biết ơn, tin cậy
+アヤカ	レイン		em	anh	レインさん = 'anh Rain'
+レイン	アヤカ		anh	em	cô bé đệ tử của Sakura
+レイン	母上		tôi	bà	người lạ lớn tuổi, đối đầu
+ラスウェル	母上		tôi	bà	người lạ lớn tuổi, đối đầu
+元騎士	シャルロット		tôi	cô	anh em mồ côi cùng lớn; nói về nhóm 'bọn tôi'
+シャルロット	元騎士		tôi	các người	chất vấn, giận
+ビクトリア	サクラ		tôi	cô	quen cũ, trêu
+真・ビクトリア	サクラ		tôi	cô	quen cũ, trêu
+ビクトリア２号	*		tôi	cô	như Victoria
+ビクトリア３世	*		tôi	cô	như Victoria
+ビクトリアＭｋ－４	*		tôi	cô	như Victoria
+サクラ	ビクトリア		ta	cô	お主
+サクラ	真・ビクトリア		ta	cô	お主
+何かを訴える男	*		tôi	cậu	兄ちゃん = 'cậu em'
+ほがらかな女性	*		tôi	cậu	phụ nữ vui tính với Rain
+革命に参加した青年	*		tôi	anh	cựu quân nổi dậy với Rain
+？？？（ビクトリア）	*		tôi	cô	bản sao Victoria, điệu đà; với Sakura "tôi – cô" như bản đã dịch (ChrEv_2280_001_01)
+？？？（ビクトリア）	サクラ		tôi	cô	quen cũ, trêu
+ビクトリア？	*		tôi	cô	bản sao Victoria, như ？？？（ビクトリア）
+ビクトリア？	サクラ		tôi	cô	quen cũ, trêu
+怒る黒魔道士	*		tôi	cô	Black Mage bị Victoria mê hoặc, gắt với Sakura; số nhiều "bọn tôi"
+嘆く黒魔道士	*		tôi	cô	Black Mage than thở, nói với Sakura/Victoria
+魔道士たち	*		chúng tôi	cô	đám Black Mage hô tên Victoria
+？？？（オゼッタ）	*		tôi	anh	như オゼッタ: nghiêm, lễ độ (ChrEv_2630_001_01)
+噂好きの女性	*		tôi	các cậu	bà/cô hay buôn chuyện, thân mật (あなたたち → "hai cậu/các cậu")
+？？？（アイリーン）	*		tôi	cậu	như アイリーン
+？？？（アイリーン）	ジェイク		tôi	anh	bạn chiến đấu cũ (như アイリーン → ジェイク)
+ディルナド軍技師	*		tôi	cậu	kỹ sư quân đội Dirnado kể chuyện Aileen
+蒼い髪の白魔道士	*		tôi	cô	cô pháp sư trắng tóc xanh (vỏ của Roselia trong hồi ức): dịu, ân cần
+蒼い髪の白魔道士	記憶のサクラ		tôi	cô	lúc mới gặp người lạ đang hồi sức (như ローゼリア → 記憶のサクラ)
+白衣の男	*		tôi	anh	gã mặc áo blouse trắng trên Phantom Train, độc thoại than thân
+ローブの女	*		tôi	anh	người phụ nữ áo choàng trên Phantom Train, lễ độ (です)
+民間人の女性	*		tôi	anh	hành khách nữ trên Phantom Train, giọng đời thường
+民間人の女性	*	ST_ChrEv_0410_006_01:ChrEv_0410_006_01_011	ta	các ngươi	lộ là thứ điều khiển con tàu, thách đố ("なら答えなさい")
+ローブの男	アメリア		ta	cô	người áo choàng hẹn Amelia ở Hành lang thác nước (ChrEv_0340_003_01): kẻ cả, ra lệnh; khác ローブの男 giữ thư của Dario
+サクラ	ローゼリア	ST_ChrEv_0080_005_01:ChrEv_0080_005_01_015	ta	cậu	Sakura hiện tại nói với Roselia đã khuất (mộ): giọng hiện tại ワシ, vẫn gọi bạn thân là "cậu"
+アヤカ	*	ST_C07_706_01	em	anh/chị	đã quen nhóm của sư phụ Sakura (sau khi gặp ở C07_705): xưng "em", gọi "mọi người"/"anh chị"
+武器防具屋	*		tôi	cậu	chủ tiệm (nhiều nơi); ở Grandshelt gốc có 騎士様 thì "ngài kỵ sĩ"; người lùn thêm "lali"
+道具屋	*		tôi	cậu	chủ tiệm; Olderion trang trọng "quý khách" khi gốc kính ngữ
+武器屋	*		tôi	cậu	chủ tiệm; Sian (Pharm) giọng cổ "quý khách" khi gốc kính ngữ cổ
+防具屋	*		tôi	cậu	chủ tiệm; Sian (Pharm) giọng cổ khi gốc cổ
+男性研究員	*		tôi	cậu	nhà nghiên cứu (Gronoa, Zoldaad) với Rain: 君 → "cậu/các cậu"
+女性研究員	*		tôi	cậu	nhà nghiên cứu Gronoa, phần lớn độc thoại ("chúng ta")
+隠れている男	*		tôi	cậu	gã trốn ở góc, bộc trực (俺)
+侍	*		ta	cậu	samurai Sian mê kiếm, nói cổ, ra vẻ (như bản đã dịch FEV_Town_09Pha_01)
+技師	*		tôi	anh	kỹ sư Zoldaad, dè dặt
+娘	*		tôi	anh	cô gái trẻ dân thường; với cả nhóm "các anh"
+元気な娘	*		tôi	anh	cô gái hoạt bát
+元気な娘	おとなしい娘		tớ	cậu	bạn thân cùng lứa
+おとなしい娘	*		tôi	anh	cô gái điềm đạm
+おとなしい娘	元気な娘		tớ	cậu	bạn thân cùng lứa (あんた → "cậu")
+黒魔道士	*		tôi	cậu	Black Mage Mysidia kiêu kỳ với nghiên cứu
+黒魔道士	魔法使いの少年		ta	cháu	thầy dạy phép cho trẻ
+魔法使いの少年	*		em	anh	bé trai học phép với Rain
+魔法使いの少年	黒魔道士		cháu	chú	おじさん
+魔法使いの少女	*		em	anh	bé gái học phép với Rain
+？？？	*	ST_SubEv_ColobosBridge	-	-	lính u hồn chỉ rên
+？？？	*	ST_Summon620_Ramuh_02	ta	các ngươi	Ramuh đang ẩn mình, chưa xưng tên: cáu kỉnh (như ラムウ)
+？？？	レイン	ST_Summon620_Ramuh_02	ta	ngươi	Ramuh ẩn mình với Rain
+？？？	フィーナ	ST_Summon620_Ramuh_02	ta	ngươi	Ramuh ẩn mình với Fina (小娘 = "con nhóc")
+？？？	*	ST_Summon630_Ifrit_03	ta	các ngươi	Ifrit trước khi xưng tên (như イフリート)
+？？？	レイン	ST_Summon630_Ifrit_03	ta	ngươi	Ifrit trước khi xưng tên
+？？？	*	ST_Summon660_Carbuncle_01	ông	các cậu	Dalim trước khi xưng tên (như ダリム)
+？？？	レイン	ST_Summon660_Carbuncle_01	ông	cậu	Dalim trước khi xưng tên
+？？？	*	ST_Summon660_Carbuncle_06	tớ	cậu	Carbuncle vừa thoát khỏi bia (như カーバンクル)
+？？？	レイン	ST_Summon660_Carbuncle_06	tớ	cậu	Carbuncle vừa thoát khỏi bia
+？？？	*	ST_Summon660_Carbuncle_07	tôi	anh/chị	về mặc định
+？？？	レイン	ST_Summon660_Carbuncle_07	tôi	anh	về mặc định
+劫火のヴェリアス	*	ST_SubEv_Dng_06Zol_44_GimEv	ta	các ngươi	SubEv_Dng_06Zol_44 diễn ra ở C04 (liên minh tạm): bặm, coi thường; mốc theo thứ tự lô, đè dòng C07_707
+兵士	*	ST_SubEv_Dng_06Zol_43_GimEv	ta	các ngươi	lính Đế quốc thù địch trong lâu đài Zoldaad (C04): 貴様ら
+兵士	ジェイク	ST_SubEv_Dng_06Zol_44_GimEv	tôi	anh	gián điệp của Jake trong quân Đế quốc (ジェイクさん)
+兵士	*	ST_SubEv_MechaboLvUp_01	tôi	ngài	hết cảnh lâu đài Zoldaad: về mặc định
+反乱軍	ジェイク		tôi	anh	lính nổi dậy với thủ lĩnh Jake
+ゾルダードの部隊長	*		ta	các ngươi	đội trưởng lính Zoldaad thù địch (貴様ら)
+ゾルダードの部隊長	シエラ皇太子		tôi	Điện hạ	シエラ様; kính trọng, day dứt
+シエラ皇太子	ゾルダードの部隊長		tôi	anh	thái tử lễ độ (です/ください) với sĩ quan
+ヴェルン	エヴァン		ta	cậu	thợ máy già với Evan, thành bạn thân (オレ/お前)
+エヴァン	ヴェルン		tôi	ông	gọi tên 'Verun', thân, tôn trọng người thợ già
+レイン	ラムウ		tôi	ông	あんた, じいさん = "ông già"; thẳng, hơi bực
+フィーナ	ラムウ		cháu	ông	cô gái trẻ lễ phép với huyễn thú dáng ông lão
+ラムウ	フィーナ		ta	cháu	小娘 khi cáu → "con nhóc"; lúc trao sức (Ramuh_03_017) dịu: "ta – cháu"
+ラムウ	レイン		ta	ngươi	cáu kỉnh với Rain
+フィーナ	イフリート		tôi	ngài	lễ phép, "chúng tôi – ngài"
+イフリート	フィーナ		ta	cô bé	少女よ
+魔人フィーナ	イフリート		tôi	ngươi	kẻ cả, coi Ifrit như kẻ dưới
+イフリート	魔人フィーナ		ta	ngươi	横柄な女よ = "ả ngạo mạn kia"
+ジェイク	シヴァ		anh	nàng	tán tỉnh (君 → "nàng")
+フィーナ	シヴァ		tôi	ngài	lễ phép
+魔人フィーナ	シヴァ		tôi	cô	thản nhiên, kẻ cả
+フィーナ	タイタン		tôi	ngài	lễ phép
+レイン	タイタン		tôi	ông	thân thiện sau trận
+レイン	カーバンクル		tôi	cậu	huyễn thú nhỏ hồn nhiên
+カーバンクル	*		tớ	cậu	ボク/君: hồn nhiên như trẻ con
+カーバンクル	ダリム		tớ	cậu	bạn chơi thuở nhỏ (Damundo)
+ダリム	*		ông	các cậu	ông lão vui tính (わし/あんたたち)
+ダリム	カーバンクル		tớ	cậu	bạn chơi thuở nhỏ, nay đã già
+レイン	ダリム		tôi	ông	ông lão
+レイン	老人		tôi	ông	じいさん = "ông"
+乗組員	*		tôi	anh bạn	thủy thủ thương thuyền, bặm mà thân (オレ/アンタ)
+おやじ	*		tôi	cậu	ông bác dân thường
+世話焼きな男	*		tôi	cậu	người đàn ông tốt bụng hay lo chuyện người khác
+モーグリ	*		tớ	cậu	Moogle, cuối câu "kupo" (僕たち = "bọn tớ", キミ = "cậu")

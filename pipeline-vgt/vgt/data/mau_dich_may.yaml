@@ -1,0 +1,60 @@
+# Mau "giong may dich" theo ngon ngu nguon (G-001), dung chung cho MOI game.
+# Dong khop ca src (cau goc) lan vi (ban dich) -> canh bao W cho kiem dinh vien xac minh (khong tu sua).
+# Them mau moi moi khi nguoi dung chi ra mot cau dich may (kem game + cau goc lam bang chung).
+# lang: ma ngon ngu nguon (zh, ja, ko, en) ; src/vi: regex (Python) ; why: ly do ngan
+- lang: zh
+  src: "做為|作為|做为|作为"
+  vi: "\\blàm (tiền|phần|quà|món|cái)?\\s*(thưởng|quà|lễ vật|bồi thường)"
+  why: "bê 做為 thành 'làm …' (vd 'làm tiền thưởng thêm')"
+  bang_chung: "cursed_armor_v2 Map012.json:ev29p2"
+- lang: zh
+  src: "可以[^，。！？～]{0,8}了"
+  vi: "được rồi\\s*[.!~…]*\\s*$"
+  why: "bê 可以…了 thành '… được rồi' (vd 'em ra ngoài được rồi')"
+  bang_chung: "cursed_armor_v2 Map012.json:ev29p2"
+- lang: zh
+  src: "^(\\\\[A-Za-z]+\\[\\d+\\]|[^：:]{0,20}[：:])?\\s*(這個|这个)(……|…|嘛)"
+  vi: "(^|:\\s*)Cái này(……|…| hả| ấy)"
+  why: "tiếng đệm 這個…… dịch 'Cái này……' (người Việt nói 'Thì……', 'Chuyện là……')"
+  bang_chung: "cursed_armor_v2 Map012.json:ev32p0"
+- lang: zh
+  src: "名利雙收|名利双收|兩全其美|两全其美|一舉兩得|一举两得"
+  vi: "danh lợi song|song toàn|vẹn cả đôi đường|nhất cử lưỡng tiện"
+  why: "thành ngữ Hán-Việt ghép trong lời thoại thường"
+  bang_chung: "cursed_armor_v2 Map012.json:ev29p2"
+- lang: zh
+  src: "只是[^，。！？]{0,20}(而已|罷了|罢了)?"
+  vi: "chỉ có thể[^.!?]{0,60}thôi"
+  why: "bê 只是…(而已) thành 'chỉ có thể … thôi' (ý gốc thường là 'chỉ là')"
+  bang_chung: "eval zh_giong_may_cai_nay 01/11"
+- lang: zh
+  src: "[^\\s][啊呀][～~！!]*\\s*$"
+  vi: "[^\\s] (a|á|à|nha a)[~!]*\\s*$"
+  why: "trợ từ 啊/呀 cuối câu bê nguyên thành 'a' (người Việt dùng 'đấy', 'mà', 'quá', 'rồi', hoặc bỏ)"
+  bang_chung: "eval thang18_am_hanh 01/11: 'bắn rồi a~~'"
+- lang: zh
+  src: "重整雄風|重振雄風|一雪前恥|心滿意足|迫不及待|理所當然|自作自受|不知不覺|千真萬確|一模一樣"
+  vi: "hùng phong|tiền sỉ|mãn nguyện vô cùng|bức thiết|lý sở đương nhiên|tự tác tự thụ|bất tri bất giác|thiên chân vạn xác|nhất mô nhất dạng"
+  why: "thành ngữ Hán-Việt ghép/phiên âm trong lời thoại (dùng tiếng Việt thường: 'lấy lại phong độ', 'nóng lòng', 'tự làm tự chịu')"
+  bang_chung: "eval lam_nhe_18_lo 01/11: 重整雄風 → 'lấy lại hùng phong'"
+- lang: zh
+  src: "快[點点]?[^，。！？]{0,4}[幹干做弄走去]|趕快|赶快"
+  vi: "(lẹ lẹ|lẹ lên|nhanh lên|mau lên) (làm|đi|đưa|lấy|dọn)"
+  why: "bê trật tự 快點+động từ thành 'lẹ lên làm/lẹ lẹ làm' (người Việt nói 'làm lẹ đi', 'lo làm đi')"
+  bang_chung: "người dùng 01/11: 'không có người Việt nào nói lẹ lẹ làm đi, nghe rất chướng tai'"
+- lang: zh
+  src: "[射插進进到][^，。！？]{0,4}(我的)?(小穴|肉穴|蜜穴|穴)[裡里]"
+  vi: "(vô|vào)( trong)? (lỗ nhỏ|khe thịt|hoa huyệt|mật huyệt|lỗ) của em"
+  why: "dịch chữ 射進我的小穴裡 thành 'vô trong lỗ nhỏ của em' (người Việt nói 'vô trong em', 'cho em', 'ra trong em')"
+  bang_chung: "người dùng 01/11: chọn 'anh bắn hết vô trong em đi', chê 'bắn hết vô trong lỗ nhỏ của em'"
+- lang: "*"
+  src: "."
+  vi: "(?i)\\b(túc nguyện|túc mệnh|thường thức|mị lực|ma cương|điều giáo sư|dâm năng|dâm ma|thần tính|ám thị)\\b"
+  why: "từ Hán-Việt hiếm / ghép Hán-Việt từng chữ người đọc phổ thông không hiểu (người dùng 02/11: 'túc nguyện là sao?', 'Dâm Ma Vương nghe ngu ngu')"
+  bang_chung: "người dùng 02/11, trang sửa bản dịch mẫu"
+- lang: "*"
+  src: "."
+  vi: "(?i)\\b(bổn tọa|tại hạ|nô gia|lão nạp|bổn cô nương|lão phu)\\b"
+  why: "xưng hô Hán-Việt cổ trang trong game không phải võ hiệp/cổ trang (chỉ dùng cho nhân vật được chỉ định)"
+  bang_chung: "Cursed Armor v2 style.strategy 02/11; quét Legend of Mortal 02/11: võ hiệp dùng đúng nên không báo"
+  tru_the_loai: [võ hiệp, kiếm hiệp, tiên hiệp, cổ trang, huyền huyễn, wuxia, xianxia, cultivation]

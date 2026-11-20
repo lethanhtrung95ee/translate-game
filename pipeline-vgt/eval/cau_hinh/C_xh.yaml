@@ -1,0 +1,6 @@
+# Danh gia 01/11 - C: nhu B (v3 + 18+ + ap sua) + xung/goi theo dong + bible da duyet xung ho (doc lap).
+# phuong_ngu de trong de so sanh cong bang voi B (B chua co phuong ngu).
+content: {chuan_18: true}
+review: {ap_sua_nhe: [tu_nhien, giong, hon]}
+style: {phuong_ngu: ""}
+xung_ho: {theo_dong: true}

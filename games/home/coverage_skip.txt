@@ -1,0 +1,12 @@
+data/scenario/*  # kiểm bằng tools/kiem_du.py (ngoài khối text, text=/hint= đã trích chỉ còn mã); minigame.ks không được gọi; "<<バックアップ>>" là nhãn có sẵn từ bản gốc
+tyrano/libs/*  # thư viện JS
+tyrano/plugins/*  # mã engine; chữ hiện cho người chơi nằm ở tyrano/lang.js (đã trích)
+tyrano/*.js  # mã engine
+tyrano/*.css  # kiểu
+tyrano/css/*  # kiểu
+tyrano/html/*  # khuôn HTML, không có chữ (chỉ ảnh và biến)
+data/others/*  # plugin: mã, readme, khuôn HTML không có chữ; control.csv là chú thích biến của trình soạn
+data/system/*  # cấu hình
+index.html  # khung trang
+main.js  # mã Electron (menu Mac không dùng trên Windows)
+package.json  # cấu hình

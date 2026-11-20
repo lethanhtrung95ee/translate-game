@@ -1,0 +1,22 @@
+www/dataEN/*  # bản tiếng Anh: thư mục ngôn ngữ khác, game chỉ đọc khi chọn English; không sửa
+www/dataCH/*  # bản giản thể: ngôn ngữ khác, không sửa
+www/dataJP/*  # bản Nhật: ngôn ngữ khác (bị tắt trong menu), không sửa
+www/js/plugins/GameusQuestSystem.js  # chỉ chú thích/help; chữ hiển thị lấy qua $w.getT (bảng wolfzqText đã trích)
+www/js/plugins/YEP_MainMenuManager.js  # chỉ chú thích plugin
+www/js/plugins/MPP_ChoiceEX.js  # chỉ chú thích plugin + tên lệnh plugin 選択肢ヘルプ (mã, không hiển thị)
+www/js/plugins/AutoSave.js  # chỉ chú thích
+www/js/plugins/UTA_MessageSkip.js  # chỉ chú thích
+www/js/plugins/KeyboardConfig.js  # chỉ chú thích; nhãn phím lấy qua getT
+www/js/plugins/Joypad.js  # chỉ chú thích
+www/js/plugins/PlayMsgWndCharSE.js  # chỉ chú thích
+www/js/plugins/Z_LeNotifications.js  # chỉ chú thích
+www/js/plugins/YEP_CoreEngine.js  # chỉ chú thích
+www/js/plugins/Z_Wolfzq_CG.js  # chỉ chú thích
+www/js/plugins/Z_All.js  # bảng tên chỉ số trong mã bị getT() ghi đè lúc init (Wolfzq_Player.init); còn lại là mã
+www/js/rpg_objects.js  # chỉ chú thích của tác giả
+www/js/rpg_managers.js  # chỉ chú thích
+www/js/rpg_scenes.js  # chỉ chú thích
+www/js/rpg_sprites.js  # chỉ chú thích
+www/js/plugins.js  # tham số plugin: chữ của GameusQuestSystem/CraftingSystem không dùng (plugin lấy từ wolfzqText); còn lại là mô tả plugin
+www/js/rpg_windows.js  # đã kiểm tay: ngoài nhãn '繁體中文' (đã trích: rpg_windows.js:lang0) chỉ còn chú thích, bảng kana nhập tên (chỉ dùng khi locale ja) và nhãn '简体中文' của ngôn ngữ khác
+www/img/pictures/under.rpgmvp  # ảnh nền gradient tím, đã giải mã xem: không có chữ

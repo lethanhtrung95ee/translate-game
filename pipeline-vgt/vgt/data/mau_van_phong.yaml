@@ -1,0 +1,390 @@
+# MAU VAN PHONG do NGUOI DUNG chon / tu viet. Dua vao prompt dich gia + kiem dinh vien MOI game.
+# dung: ban nguoi dung duyet/tu viet; kem_hon: cac ban nguoi dung KHONG chon (khong sai, nhung kem hon);
+# tranh: dich chu nguoi dung che. Them muc moi moi khi nguoi dung sua cau.
+- tinh_huong: Bà chủ quán quát cô hầu lười
+  y: lại lười nữa đúng không, mau làm việc, không thì tối nay khỏi ăn
+  dung: Lại làm biếng nữa rồi chớ gì? Làm lẹ lên, hông thôi tối nay nhịn đói nghe chưa!
+  tranh:
+  - Lẹ lẹ làm đi
+  - Lẹ lên làm đi
+  ly_do: 'dịch chữ theo trật tự 快點+động từ; người Việt nói động từ trước: ''làm lẹ lên'''
+  nguon: người dùng chọn 01/11 (4 câu đầu)
+- tinh_huong: Cô gái ngượng, nói tránh khi bị đụng chạm
+  y: ch-chỗ đó… không được đụng đâu
+  dung: Ch… chỗ đó… hổng được đâu mà…
+  tranh: []
+  ly_do: 'giọng miền Nam tự nhiên: hổng, mà'
+  nguon: người dùng chọn 01/11 (4 câu đầu)
+- tinh_huong: Cô gái đang làm tình với người yêu (văn H, không chửi)
+  nguoi_lon: true
+  y: cái đó của anh nóng quá, bắn hết vào trong em đi
+  dung:
+  - Gậy thịt của anh nóng quá… anh bắn hết vô trong em đi~
+  - Gậy thịt của anh nóng quá… cho em hết đi~
+  - Gậy thịt của anh nóng quá… ra hết trong em đi~
+  tranh:
+  - bắn hết vô trong lỗ nhỏ của em luôn đi mà~
+  - nóng dữ thần
+  ly_do: '''vào trong lỗ nhỏ của em'' là dịch chữ 射進我的小穴裡; người Việt nói ''vô trong em'', ''cho em'', ''ra trong em'''
+  nguon: người dùng chọn 01/11 (4 câu đầu)
+- tinh_huong: Tên côn đồ nói thô với cô gái
+  nguoi_lon: true
+  y: con điếm thối, cặc của ông mày có sướng không
+  dung: Đồ đĩ thúi, bị tao chơi có sướng không hả?
+  tranh: []
+  ly_do: người dùng thích dịch thoáng, đổi cấu trúc cho ra câu chửi thật, giữ đúng độ thô
+  nguon: người dùng chọn 01/11 (4 câu đầu)
+- tinh_huong: Hai bạn gái thân cà khịa nhau (hài)
+  y: cậu lại ăn vụng bánh của tớ đúng không, kem dính đầy mặt kìa
+  dung: Cậu lại ăn vụng bánh của tớ nữa phải không? Mặt dính đầy kem kìa.
+  kieu: sát ý
+  kem_hon:
+  - Lại ăn vụng bánh tui nữa chớ gì? Kem dính đầy mặt kìa bà!
+  - Bà lại ăn vụng bánh của tui nữa hả? Kem dính tèm lem cả mặt kìa!
+  nguon: trang chọn văn phong 02/11, câu 1
+- tinh_huong: Hiệp sĩ thề với công chúa (trang trọng)
+  y: thần thề bảo vệ người đến hơi thở cuối cùng
+  dung: Dù cho thân thể này có tan xương nát thịt, thần cũng quyết không để ai chạm tới vạt áo của người.
+  kieu: người dùng tự viết
+  kem_hon:
+  - Thần xin thề sẽ bảo vệ người đến hơi thở cuối cùng.
+  - Thần thề, chừng nào còn thở thì thần còn bảo vệ người.
+  - Dù có chết, thần cũng không để ai đụng tới người.
+  nguon: trang chọn văn phong 02/11, câu 2
+- tinh_huong: Phản diện đe dọa lạnh lùng
+  y: ngươi nghĩ có thể trốn thoát sao, thật ngây thơ
+  dung: Ngươi nghĩ có thể trốn thoát khỏi tay ta sao? Suy nghĩ viễn vông.
+  kieu: người dùng tự viết
+  kem_hon:
+  - Ngươi nghĩ mình trốn thoát được sao? Thật ngây thơ.
+  - Tưởng chạy được à? Ngây thơ quá.
+  - Mày tưởng mày thoát được hả? Khờ quá đi.
+  nguon: trang chọn văn phong 02/11, câu 3
+- tinh_huong: Ông lão trong làng dặn cô gái lạ
+  y: cô gái, trời tối rồi, đừng vào rừng một mình
+  dung: Cô gái trẻ, trời tối rồi, đừng vào rừng một mình.
+  kieu: sát ý
+  kem_hon:
+  - Nè cô hai, tối rồi, đừng có vô rừng một mình nghe.
+  - Con gái, trời sụp tối rồi, đừng có đi vô rừng một mình nghen con.
+  nguon: trang chọn văn phong 02/11, câu 4
+- tinh_huong: Cô gái bực, nói thầm trong lòng (hài)
+  y: tên khốn đó, lần sau gặp nhất định cho hắn một trận
+  dung: (Tên khốn đó… lần sau gặp lại nhất định phải cho hắn một trận!)
+  kieu: sát ý
+  kem_hon:
+  - (Thằng cha đó… gặp lại là biết tay tui!)
+  - (Đồ khốn… để lần sau gặp coi, tui đập cho một trận!)
+  nguon: trang chọn văn phong 02/11, câu 5
+- tinh_huong: Rên khi đang làm tình (sướng)
+  y: a… không được… sâu quá… em sắp ra rồi
+  dung: A… hông được… sâu quá à… em… em ra mất…
+  kieu: dịch thoáng
+  kem_hon:
+  - A… không được… sâu quá… em sắp… ra rồi…
+  - Ư… đừng… sâu quá… em chịu hết nổi… ra rồi…
+  nguoi_lon: true
+  nguon: trang chọn văn phong 02/11, câu 6
+- tinh_huong: Bị cưỡng ép, van xin (đau)
+  y: dừng lại… xin anh… đau quá… đừng mà
+  dung: Dừng lại… xin anh… đau quá… đừng mà…
+  kieu: sát ý
+  kem_hon:
+  - Thôi… em xin anh… đau lắm… đừng mà…
+  - Buông ra… làm ơn… đau quá trời… đừng mà…
+  nguoi_lon: true
+  nguon: trang chọn văn phong 02/11, câu 7
+- tinh_huong: Thông báo hệ thống
+  y: bạn không đủ tiền, cần thêm 500G
+  dung: Bạn không đủ tiền, còn thiếu 500G.
+  kieu: dịch thoáng
+  kem_hon:
+  - Không đủ tiền. Cần thêm 500G.
+  - Thiếu 500G.
+  he_thong: true
+  nguon: trang chọn văn phong 02/11, câu 8
+- tinh_huong: Chủ nhân ra lệnh cho nô lệ (lạnh)
+  y: quỳ xuống, từ hôm nay ngươi là của ta
+  dung: Quỳ xuống. Từ hôm nay ngươi thuộc về ta.
+  kieu: sát ý
+  kem_hon:
+  - Quỳ xuống. Từ giờ ngươi là đồ của ta.
+  - Quỳ xuống. Kể từ bữa nay mày là của tao.
+  nguon: trang chọn văn phong 02/11, câu 9
+- tinh_huong: Nô lệ đáp chủ (sợ sệt)
+  y: v-vâng, thưa chủ nhân, tôi sẽ nghe lời
+  dung: D… dạ, chủ nhân… con có thể làm gì cho chủ nhân…
+  kieu: người dùng tự viết
+  kem_hon:
+  - V… vâng, thưa chủ nhân… tôi sẽ nghe lời.
+  - D… dạ, chủ nhân… em sẽ ngoan mà.
+  - D… dạ… con nghe lời chủ nhân hết…
+  nguon: trang chọn văn phong 02/11, câu 10
+- tinh_huong: Thầy nhắc học trò hay đi trễ (nghiêm mà thương)
+  y: lần sau còn đi trễ thì chép phạt một trăm lần
+  dung: Nếu lần sau con còn đi trễ nữa thì ta sẽ bắt con chép phạt 100 lần.
+  kieu: người dùng tự viết
+  kem_hon:
+  - Lần sau còn đi trễ nữa thì chép phạt một trăm lần.
+  - Còn đi trễ nữa là chép phạt một trăm lần, nghe chưa.
+  - Bữa sau còn đi trễ nữa là thầy bắt chép phạt trăm lần đó nghen.
+  nguon: trang chọn văn phong 02/11, câu 11
+- tinh_huong: Mẹ mắng con gái (đã lớn) về khuya
+  y: con gái con đứa đi đâu giờ này mới về
+  dung: Con gái gì mà đi tới khuya lơ khuya lắc mới về vậy hả?
+  kieu: đậm miền Nam
+  kem_hon:
+  - Con gái con đứa đi đâu giờ này mới về?
+  - Đi đâu tới giờ này mới mò về hả con?
+  nguon: trang chọn văn phong 02/11, câu 12
+- tinh_huong: Thủ lĩnh hô hào binh lính
+  y: các huynh đệ, đêm nay chúng ta lấy lại thành
+  dung: Các huynh đệ, chúng ta đã chờ thời khắc này suốt bao lâu rồi. Đêm nay sẽ là đêm huy hoàng của chúng ta. Thành trì này sẽ là của chúng ta.
+  kieu: người dùng tự viết
+  kem_hon:
+  - Hỡi các huynh đệ! Đêm nay chúng ta sẽ chiếm lại thành!
+  - Anh em! Đêm nay mình lấy lại thành!
+  - Anh em ơi! Tối nay tụi mình giành lại cái thành!
+  nguon: trang chọn văn phong 02/11, câu 13
+- tinh_huong: Kẻ xảo quyệt cười rợn
+  y: (cười) cứ chạy đi, rồi ngươi cũng quay lại thôi
+  dung: Khà khà… trốn đi, cứ trốn đi. Rồi ngươi cũng sẽ quay lại quỳ xuống dưới chân ta mà thôi.
+  kieu: người dùng tự viết
+  kem_hon:
+  - Hừ hừ… cứ chạy đi, rồi ngươi cũng phải quay lại thôi.
+  - Khà khà… chạy đi, đằng nào cũng phải quay về.
+  - He he… cứ chạy đi, rồi cũng mò về thôi.
+  nguon: trang chọn văn phong 02/11, câu 14
+- tinh_huong: Cười ngượng xin lỗi
+  y: (cười) tại em lỡ tay thôi mà
+  dung: Hì… em lỡ tay chút xíu thôi à.
+  kieu: dịch thoáng
+  kem_hon:
+  - Hì hì… tại em lỡ tay thôi mà.
+  - Hihi… lỡ tay xíu thôi mà, đừng giận nha.
+  nguon: trang chọn văn phong 02/11, câu 15
+- tinh_huong: Giật mình bất ngờ
+  y: hả?! cái gì vậy?!
+  dung: Hả?! Cái gì thế?!
+  kieu: sát ý
+  kem_hon:
+  - Ủa?! Gì vậy trời?!
+  - Chèn ơi! Cái gì vậy nè?!
+  nguon: trang chọn văn phong 02/11, câu 16
+- tinh_huong: Hai lựa chọn của người chơi
+  y: giúp cô ấy / bỏ đi
+  dung: Giúp cô ấy / Bỏ đi
+  kieu: sát ý
+  kem_hon:
+  - Ra tay giúp / Mặc kệ
+  - Giúp / Thôi kệ
+  he_thong: true
+  nguon: trang chọn văn phong 02/11, câu 17
+- tinh_huong: Mô tả vật phẩm
+  y: thuốc hồi phục, hồi 50 HP, vị đắng nhưng hiệu quả
+  dung: 'Bình thuốc hồi phục: Hồi 50 HP. Vị đắng nhưng hiệu quả.'
+  kieu: người dùng tự viết
+  kem_hon:
+  - Thuốc hồi phục. Hồi 50 HP. Vị đắng nhưng hiệu quả.
+  - 'Bình thuốc hồi phục: hồi 50 HP. Đắng nghét mà hiệu quả.'
+  - Thuốc hồi máu, +50 HP. Đắng nhưng xài được.
+  he_thong: true
+  nguon: trang chọn văn phong 02/11, câu 18
+- tinh_huong: Người bán hàng mời chào
+  y: hàng mới về, quý khách xem thử đi, rẻ lắm
+  dung: Hàng mới về đây! Quý khách xem thử đi, rẻ lắm!
+  kieu: sát ý
+  kem_hon:
+  - Hàng mới về nè! Coi thử đi, rẻ lắm!
+  - Hàng mới về nè bà con! Ghé coi thử đi, rẻ rề luôn!
+  nguon: trang chọn văn phong 02/11, câu 19
+- tinh_huong: Người yêu nói ngọt (không 18+)
+  y: chỉ cần ở bên anh, ở đâu em cũng vui
+  dung: Chỉ cần được ở bên cạnh anh thì ở nơi nào em cũng thấy hạnh phúc.
+  kieu: người dùng tự viết
+  kem_hon:
+  - Chỉ cần được ở bên anh, ở đâu em cũng thấy vui.
+  - Có anh rồi thì ở đâu em cũng vui.
+  - Miễn có anh bên cạnh, đi đâu em cũng vui hết trơn.
+  nguon: trang chọn văn phong 02/11, câu 20
+- tinh_huong: Lính gác quát
+  y: đứng lại, ai cho mày vào đây
+  dung: Đứng lại! Đây không phải là nơi mày có thể vào.
+  kieu: người dùng tự viết
+  kem_hon:
+  - Đứng lại! Ai cho mày vào đây?
+  - Đứng lại! Mày là ai mà dám vô đây?
+  - Ê, đứng lại! Ai biểu mày vô đây?
+  nguon: trang chọn văn phong 02/11, câu 21
+- tinh_huong: Cô gái từ chối lời mời (lịch sự)
+  y: xin lỗi, hôm nay tôi bận, để hôm khác nhé
+  dung: Xin lỗi, hôm nay tôi bận rồi, để hôm khác nhé.
+  kieu: sát ý
+  kem_hon:
+  - Tiếc quá, bữa nay tui kẹt rồi, để bữa khác nha.
+  - Thôi, bữa nay bận rồi, hẹn bữa khác hen.
+  nguon: trang chọn văn phong 02/11, câu 22
+- tinh_huong: Người mẹ an ủi (buồn)
+  y: không sao đâu con, mẹ vẫn luôn ở đây
+  dung: Không sao đâu con… mẹ vẫn luôn ở đây.
+  kieu: sát ý
+  kem_hon:
+  - Không sao mà con… có mẹ đây rồi.
+  - Thôi nín đi con… có mẹ ở đây nè.
+  nguon: trang chọn văn phong 02/11, câu 23
+- tinh_huong: Lời trăng trối (bi)
+  y: đừng khóc, sống tiếp, thay cả phần của ta
+  dung: Đừng khóc… hãy sống tiếp… sống thay cả phần của ta…
+  kieu: sát ý
+  kem_hon:
+  - Đừng khóc mà… sống tiếp đi… sống luôn phần của ta…
+  - Đừng khóc… ráng mà sống… sống giùm luôn phần ta nữa…
+  nguon: trang chọn văn phong 02/11, câu 24
+- tinh_huong: Cô gái chủ động mời gọi
+  y: nhìn em ướt thế này rồi, anh còn chờ gì nữa
+  dung: Nhìn em ướt thế này rồi… anh còn chờ gì nữa?
+  kieu: sát ý
+  kem_hon:
+  - Em ướt hết rồi nè… anh còn đợi gì nữa?
+  - Ướt nhẹp hết rồi nè anh… còn chần chừ gì nữa?
+  nguoi_lon: true
+  nguon: trang chọn văn phong 02/11, câu 25
+- tinh_huong: Ra lệnh lạnh lùng trong cảnh nóng
+  y: liếm sạch đi, ta chưa cho phép ngươi dừng
+  dung: Liếm cho sạch. Ta đã cho phép ngươi dừng chưa?
+  kieu: người dùng tự viết
+  kem_hon:
+  - Liếm sạch đi. Ta chưa cho phép ngươi dừng.
+  - Liếm cho sạch. Ta chưa cho dừng.
+  - Liếm sạch coi. Tao chưa biểu mày ngừng.
+  nguoi_lon: true
+  nguon: trang chọn văn phong 02/11, câu 26
+- tinh_huong: Nữ chính sa ngã, tự giễu
+  y: mình lại thấy sướng sao, mình thật là đàn bà dâm đãng
+  dung: Sao… sao mình lại thấy sướng như thế chứ… ưm…
+  kieu: người dùng tự viết
+  kem_hon:
+  - Mình… lại thấy sướng sao… mình đúng là đồ đàn bà dâm đãng…
+  - Sao mình lại thấy sướng chứ… mình dâm đãng thiệt rồi…
+  - Trời ơi… sao lại sướng vậy nè… mình đúng là đồ dâm mà…
+  nguoi_lon: true
+  nguon: trang chọn văn phong 02/11, câu 27
+- tinh_huong: Kẻ biến thái trêu chọc
+  y: miệng nói không mà bên dưới kẹp chặt thế này
+  dung: Miệng thì nói không, mà bên dưới lại kẹp chặt thế này.
+  kieu: sát ý
+  kem_hon:
+  - Mồm thì kêu không mà dưới này kẹp chặt cứng đây nè.
+  - Ngoài miệng thì hổng chịu, mà ở dưới kẹp chặt muốn đứt luôn.
+  nguoi_lon: true
+  nguon: trang chọn văn phong 02/11, câu 28
+- tinh_huong: Gã đàn ông sàm sỡ
+  y: ngực cô to thật, để ta xem nào
+  dung: Ngực cô to thật… để ta xem nào.
+  kieu: sát ý
+  kem_hon:
+  - Vú cô bự thật… cho ta coi chút.
+  - Bầu ngực bự ghê… để ta coi thử.
+  nguoi_lon: true
+  nguon: trang chọn văn phong 02/11, câu 29
+- tinh_huong: Sau khi làm tình (mệt)
+  y: lần thứ ba rồi đó, anh không biết mệt hả
+  dung: Lần thứ ba rồi đó… anh không biết mệt sao…
+  kieu: sát ý
+  kem_hon:
+  - Ba lần rồi đó… anh hổng biết mệt hả…
+  - Ba hiệp rồi đó trời… anh làm bằng sắt hả…
+  nguoi_lon: true
+  nguon: trang chọn văn phong 02/11, câu 30
+- tinh_huong: Nhân vật ngốc nói hớ (hài)
+  y: tôi không ăn vụng, chỉ là bánh tự chui vào miệng tôi
+  dung: Tôi không có ăn vụng! …Chỉ là bánh tự chui vào miệng tôi thôi.
+  kieu: sát ý
+  kem_hon:
+  - Tui đâu có ăn vụng! …Tại cái bánh nó tự chui vô miệng tui chớ.
+  - Ai ăn vụng đâu! …Cái bánh nó tự nhảy vô miệng tui mà.
+  nguon: trang chọn văn phong 02/11, câu 31
+- tinh_huong: Cà khịa (hài)
+  y: kiếm thuật của ngươi đỉnh thật, đỉnh của sự vụng về
+  dung: Kiếm thuật của ngươi đỉnh thật đấy… Có thể đi ra phố biểu diễn kiếm vài đồng bạc lẻ được rồi đấy.
+  kieu: người dùng tự viết
+  kem_hon:
+  - Kiếm thuật của ngươi đỉnh thật đấy… đỉnh của sự vụng về.
+  - Kiếm pháp ngươi đỉnh ghê… đỉnh cao của vụng về.
+  - Đánh kiếm hay dữ ha… hay nhất mấy đứa vụng về.
+  nguon: trang chọn văn phong 02/11, câu 32
+- tinh_huong: Tiểu thư kiêu kỳ cười khinh
+  y: (cười) thứ dân đen như các người sao hiểu được
+  dung: Ha ha ha. Dân thường như các ngươi làm sao hiểu nổi.
+  kieu: người dùng tự viết
+  kem_hon:
+  - Hô hô hô! Thứ dân đen như các người sao hiểu được!
+  - Ô hô hô! Dân thường như mấy người làm sao hiểu nổi!
+  - Hô hô hô! Cỡ mấy người mà đòi hiểu hả!
+  nguon: trang chọn văn phong 02/11, câu 33
+- tinh_huong: Hai gã bạn nhậu
+  y: uống tiếp đi, hôm nay không say không về
+  dung: Dô! Hôm nay không say không về!
+  kieu: người dùng tự viết
+  kem_hon:
+  - Uống tiếp đi! Hôm nay không say không về!
+  - Làm tiếp đi! Bữa nay không say không về!
+  - Dzô! Bữa nay hổng say hổng về nghen!
+  nguon: trang chọn văn phong 02/11, câu 34
+- tinh_huong: Chia tay (buồn)
+  y: nếu có kiếp sau, em vẫn muốn gặp lại anh
+  dung: Nếu có kiếp sau… em vẫn muốn gặp lại anh.
+  kieu: sát ý
+  kem_hon:
+  - Kiếp sau… em vẫn muốn được gặp anh.
+  - Nếu còn kiếp sau… em vẫn muốn gặp lại anh hà.
+  nguon: trang chọn văn phong 02/11, câu 35
+- tinh_huong: Kẻ thù kiêu ngạo bị đánh bại
+  y: không thể nào, sao ta có thể thua một ả đàn bà như ngươi
+  dung: Không thể nào… ta… sao có thể thua một con đàn bà như ngươi…
+  kieu: sát ý
+  kem_hon:
+  - Không thể nào… ta mà lại thua một ả đàn bà sao…
+  - Hông thể nào… tao… thua một con đàn bà như mày sao…
+  nguon: trang chọn văn phong 02/11, câu 36
+- tinh_huong: Thở dốc khi chạy trốn
+  y: hộc hộc, chạy, phải chạy tiếp
+  dung: Hộc… hộc… sắp bị bắt kịp rồi… sao hắn (nó) dí dai quá…
+  kieu: người dùng tự viết
+  kem_hon:
+  - Hộc… hộc… chạy… phải chạy tiếp…
+  - Hộc… hộc… không được dừng… chạy tiếp…
+  - Hộc… hộc… ráng chạy… ráng lên…
+  nguon: trang chọn văn phong 02/11, câu 37
+- tinh_huong: Thông báo hoàn thành nhiệm vụ
+  y: nhiệm vụ hoàn thành, nhận 300G và Kiếm Sắt
+  dung: Hoàn thành nhiệm vụ! Nhận 300G, Kiếm Sắt.
+  kieu: dịch thoáng
+  kem_hon:
+  - Nhiệm vụ hoàn thành! Nhận được 300G và Kiếm Sắt.
+  - Xong nhiệm vụ! +300G, +Kiếm Sắt.
+  he_thong: true
+  nguon: trang chọn văn phong 02/11, câu 38
+- tinh_huong: Lời dẫn truyện
+  y: cô bước vào căn phòng tối, mùi ẩm mốc xộc vào mũi
+  dung: Cô bước vào căn phòng tối. Mùi ẩm mốc xộc vào mũi.
+  kieu: sát ý
+  kem_hon:
+  - Cô bước vào căn phòng tối om. Mùi ẩm mốc xộc thẳng lên mũi.
+  - Cô bước vô căn phòng tối thui. Mùi ẩm mốc xộc lên tận mũi.
+  nguon: trang chọn văn phong 02/11, câu 39
+- tinh_huong: Cô gái hỏi thuê phòng bà chủ trọ lớn tuổi
+  y: thưa bà, cho tôi thuê một phòng
+  dung: Bà ơi, cho con thuê một phòng.
+  kieu: dịch thoáng
+  kem_hon:
+  - Thưa bà, cho tôi thuê một phòng.
+  - Dì ơi, cho con mướn một phòng nha.
+  nguon: trang chọn văn phong 02/11, câu 40
+- tinh_huong: Tên trùm côn đồ khen cô gái vừa chịu khuất phục, rồi ra lệnh đi theo (cảnh dọa ép 18+)
+  y: người đàn bà thông minh, đi theo ông đây
+  dung: Nhỏ này biết điều đây. Đi theo ông.
+  tranh:
+  - Đàn bà thông minh đấy. Theo ông đây đi.
+  ly_do: 'kẻ thô nói ngắn, gọn, giọng bề trên; "biết điều" đúng ý khen sự đầu hàng hơn "thông minh"; không lặp "ông đây"'
+  nguon: người dùng tự viết 02/11 (trang đọc mù hai dịch giả)

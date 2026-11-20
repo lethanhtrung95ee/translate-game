@@ -1,0 +1,551 @@
+# Ứng viên tên/thuật ngữ đã quyết là không cần glossary. Mỗi dòng: '<gốc>  # lý do'.
+＊＊  # mã người nói lời kể, không hiển thị
+ワテ  # từ thường, dịch theo ngữ cảnh
+ダメ  # từ thường, dịch theo ngữ cảnh
+ゲーム  # từ thường, dịch theo ngữ cảnh
+モニター  # từ thường, dịch theo ngữ cảnh
+クイズ  # từ thường, dịch theo ngữ cảnh
+カメラ  # từ thường, dịch theo ngữ cảnh
+ドア  # từ thường, dịch theo ngữ cảnh
+スタジオ  # từ thường, dịch theo ngữ cảnh
+ロボット  # từ thường, dịch theo ngữ cảnh
+スイッチ  # từ thường, dịch theo ngữ cảnh
+テレビ  # từ thường, dịch theo ngữ cảnh
+メニュー  # từ thường, dịch theo ngữ cảnh
+データ  # từ thường, dịch theo ngữ cảnh
+エロ  # từ thường, dịch theo ngữ cảnh
+ネット  # từ thường, dịch theo ngữ cảnh
+ボタン  # từ thường, dịch theo ngữ cảnh
+ロボ  # từ thường, dịch theo ngữ cảnh
+バカ  # từ thường, dịch theo ngữ cảnh
+テーブル  # từ thường, dịch theo ngữ cảnh
+ステージ  # từ thường, dịch theo ngữ cảnh
+スーツケース  # từ thường, dịch theo ngữ cảnh
+ポスター  # từ thường, dịch theo ngữ cảnh
+クリア  # từ thường, dịch theo ngữ cảnh
+カウンター  # từ thường, dịch theo ngữ cảnh
+シミュレーション  # từ thường, dịch theo ngữ cảnh
+ヤバ  # từ thường, dịch theo ngữ cảnh
+ゴミ  # từ thường, dịch theo ngữ cảnh
+ロケット  # từ thường, dịch theo ngữ cảnh
+ロッカー  # từ thường, dịch theo ngữ cảnh
+スマホ  # từ thường, dịch theo ngữ cảnh
+ファイル  # từ thường, dịch theo ngữ cảnh
+デスク  # từ thường, dịch theo ngữ cảnh
+ガラス  # từ thường, dịch theo ngữ cảnh
+ノート  # từ thường, dịch theo ngữ cảnh
+ソファ  # từ thường, dịch theo ngữ cảnh
+ゲノム  # từ thường, dịch theo ngữ cảnh
+オカルト  # từ thường, dịch theo ngữ cảnh
+パート  # từ thường, dịch theo ngữ cảnh
+パイプ  # từ thường, dịch theo ngữ cảnh
+ポット  # từ thường, dịch theo ngữ cảnh
+ケース  # từ thường, dịch theo ngữ cảnh
+コタツ  # từ thường, dịch theo ngữ cảnh
+タイプ  # từ thường, dịch theo ngữ cảnh
+ダンス  # từ thường, dịch theo ngữ cảnh
+ベンチ  # từ thường, dịch theo ngữ cảnh
+マーク  # từ thường, dịch theo ngữ cảnh
+マジ  # từ thường, dịch theo ngữ cảnh
+リーダー  # từ thường, dịch theo ngữ cảnh
+コード  # từ thường, dịch theo ngữ cảnh
+イメージ  # từ thường, dịch theo ngữ cảnh
+ロープ  # từ thường, dịch theo ngữ cảnh
+ロック  # từ thường, dịch theo ngữ cảnh
+ベッド  # từ thường, dịch theo ngữ cảnh
+チョコ  # từ thường, dịch theo ngữ cảnh
+ドラム  # từ thường, dịch theo ngữ cảnh
+ボトル  # từ thường, dịch theo ngữ cảnh
+レベル  # từ thường, dịch theo ngữ cảnh
+マスク  # từ thường, dịch theo ngữ cảnh
+プログラム  # từ thường, dịch theo ngữ cảnh
+ケーブル  # từ thường, dịch theo ngữ cảnh
+バレ  # từ thường, dịch theo ngữ cảnh
+タイトル  # từ thường, dịch theo ngữ cảnh
+バトル  # từ thường, dịch theo ngữ cảnh
+ページ  # từ thường, dịch theo ngữ cảnh
+ビール  # từ thường, dịch theo ngữ cảnh
+シャツ  # từ thường, dịch theo ngữ cảnh
+ウサギ  # từ thường, dịch theo ngữ cảnh
+セット  # từ thường, dịch theo ngữ cảnh
+モード  # từ thường, dịch theo ngữ cảnh
+メイドカフェ  # từ thường hoặc mảnh của tên đã có; dịch theo ngữ cảnh (chơi chữ xử lý ở chỉ đạo cảnh)
+ブランコ  # từ thường hoặc mảnh của tên đã có; dịch theo ngữ cảnh (chơi chữ xử lý ở chỉ đạo cảnh)
+ホログラム  # từ thường hoặc mảnh của tên đã có; dịch theo ngữ cảnh (chơi chữ xử lý ở chỉ đạo cảnh)
+タマタマ  # từ thường hoặc mảnh của tên đã có; dịch theo ngữ cảnh (chơi chữ xử lý ở chỉ đạo cảnh)
+アンデス  # từ thường hoặc mảnh của tên đã có; dịch theo ngữ cảnh (chơi chữ xử lý ở chỉ đạo cảnh)
+メモ  # từ thường hoặc mảnh của tên đã có; dịch theo ngữ cảnh (chơi chữ xử lý ở chỉ đạo cảnh)
+ネジ  # từ thường hoặc mảnh của tên đã có; dịch theo ngữ cảnh (chơi chữ xử lý ở chỉ đạo cảnh)
+タイムカプセル  # từ thường hoặc mảnh của tên đã có; dịch theo ngữ cảnh (chơi chữ xử lý ở chỉ đạo cảnh)
+ガネーシャ  # từ thường hoặc mảnh của tên đã có; dịch theo ngữ cảnh (chơi chữ xử lý ở chỉ đạo cảnh)
+トピアリー  # từ thường hoặc mảnh của tên đã có; dịch theo ngữ cảnh (chơi chữ xử lý ở chỉ đạo cảnh)
+メッセージ  # từ thường hoặc mảnh của tên đã có; dịch theo ngữ cảnh (chơi chữ xử lý ở chỉ đạo cảnh)
+バイク  # từ thường hoặc mảnh của tên đã có; dịch theo ngữ cảnh (chơi chữ xử lý ở chỉ đạo cảnh)
+キモ  # từ thường hoặc mảnh của tên đã có; dịch theo ngữ cảnh (chơi chữ xử lý ở chỉ đạo cảnh)
+ドライバー  # từ thường hoặc mảnh của tên đã có; dịch theo ngữ cảnh (chơi chữ xử lý ở chỉ đạo cảnh)
+タンス  # từ thường hoặc mảnh của tên đã có; dịch theo ngữ cảnh (chơi chữ xử lý ở chỉ đạo cảnh)
+サイズ  # từ thường hoặc mảnh của tên đã có; dịch theo ngữ cảnh (chơi chữ xử lý ở chỉ đạo cảnh)
+ブラウン  # từ thường hoặc mảnh của tên đã có; dịch theo ngữ cảnh (chơi chữ xử lý ở chỉ đạo cảnh)
+リモコン  # từ thường hoặc mảnh của tên đã có; dịch theo ngữ cảnh (chơi chữ xử lý ở chỉ đạo cảnh)
+マサイ  # từ thường hoặc mảnh của tên đã có; dịch theo ngữ cảnh (chơi chữ xử lý ở chỉ đạo cảnh)
+レーサー  # từ thường hoặc mảnh của tên đã có; dịch theo ngữ cảnh (chơi chữ xử lý ở chỉ đạo cảnh)
+サイクロ  # từ thường hoặc mảnh của tên đã có; dịch theo ngữ cảnh (chơi chữ xử lý ở chỉ đạo cảnh)
+セリフ  # từ thường hoặc mảnh của tên đã có; dịch theo ngữ cảnh (chơi chữ xử lý ở chỉ đạo cảnh)
+パンマン  # từ thường hoặc mảnh của tên đã có; dịch theo ngữ cảnh (chơi chữ xử lý ở chỉ đạo cảnh)
+スーパーシェフ  # từ thường hoặc mảnh của tên đã có; dịch theo ngữ cảnh (chơi chữ xử lý ở chỉ đạo cảnh)
+レール  # từ thường hoặc mảnh của tên đã có; dịch theo ngữ cảnh (chơi chữ xử lý ở chỉ đạo cảnh)
+タイヤ  # từ thường hoặc mảnh của tên đã có; dịch theo ngữ cảnh (chơi chữ xử lý ở chỉ đạo cảnh)
+トランク  # từ thường hoặc mảnh của tên đã có; dịch theo ngữ cảnh (chơi chữ xử lý ở chỉ đạo cảnh)
+サイン  # từ thường hoặc mảnh của tên đã có; dịch theo ngữ cảnh (chơi chữ xử lý ở chỉ đạo cảnh)
+チェ  # từ thường hoặc mảnh của tên đã có; dịch theo ngữ cảnh (chơi chữ xử lý ở chỉ đạo cảnh)
+ファン  # từ thường hoặc mảnh của tên đã có; dịch theo ngữ cảnh (chơi chữ xử lý ở chỉ đạo cảnh)
+ケンカ  # từ thường hoặc mảnh của tên đã có; dịch theo ngữ cảnh (chơi chữ xử lý ở chỉ đạo cảnh)
+シンデレラ  # từ thường hoặc mảnh của tên đã có; dịch theo ngữ cảnh (chơi chữ xử lý ở chỉ đạo cảnh)
+ハーフウェイライン  # từ thường hoặc mảnh của tên đã có; dịch theo ngữ cảnh (chơi chữ xử lý ở chỉ đạo cảnh)
+グラス  # từ thường hoặc mảnh của tên đã có; dịch theo ngữ cảnh (chơi chữ xử lý ở chỉ đạo cảnh)
+ロッチョ  # từ thường hoặc mảnh của tên đã có; dịch theo ngữ cảnh (chơi chữ xử lý ở chỉ đạo cảnh)
+カード  # từ thường hoặc mảnh của tên đã có; dịch theo ngữ cảnh (chơi chữ xử lý ở chỉ đạo cảnh)
+ビル  # từ thường hoặc mảnh của tên đã có; dịch theo ngữ cảnh (chơi chữ xử lý ở chỉ đạo cảnh)
+チャンピオン  # từ thường hoặc mảnh của tên đã có; dịch theo ngữ cảnh (chơi chữ xử lý ở chỉ đạo cảnh)
+チーム  # từ thường hoặc mảnh của tên đã có; dịch theo ngữ cảnh (chơi chữ xử lý ở chỉ đạo cảnh)
+グラウンド  # từ thường hoặc mảnh của tên đã có; dịch theo ngữ cảnh (chơi chữ xử lý ở chỉ đạo cảnh)
+キーボード  # từ thường hoặc mảnh của tên đã có; dịch theo ngữ cảnh (chơi chữ xử lý ở chỉ đạo cảnh)
+ローテーブル  # từ thường hoặc mảnh của tên đã có; dịch theo ngữ cảnh (chơi chữ xử lý ở chỉ đạo cảnh)
+トイレ  # từ thường hoặc mảnh của tên đã có; dịch theo ngữ cảnh (chơi chữ xử lý ở chỉ đạo cảnh)
+チャクラ  # từ thường hoặc mảnh của tên đã có; dịch theo ngữ cảnh (chơi chữ xử lý ở chỉ đạo cảnh)
+プレゼント  # từ thường hoặc mảnh của tên đã có; dịch theo ngữ cảnh (chơi chữ xử lý ở chỉ đạo cảnh)
+ルーム  # từ thường hoặc mảnh của tên đã có; dịch theo ngữ cảnh (chơi chữ xử lý ở chỉ đạo cảnh)
+マズ  # từ thường hoặc mảnh của tên đã có; dịch theo ngữ cảnh (chơi chữ xử lý ở chỉ đạo cảnh)
+ガス  # từ thường hoặc mảnh của tên đã có; dịch theo ngữ cảnh (chơi chữ xử lý ở chỉ đạo cảnh)
+アルファベット  # từ thường hoặc mảnh của tên đã có; dịch theo ngữ cảnh (chơi chữ xử lý ở chỉ đạo cảnh)
+パーツ  # từ thường hoặc mảnh của tên đã có; dịch theo ngữ cảnh (chơi chữ xử lý ở chỉ đạo cảnh)
+バラバラ  # từ thường hoặc mảnh của tên đã có; dịch theo ngữ cảnh (chơi chữ xử lý ở chỉ đạo cảnh)
+サラダ  # từ thường hoặc mảnh của tên đã có; dịch theo ngữ cảnh (chơi chữ xử lý ở chỉ đạo cảnh)
+フライヤー  # từ thường hoặc mảnh của tên đã có; dịch theo ngữ cảnh (chơi chữ xử lý ở chỉ đạo cảnh)
+ウチ  # từ thường hoặc mảnh của tên đã có; dịch theo ngữ cảnh (chơi chữ xử lý ở chỉ đạo cảnh)
+ウイルス  # từ thường hoặc mảnh của tên đã có; dịch theo ngữ cảnh (chơi chữ xử lý ở chỉ đạo cảnh)
+プレイ  # từ thường hoặc mảnh của tên đã có; dịch theo ngữ cảnh (chơi chữ xử lý ở chỉ đạo cảnh)
+カンペ  # từ thường hoặc mảnh của tên đã có; dịch theo ngữ cảnh (chơi chữ xử lý ở chỉ đạo cảnh)
+マフィア  # từ thường hoặc mảnh của tên đã có; dịch theo ngữ cảnh (chơi chữ xử lý ở chỉ đạo cảnh)
+ルミノール  # từ thường hoặc mảnh của tên đã có; dịch theo ngữ cảnh (chơi chữ xử lý ở chỉ đạo cảnh)
+ハンガー  # từ thường hoặc mảnh của tên đã có; dịch theo ngữ cảnh (chơi chữ xử lý ở chỉ đạo cảnh)
+スナック  # từ thường hoặc mảnh của tên đã có; dịch theo ngữ cảnh (chơi chữ xử lý ở chỉ đạo cảnh)
+ライト  # từ thường hoặc mảnh của tên đã có; dịch theo ngữ cảnh (chơi chữ xử lý ở chỉ đạo cảnh)
+ハンドサイン  # từ thường hoặc mảnh của tên đã có; dịch theo ngữ cảnh (chơi chữ xử lý ở chỉ đạo cảnh)
+ツッコミ  # từ thường hoặc mảnh của tên đã có; dịch theo ngữ cảnh (chơi chữ xử lý ở chỉ đạo cảnh)
+ルール  # từ thường hoặc mảnh của tên đã có; dịch theo ngữ cảnh (chơi chữ xử lý ở chỉ đạo cảnh)
+リンク  # từ thường hoặc mảnh của tên đã có; dịch theo ngữ cảnh (chơi chữ xử lý ở chỉ đạo cảnh)
+アレ  # từ thường hoặc mảnh của tên đã có; dịch theo ngữ cảnh (chơi chữ xử lý ở chỉ đạo cảnh)
+ガキ  # từ thường hoặc mảnh của tên đã có; dịch theo ngữ cảnh (chơi chữ xử lý ở chỉ đạo cảnh)
+リハーサル  # từ thường hoặc mảnh của tên đã có; dịch theo ngữ cảnh (chơi chữ xử lý ở chỉ đạo cảnh)
+バイト  # từ thường hoặc mảnh của tên đã có; dịch theo ngữ cảnh (chơi chữ xử lý ở chỉ đạo cảnh)
+セキュリティ  # từ thường hoặc mảnh của tên đã có; dịch theo ngữ cảnh (chơi chữ xử lý ở chỉ đạo cảnh)
+エレベーター  # từ thường hoặc mảnh của tên đã có; dịch theo ngữ cảnh (chơi chữ xử lý ở chỉ đạo cảnh)
+レーザー  # từ thường hoặc mảnh của tên đã có; dịch theo ngữ cảnh (chơi chữ xử lý ở chỉ đạo cảnh)
+マネキン  # từ thường hoặc mảnh của tên đã có; dịch theo ngữ cảnh (chơi chữ xử lý ở chỉ đạo cảnh)
+ゼロ  # từ thường hoặc mảnh của tên đã có; dịch theo ngữ cảnh (chơi chữ xử lý ở chỉ đạo cảnh)
+マップ  # từ thường hoặc mảnh của tên đã có; dịch theo ngữ cảnh (chơi chữ xử lý ở chỉ đạo cảnh)
+コンテンツ  # từ thường hoặc mảnh của tên đã có; dịch theo ngữ cảnh (chơi chữ xử lý ở chỉ đạo cảnh)
+パソコン  # từ thường hoặc mảnh của tên đã có; dịch theo ngữ cảnh (chơi chữ xử lý ở chỉ đạo cảnh)
+ハリセン  # từ thường hoặc mảnh của tên đã có; dịch theo ngữ cảnh (chơi chữ xử lý ở chỉ đạo cảnh)
+メダル  # từ thường, dịch theo ngữ cảnh
+サポート  # từ thường, dịch theo ngữ cảnh
+ジャンプ  # từ thường, dịch theo ngữ cảnh
+セーブ  # từ thường, dịch theo ngữ cảnh
+テメエ  # từ thường, dịch theo ngữ cảnh
+アイボォォォ  # từ thường, dịch theo ngữ cảnh
+テスト  # từ thường, dịch theo ngữ cảnh
+トライデント  # từ thường, dịch theo ngữ cảnh
+フタ  # từ thường, dịch theo ngữ cảnh
+ロボットアーム  # từ thường, dịch theo ngữ cảnh
+デザート  # từ thường, dịch theo ngữ cảnh
+ジャングルジム  # từ thường, dịch theo ngữ cảnh
+ホワイトボード  # từ thường, dịch theo ngữ cảnh
+ギャンブラー  # từ thường, dịch theo ngữ cảnh
+ネズミ  # từ thường, dịch theo ngữ cảnh
+クローン  # từ thường, dịch theo ngữ cảnh
+タイミング  # từ thường, dịch theo ngữ cảnh
+ハッキング  # từ thường, dịch theo ngữ cảnh
+ニュース  # từ thường, dịch theo ngữ cảnh
+デート  # từ thường, dịch theo ngữ cảnh
+カードキー  # từ thường, dịch theo ngữ cảnh
+パワー  # từ thường, dịch theo ngữ cảnh
+クマ  # từ thường, dịch theo ngữ cảnh
+ダクト  # từ thường, dịch theo ngữ cảnh
+マジックミラー  # từ thường, dịch theo ngữ cảnh
+キャラ  # từ thường, dịch theo ngữ cảnh
+アイテム  # từ thường, dịch theo ngữ cảnh
+シーソー  # từ thường, dịch theo ngữ cảnh
+ハズレ  # từ thường, dịch theo ngữ cảnh
+スツール  # từ thường, dịch theo ngữ cảnh
+ピコピコハンマー  # từ thường, dịch theo ngữ cảnh
+スケッチブック  # từ thường, dịch theo ngữ cảnh
+メインルーム  # từ thường, dịch theo ngữ cảnh
+タレント  # từ thường, dịch theo ngữ cảnh
+バレンタインデー  # từ thường, dịch theo ngữ cảnh
+ヒント  # từ thường, dịch theo ngữ cảnh
+ゲット  # từ thường, dịch theo ngữ cảnh
+インド  # từ thường, dịch theo ngữ cảnh
+ギャグ  # từ thường, dịch theo ngữ cảnh
+カレー  # từ thường, dịch theo ngữ cảnh
+テレポート  # từ thường, dịch theo ngữ cảnh
+パパ  # từ thường, dịch theo ngữ cảnh
+パン  # từ thường, dịch theo ngữ cảnh
+イカ  # từ thường, dịch theo ngữ cảnh
+アメノウズメノミコト  # từ thường, dịch theo ngữ cảnh
+イバラ  # từ thường, dịch theo ngữ cảnh
+ピッキング  # từ thường, dịch theo ngữ cảnh
+ボディガード  # từ thường, dịch theo ngữ cảnh
+ヘッドホン  # từ thường, dịch theo ngữ cảnh
+オムライス  # từ thường, dịch theo ngữ cảnh
+ゲート  # từ thường, dịch theo ngữ cảnh
+ロード  # từ thường, dịch theo ngữ cảnh
+マトリョーシカ  # từ thường, dịch theo ngữ cảnh
+トロフィー  # từ thường, dịch theo ngữ cảnh
+ステップ  # từ thường, dịch theo ngữ cảnh
+バーカウンター  # từ thường, dịch theo ngữ cảnh
+パートナー  # từ thường, dịch theo ngữ cảnh
+アメリカ  # từ thường, dịch theo ngữ cảnh
+ポイント  # từ thường, dịch theo ngữ cảnh
+ホストクラブ  # từ thường, dịch theo ngữ cảnh
+ディレクター  # từ thường, dịch theo ngữ cảnh
+エビ  # từ thường, dịch theo ngữ cảnh
+キー  # từ thường, dịch theo ngữ cảnh
+クズ  # từ thường, dịch theo ngữ cảnh
+マン  # từ thường, dịch theo ngữ cảnh
+ポケット  # từ thường, dịch theo ngữ cảnh
+パンジー  # từ thường, dịch theo ngữ cảnh
+オイル  # từ thường, dịch theo ngữ cảnh
+フットスイッチ  # từ thường, dịch theo ngữ cảnh
+ダメージ  # từ thường, dịch theo ngữ cảnh
+ゾウ  # từ thường, dịch theo ngữ cảnh
+スカイサイクル  # từ thường, dịch theo ngữ cảnh
+ポリバケツ  # từ thường, dịch theo ngữ cảnh
+カウント  # từ thường, dịch theo ngữ cảnh
+カーソル  # từ thường, dịch theo ngữ cảnh
+バレーボール  # từ thường, dịch theo ngữ cảnh
+デッキブラシ  # từ thường, dịch theo ngữ cảnh
+バイオポッド  # từ thường, dịch theo ngữ cảnh
+ビールサーバー  # từ thường, dịch theo ngữ cảnh
+エリス  # từ thường hoặc tên vật/địa danh thế giới thật; dịch theo ngữ cảnh
+ラジオ  # từ thường hoặc tên vật/địa danh thế giới thật; dịch theo ngữ cảnh
+システム  # từ thường hoặc tên vật/địa danh thế giới thật; dịch theo ngữ cảnh
+ラボ  # từ thường hoặc tên vật/địa danh thế giới thật; dịch theo ngữ cảnh
+ネットアイドル  # từ thường hoặc tên vật/địa danh thế giới thật; dịch theo ngữ cảnh
+サイト  # từ thường hoặc tên vật/địa danh thế giới thật; dịch theo ngữ cảnh
+ポリ  # từ thường hoặc tên vật/địa danh thế giới thật; dịch theo ngữ cảnh
+テンション  # từ thường hoặc tên vật/địa danh thế giới thật; dịch theo ngữ cảnh
+ネタ  # từ thường hoặc tên vật/địa danh thế giới thật; dịch theo ngữ cảnh
+ベタベタ  # từ thường hoặc tên vật/địa danh thế giới thật; dịch theo ngữ cảnh
+フライパン  # từ thường hoặc tên vật/địa danh thế giới thật; dịch theo ngữ cảnh
+スキャン  # từ thường hoặc tên vật/địa danh thế giới thật; dịch theo ngữ cảnh
+ネクタイ  # từ thường hoặc tên vật/địa danh thế giới thật; dịch theo ngữ cảnh
+ビン  # từ thường hoặc tên vật/địa danh thế giới thật; dịch theo ngữ cảnh
+グレーテル  # từ thường hoặc tên vật/địa danh thế giới thật; dịch theo ngữ cảnh
+フォトフレーム  # từ thường hoặc tên vật/địa danh thế giới thật; dịch theo ngữ cảnh
+カニザ  # từ thường hoặc tên vật/địa danh thế giới thật; dịch theo ngữ cảnh
+キャンドル  # từ thường hoặc tên vật/địa danh thế giới thật; dịch theo ngữ cảnh
+コンクリート  # từ thường hoặc tên vật/địa danh thế giới thật; dịch theo ngữ cảnh
+コーナー  # từ thường hoặc tên vật/địa danh thế giới thật; dịch theo ngữ cảnh
+バインダー  # từ thường hoặc tên vật/địa danh thế giới thật; dịch theo ngữ cảnh
+コーヒーメーカー  # từ thường hoặc tên vật/địa danh thế giới thật; dịch theo ngữ cảnh
+タヌキ  # từ thường hoặc tên vật/địa danh thế giới thật; dịch theo ngữ cảnh
+チルロチョコ  # từ thường hoặc tên vật/địa danh thế giới thật; dịch theo ngữ cảnh
+キャバクラ  # từ thường hoặc tên vật/địa danh thế giới thật; dịch theo ngữ cảnh
+トラウマ  # từ thường hoặc tên vật/địa danh thế giới thật; dịch theo ngữ cảnh
+サービス  # từ thường hoặc tên vật/địa danh thế giới thật; dịch theo ngữ cảnh
+ピン  # từ thường hoặc tên vật/địa danh thế giới thật; dịch theo ngữ cảnh
+ボール  # từ thường hoặc tên vật/địa danh thế giới thật; dịch theo ngữ cảnh
+シンボルマーク  # từ thường hoặc tên vật/địa danh thế giới thật; dịch theo ngữ cảnh
+ゾンビ  # từ thường hoặc tên vật/địa danh thế giới thật; dịch theo ngữ cảnh
+キチン  # từ thường hoặc tên vật/địa danh thế giới thật; dịch theo ngữ cảnh
+クラゲ  # từ thường hoặc tên vật/địa danh thế giới thật; dịch theo ngữ cảnh
+チッ  # từ thường hoặc tên vật/địa danh thế giới thật; dịch theo ngữ cảnh
+クビ  # từ thường hoặc tên vật/địa danh thế giới thật; dịch theo ngữ cảnh
+アドバイス  # từ thường hoặc tên vật/địa danh thế giới thật; dịch theo ngữ cảnh
+チャンス  # từ thường hoặc tên vật/địa danh thế giới thật; dịch theo ngữ cảnh
+スピード  # từ thường hoặc tên vật/địa danh thế giới thật; dịch theo ngữ cảnh
+デバッガー  # từ thường hoặc tên vật/địa danh thế giới thật; dịch theo ngữ cảnh
+バネ  # từ thường hoặc tên vật/địa danh thế giới thật; dịch theo ngữ cảnh
+ボケ  # từ thường hoặc tên vật/địa danh thế giới thật; dịch theo ngữ cảnh
+コンポ  # từ thường hoặc tên vật/địa danh thế giới thật; dịch theo ngữ cảnh
+スタート  # từ thường hoặc tên vật/địa danh thế giới thật; dịch theo ngữ cảnh
+ステーキ  # từ thường hoặc tên vật/địa danh thế giới thật; dịch theo ngữ cảnh
+レバー  # từ thường hoặc tên vật/địa danh thế giới thật; dịch theo ngữ cảnh
+バッテリー  # từ thường hoặc tên vật/địa danh thế giới thật; dịch theo ngữ cảnh
+クロス  # từ thường hoặc tên vật/địa danh thế giới thật; dịch theo ngữ cảnh
+クッキー  # từ thường hoặc tên vật/địa danh thế giới thật; dịch theo ngữ cảnh
+ラジカセ  # từ thường hoặc tên vật/địa danh thế giới thật; dịch theo ngữ cảnh
+ダーツマシン  # từ thường hoặc tên vật/địa danh thế giới thật; dịch theo ngữ cảnh
+サッカーボール  # từ thường hoặc tên vật/địa danh thế giới thật; dịch theo ngữ cảnh
+カボチャ  # từ thường hoặc tên vật/địa danh thế giới thật; dịch theo ngữ cảnh
+シンバル  # từ thường hoặc tên vật/địa danh thế giới thật; dịch theo ngữ cảnh
+サイクリングマシーン  # từ thường hoặc tên vật/địa danh thế giới thật; dịch theo ngữ cảnh
+カレンダー  # từ thường hoặc tên vật/địa danh thế giới thật; dịch theo ngữ cảnh
+マウス  # từ thường hoặc tên vật/địa danh thế giới thật; dịch theo ngữ cảnh
+コンテナ  # từ thường hoặc tên vật/địa danh thế giới thật; dịch theo ngữ cảnh
+トレーニング  # từ thường hoặc tên vật/địa danh thế giới thật; dịch theo ngữ cảnh
+ハンドル  # từ thường hoặc tên vật/địa danh thế giới thật; dịch theo ngữ cảnh
+オブジェ  # từ thường hoặc tên vật/địa danh thế giới thật; dịch theo ngữ cảnh
+フィラデルフィア  # từ thường hoặc tên vật/địa danh thế giới thật; dịch theo ngữ cảnh
+チュパカブラ  # từ thường hoặc tên vật/địa danh thế giới thật; dịch theo ngữ cảnh
+リスト  # từ thường hoặc tên vật/địa danh thế giới thật; dịch theo ngữ cảnh
+ノーミス  # từ thường hoặc tên vật/địa danh thế giới thật; dịch theo ngữ cảnh
+ガンダルヴァ  # từ thường hoặc tên vật/địa danh thế giới thật; dịch theo ngữ cảnh
+クラウド  # từ thường hoặc tên vật/địa danh thế giới thật; dịch theo ngữ cảnh
+アニメ  # từ thường hoặc tên vật/địa danh thế giới thật; dịch theo ngữ cảnh
+マルコ  # từ thường hoặc tên vật/địa danh thế giới thật; dịch theo ngữ cảnh
+ヒンドゥー  # từ thường hoặc tên vật/địa danh thế giới thật; dịch theo ngữ cảnh
+ドリル  # từ thường hoặc tên vật/địa danh thế giới thật; dịch theo ngữ cảnh
+ハマ  # từ thường hoặc tên vật/địa danh thế giới thật; dịch theo ngữ cảnh
+アザ  # từ thường hoặc tên vật/địa danh thế giới thật; dịch theo ngữ cảnh
+ノンアルコール  # từ thường hoặc tên vật/địa danh thế giới thật; dịch theo ngữ cảnh
+ライオン  # từ thường hoặc tên vật/địa danh thế giới thật; dịch theo ngữ cảnh
+マシ  # từ thường hoặc tên vật/địa danh thế giới thật; dịch theo ngữ cảnh
+ジョッキグラス  # từ thường hoặc tên vật/địa danh thế giới thật; dịch theo ngữ cảnh
+リバティ  # từ thường hoặc tên vật/địa danh thế giới thật; dịch theo ngữ cảnh
+シンキングタイム  # từ thường hoặc tên vật/địa danh thế giới thật; dịch theo ngữ cảnh
+クセ  # từ thường hoặc tên vật/địa danh thế giới thật; dịch theo ngữ cảnh
+ケーキ  # từ thường hoặc tên vật/địa danh thế giới thật; dịch theo ngữ cảnh
+モカホエノ・サ・オーレ  # câu thần chú/đố chữ trong M11_somnium: xử lý như chơi chữ ở chỉ đạo cảnh
+オズナミロ・ガ・オーレ  # câu thần chú/đố chữ trong M11_somnium: xử lý như chơi chữ ở chỉ đạo cảnh
+シニンシン・カ・オーヘ  # câu thần chú/đố chữ trong M11_somnium: xử lý như chơi chữ ở chỉ đạo cảnh
+コンプレックス  # từ thường; dịch theo ngữ cảnh
+コルクボード  # từ thường; dịch theo ngữ cảnh
+ネイルチップ  # từ thường; dịch theo ngữ cảnh
+サッカーゴール  # từ thường; dịch theo ngữ cảnh
+ブランデー  # từ thường; dịch theo ngữ cảnh
+テープ  # từ thường; dịch theo ngữ cảnh
+ミニミニ  # từ thường; dịch theo ngữ cảnh
+イベント  # từ thường; dịch theo ngữ cảnh
+エアコン  # từ thường; dịch theo ngữ cảnh
+ワインボトル  # từ thường; dịch theo ngữ cảnh
+ハロウィン  # từ thường; dịch theo ngữ cảnh
+スノーボード  # từ thường; dịch theo ngữ cảnh
+スキー  # từ thường; dịch theo ngữ cảnh
+クリスマスツリー  # từ thường; dịch theo ngữ cảnh
+コートハンガー  # từ thường; dịch theo ngữ cảnh
+アイドル  # từ thường; dịch theo ngữ cảnh
+チェーン  # từ thường; dịch theo ngữ cảnh
+ペナント  # từ thường; dịch theo ngữ cảnh
+サイドボード  # từ thường; dịch theo ngữ cảnh
+リボン  # từ thường; dịch theo ngữ cảnh
+バケツ  # từ thường; dịch theo ngữ cảnh
+パーティション  # từ thường; dịch theo ngữ cảnh
+コイン  # từ thường; dịch theo ngữ cảnh
+チェア  # từ thường; dịch theo ngữ cảnh
+マガジンラック  # từ thường; dịch theo ngữ cảnh
+クッション  # từ thường; dịch theo ngữ cảnh
+レンジ  # từ thường; dịch theo ngữ cảnh
+ペア  # từ thường; dịch theo ngữ cảnh
+チョコレート  # từ thường; dịch theo ngữ cảnh
+チャプター  # từ thường; dịch theo ngữ cảnh
+コミュニケーション  # từ thường; dịch theo ngữ cảnh
+ドイツ  # từ thường; dịch theo ngữ cảnh
+サイクロプス  # từ thường; dịch theo ngữ cảnh
+ボイス  # từ thường; dịch theo ngữ cảnh
+グッズ  # từ thường; dịch theo ngữ cảnh
+ホワイト  # từ thường; dịch theo ngữ cảnh
+イケメン  # từ thường; dịch theo ngữ cảnh
+ストレス  # từ thường; dịch theo ngữ cảnh
+メイド  # từ thường; dịch theo ngữ cảnh
+ショック  # từ thường; dịch theo ngữ cảnh
+メンタル  # từ thường; dịch theo ngữ cảnh
+ゴンドラ  # từ thường; dịch theo ngữ cảnh
+ニューロン  # từ thường; dịch theo ngữ cảnh
+アクセス  # từ thường; dịch theo ngữ cảnh
+コピー  # từ thường; dịch theo ngữ cảnh
+アカウント  # từ thường; dịch theo ngữ cảnh
+シーン  # từ thường; dịch theo ngữ cảnh
+タコ  # từ thường; dịch theo ngữ cảnh
+サンプル  # từ thường; dịch theo ngữ cảnh
+メンバー  # từ thường; dịch theo ngữ cảnh
+チェック  # từ thường; dịch theo ngữ cảnh
+スケジュール  # từ thường; dịch theo ngữ cảnh
+ブタ  # từ thường; dịch theo ngữ cảnh
+マッチョ  # từ thường; dịch theo ngữ cảnh
+ババア  # từ thường; dịch theo ngữ cảnh
+アクション  # từ thường; dịch theo ngữ cảnh
+フィルム  # từ thường; dịch theo ngữ cảnh
+ヒーロー  # từ thường; dịch theo ngữ cảnh
+ペン  # từ thường; dịch theo ngữ cảnh
+ウォォォ  # từ thường; dịch theo ngữ cảnh
+ボロボロ  # từ thường; dịch theo ngữ cảnh
+アヤメ  # từ thường; dịch theo ngữ cảnh
+バラ  # từ thường; dịch theo ngữ cảnh
+リセット  # từ thường; dịch theo ngữ cảnh
+オモチ  # từ thường; dịch theo ngữ cảnh
+ブブーッ  # từ thường; dịch theo ngữ cảnh
+オス  # từ thường; dịch theo ngữ cảnh
+メス  # từ thường; dịch theo ngữ cảnh
+キレイ  # từ thường; dịch theo ngữ cảnh
+エピローグ  # từ thường; dịch theo ngữ cảnh
+クッキングコマンド  # từ thường; dịch theo ngữ cảnh
+ランプ  # từ thường; dịch theo ngữ cảnh
+オタク  # từ thường; dịch theo ngữ cảnh
+チュートリアル  # từ thường; dịch theo ngữ cảnh
+ランニングタイム  # từ thường; dịch theo ngữ cảnh
+メインディッシュ  # từ thường; dịch theo ngữ cảnh
+リトライ  # từ thường; dịch theo ngữ cảnh
+フローチャート  # từ thường; dịch theo ngữ cảnh
+ナビ  # từ thường; dịch theo ngữ cảnh
+ウジャトシステム  # từ thường; dịch theo ngữ cảnh
+フォークリフト  # từ thường; dịch theo ngữ cảnh
+モップ  # từ thường; dịch theo ngữ cảnh
+フラスコ  # từ thường; dịch theo ngữ cảnh
+クレーン  # từ thường; dịch theo ngữ cảnh
+スピーカー  # từ thường; dịch theo ngữ cảnh
+ストレッチャー  # từ thường; dịch theo ngữ cảnh
+シート  # từ thường; dịch theo ngữ cảnh
+スキップ  # từ thường; dịch theo ngữ cảnh
+テクノロジー  # từ thường; dịch theo ngữ cảnh
+シリコンマスク  # từ thường; dịch theo ngữ cảnh
+コンビニ  # từ thường; dịch theo ngữ cảnh
+ミュート  # từ thường; dịch theo ngữ cảnh
+サブリミナル  # từ thường; dịch theo ngữ cảnh
+ボーナスメニュー  # từ thường; dịch theo ngữ cảnh
+クラス  # từ thường; dịch theo ngữ cảnh
+ランク  # từ thường; dịch theo ngữ cảnh
+ヘッド  # từ thường; dịch theo ngữ cảnh
+キャラクター  # từ thường; dịch theo ngữ cảnh
+ケツ  # từ thường; dịch theo ngữ cảnh
+ダブル  # từ thường; dịch theo ngữ cảnh
+タングステン  # từ thường; dịch theo ngữ cảnh
+ハジキ  # từ thường; dịch theo ngữ cảnh
+スイカ  # từ thường; dịch theo ngữ cảnh
+プラトン  # từ thường; dịch theo ngữ cảnh
+ソレハ  # từ thường; dịch theo ngữ cảnh
+クリオネ  # từ thường; dịch theo ngữ cảnh
+ボウタイ  # từ thường; dịch theo ngữ cảnh
+メディア  # từ thường; dịch theo ngữ cảnh
+タクシー  # từ thường; dịch theo ngữ cảnh
+バックアップ  # từ thường; dịch theo ngữ cảnh
+ホスト  # từ thường; dịch theo ngữ cảnh
+クソ  # từ thường; dịch theo ngữ cảnh
+ラジコンカー  # từ thường; dịch theo ngữ cảnh
+ジャック・オー・ランタン  # từ thường; dịch theo ngữ cảnh
+リスク  # từ thường; dịch theo ngữ cảnh
+アイドルグループ  # từ thường; dịch theo ngữ cảnh
+ラック  # từ thường; dịch theo ngữ cảnh
+トンズラ  # từ thường; dịch theo ngữ cảnh
+アキバ  # từ thường; dịch theo ngữ cảnh
+チューチュー  # từ thường; dịch theo ngữ cảnh
+パチャカ  # từ thường; dịch theo ngữ cảnh
+ペダル  # từ thường; dịch theo ngữ cảnh
+リムジン  # từ thường; dịch theo ngữ cảnh
+センス  # từ thường; dịch theo ngữ cảnh
+アリバイ  # từ thường; dịch theo ngữ cảnh
+シモネタ  # từ thường; dịch theo ngữ cảnh
+スナメリ  # từ thường; dịch theo ngữ cảnh
+ゴロゴロ  # từ thường; dịch theo ngữ cảnh
+パリピ  # từ thường; dịch theo ngữ cảnh
+マスコミ  # từ thường; dịch theo ngữ cảnh
+キサマ  # từ thường; dịch theo ngữ cảnh
+ゴム  # từ thường; dịch theo ngữ cảnh
+レシート  # từ thường; dịch theo ngữ cảnh
+テーマ  # từ thường; dịch theo ngữ cảnh
+オカルトクイズ  # từ thường; dịch theo ngữ cảnh
+センターサークル  # từ thường; dịch theo ngữ cảnh
+ナス  # từ thường; dịch theo ngữ cảnh
+マーボー  # từ thường; dịch theo ngữ cảnh
+キャンプ  # từ thường; dịch theo ngữ cảnh
+ドーナツ  # từ thường; dịch theo ngữ cảnh
+ブラック  # từ thường; dịch theo ngữ cảnh
+プルタブ  # từ thường; dịch theo ngữ cảnh
+レンチ  # từ thường; dịch theo ngữ cảnh
+アトラクション  # từ thường; dịch theo ngữ cảnh
+ストーブ  # từ thường; dịch theo ngữ cảnh
+セーブデータ  # từ thường; dịch theo ngữ cảnh
+ビールケース  # từ thường; dịch theo ngữ cảnh
+ギア  # từ thường; dịch theo ngữ cảnh
+ハイテーブル  # từ thường; dịch theo ngữ cảnh
+ハイスツール  # từ thường; dịch theo ngữ cảnh
+ベンチプレス  # từ thường; dịch theo ngữ cảnh
+カーテン  # từ thường; dịch theo ngữ cảnh
+ダイニングテーブル  # từ thường; dịch theo ngữ cảnh
+レジ  # từ thường; dịch theo ngữ cảnh
+イカリ  # từ thường; dịch theo ngữ cảnh
+ハシゴ  # từ thường; dịch theo ngữ cảnh
+シンク  # từ thường; dịch theo ngữ cảnh
+シンボル  # từ thường; dịch theo ngữ cảnh
+クリームソーダ  # từ thường; dịch theo ngữ cảnh
+マンデラエフェクト  # từ thường; dịch theo ngữ cảnh
+バミューダトライアングル  # từ thường/âm thanh/ký hiệu; dịch theo ngữ cảnh
+ブラックホール  # từ thường/âm thanh/ký hiệu; dịch theo ngữ cảnh
+ネットワーク  # từ thường/âm thanh/ký hiệu; dịch theo ngữ cảnh
+キャバ  # từ thường/âm thanh/ký hiệu; dịch theo ngữ cảnh
+アクセル  # từ thường/âm thanh/ký hiệu; dịch theo ngữ cảnh
+バット  # từ thường/âm thanh/ký hiệu; dịch theo ngữ cảnh
+レギュラー  # từ thường/âm thanh/ký hiệu; dịch theo ngữ cảnh
+フリーメイソン  # từ thường/âm thanh/ký hiệu; dịch theo ngữ cảnh
+ルート  # từ thường/âm thanh/ký hiệu; dịch theo ngữ cảnh
+オープン  # từ thường/âm thanh/ký hiệu; dịch theo ngữ cảnh
+ギリギリ  # từ thường/âm thanh/ký hiệu; dịch theo ngữ cảnh
+クッキングスキル  # từ thường/âm thanh/ký hiệu; dịch theo ngữ cảnh
+アルバム  # từ thường/âm thanh/ký hiệu; dịch theo ngữ cảnh
+イケボ  # từ thường/âm thanh/ký hiệu; dịch theo ngữ cảnh
+イヨマンテ  # từ thường/âm thanh/ký hiệu; dịch theo ngữ cảnh
+エンコ  # từ thường/âm thanh/ký hiệu; dịch theo ngữ cảnh
+オールマイティ  # từ thường/âm thanh/ký hiệu; dịch theo ngữ cảnh
+エッチ  # từ thường/âm thanh/ký hiệu; dịch theo ngữ cảnh
+マンガ  # từ thường/âm thanh/ký hiệu; dịch theo ngữ cảnh
+ダチ  # từ thường/âm thanh/ký hiệu; dịch theo ngữ cảnh
+ディープスロート  # từ thường/âm thanh/ký hiệu; dịch theo ngữ cảnh
+リーク  # từ thường/âm thanh/ký hiệu; dịch theo ngữ cảnh
+モチロン  # từ thường/âm thanh/ký hiệu; dịch theo ngữ cảnh
+ウナギ  # từ thường/âm thanh/ký hiệu; dịch theo ngữ cảnh
+コーヒー  # từ thường/âm thanh/ký hiệu; dịch theo ngữ cảnh
+スキル  # từ thường/âm thanh/ký hiệu; dịch theo ngữ cảnh
+ワイン  # từ thường/âm thanh/ký hiệu; dịch theo ngữ cảnh
+エンジニア  # từ thường/âm thanh/ký hiệu; dịch theo ngữ cảnh
+イエロースポッドサイドネックタートル  # từ thường/âm thanh/ký hiệu; dịch theo ngữ cảnh
+プロフィール  # từ thường/âm thanh/ký hiệu; dịch theo ngữ cảnh
+バレンタイン  # từ thường/âm thanh/ký hiệu; dịch theo ngữ cảnh
+スタン  # từ thường/âm thanh/ký hiệu; dịch theo ngữ cảnh
+オフィス  # từ thường/âm thanh/ký hiệu; dịch theo ngữ cảnh
+エラー  # từ thường/âm thanh/ký hiệu; dịch theo ngữ cảnh
+コンビ  # từ thường/âm thanh/ký hiệu; dịch theo ngữ cảnh
+タイム  # từ thường/âm thanh/ký hiệu; dịch theo ngữ cảnh
+アルコール  # từ thường/âm thanh/ký hiệu; dịch theo ngữ cảnh
+ノリ  # từ thường/âm thanh/ký hiệu; dịch theo ngữ cảnh
+スペース  # từ thường/âm thanh/ký hiệu; dịch theo ngữ cảnh
+ミレドシラ  # từ thường/âm thanh/ký hiệu; dịch theo ngữ cảnh
+インティインティ  # từ thường/âm thanh/ký hiệu; dịch theo ngữ cảnh
+アーケードゲーム  # từ thường/âm thanh/ký hiệu; dịch theo ngữ cảnh
+メダルゲーム  # từ thường/âm thanh/ký hiệu; dịch theo ngữ cảnh
+カンゲキ  # từ thường/âm thanh/ký hiệu; dịch theo ngữ cảnh
+エンジン  # từ thường/âm thanh/ký hiệu; dịch theo ngữ cảnh
+マグロ  # từ thường/âm thanh/ký hiệu; dịch theo ngữ cảnh
+デタラメ  # từ thường/âm thanh/ký hiệu; dịch theo ngữ cảnh
+ニューヨーク  # từ thường/âm thanh/ký hiệu; dịch theo ngữ cảnh
+リアル  # từ thường/âm thanh/ký hiệu; dịch theo ngữ cảnh
+シンプル  # từ thường/âm thanh/ký hiệu; dịch theo ngữ cảnh
+ボラ  # từ thường/âm thanh/ký hiệu; dịch theo ngữ cảnh
+カセット  # từ thường/âm thanh/ký hiệu; dịch theo ngữ cảnh
+ダサ  # từ thường/âm thanh/ký hiệu; dịch theo ngữ cảnh
+フリ  # từ thường/âm thanh/ký hiệu; dịch theo ngữ cảnh
+パク  # từ thường/âm thanh/ký hiệu; dịch theo ngữ cảnh
+ケガ  # từ thường/âm thanh/ký hiệu; dịch theo ngữ cảnh
+ケア  # từ thường/âm thanh/ký hiệu; dịch theo ngữ cảnh
+バイタルサイン  # từ thường/âm thanh/ký hiệu; dịch theo ngữ cảnh
+モニタリング  # từ thường/âm thanh/ký hiệu; dịch theo ngữ cảnh
+レア  # từ thường/âm thanh/ký hiệu; dịch theo ngữ cảnh
+ニョロ  # từ thường/âm thanh/ký hiệu; dịch theo ngữ cảnh
+ファミミレシラミソ  # từ thường/âm thanh/ký hiệu; dịch theo ngữ cảnh
+ヒヒヒヒヒハハハハハ  # từ thường/âm thanh/ký hiệu; dịch theo ngữ cảnh
+パセリ  # từ thường/âm thanh/ký hiệu; dịch theo ngữ cảnh
+キャッサバ  # từ thường/âm thanh/ký hiệu; dịch theo ngữ cảnh
+サプリ  # từ thường/âm thanh/ký hiệu; dịch theo ngữ cảnh
+仮マップ名  # mã hạng / chữ giữ chỗ, giữ nguyên
+C3  # mã hạng / chữ giữ chỗ, giữ nguyên
+C2  # mã hạng / chữ giữ chỗ, giữ nguyên
+C1  # mã hạng / chữ giữ chỗ, giữ nguyên
+B3  # mã hạng / chữ giữ chỗ, giữ nguyên
+B2  # mã hạng / chữ giữ chỗ, giữ nguyên
+B1  # mã hạng / chữ giữ chỗ, giữ nguyên
+A3  # mã hạng / chữ giữ chỗ, giữ nguyên
+A2  # mã hạng / chữ giữ chỗ, giữ nguyên
+A1  # mã hạng / chữ giữ chỗ, giữ nguyên
+S3  # mã hạng / chữ giữ chỗ, giữ nguyên
+S2  # mã hạng / chữ giữ chỗ, giữ nguyên
+S1  # mã hạng / chữ giữ chỗ, giữ nguyên

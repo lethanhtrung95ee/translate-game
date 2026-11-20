@@ -1,0 +1,980 @@
+{
+ "id": "cs_adult_tho_map158_ev8p2",
+ "loai": "adult_tho",
+ "mo_ta": "Cảnh chuẩn (adult_tho) để đo chất lượng chung, không gắn lỗi cụ thể",
+ "bang_chung": "bo de mo rong 01/11",
+ "game": "cursed_armor_v2",
+ "grp": "Map158.json:ev8p2",
+ "src_lang": "zh",
+ "role": "dialogue",
+ "engine": [
+  "rpgmaker_mvmz"
+ ],
+ "facts": {
+  "engine": [
+   "rpgmaker_mvmz"
+  ],
+  "lang": [
+   "zh"
+  ],
+  "genre": [
+   "jrpg người lớn (eroge, adult only), dark fantasy phương tây, sandbox sa đọa nhiều nhánh, nhiều kết (good/bad/normal/true end, hậu truyện), có thay trang phục và các chỉ số"
+  ]
+ },
+ "lesson_codes": [
+  "G-001",
+  "G-002",
+  "G-004",
+  "G-005",
+  "G-017",
+  "G-018",
+  "G-019",
+  "G-020",
+  "G-021",
+  "G-022",
+  "G-023",
+  "G-024",
+  "E-rpgmaker_mvmz-002",
+  "E-rpgmaker_mvmz-006",
+  "E-rpgmaker_mvmz-008",
+  "G-003",
+  "G-006",
+  "G-007",
+  "G-008",
+  "G-009",
+  "G-010",
+  "G-011",
+  "G-012",
+  "G-013",
+  "G-014",
+  "G-015",
+  "G-016",
+  "E-rpgmaker_mvmz-001",
+  "E-rpgmaker_mvmz-003",
+  "E-rpgmaker_mvmz-004",
+  "E-rpgmaker_mvmz-005",
+  "E-rpgmaker_mvmz-007"
+ ],
+ "project_rules": [],
+ "fixed": {
+  "style": {
+   "genre": "JRPG người lớn (eroge, Adult Only), dark fantasy phương Tây, sandbox sa đọa nhiều nhánh, nhiều kết (Good/Bad/Normal/True End, Hậu truyện), có thay trang phục và các chỉ số",
+   "tone": "Dâm tục thẳng thắn, cưỡng ép, nhưng nhiều tiếng cười: Lilina tự vả và cà khịa trong đầu, Succubus đỏng đảnh, ác nhân ngọt (Chloria), phản diện lố (Ross, Hentai ZERO), giọng ban ơn (Thành chủ), giọng giảng đường vô lý (thầy phòng y tế cô học viện), meta phá tường thứ tư (Giọng của Thần, Thần Sói). Xen giữa là những đoạn bi kịch thật (Học viện, Di tích, Tinh linh Lửa, Galon, Torres, hậu truyện Thần Sói) cần giọng trầm, không đùa thêm, không làm nhẹ đi. Thế giới và tên người theo kiểu phương Tây; văn gốc là tiếng Trung khẩu ngữ mạng.",
+   "notes": "1) MÃ ĐIỀU KHIỂN: giữ nguyên tuyệt đối \\N[n] \\C[n] \\W[n] \\V[n] \\G \\{ \\} \\. \\| \\^ \\!, kể cả mã lỗi gốc ('\\C[2]\\N[12]', '\\C[3]\\C[18]\\C[0]', ký tự \\u001e). Riêng dấu '\\' lạc đứng trước chữ Hán ('\\安維爾', '\\千年樹精C') thì BỎ dấu '\\' khi dịch: MV không hiển thị nó, còn '\\' đặt trước chữ Latin sẽ nuốt chữ ('\\Chìa'). Kiểm định viên không bắt lỗi việc bỏ dấu này. \\. và \\^ đặt giữa từng âm để ngắt nhịp: giữ đúng số lượng, phân bố theo âm tiết tiếng Việt.\n2) TÊN ĐỘNG \\N[n] là tên Actor, được dịch một lần trong Actors.json. Có actor là danh từ chung: \\N[50]=Giọng của Thần, \\N[51]=Giáo viên, \\N[52]=Học viên, \\N[53]=Lính gác, \\N[54]=Tù nhân, \\N[55]=Dân làng, \\N[59]=Con Nô Hèn. Tiếng Việt đặt định ngữ SAU danh từ nên phải đảo vị trí mã: '帝國\\N[53]' → '\\N[53] Đế quốc', '\\N[53]們' → 'đám \\N[53]', '\\N[64]妹妹' → 'em \\N[64]', '\\N[13]大人' → '\\N[13] đại nhân'. Câu chứa \\N[1] phải đọc được cả khi \\N[1] bị đổi thành danh hiệu (tuyến nhà ngục). Câu chứa \\N[59] phải đọc trôi khi biến hiện thành 'Con Nô Hèn' ở mọi vị trí (chủ ngữ, tân ngữ, '…của \\N[59]').\n3) DẤU: '～' của gốc viết thành '~' đúng vị trí (font không có ～, hệ thống tự đổi; chữ ký giọng của Lilina, Succubus, Chloria, Trosi); '……'; ngoặc () cho độc thoại; 【】, 「」 nếu có. Chữ kéo dài từng âm ('Long~Ngâm~') thì đặt ~ sau mỗi tiếng.\n4) ĐỘC THOẠI （） là lòng thật của Lilina: giọng tự nhiên, sắc, hay chửi thầm, tương phản rõ với câu ngoài miệng.\n5) HAI BIẾN THỂ: cùng một cảnh có câu trong trắng và câu sa đọa thay nhau. Dịch song song, cùng cấu trúc.\n6) ĐỘ TUỔI: mọi nhân vật trong cảnh tình dục được trình bày là người trưởng thành. 少女 → 'cô gái/thiếu nữ'; không dùng 'bé gái, em bé, nhóc' trong cảnh tình dục; không thêm chi tiết gợi tuổi nhỏ. 學生/學院 → 'học viên'. Nếu gặp cảnh có dấu hiệu nhân vật vị thành niên (xem can_xac_nhan: Map186 少年, Seth) thì DỪNG, không dịch phần tình dục, báo chủ dự án.\n7) THANG TỪ TỤC (thống nhất, không nhẹ hơn, không tục hơn gốc): 肏 → 'đụ'; 干/做 → 'làm/chơi'; 肉棒 → 'cây gậy thịt' (Lilina e thẹn thì 'cái ấy'); 雞巴 → 'con cặc'; 淫穴 → 'lỗ dâm'; 小穴 → 'khe thịt/lỗ nhỏ' (KHÔNG 'cô bé'); 屁眼/菊穴 → 'lỗ đít/hoa cúc'; 精液 → 'tinh dịch/tinh'; 高潮 → 'lên đỉnh'; 丟了/要丟了 → 'ra… ra mất rồi'/'sắp ra rồi'; 母狗 → 'chó cái'; 母豬 → 'lợn nái'; 騷貨 → 'đồ dâm đãng'; 婊子 → 'con điếm'; 蕩婦 → 'con đĩ'; 癡女 → 'gái dâm'; 調教 → 'thuần hóa'.\n8) Tiếng rên, tượng thanh: Việt hóa ('A～', 'Ưm～', 'Hự'), độ dài tương đương. Lời bị bịt viết tắt bằng chữ Latin (Y/Z/D/S…) thì đổi sang lối đứt chữ tiếng Việt.\n9) Câu kích hoạt ám thị, tên ám thị, câu 'lẽ thường', câu niệm nô lệ: giống từng chữ ở mọi chỗ. Thuật ngữ UI (chỉ số, trạng thái, vật phẩm) khớp từng chữ với thoại có nhắc tới. Cảnh lặp và lựa chọn lặp dịch y hệt.\n10) Không lộ trước bí mật: Hiller là Tướng quỷ, Berika là thủ phạm, Owen chủ mưu, Cospiro là lính đánh thuê, tên thật Succubus, Long Ngâm chết, '？？？' là cái bóng của Thành chủ, Jude hai mặt, ý đồ của Luna.\n11) Lỗi gõ trong gốc thì dịch theo nghĩa đúng: 期約→契約, 不馬→不是馬, 別看玩笑→別開玩笑, 把持住→沒把持住, 繞/求繞→饒, 差不過→差不多, 難倒→難道, 無亂→無論, 踐習→實踐, 堵住→賭注, 亦然→依然, 試者→試著, 正視→正式, 識實物→識時務, 好想→好像, 會去→回去, 不削→不屑, 我先在→我現在, 在來→再來, 遍離開→便離開, 大副→大幅, 窮北→窮唄, 處于→出于, 再司機→再伺機. 'Nromal End' → 'Normal End' (chờ duyệt).\n12) Meta và quảng cáo (Giọng của Thần, Patreon, Tamamo, 'phần sau sẽ làm', 'các quý ông') dịch đủ, giữ giọng tác giả. '(未完成)' → '(Chưa hoàn thành)'.\n13) Nhãn người nói có thể bị gán nhầm (xem can_xac_nhan): dịch theo ngữ cảnh, không sửa nhãn trong dữ liệu.",
+   "strategy": {
+    "han_viet": "Mức VỪA PHẢI. Thoại đời thường, cà khịa, chửi bới và cảnh H dùng tiếng Việt khẩu ngữ, thuần Việt, gần lối nói người trẻ. Hán-Việt dành cho tên thánh vật, chiêu thức, danh hiệu, chức vị, thuật ngữ huyền huyễn (Tinh thể Thần Nước, Ngọc Lửa Rực, Cuồng Nộ Của Đất, Mắt Quỷ, Dấu ấn linh hồn, Vua Succubus, Kiếm Thánh Gió, Cánh Đen, Thành chủ, thần lực, phép cấm, kết giới, dị loài, lẽ thường, thuần hóa). Xưng hô Hán-Việt chỉ dùng cho nhân vật được chỉ định, để tạo giọng hoặc nhại: Eros (吾/汝 → 'bổn vương/ta – ngươi/nàng/ái phi'), Thành chủ Jon ('bổn vương'), Sax ('lão phu'), lính đánh thuê ('bổn đại gia'), tên lính đánh thuê sến kiểu kiếm hiệp, Hentai ZERO hô chiêu. Không dùng 'tại hạ', 'nô gia', 'bổn cô nương' cho Lilina hay nô lệ. Thành ngữ Hán đổi sang thành ngữ Việt tương đương; câu tao nhã dùng mỉa ('Một khắc đêm xuân đáng ngàn vàng') thì giữ câu Hán-Việt quen thuộc.",
+    "wordplay": "Giữ TÁC DỤNG, không giữ chữ, và không thêm câu đùa mới. 性福/幸福 → 'hạnh phịch'/'hạnh phúc', thống nhất cả game (xem handbook). 出來賣/外賣 → 'gái ra đường bán'/'gái giao hàng tận nơi'. 菊花 → 'hoa cúc'. Mật mã hoa giữ tên hoa và giá. 骯臟的屁眼交易 → 'phi vụ đi cửa sau dơ bẩn'. 風之劍圣/蜂之劍圣 → 'Kiếm Thánh Gió'/'Kiếm Thánh Ong'. 出色 tách 色 → 'xuất \"sắc\"'. 回籠昏 → 'ngất nướng'. Câu lỡ miệng, vấp chữ ('賤……\\N[59]', chữ tục lọt giữa câu) phải dựng lại cú vấp bằng tiếng Việt. Lóng mạng: 泰迪 → 'Teddy' (để giọng mỉa tự gánh nghĩa), 抖S → 'S chính hiệu/máu S', 黑暗料理 → 'món hắc ám'. Meme dùng bản Việt quen thuộc (Đại thoại Tây du theo bản lồng tiếng; 'đầu gối trúng tên' bám sát Skyrim). Nhịp hài: giữ '……' đúng chỗ bị cắt ('cảm ơ… Á!'); cặp mắng nhau giữ nhịp ngắn ('Đồ óc heo!', 'Đồ lợn ngu!'). Chơi chữ không có đối ứng thì viết câu Việt có cùng tác dụng, ngắn bằng hoặc ngắn hơn gốc, không chú thích.",
+    "poetry": "Hầu như không có thơ vần. Văn nghi thức cần dịch cố định: (a) công thức ám thị 'Học ma pháp hệ X thì…, đó là lẽ thường' / 'Dùng phép hệ X nghĩa là phải…'; (b) câu kích hoạt 'Có việc gì muốn làm không?' / 'Nói thật đi'; (c) câu niệm nô lệ Torres và '(\\N[59] là một con chó cái x N)'; (d) khẩu quyết bốn bước 'Cảm nhận nó, khống chế nó, hội tụ nó, giải phóng nó!' và châm ngôn giả của các hệ; (e) lời thề hôn lễ (Map119 với \\N[11]; Map135 bản nhại bẻ vế cuối thành 'mãi mãi phục tùng') theo văn lời thề cưới Công giáo quen thuộc; (f) màn xưng danh Hentai ZERO theo kiểu tokusatsu; (g) đoạn nhại Đại thoại Tây du ở Good End A; (h) lời chào chung của tinh linh giữ đền 'Nhân loại kia～ Đây không phải nơi ngươi nên đến!'; (i) câu kiếm hiệp và bài 'ca' rượu của tên lính đánh thuê; (j) lời kết sử thi của các bad end: giọng biên niên trang trọng, nhịp chậm; (k) tên chiêu Latin Zapfkiel / Aleph giữ nguyên.",
+    "names": "Chưa có bản Việt chính thức; tên tiếng Anh chính thức mới xác nhận Lilina, Aisha (tên DLC) và tên game Cursed Armor. Bản EN có tồn tại nên ưu tiên đối chiếu Steam EN trước khi khóa. Tạm dùng tên phương Tây viết Latin theo phiên âm hợp lý: Hiller, Simelia, Meili, Roger, Melissa, Lucia, Berika, Owen, Cospiro, Jon, Chloria, Trosi, Jude, Sanga, Resk, Sax, Shirley, Ross, Roster, Bigas, Charlo, Rant, Miller, Hart, Wendy, Jack, Darren, Nell, Lydis, Robert, Luna, Nicole, Lilith, Lisa, Lorin, James, Loki, Loken, Fitch, Matt, Galen, Galon, Sophia, Eros, Shuria, Dale, Seth, Nestra. Tên gốc Á dùng Hán-Việt: 龍吟 → Long Ngâm, 白雪 → Bạch Tuyết. Biệt danh mang nghĩa thì dịch nghĩa: 黑泰迪 → Teddy Đen, 金絲雀 → Hoàng Yến, 紅松鼠 → Sóc Đỏ, 白銀狐 → Cáo Bạc, 賤奴 → Con Nô Hèn. Khách mời giữ tên fandom quen dùng (Tamamo-no-Mae, Asuna, Ram, Rem, Tokisaki Kurumi, Nero, Okita Souji…). Nhãn người nói là danh từ chung thì dịch nghĩa (守衛 → Lính gác, 村民1 → Dân làng 1, 男人A → Gã A, 傭兵B → Lính đánh thuê B), riêng ？？？ giữ nguyên. Nhãn phải khớp tên actor tương ứng. Đặt tên một lần trong glossary và không đổi giữa chừng."
+   }
+  },
+  "work": {
+   "premise": "JRPG người lớn của wolfzq. Lilina, pháp sư hệ Hỏa ngây thơ, mơ thành mạo hiểm giả vĩ đại. Cô bị ép đội Vương miện Nguyền Rủa của Chúa tể Succubus Eros, trong giáp có Succubus trú ngụ, vừa giúp vừa xúi cô sa ngã. Muốn cởi giáp, cô phải tìm sáu thánh vật qua hàng chục tuyến rẽ nhánh: Hội mạo hiểm, nhà ngục, học viện, thành nô lệ Torres, trường đua kỳ lân, hang bọ. Cái hay: mỗi cảnh có hai giọng (trong trắng/sa đọa); độc thoại trong ngoặc tỉnh táo, cà khịa, trái hẳn lời phục tùng ngoài miệng; hài tự vả, meta; và những cú phản bội từ chính người cô tin."
+  }
+ },
+ "adult": true,
+ "payload": {
+  "lang": "Ngôn ngữ nguồn: tiếng Trung → tiếng Việt.",
+  "characters": [
+   {
+    "id": "fitch",
+    "names": [
+     "費奇",
+     "\\N[65]",
+     "BOSS",
+     "主人"
+    ],
+    "name_vi": "Fitch (tạm)",
+    "gender": "nam",
+    "role": "Tổng giám đốc Công ty Đầu tư Mạo hiểm, chủ Trường đua Bí mật, cho vay nặng lãi; người tình của Vua Kỳ Lân",
+    "personality": "Tay anh chị, thao túng bằng cược; si tình, đỏ mặt khi bị người yêu trêu",
+    "speech_style": "Cộc, giọng giang hồ; trước Vua Kỳ Lân thì lắp bắp",
+    "catchphrases": [
+     "出來混，講的就是個信字！ → Ra đời lăn lộn, trọng nhất là chữ tín!",
+     "我一日為主，你就終生為奴！ → Một ngày làm chủ, cả đời làm nô!"
+    ],
+    "comedic_role": "Kẻ ác mà tsundere trước người yêu",
+    "self": "ta (với Lilina); anh (với Vua Kỳ Lân)"
+   },
+   {
+    "id": "jon",
+    "names": [
+     "瓊恩",
+     "\\N[14]",
+     "城主",
+     "？？？ (kẻ giấu mặt trước Map154 ev2p6)"
+    ],
+    "name_vi": "Jon",
+    "gender": "nam",
+    "role": "Thành chủ Torres, nắm 'thần khí' và Xiềng xích nô lệ. \\N[14] gồm cả Thành chủ cũ lẫn em trai 'cái bóng' thế chỗ sau khi anh chết",
+    "personality": "Quyền lực tuyệt đối, ngạo mạn, chiếm hữu, chiều hai chị em Chloria; tàn nhẫn khi bị phản bội. Bản 'cái bóng' thì tham quyền, nóng nảy",
+    "speech_style": "Tự xưng 'bổn vương', giọng ban ơn; bị nài thì chịu thua ('Thật hết cách với hai đứa!')",
+    "catchphrases": [
+     "真拿你們倆沒辦法！ → Thật hết cách với hai đứa!",
+     "要不本王死，要不他們死，要不你跟他們一起死！ → Hoặc bổn vương chết, hoặc bọn chúng chết, hoặc ngươi chết cùng bọn chúng!"
+    ],
+    "comedic_role": "Kẻ ban ơn tự mãn",
+    "arc": "Bị đầu độc ở Map158 ev8p5, chết hoặc được cứu; cái bóng thành Thành chủ mới",
+    "self": "bổn vương; 'ta' khi chưa lộ mặt (？？？ nói với Jude)",
+    "forbid": [
+     "tôi",
+     "anh (tự xưng)",
+     "hé lộ ？？？ là em trai trước Map154 ev2p6"
+    ],
+    "note": "Có 'cự căn' được Melissa cấy thần tính Abaddon (theo ghi chép phần 1–13)."
+   },
+   {
+    "id": "lilina",
+    "names": [
+     "莉莉娜",
+     "\\N[1]",
+     "Lilina",
+     "\\N[59] (tự xưng khi làm nô lệ)",
+     "\\N[61] (Teddy Đen, tên chó Thành chủ ban)",
+     "\\W[3]",
+     "獵天使",
+     "會長夫人",
+     "夫人",
+     "火的魔女",
+     "水的魔女",
+     "烈焰的魔女",
+     "特等生",
+     "小綿羊",
+     "癡女幽靈",
+     "吸精魔女",
+     "圣女",
+     "王妃",
+     "苗床",
+     "活體人偶",
+     "附屬品",
+     "亞巴頓女王",
+     "亞巴頓女妖",
+     "萬物之母",
+     "性奴隸",
+     "\\N[1]（人偶）"
+    ],
+    "name_vi": "Lilina",
+    "gender": "nữ",
+    "age": "thiếu nữ trưởng thành (P15 ghi 20 tuổi); cựu học viên ưu tú Học viện Ma pháp",
+    "role": "Nữ chính. Pháp sư hệ Hỏa ('Phù thủy Lửa'), mạo hiểm giả bị Giáp Nguyền Rủa trói buộc, mang danh hiệu Thiên Sứ Săn Mồi",
+    "personality": "Hồn nhiên, mơ mộng, cứng đầu, có chính nghĩa, tốt bụng, mềm lòng, cả tin, dễ bị dỗ ngọt. Ham tiền ('Một triệu G～!'), lém lỉnh, tự đắc khi lừa được địch, tsundere với người mình thích. Rất sợ ma nhưng thích dọa người. Thông minh, biết suy luận. Bị lời nguyền, ám thị, thuốc chi phối thì buông thả, rồi lại tự trách và đổ cho giáp. Đặt vào thế 'chủ nhân' thì nổi máu S. Có tham vọng ngây ngô làm 'nữ vương'.",
+    "speech_style": "Giọng con gái trẻ, nhiều '～'. Lúc tỉnh táo thì gọn, đúng chất mạo hiểm giả. Độc thoại （） hay cãi lại chính lời vừa nói, mỉa mai, tham tiền, chửi thầm ('Cái logic chó má gì thế này?'). Khi sa đọa thì nũng nịu, kéo dài 'chủ～nhân～', xưng 'người ta' theo 人家. Trong vai nô lệ thì xưng \\N[59]; đóng vai chó thì chỉ 'Gâu～ gâu gâu～'. Khi sợ thì lắp bắp. Ở học viện ngây ngô '…lẽ thường sao…'. Làm búp bê: đều đều, xưng bằng tên. Đối đầu Thần Sói, Berika: đắc thắng, trêu chọc.",
+    "catchphrases": [
+     "要不是這該死的詛咒，我怎么會…… → Nếu không vì cái lời nguyền chết tiệt này, mình đâu có…",
+     "我在想什么呢！ → Mình đang nghĩ cái gì thế này!",
+     "精液～必須好好的收集起來～～ → Tinh dịch～ phải gom cho thật kỹ～～",
+     "我可是勵志要成為一個偉大的冒險家！ → Mình đã quyết chí thành một mạo hiểm giả vĩ đại cơ mà!",
+     "真是諷刺啊…… → Đúng là mỉa mai thật…",
+     "……沒有效果 → …Không có tác dụng",
+     "哼～\\N[13]，有我在，怎么可能讓你如愿！ → Hừ～ \\N[13], có tôi ở đây, đừng hòng được như ý!",
+     "是，主人 → Vâng, chủ nhân",
+     "常識……嗎…… → Thường thức… sao…",
+     "難道是喝多了嗎 → Chẳng lẽ lại say quá à?"
+    ],
+    "comedic_role": "Kẻ tự vả, tự sửa lời ('cảm ơ… Á!'); người tỉnh táo cà khịa trong đầu, trái với lời phục tùng ngoài miệng; tsukkomi tỉnh bơ trước các trò lố; con bạc ảo tưởng; bị lừa bằng 'lẽ thường'",
+    "arc": "Mỗi tuyến một kiểu sa ngã (nô lệ vĩnh viễn, phu nhân giả, búp bê sống, vợ trùng, vợ thú, nữ yêu, Nữ vương), nhánh thiện thì giữ được ước mơ. Niềm tin vào Cha xứ sụp ở Map100, vào Owen sụp ở Map133. Với Long Ngâm: yêu, rồi mất, hoặc dùng tình yêu phá phép cấm. Với Aisha: từ khinh miệt đến nhường ngôi. Cuối cùng chọn vị trí nữ vương.",
+    "self": "tôi (với người ngoài, khi tỉnh táo); mình (độc thoại trong （）); em/con/cháu tùy người nghe (xem relations); 'người ta' khi gốc dùng 人家; giữ \\N[59] khi gốc dùng \\N[59]; 'ta' khi ở tư thế nữ vương, đối đầu Thần Sói/Berika, ra lệnh cho Succubus hoặc Vua Côn Trùng",
+    "forbid": [
+     "bé, nhóc, em bé (cho cô)",
+     "tao",
+     "bổn cô nương",
+     "nô gia",
+     "ta (trừ khi bị nhập xác hoặc ở tư thế nữ vương như trên)",
+     "tự ý đổi \\N[59] thành 'tôi/em' hoặc ngược lại"
+    ],
+    "note": "\\N[1] có thể bị đổi thành danh hiệu ở tuyến nhà ngục. Câu sửa lời là điểm kịch: 'Tiện… \\N[59] hiểu rồi' (Map139), Sax cấm cô xưng \\N[59] (Map085). Câu 'là, tiện…' rồi chữa thành 'tôi' phải khớp chữ 'Con Nô Hèn'. Ở Map154 (đã tự do) cô xưng 'tôi'. \\N[61] là tên riêng nhưng chỉ chính Lilina."
+   },
+   {
+    "id": "master_generic",
+    "names": [
+     "主人",
+     "主人（百合女）",
+     "主人（愛犬者）",
+     "主人（巨人）",
+     "主人（三兄弟）"
+    ],
+    "name_vi": "Chủ nhân / Chủ nhân (nữ) / Chủ nhân (kẻ mê chó) / Chủ nhân (người khổng lồ) / Chủ nhân (ba anh em)",
+    "gender": "đa số nam; 主人（百合女） là nữ",
+    "role": "Nhãn chung cho chủ thuê nô lệ (Map150), khách kỹ viện; mỗi lần là một người khác",
+    "speech_style": "Bề trên, hám tiền, hay dọa 'trả hàng'",
+    "self": "ta / tao (tùy độ thô)"
+   },
+   {
+    "id": "succubus",
+    "names": [
+     "魅魔",
+     "\\N[4]",
+     "淫魔 (khi Lilina gọi)",
+     "詛咒鎧甲",
+     "頭冠",
+     "西西莉婭",
+     "西西"
+    ],
+    "name_vi": "Succubus (hiển thị qua \\N[4]); tên thật Cecilia (tạm)",
+    "gender": "nữ",
+    "age": "linh hồn hàng trăm năm, lúc sống là người",
+    "role": "Linh hồn trú trong Giáp Nguyền Rủa: đồng hành ký sinh, quân sư, kẻ môi giới các khế ước linh hồn. Muốn đưa Lilina lên ngôi Nữ hoàng Succubus, ngầm muốn cướp sức Vua Succubus",
+    "personality": "Lẳng lơ, đỏng đảnh, tinh quái, tự mãn vì giỏi mồm mép, thực dụng, đòi giá bằng năng lượng dâm dục, hay đánh vào tình cảm, ghen và dỗi. Thật lòng che chở Lilina theo kiểu khinh khỉnh. Sợ kỳ lân. Căm Vua Succubus vì hắn dồn \\N[60] vào đường cùng. Hoảng khi bị thần lực áp đảo.",
+    "speech_style": "Ngọt, nũng, mỉa, câu nào cũng kéo '～': 'Ái chà～', 'Haizz～', 'Ồ dà?'. Gọi Lilina 'chủ nhân', lúc trịnh trọng gọi 'nữ vương (của em)'. Lúc nghiêm (can dùng Zapfkiel, khuyên phá thai, trừng phạt) thì câu ngắn, gắt, gọi thẳng tên. Hay chêm '(tuy chưa thức tỉnh)'. Khi mượn thân Lilina thì giọng trịch thượng.",
+    "catchphrases": [
+     "主人～ → Chủ nhân～",
+     "嗨～嗨～主人～ → Hây～ hây～ chủ nhân～",
+     "哎呀？居然戴著貞操帶！哈～讓我來幫你解開束縛吧～ → Ái chà? Lại còn đeo đai trinh tiết! Ha～ để em cởi trói cho nhé～",
+     "不要在意細節～ → Đừng để ý tiểu tiết mà～",
+     "女王啊，你已經不需要再出賣靈魂了！ → Nữ vương à, người không cần bán linh hồn nữa đâu!",
+     "這才像女王嘛～想做就做！ → Thế mới ra dáng nữ vương chứ～ Muốn là làm!",
+     "主人～你的S性格又被勾出來了！ → Chủ nhân～ máu S của người lại bị khơi lên rồi kìa!"
+    ],
+    "comedic_role": "Kẻ xúi bậy, tự khen, cà khịa, đổ thêm dầu vào lửa; bị Lilina bắt câm miệng; phá tường thứ tư ở đoạn quảng cáo Patreon; lỡ miệng rồi chống chế",
+    "arc": "Lộ dần thân phận và quá khứ (từng là người, bán linh hồn để trả thù, tên Cecilia). Ghen với kỳ lân. Bị phong ấn ở Học viện và trường đua. Thú nhận không muốn phục sinh Vua Succubus (Map161). Ở True End Ma trùng có quyền điều khiển thân xác Lilina, ở hậu truyện thuần hóa Thần Sói. Map100 phản cả Hiller lẫn Simelia.",
+    "self": "em với Lilina (nũng: 'người ta' theo 人家; tự khen: 'em đây'); ta với người khác (Galon, Mắt Quỷ, Hiller, tinh linh), khi ra oai hoặc trừng phạt",
+    "forbid": [
+     "Mị ma",
+     "Cecilia ở những chỗ gốc chỉ ghi \\N[4]/魅魔 (không lộ tên thật sớm)",
+     "mày, tao",
+     "chị đây"
+    ],
+    "note": "Ghi chép các phần dùng lẫn ta/em/chị/tôi; hồ sơ chốt 'em – chủ nhân' cho cả game. 'Người ta' cũng là cách nói chung khi nhắc quá khứ ('lúc sống người ta là người')."
+   }
+  ],
+  "relations": [
+   {
+    "from": "succubus",
+    "to": "lilina",
+    "self": "em; nũng: người ta (人家); tự khen: em đây; khi nghiêm khắc/trừng phạt: ta",
+    "call": "chủ nhân; trịnh trọng: nữ vương (của em); khi nghiêm khắc/trừng phạt: gọi thẳng \\N[1]",
+    "changes": "Map133: 'nữ vương của em'. Map161 ev16p3 (trừng phạt): đổi sang ta và gọi thẳng tên. Normal End tuyến Di tích: đảo vai (xem chiều ngược). Hậu truyện Thần Sói: mượn thân Lilina thì giọng trịch thượng, xưng ta.",
+    "note": "Linh hồn ký sinh tự hạ mình gọi 'chủ nhân' để nịnh, nên 'em' khi nũng, 'ta' khi lật thế trên. [biên tập trưởng độc lập, 02/11]"
+   },
+   {
+    "from": "lilina",
+    "to": "succubus",
+    "self": "chị; khi ra lệnh/ở tư thế nữ vương: ta",
+    "call": "\\N[4] / em; khi ra lệnh: ngươi",
+    "changes": "Normal End tuyến Di tích: đảo vai, Lilina xưng em, gọi Succubus 'chủ nhân'. Map183: coi Succubus là đồ của mình, xưng ta.",
+    "note": "Succubus đã xưng 'em' gọi 'chủ nhân' thì Lilina đáp 'chị' cho khớp và thân; bỏ 'tôi – cô' vì hai người dính nhau suốt game, cãi nhau như người nhà. [biên tập trưởng độc lập, 02/11]"
+   },
+   {
+    "from": "lilina",
+    "to": "jon",
+    "self": "\\N[59]",
+    "call": "chủ nhân (giữ '\\N[14] chủ nhân' khi gốc ghép tên)",
+    "note": "Trong vai nô lệ, gốc dùng \\N[59] và 主人 nhất quán. Đóng vai chó thì chỉ 'Gâu～'. Độc thoại vẫn xưng \\N[59] theo gốc. [biên tập trưởng độc lập, 02/11]"
+   },
+   {
+    "from": "jon",
+    "to": "lilina",
+    "self": "bổn vương",
+    "call": "ngươi (gọi tên \\N[1] khi gốc gọi tên); khi khinh: con chó cái / chó cái nhỏ (小母狗); sau khi ban tên: \\N[61] (\\N[62] khi gốc dùng \\N[62])",
+    "changes": "Từ lúc ban tên ở Map158 ev8p0 thì gọi \\N[61].",
+    "note": "Thành chủ quyền lực tuyệt đối, giọng ban ơn: bổn vương–ngươi. [biên tập trưởng độc lập, 02/11]"
+   },
+   {
+    "from": "lilina",
+    "to": "fitch",
+    "self": "tôi → em",
+    "call": "ông chủ → chủ nhân",
+    "changes": "Map116 ev3p0: bị bắt gọi 'chủ nhân', cô lắp bắp, vẫn xưng tôi. Từ Map117 ev3p2 gọi thật lòng, chuyển sang em – chủ nhân.",
+    "note": "Khách vay tiền lạ mặt ('您好') nên lúc đầu giữ khoảng cách; 'ông chủ' hợp vai, không phụ thuộc tuổi. [biên tập trưởng độc lập, 02/11]"
+   },
+   {
+    "from": "fitch",
+    "to": "lilina",
+    "self": "ta",
+    "call": "cô / \\N[1]",
+    "note": "Tay chủ trường đua cho vay nặng lãi, giọng giang hồ kẻ cả nên 'ta – cô'. [biên tập trưởng độc lập, 02/11]"
+   },
+   {
+    "from": "lilina",
+    "to": "master_generic",
+    "self": "em; giữ tên \\N[1] khi gốc tự xưng bằng tên; 'người ta' khi gốc dùng 人家",
+    "call": "chủ nhân; khách nữ (女主人): nữ chủ nhân",
+    "changes": "Trước khi nhận vai nô lệ (câu hỏi mở đầu 'là khách à?'): gọi 'quý khách', chưa xưng. Từ lúc chấp nhận vai: em / chủ nhân.",
+    "note": "Lilina trong vai nô lệ kỹ viện nên hạ mình, xưng em, gọi chủ nhân. [biên tập trưởng độc lập, 02/11]"
+   },
+   {
+    "from": "master_generic",
+    "to": "lilina",
+    "self": "ta; chủ thô lỗ, dọa trả hàng: tao",
+    "call": "ngươi; chủ thô lỗ: mày; lúc âu yếm hám dục: cưng",
+    "note": "Nhãn chung cho chủ thuê/khách, giọng bề trên với nô lệ; mức thô theo từng người. [biên tập trưởng độc lập, 02/11]"
+   }
+  ],
+  "glossary": [
+   {
+    "src": "淫能",
+    "vi": "năng lượng dâm dục (UI: Dâm năng)"
+   },
+   {
+    "src": "神力 / 神性 / 神性鎧甲",
+    "vi": "thần lực / thần tính / giáp mang thần lực"
+   },
+   {
+    "src": "神器",
+    "vi": "thần khí",
+    "note": "vật phẩm hệ thống/NG+ và 'vật' của Thành chủ Torres; KHÁC 圣物 (thánh vật); không dịch là 'của quý'"
+   },
+   {
+    "src": "城主 / 城主專屬奴隸競選 / 本王",
+    "vi": "Thành chủ / cuộc tuyển chọn nô lệ riêng của Thành chủ / bổn vương"
+   },
+   {
+    "src": "性奴隸 / 永久性奴隸 / 永遠的性奴隸 / 性奴三姐妹",
+    "vi": "nô lệ tình dục / nô lệ vĩnh viễn / nô lệ tình dục vĩnh viễn / ba chị em nô lệ tình dục"
+   },
+   {
+    "src": "侍寢 / 侍奉",
+    "vi": "hầu ngủ / hầu hạ"
+   },
+   {
+    "src": "雌獸 / 母狗 / 母豬 / 家畜",
+    "vi": "thú cái / chó cái / lợn nái / gia súc"
+   },
+   {
+    "src": "蛇女三姐妹 / 蛇女A/B/C",
+    "vi": "ba chị em Người rắn / Nữ Rắn A/B/C"
+   },
+   {
+    "src": "自慰 / 榨乳 / 精液吸收 / 射精 / Futa化 / 出產&流產",
+    "vi": "Thủ dâm / Vắt sữa / Hấp thụ tinh dịch / Xuất tinh / Futa hóa / Sinh nở & Sẩy thai",
+    "note": "tên kỹ năng"
+   },
+   {
+    "src": "詛咒度 / 墮落值 / 順從度 / 忠誠度 / 依戀值 / 好感度 / 羞恥心",
+    "vi": "độ nguyền rủa / độ sa đọa / độ Phục tùng / độ Trung thành / độ Quyến luyến / độ thiện cảm / liêm sỉ",
+    "note": "độ Trung thành ngưỡng 500 quyết định kết ở Map158"
+   },
+   {
+    "src": "是否需要跳過重復H？ / 跳過劇情",
+    "vi": "Bỏ qua cảnh H đã xem? / Bỏ qua cốt truyện"
+   }
+  ],
+  "scene": {
+   "effect": "bất an",
+   "mood": "mê muội",
+   "summary": "Lặp lại cảnh hầu hạ. Lilina dần nghiện phục tùng, độ phục tùng +100. Thành chủ cho cô hầu hạ dưới thân phận người, cô mừng vì thấy có cơ hội trốn, rồi tự hỏi sao mình lại muốn trốn."
+  },
+  "lines": [
+   {
+    "id": "0",
+    "k": "dialogue",
+    "s": "是否需要跳過重復H？"
+   },
+   {
+    "id": "1",
+    "k": "choice",
+    "s": "是"
+   },
+   {
+    "id": "2",
+    "k": "choice",
+    "s": "否"
+   },
+   {
+    "id": "3",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n唔～～～汪～～～汪～\n（主人的神器插進來了！）",
+    "sp": "lilina"
+   },
+   {
+    "id": "4",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n汪～～汪～～汪～～\n（繼續放縱自己吧～）",
+    "sp": "lilina"
+   },
+   {
+    "id": "5",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n嗚～～汪～～汪～～\n（呃，好像并不舒服……）",
+    "sp": "lilina"
+   },
+   {
+    "id": "6",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n⟦3⟧⟦4⟧⟦5⟧，不全心全意效忠主人，神器是不會賜給你快感的！",
+    "sp": "jon"
+   },
+   {
+    "id": "7",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n嗚～～嗚～～嗚～～\n（可惡，好想要再享受一下那種超越一切的快感……）",
+    "sp": "lilina"
+   },
+   {
+    "id": "8",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n（不行，忍不住了，快點給⟦3⟧快感～當性奴隸當母狗都可以，當多久多行～）",
+    "sp": "lilina"
+   },
+   {
+    "id": "9",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n汪～～汪～～汪～～\n（果然～主人的神器才是最棒的！）",
+    "sp": "lilina"
+   },
+   {
+    "id": "10",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n（能成為主人的母狗真是太好了～讓⟦3⟧永遠的舒服下去吧～）",
+    "sp": "lilina"
+   },
+   {
+    "id": "11",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n汪～～汪～～汪～～\n（來了！一波波的強烈快感又來了！就是這種感覺！）",
+    "sp": "lilina"
+   },
+   {
+    "id": "12",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n⟦3⟧⟦4⟧⟦5⟧，你做得很好！本王要加速了哦～",
+    "sp": "jon"
+   },
+   {
+    "id": "13",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n（還想要！還想要！還想要啊！再順從一點！再舒服一點～）",
+    "sp": "lilina"
+   },
+   {
+    "id": "14",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n汪～～汪～～汪～～\n（來了！快感～快感一波波的爆發了！要舒服死了！）",
+    "sp": "lilina"
+   },
+   {
+    "id": "15",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n（再來～～還要～～⟦3⟧要做⟦4⟧⟦5⟧⟦6⟧主人永遠的性奴隸！）",
+    "sp": "lilina"
+   },
+   {
+    "id": "16",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n汪～～汪～～汪～～\n（腦子快要融化了！）",
+    "sp": "lilina"
+   },
+   {
+    "id": "17",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n本王感受到了你的忠誠，現在可以賜給你精液了！",
+    "sp": "jon"
+   },
+   {
+    "id": "18",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n汪～～汪～～汪～～\n（請賜給⟦3⟧精液！⟦4⟧會誓死效忠主人的！）",
+    "sp": "lilina"
+   },
+   {
+    "id": "19",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n汪～～汪～～汪～～汪～～汪～～汪～～\n（腦子里除了舒服二字，已經不剩下任何東西了！）",
+    "sp": "lilina"
+   },
+   {
+    "id": "20",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n時候不早了，⟦3⟧⟦4⟧⟦5⟧、⟦6⟧⟦7⟧⟦8⟧陪本王就寢吧，⟦9⟧⟦10⟧⟦11⟧嘛……睡地毯應該沒問題吧？",
+    "sp": "jon"
+   },
+   {
+    "id": "21",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n汪汪～\n（沒問題，⟦3⟧全聽主人的～）",
+    "sp": "lilina"
+   },
+   {
+    "id": "22",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n（不行！這么縱欲下去，身心都會淪陷的！）",
+    "sp": "lilina"
+   },
+   {
+    "id": "23",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n（還……還想要……主人在體內更多的射精……）",
+    "sp": "lilina"
+   },
+   {
+    "id": "24",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n主人～清醒點行不行？你這樣子我根本沒辦法用淫能幫你……",
+    "sp": "succubus"
+   },
+   {
+    "id": "25",
+    "k": "choice",
+    "s": "⟦0⟧⟦1⟧還要主人的精液～⟦2⟧"
+   },
+   {
+    "id": "26",
+    "k": "choice",
+    "s": "啊……必須，忍住啊！"
+   },
+   {
+    "id": "27",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n……",
+    "sp": "succubus"
+   },
+   {
+    "id": "28",
+    "k": "dialogue",
+    "s": "由于⟦0⟧⟦1⟧⟦2⟧沒有足夠的淫能儲備……"
+   },
+   {
+    "id": "29",
+    "k": "dialogue",
+    "s": "精液的神力開始對⟦0⟧⟦1⟧⟦2⟧的身心產生影響，迫使⟦3⟧⟦4⟧⟦5⟧的順從度增加了⟦6⟧100⟦7⟧！對⟦8⟧⟦9⟧⟦10⟧的忠誠度大副增加了！"
+   },
+   {
+    "id": "30",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n⟦3⟧⟦4⟧⟦5⟧，本王對身為母狗的你很滿意，不過，本王也想看看身為人類的你",
+    "sp": "jon"
+   },
+   {
+    "id": "31",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n汪汪～？\n（主人是什么意思呢？）",
+    "sp": "lilina"
+   },
+   {
+    "id": "32",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n從今天起，如果本王單獨召見你，就用人類的身份來侍奉本王吧",
+    "sp": "jon"
+   },
+   {
+    "id": "33",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n汪汪～\n（太好了，可以交流的話，就有機會能逃出去了！）",
+    "sp": "lilina"
+   },
+   {
+    "id": "34",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n（等等，為什么⟦3⟧要想逃呢？⟦4⟧唯一該做的不就是侍奉主人嗎？）",
+    "sp": "lilina"
+   }
+  ]
+ },
+ "meta": [
+  {
+   "speaker": null,
+   "face": null,
+   "codes": [],
+   "source": "是否需要跳過重復H？",
+   "ban_hien_tai": "Bỏ qua cảnh H đã xem?"
+  },
+  {
+   "speaker": null,
+   "face": null,
+   "codes": [],
+   "source": "是",
+   "ban_hien_tai": "Có"
+  },
+  {
+   "speaker": null,
+   "face": null,
+   "codes": [],
+   "source": "否",
+   "ban_hien_tai": "Không"
+  },
+  {
+   "speaker": "莉莉娜",
+   "face": "lilina2",
+   "codes": [
+    "\\C[6]",
+    "\\N[1]",
+    "\\C[0]"
+   ],
+   "source": "\\C[6]\\N[1]\\C[0]：\n唔～～～汪～～～汪～\n（主人的神器插進來了！）",
+   "ban_hien_tai": null
+  },
+  {
+   "speaker": "莉莉娜",
+   "face": "lilina2",
+   "codes": [
+    "\\C[6]",
+    "\\N[1]",
+    "\\C[0]"
+   ],
+   "source": "\\C[6]\\N[1]\\C[0]：\n汪～～汪～～汪～～\n（繼續放縱自己吧～）",
+   "ban_hien_tai": null
+  },
+  {
+   "speaker": "莉莉娜",
+   "face": "lilina1",
+   "codes": [
+    "\\C[6]",
+    "\\N[1]",
+    "\\C[0]"
+   ],
+   "source": "\\C[6]\\N[1]\\C[0]：\n嗚～～汪～～汪～～\n（呃，好像并不舒服……）",
+   "ban_hien_tai": null
+  },
+  {
+   "speaker": "瓊恩",
+   "face": null,
+   "codes": [
+    "\\C[2]",
+    "\\N[14]",
+    "\\C[0]",
+    "\\C[6]",
+    "\\N[61]",
+    "\\C[0]"
+   ],
+   "source": "\\C[2]\\N[14]\\C[0]：\n\\C[6]\\N[61]\\C[0]，不全心全意效忠主人，神器是不會賜給你快感的！",
+   "ban_hien_tai": null
+  },
+  {
+   "speaker": "莉莉娜",
+   "face": "lilina1",
+   "codes": [
+    "\\C[6]",
+    "\\N[1]",
+    "\\C[0]"
+   ],
+   "source": "\\C[6]\\N[1]\\C[0]：\n嗚～～嗚～～嗚～～\n（可惡，好想要再享受一下那種超越一切的快感……）",
+   "ban_hien_tai": null
+  },
+  {
+   "speaker": "莉莉娜",
+   "face": "lilina1",
+   "codes": [
+    "\\C[6]",
+    "\\N[1]",
+    "\\C[0]",
+    "\\N[59]"
+   ],
+   "source": "\\C[6]\\N[1]\\C[0]：\n（不行，忍不住了，快點給\\N[59]快感～當性奴隸當母狗都可以，當多久多行～）",
+   "ban_hien_tai": null
+  },
+  {
+   "speaker": "莉莉娜",
+   "face": "lilina1",
+   "codes": [
+    "\\C[6]",
+    "\\N[1]",
+    "\\C[0]"
+   ],
+   "source": "\\C[6]\\N[1]\\C[0]：\n汪～～汪～～汪～～\n（果然～主人的神器才是最棒的！）",
+   "ban_hien_tai": null
+  },
+  {
+   "speaker": "莉莉娜",
+   "face": "lilina2",
+   "codes": [
+    "\\C[6]",
+    "\\N[1]",
+    "\\C[0]",
+    "\\N[59]"
+   ],
+   "source": "\\C[6]\\N[1]\\C[0]：\n（能成為主人的母狗真是太好了～讓\\N[59]永遠的舒服下去吧～）",
+   "ban_hien_tai": null
+  },
+  {
+   "speaker": "莉莉娜",
+   "face": "lilina1",
+   "codes": [
+    "\\C[6]",
+    "\\N[1]",
+    "\\C[0]"
+   ],
+   "source": "\\C[6]\\N[1]\\C[0]：\n汪～～汪～～汪～～\n（來了！一波波的強烈快感又來了！就是這種感覺！）",
+   "ban_hien_tai": null
+  },
+  {
+   "speaker": "瓊恩",
+   "face": null,
+   "codes": [
+    "\\C[2]",
+    "\\N[14]",
+    "\\C[0]",
+    "\\C[6]",
+    "\\N[61]",
+    "\\C[0]"
+   ],
+   "source": "\\C[2]\\N[14]\\C[0]：\n\\C[6]\\N[61]\\C[0]，你做得很好！本王要加速了哦～",
+   "ban_hien_tai": null
+  },
+  {
+   "speaker": "莉莉娜",
+   "face": "lilina3",
+   "codes": [
+    "\\C[6]",
+    "\\N[1]",
+    "\\C[0]"
+   ],
+   "source": "\\C[6]\\N[1]\\C[0]：\n（還想要！還想要！還想要啊！再順從一點！再舒服一點～）",
+   "ban_hien_tai": null
+  },
+  {
+   "speaker": "莉莉娜",
+   "face": "lilina3",
+   "codes": [
+    "\\C[6]",
+    "\\N[1]",
+    "\\C[0]"
+   ],
+   "source": "\\C[6]\\N[1]\\C[0]：\n汪～～汪～～汪～～\n（來了！快感～快感一波波的爆發了！要舒服死了！）",
+   "ban_hien_tai": null
+  },
+  {
+   "speaker": "莉莉娜",
+   "face": "lilina3",
+   "codes": [
+    "\\C[6]",
+    "\\N[1]",
+    "\\C[0]",
+    "\\N[59]",
+    "\\C[2]",
+    "\\N[14]",
+    "\\C[0]"
+   ],
+   "source": "\\C[6]\\N[1]\\C[0]：\n（再來～～還要～～\\N[59]要做\\C[2]\\N[14]\\C[0]主人永遠的性奴隸！）",
+   "ban_hien_tai": null
+  },
+  {
+   "speaker": "莉莉娜",
+   "face": "lilina3",
+   "codes": [
+    "\\C[6]",
+    "\\N[1]",
+    "\\C[0]"
+   ],
+   "source": "\\C[6]\\N[1]\\C[0]：\n汪～～汪～～汪～～\n（腦子快要融化了！）",
+   "ban_hien_tai": null
+  },
+  {
+   "speaker": "瓊恩",
+   "face": null,
+   "codes": [
+    "\\C[2]",
+    "\\N[14]",
+    "\\C[0]"
+   ],
+   "source": "\\C[2]\\N[14]\\C[0]：\n本王感受到了你的忠誠，現在可以賜給你精液了！",
+   "ban_hien_tai": null
+  },
+  {
+   "speaker": "莉莉娜",
+   "face": "lilina3",
+   "codes": [
+    "\\C[6]",
+    "\\N[1]",
+    "\\C[0]",
+    "\\N[59]",
+    "\\N[59]"
+   ],
+   "source": "\\C[6]\\N[1]\\C[0]：\n汪～～汪～～汪～～\n（請賜給\\N[59]精液！\\N[59]會誓死效忠主人的！）",
+   "ban_hien_tai": null
+  },
+  {
+   "speaker": "莉莉娜",
+   "face": "lilina3",
+   "codes": [
+    "\\C[6]",
+    "\\N[1]",
+    "\\C[0]"
+   ],
+   "source": "\\C[6]\\N[1]\\C[0]：\n汪～～汪～～汪～～汪～～汪～～汪～～\n（腦子里除了舒服二字，已經不剩下任何東西了！）",
+   "ban_hien_tai": null
+  },
+  {
+   "speaker": "瓊恩",
+   "face": null,
+   "codes": [
+    "\\C[2]",
+    "\\N[14]",
+    "\\C[0]",
+    "\\C[6]",
+    "\\N[62]",
+    "\\C[0]",
+    "\\C[2]",
+    "\\N[63]",
+    "\\C[0]",
+    "\\C[6]",
+    "\\N[61]",
+    "\\C[0]"
+   ],
+   "source": "\\C[2]\\N[14]\\C[0]：\n時候不早了，\\C[6]\\N[62]\\C[0]、\\C[2]\\N[63]\\C[0]陪本王就寢吧，\\C[6]\\N[61]\\C[0]嘛……睡地毯應該沒問題吧？",
+   "ban_hien_tai": null
+  },
+  {
+   "speaker": "莉莉娜",
+   "face": "lilina3",
+   "codes": [
+    "\\C[6]",
+    "\\N[1]",
+    "\\C[0]",
+    "\\N[59]"
+   ],
+   "source": "\\C[6]\\N[1]\\C[0]：\n汪汪～\n（沒問題，\\N[59]全聽主人的～）",
+   "ban_hien_tai": null
+  },
+  {
+   "speaker": "莉莉娜",
+   "face": "lilina1",
+   "codes": [
+    "\\C[6]",
+    "\\N[1]",
+    "\\C[0]"
+   ],
+   "source": "\\C[6]\\N[1]\\C[0]：\n（不行！這么縱欲下去，身心都會淪陷的！）",
+   "ban_hien_tai": null
+  },
+  {
+   "speaker": "莉莉娜",
+   "face": "lilina2",
+   "codes": [
+    "\\C[6]",
+    "\\N[1]",
+    "\\C[0]"
+   ],
+   "source": "\\C[6]\\N[1]\\C[0]：\n（還……還想要……主人在體內更多的射精……）",
+   "ban_hien_tai": null
+  },
+  {
+   "speaker": "魅魔",
+   "face": null,
+   "codes": [
+    "\\C[5]",
+    "\\N[4]",
+    "\\C[0]"
+   ],
+   "source": "\\C[5]\\N[4]\\C[0]：\n主人～清醒點行不行？你這樣子我根本沒辦法用淫能幫你……",
+   "ban_hien_tai": null
+  },
+  {
+   "speaker": null,
+   "face": null,
+   "codes": [
+    "\\C[5]",
+    "\\N[59]",
+    "\\C[0]"
+   ],
+   "source": "\\C[5]\\N[59]還要主人的精液～\\C[0]",
+   "ban_hien_tai": null
+  },
+  {
+   "speaker": null,
+   "face": null,
+   "codes": [],
+   "source": "啊……必須，忍住啊！",
+   "ban_hien_tai": null
+  },
+  {
+   "speaker": "魅魔",
+   "face": null,
+   "codes": [
+    "\\C[5]",
+    "\\N[4]",
+    "\\C[0]"
+   ],
+   "source": "\\C[5]\\N[4]\\C[0]：\n……",
+   "ban_hien_tai": "\\C[5]\\N[4]\\C[0]:\n……"
+  },
+  {
+   "speaker": null,
+   "face": null,
+   "codes": [
+    "\\C[5]",
+    "\\N[4]",
+    "\\C[0]"
+   ],
+   "source": "由于\\C[5]\\N[4]\\C[0]沒有足夠的淫能儲備……",
+   "ban_hien_tai": null
+  },
+  {
+   "speaker": null,
+   "face": null,
+   "codes": [
+    "\\C[6]",
+    "\\N[1]",
+    "\\C[0]",
+    "\\C[6]",
+    "\\N[1]",
+    "\\C[0]",
+    "\\C[6]",
+    "\\C[0]",
+    "\\C[2]",
+    "\\N[14]",
+    "\\C[0]"
+   ],
+   "source": "精液的神力開始對\\C[6]\\N[1]\\C[0]的身心產生影響，迫使\\C[6]\\N[1]\\C[0]的順從度增加了\\C[6]100\\C[0]！對\\C[2]\\N[14]\\C[0]的忠誠度大副增加了！",
+   "ban_hien_tai": null
+  },
+  {
+   "speaker": "瓊恩",
+   "face": null,
+   "codes": [
+    "\\C[2]",
+    "\\N[14]",
+    "\\C[0]",
+    "\\C[6]",
+    "\\N[61]",
+    "\\C[0]"
+   ],
+   "source": "\\C[2]\\N[14]\\C[0]：\n\\C[6]\\N[61]\\C[0]，本王對身為母狗的你很滿意，不過，本王也想看看身為人類的你",
+   "ban_hien_tai": null
+  },
+  {
+   "speaker": "莉莉娜",
+   "face": "lilina1",
+   "codes": [
+    "\\C[6]",
+    "\\N[1]",
+    "\\C[0]"
+   ],
+   "source": "\\C[6]\\N[1]\\C[0]：\n汪汪～？\n（主人是什么意思呢？）",
+   "ban_hien_tai": null
+  },
+  {
+   "speaker": "瓊恩",
+   "face": null,
+   "codes": [
+    "\\C[2]",
+    "\\N[14]",
+    "\\C[0]"
+   ],
+   "source": "\\C[2]\\N[14]\\C[0]：\n從今天起，如果本王單獨召見你，就用人類的身份來侍奉本王吧",
+   "ban_hien_tai": null
+  },
+  {
+   "speaker": "莉莉娜",
+   "face": "lilina1",
+   "codes": [
+    "\\C[6]",
+    "\\N[1]",
+    "\\C[0]"
+   ],
+   "source": "\\C[6]\\N[1]\\C[0]：\n汪汪～\n（太好了，可以交流的話，就有機會能逃出去了！）",
+   "ban_hien_tai": null
+  },
+  {
+   "speaker": "莉莉娜",
+   "face": "lilina1",
+   "codes": [
+    "\\C[6]",
+    "\\N[1]",
+    "\\C[0]",
+    "\\N[59]",
+    "\\N[59]"
+   ],
+   "source": "\\C[6]\\N[1]\\C[0]：\n（等等，為什么\\N[59]要想逃呢？\\N[59]唯一該做的不就是侍奉主人嗎？）",
+   "ban_hien_tai": null
+  }
+ ],
+ "checks": [
+  {
+   "xung_ho_nhat_quan": true
+  },
+  {
+   "thang_18": true
+  }
+ ],
+ "tao_luc": "2026-11-02"
+}

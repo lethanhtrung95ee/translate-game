@@ -1,0 +1,753 @@
+loai	canh_hoac_id	so_cau_hoac_lo	da_dich	id_dau	id_cuoi	ghi_chu
+canh	ch1_1_1	96	73	LUA/ch1_1_1:32.0	Story/D_1_1_1_060	còn ý Triệu Hoạt muốn cưới tiểu sư muội thì theo mục Tránh của sổ tay (ở gần, ở bên, giành về bên mình), chuyện chưởng môn gả nàng cho người ta là hôn sự, dịch đúng sự việc.
+canh	ch2_4_2_break_start_01	45	44	Story/D_2_4_2_Break_01_001	Story/D_2_4_2_Break_01_042	không đổi ý nhớ tiểu sư muội thành lời yêu đương (nàng chưa đủ 18): 'lấy tiểu sư muội làm cái cớ', 'được sư nương dặn trông nom';
+canh	ch2_4_5_3	36	35	Story/N_2_4_5_3_001	Story/D_2_4_5_3_031	Chỉ đạo: cả hai cô bé chưa đủ 18: tình cảm chỉ là huynh – muội, lo cho nhau;
+canh	ch2_4_5_4_1	135	130	Story/T_2_4_5_4_1_001	Story/D_2_4_5_4_1_122	Chỉ đạo: GIỚI HẠN VỊ THÀNH NIÊN (Mặc Linh, Vân Thường chưa đủ 18): giữ đúng việc bắt cóc, ác ý, cái chết, nhưng bỏ mọi khung tình dục, cưới hỏi: 我的新娘子，为夫来了 → 'Hê hê hê, hai em, ta tới đây…!';
+canh	ch2_4_5_4_2	18	17	Story/N_2_4_5_4_2_001	Story/T_2_4_5_4_2_001	sau đó Lưu Ngạc kéo Mặc Linh tránh sét giữa cơn giông, rồi Thư Dung gặp một tiên cô và kể công chúa ném cờ mời thiên lôi.
+canh	ch3_1_2_1	146	144	Story/D_3_1_2_1_001	Story/T_3_1_2_1_011	Chỉ đạo: Vân Thường chưa đủ 18: câu đùa của Hoạt với nàng là đùa anh – em (vai vế, chọc ghẹo), không 'vợ', không ve vãn;
+canh	ch3_1_2_2	117	113	Story/D_3_1_2_2_001	Story/D_3_1_2_2_101	Chỉ đạo: lời Đoàn với Vân Thường là thói chiếm hữu của người tự coi là anh (nàng chưa đủ 18), không lời tình ái;
+canh	ch3_1_2_3_break_start_01	176	174	Story/D_3_1_2_3_Break_01_001	Story/D_3_1_2_3_Break_01_166	câu nghĩ của Hoạt 我只贪图你美色 và ý 'bất chính kiểu khác' của nàng: nàng chưa đủ 18 nên đổi thành ý tham được nàng chiều chuộng, gọi 'ca ca' (vẫn giữ trò nàng chê vẻ mặt huynh ghê);
+canh	ch3_1_4_1	183	174	Story/N_3_1_4_1_001	Story/D_3_1_4_1_166	Chỉ đạo: tình cảm giữa Đoàn và Vân Thường chỉ là tình anh – em đã đổ vỡ (nàng chưa đủ 18), không ý trai gái;
+canh	ch3_1_4_3_2	71	70	Story/D_3_1_4_3_2_001	Story/D_3_1_4_3_2_096	用嘴吗？ của Hoạt (đùa nhạt) nàng chưa đủ 18: thành đùa 'thông khí bằng miệng à' kiểu thổi hơi, không ý hôn.
+canh	ch3_3_1_2_2	50	50	Story/D_3_3_1_2_2_001	Story/D_3_3_1_2_2_040	Chỉ đạo: Vân Thường chưa đủ 18 — ý nghĩ của Hoạt khi bị ôm (130.50–52) chỉ là lúng túng của huynh trưởng bị em gái ôm cứng, không tả hương, cơ thể, không 'ý nghĩ bẩn thỉu', không Liễu Hạ Huệ theo nghĩa dục;
+canh	ch3_3_2_2	131	131	Story/N_3_3_2_2_001	Story/D_3_3_2_2_120	Chỉ đạo: Vân Thường chưa đủ 18 — đoạn đuổi bắt (132.59) tả như anh em đùa, không gợi vẻ đẹp;
+canh	ch3_6_4_2	57	53	Story/D_3_6_4_2_001	Story/N_3_6_4_2_010	Thượng Quan Huỳnh xuất hiện rồi cãi nhau với Thâm vì chuyện tiêu xài, gia đinh khuyên Hoạt tránh.
+canh	ch3_8_1_break_start_01	4	4	Story/D_3_8_1_Break_Start_01_001	Story/D_3_8_1_Break_Start_01_003	Hoạt quyết định ra ngoài tìm chỗ vắng luyện quyền cho mệt để dễ ngủ, tránh bị người nhà Nam Cung bàn tán.
+canh	ch3_14_1	145	141	Story/D_3_14_1_001	Story/D_3_14_1_090	đệ tử Phi Thiên dặn Hoạt tránh xa Ngụy chưởng môn.
+canh	ch3_16_1	121	106	Story/D_3_16_1_001	Story/D_3_16_1_074	với Mặc Linh (chưa đủ 18): '心脏要麻痹' → mừng muốn ngất, '癞蛤蟆想吃天鹅肉' → đùa cóc ghẻ đòi được tiểu sư muội vẫy tay, không gán tình trai gái.
+canh	ch3_16_4	53	47	Story/D_3_16_4_001	Story/N_3_16_4_006	Chỉ đạo: Mặc Linh chưa đủ 18: khung huynh – muội đồng môn, che chở;
+canh	ch4_2_3_3	24	22	Story/D_4_2_3_3_001	Story/D_4_2_3_3_021	Hoạt thấy phiền, muốn tránh xa.
+canh	ch4_3_6_1	7	7	Story/D_4_3_6_1_001	Story/D_4_3_6_1_007	Mặc Linh chưa đủ 18: giữ sự việc, chỉ tình huynh muội, không khung yêu đương.
+canh	ch4_3_6_2	73	71	Story/D_4_3_6_2_001	Story/N_4_3_6_2_010	Mặc Linh và Vân Thường chưa đủ 18: chỉ tình huynh muội, bạn bè.
+canh	ch4_4_2_break_start_01	230	213	Story/D_4_4_2_Break_214	Story/N_4_4_2_Break_004	Chỉ đạo: Mặc Linh, Vân Thường chưa đủ 18: hôn sự nói đúng sự việc ('thành thân'), không lời yêu đương;
+canh	ch4_5_1	100	87	Story/D_4_5_1_001	Story/D_4_5_1_086	Chỉ đạo: Mặc Linh chưa đủ 18: 关心 → lo cho;
+canh	ch4_6_1	86	86	Story/D_4_6_1_001	Story/N_4_6_1_003	Chỉ đạo: Phàn chưa đủ 18: từ Story/D_4_6_1_064 là sư muội, không tình cảm;
+canh	ch4_6_7_break_start_01	27	25	Story/D_4_6_7_Break_001	Story/N_4_6_7_Break_004	Chỉ đạo: Mặc Linh chưa đủ 18, giữ sự việc là lòng quý mến, che chở của sư huynh, không dùng khung yêu đương.
+canh	ch4_6_9	112	105	Story/T_4_6_9_001	Story/D_4_6_9_058	Chỉ đạo: Vân Thường, Mặc Linh chưa đủ 18: chỉ tình bạn, tình anh em.
+canh	ch4_6_12	35	34	Story/N_4_6_12_001	Story/D_4_6_12_034	Chỉ đạo: nói về Mặc Linh (chưa đủ 18) chỉ nói sự việc và lòng che chở, không tô lãng mạn.
+canh	ch4_6_15	13	13	Story/D_4_6_15_001	Story/N_4_6_15_004	Chỉ đạo: Vân Thường chưa đủ 18, chỉ viết tình thân, quan tâm của em gái;
+canh	ch4_7_2_break_start_01	130	123	Story/D_4_7_2_Break_001	Story/N_4_7_2_Break_009	câu đùa gán đôi tiểu sư muội (chưa đủ 18) chỉ nói như đùa chăm lo, không tình ái.
+canh	ch4_8_9_3	208	192	Story/D_4_8_9_3_001	Story/N_4_8_9_3_005	lời đồn D_4_8_9_3_057 có tiểu sư muội và Vân Thường (chưa đủ 18): hai nàng chỉ 'quấn quýt bên hắn', 'đêm đêm tranh sủng' chỉ để cho Long Tương;
+canh	ch4_9_1	29	23	Story/D_4_9_1_001	Story/D_4_9_1_020	Chỉ đạo: Mặc Linh chưa đủ 18: lời hứa là của sư huynh che chở em gái;
+canh	ch4_9_3_3	77	61	Story/D_4_9_3_3_001	Story/D_4_9_3_3_060	Chỉ đạo: Vân Thường chưa đủ 18: giằng áo, đòi cởi áo đem đốt là nghịch kiểu em gái, 女禽兽 → 'đồ nữ cầm thú' (mắng đùa);
+canh	ch4_9_3_4	43	41	Story/D_4_9_3_4_027	Story/N_4_9_3_4_003	Chỉ đạo: cả hai chưa đủ 18: 看上哥哥 → Mặc Linh 'quý ca ca thật rồi';
+canh	ch4_9_3_5	39	38	Story/D_4_9_3_5_001	Story/T_4_9_3_5_003	Chỉ đạo: chưa đủ 18: khung anh trai – em gái được cưng;
+canh	ch5_2_1	36	33	Story/D_5_2_1_001	Story/T_5_2_1_004	Chỉ đạo: Mặc Linh 15 tuổi (chưa đủ 18): giữ đủ sự việc (kén rể, thành thân, xuất giá, ba thư sáu lễ) nhưng khung là việc nhà, bổn phận với cha và sư môn, không từ lãng mạn hay gợi tình.
+canh	ch5_2_5	127	126	Story/D_5_2_5_001	Story/N_5_2_5_003	Chỉ đạo: Mặc Linh và Vân Thường chưa đủ 18: D_5_2_5_079 要娶默铃的是本姑娘, 抢我老婆 → bạn thân giành bạn ('người rước Mặc Linh phải là bản cô nương', 'chúng nó cướp Mặc Linh của ta'), không chữ 'vợ';
+canh	ch5_2_7_1	183	155	Story/D_5_2_7_1_001	Story/D_5_2_7_1_159	Chỉ đạo: Mặc Linh chưa đủ 18: toàn cảnh là anh – em;
+canh	ch5_3_1	204	192	Story/D_5_3_1_001	Story/D_5_3_1_160	Chỉ đạo: Mặc Linh chưa đủ 18: lời cầu thân của khách là khách sáo, khoe mẽ hay ngạo mạn, không lời say đắm hay gợi tình: D_5_3_1_005 情根深种, 敬你爱你 → 'đem lòng ngưỡng mộ', 'kính trọng, hết lòng đối tốt';
+canh	ch5_4_1	99	93	Story/N_5_4_1_004	Story/T_5_4_1_011	Chỉ đạo: Mặc Linh, Vân Thường chưa đủ 18: T_5_4_1_002 (thiếu hiệp nghĩ không cưới được Đường tiểu thư thì hỏi cưới cô bé bên cạnh) giữ ý tính chuyện hỏi cưới, tả 'lanh lợi, dễ thương', không tả nhan sắc gợi tình;
+canh	ch5_4_2	141	140	Story/D_5_4_2_001	Story/N_5_4_2_009	Chỉ đạo: Mặc Linh chưa đủ 18: D_5_4_2_062 窈窕淑女，君子好逑 → câu Kinh Thi nói theo lối khách sáo của người cầu thân ('Thục nữ hiền hòa, quân tử ai chẳng muốn cầu thân');
+canh	ch5_4_4	106	98	Story/D_5_4_4_001	Story/T_5_4_4_005	Chỉ đạo: Mặc Linh chưa đủ 18, khung anh – em: N_5_4_4_001 更想在你身边多停片刻 → 'muốn ở cạnh sư huynh thêm chút nữa';
+canh	ch5_4_5_2	40	40	Story/D_5_4_5_2_001	Story/D_5_4_5_2_036	Chỉ đạo: Mặc Linh chưa đủ 18: giữ sự việc là lời vu khống bôi nhọ danh tiết (có thai, mất trong sạch), không từ tình dục, không tả thân thể: D_5_4_5_2_005 监守自盗 → 'giở trò đồi bại';
+canh	ch5_4_5_3	63	62	Story/D_5_4_5_3_001	Story/D_5_4_5_3_056	Chỉ đạo: Mặc Linh chưa đủ 18: D_5_4_5_3_030 新娘子 → 'cô dâu' (giọng mỉa), không thêm lời bẩn;
+canh	ch5_4_7_2_1	72	49	Story/D_5_4_7_2_1_001	Story/N_5_4_7_2_1_018	Chỉ đạo: Mặc Linh chưa đủ 18: N_5_4_7_2_1_004 不知是否清白的娘子 → 'cô gái ngây dại, lại mang tiếng xấu', không nói tới trinh tiết;
+canh	ch5_4_7_3_3	26	25	Story/D_5_4_7_3_3_001	Story/D_5_4_7_3_3_021	Hoạt đòi hắn tránh để giết Kim Ô;
+canh	ch5_4_8_5_1	63	63	Story/D_5_4_8_5_1_001	Story/T_5_4_8_5_1_004	Chỉ đạo: D_5_4_8_5_1_037 以身相许 (Hoạt đùa với tiểu sư muội chưa đủ 18, giữa hôn lễ của nàng) → 'cả đời này huynh theo hầu muội, làm trâu làm ngựa cho muội', không 'lấy thân báo đáp', không 'bán thân';
+canh	ch5_4_8_5_3	52	51	Story/D_5_4_8_5_3_001	Story/D_5_4_8_5_3_051	Chỉ đạo: Mặc Linh chưa đủ 18, chỉ viết sự việc cầu thân/hôn sự và lòng quý mến, che chở, không khung yêu đương.
+canh	ch5_4_8_6	19	19	Story/N_5_4_8_6_001	Story/N_5_4_8_6_002	Chỉ đạo: Mặc Linh chưa đủ 18, nỗi buồn của Hoạt là sự mất mát của sư huynh khi muội xuất giá, không viết khung yêu đương.
+canh	ch5_4_8_7_1	18	18	Story/D_5_4_8_7_1_001	Story/D_5_4_8_7_1_011	Chỉ đạo: Mặc Linh chưa đủ 18, dịch đúng sự việc hôn sự, nỗi đau là của người huynh mất người muội thân thiết, không tình tứ.
+canh	ch5_4_8_7_2	4	4	Story/N_5_4_8_7_2_001	Story/D_5_4_8_7_2_001	Chỉ đạo: Mặc Linh chưa đủ 18: chỉ nói sự việc (thành thân, xuất giá), nỗi buồn là của người huynh mất người em thân;
+canh	ch5_4_8_9	82	77	Story/D_5_4_8_9_001	Story/D_5_4_8_9_068	Chỉ đạo: Mặc Linh chưa đủ 18: tình huynh muội, không lời yêu;
+canh	ch5_5_1	117	103	Story/D_5_5_1_001	Story/D_5_5_1_107	Chỉ đạo: Mặc Linh, Vân Thường chưa đủ 18: không lời yêu đương;
+canh	ch5_5_1_1	3	3	Story/D_5_5_1_1_001	Story/D_5_5_1_1_003	Chỉ đạo: 没把我放心上 → 'chẳng để ta trong lòng' tránh nghĩa yêu: 'chẳng coi ta ra gì';
+canh	ch5_5_2_break_start_01	103	99	Story/D_5_5_2_Break_01_001	Story/N_5_5_2_Break_01_006	Chỉ đạo: Mặc Linh chưa đủ 18: dịch như việc hứa hôn và nương tựa, không 'yêu', 'thích', 'tỏ tình';
+canh	ch5_5_3	93	91	Story/D_5_5_3_001	Story/D_5_5_3_090	Chỉ đạo: Mặc Linh chưa đủ 18: 两情相悦/拆散鸳鸯 → 'đã cùng một lòng', 'chia rẽ hai đứa';
+canh	ch5_6_3_1	137	130	Story/D_5_6_3_1_001	Story/D_5_6_3_1_125	một người bị lừa bị trách 'trốn tránh lâu thế';
+canh	S2901_04_02_04	35	33	Story/D_S2901_04_02_04_001	Story/T_S2901_04_02_04_003	Tránh: bài sơn ca của Hoạt, câu 再哭就把你拿来作老婆 luôn 'bắt về làm em út nhà anh' (dù đang hát cho Úc Trúc, câu gốc nhắc tiểu sư muội).
+canh	ch6_10_4	178	172	Story/D_6_10_4_001	Story/N_6_10_4_008	câu Mặc Linh 已经要作你老婆了啊 (chưa đủ 18) → nói như việc hứa hôn, không lãng mạn: 'Muội đã sắp về nhà huynh rồi mà…?'.
+canh	S0701_02	49	40	Story/D_S0701_02_003	Story/D_S0701_02_043	Chỉ đạo: lời Hoạt với nàng theo mục Tránh (爱慕 → 'quý mến'), không lời yêu đương;
+canh	S0701_02_01	26	22	Story/D_S0701_02_01_001	Story/D_S0701_02_01_023	Chỉ đạo: theo mục Tránh của sổ tay: 喜欢 giữa hai người → 'quý', 'tốt với';
+canh	meeting_option_702_01	53	2	Story/D_Meet_Option_702_01_001	Story/D_Meet_Option_702_01_051	Tránh: 037–038 对小师妹死心塌地/移情别恋/挂念别人的妻子 → 'một lòng lo cho tiểu sư muội', 'đổi lòng', 'cứ canh cánh vợ người ta' nói như lòng sư huynh, không 'yêu'.
+canh	Story_2_4_5_3_break_01	8	0	Story/O_2_4_5_3_Break_01_001	Story/O_2_4_5_3_Break_01_008	không ý trai gái (mục Tránh).
+canh	ch5_6_3_3_2	20	20	Story/D_5_6_3_3_2_001	Story/D_5_6_3_3_2_020	Đan Hà Tử từ chối: Kim Ô đã biết hắn về, trốn tránh vô ích, hắn sẽ đường hoàng lên núi theo nghi lễ 'tứ môn tuần lễ' của người nhậm chức tổng chưởng môn, ngâm bài kệ bốn câu.
+canh	ch6_2_4	47	45	Story/D_6_2_4_001	Story/D_6_2_4_040	Chỉ đạo: Mặc Linh chưa đủ 18: 不能同房 → 'không được ở chung phòng' (chuyện giữ lễ, không gợi tình);
+canh	ch6_3_4	83	78	Story/D_6_3_4_001	Story/N_6_3_4_002	Chỉ đạo: Vân Thường chưa đủ 18: anh – em ('ca ca', 'Thường nhi'), không lời tình;
+canh	ch6_3_5_break_start_01	117	115	Story/D_6_3_5_Break_01_001	Story/D_6_3_5_Break_01_118	Chỉ đạo: Mặc Linh, Vân Thường, Phàn Khiếu Thiên chưa đủ 18: chuyện cõng, mùi thơm của Vân Thường là trò nhõng nhẽo của em gái, không gợi tình;
+canh	ch6_4_2	192	183	Story/D_6_4_2_164	Story/T_6_4_2_006	Chỉ đạo: Mặc Linh, Vân Thường chưa đủ 18: D_6_4_2_028 两情相悦，我们还没成亲 → 'dù hai ta thân nhau đến mấy, cũng đâu đã thành thân', 同房 → 'ở chung phòng' (chuyện giữ lễ);
+canh	ch6_4_3_2_01_503	35	34	Story/N_6_4_3_2_01_503_001	Story/D_6_4_3_2_01_503_029	Chỉ đạo: Vân Thường chưa đủ 18: 惹人怜爱 → 'khiến người ta thương';
+canh	ch6_4_4_1	257	245	Story/D_6_4_4_1_001	Story/D_6_4_4_1_234	Chỉ đạo: Mặc Linh, Vân Thường chưa đủ 18: 只是想要偶尔一整天在一起 → 'chỉ muốn thỉnh thoảng được ở với sư huynh cả ngày', 牵好我 → 'nắm tay muội' (dắt em gái), 动情的脸 → 'mặt huynh lúc cảm động', 兽面兽心 → 'mặt thú lòng thú' (đùa), không lời tình;
+canh	ch6_5_2_1	35	33	Story/D_6_5_2_1_001	Story/D_6_5_2_1_031	Chỉ đạo: Mặc Linh chưa đủ 18: hôn sự chỉ nói sự việc ('phu quân của cô' cho 尊夫), không lời tình: 心中的第一 → 'người quan trọng nhất của sư huynh', 钟情于阿活 → 'một lòng với A Hoạt' (kiểu gắn bó, không say đắm);
+canh	ch6_5_2_break_start_01	473	443	Story/D_6_5_2_Break_01_001	Story/D_6_5_2_Break_01_383	Chỉ đạo: Mặc Linh, Vân Thường chưa đủ 18: hôn sự của Mặc Linh với Thụy chỉ nói sự việc ('Linh nhi', 'nhà mẹ đẻ'), không lời tình;
+canh	ch6_5_4_1	114	107	Story/D_6_5_4_1_001	Story/D_6_5_4_1_104	Vân Thường chưa đủ 18: 云裳就托付你了 → 'Vân Thường nhờ cả vào huynh' (che chở em gái), không ý hứa gả.
+canh	ch6_6_2_2_1	13	13	Story/D_6_6_2_2_1_001	Story/D_6_6_2_2_1_013	Mạnh Tiên Dao thấy Tiểu Mai thì đề phòng, kéo 'phu quân' Thụy Sanh đi, cảnh cáo nàng tránh xa;
+canh	ch6_6_2_break_start_01	578	560	Story/D_6_6_2_Break_01_001	Story/D_6_6_2_Break_01_497	Chỉ đạo: Mặc Linh chưa đủ 18, nhánh nào cũng chỉ tình huynh muội; T_6_6_2_Break_01_014 của Phàn Khiếu Thiên (trò đùa cũ 'vẫn là chồng của sư phụ', chưa đủ 18: chỉ nói sự việc), 027–028 của Ôn phu nhân, 029–030 của Họa Trung Tiên, 031 của người nghe chuyện (thường Long Tương), 043 của Tiểu Mai, 044 của gã Cái Bang từng đưa nàng trốn khỏi Không Động;
+canh	ch6_7_2_break_start_01	155	137	Story/D_6_7_2_Break_01_001	Story/D_6_7_2_Break_01_141	Vân Thường chưa đủ 18 (云裳……我把你带来 → lời che chở);
+canh	ch6_8_2_3_5	33	33	Story/D_6_8_2_3_5_001	Story/T_6_8_2_3_5_001	Chỉ đạo: Mặc Linh, Vân Thường chưa đủ 18: lo lắng kiểu em gái, không lời tình;
+canh	ch6_8_4	233	229	Story/D_6_8_4_001	Story/D_6_8_4_286	Vân Thường chưa đủ 18.
+canh	ch6_8_4_1	32	32	Story/D_6_8_4_1_001	Story/D_6_8_4_1_030	Chỉ đạo: Mặc Linh chưa đủ 18: cái ôm là sư huynh mừng em gái thoát nạn, câu kể giữ đúng sự việc, không gợi tình;
+canh	ch6_9_1	62	62	Story/D_6_9_1_001	Story/D_6_9_1_056	Chỉ đạo: Phàn chưa đủ 18: ta (俺) – đại ca;
+canh	ch6_9_2_break_start_01	225	217	Story/D_6_9_2_Break_01_001	Story/N_6_9_2_Break_01_010	Chỉ đạo: Mặc Linh, Vân Thường chưa đủ 18: 又爱又恨 → 'vừa thương vừa giận', không lời tình;
+canh	ch6_10_2	64	64	Story/N_6_10_2_001	Story/D_6_10_2_057	ai vặn tay Hoạt (023) không rõ: tránh đại từ;
+canh	ch6_10_5	106	105	Story/N_6_10_5_001	Story/N_6_10_5_004	Mặc Linh chưa đủ 18: 冰清玉洁 → 'trong sáng', không gợi tình;
+canh	ch7_1_3_3	18	17	Story/D_7_1_3_3_001	Story/D_7_1_3_3_015	Chỉ đạo: Mặc Linh chưa đủ 18: 倾慕的人 → 'người đệ từng quý nhất', không lời tình;
+canh	ch7_3_2_2	23	23	Story/D_7_3_2_2_001	Story/D_7_3_2_2_022	Chỉ đạo: Vân Thường chưa đủ 18: hứa hôn nói như sự việc ('chuyện hôn sự của muội'), 你要对我负责 → 'huynh phải lo cho muội', không lời tình;
+canh	ch7_3_2_2_1	27	27	Story/D_7_3_2_2_1_001	Story/D_7_3_2_2_1_027	Chỉ đạo: Vân Thường chưa đủ 18: 终身有托 → 'đã có người lo cho cả đời';
+canh	ch7_3_2_9	18	18	Story/D_7_3_2_9_001	Story/D_7_3_2_9_015	Chỉ đạo: Phàn chưa đủ 18: ta (俺) – sư huynh/đại ca, không lời tình;
+canh	ch7_5_2_4	55	54	Story/D_7_5_2_4_001	Story/D_7_5_2_4_048	Chỉ đạo: Vân Thường, Mặc Linh chưa đủ 18: lời khen nhan sắc chỉ nói sự việc, 戳心针 → 'mũi kim chọc tức', không lời tình;
+canh	ch7_5_2_6	57	55	Story/D_7_5_2_6_001	Story/T_7_5_2_6_003	Chỉ đạo: Mặc Linh, Vân Thường chưa đủ 18: 你怜我到心坎儿里，无法自拔 → 'huynh cưng muội tới mức chẳng dứt ra được', không lời tình;
+canh	ch7_5_2_9	143	139	Story/D_7_5_2_9_001	Story/N_7_5_2_9_014	Phàn chưa đủ 18 (theo 'sư huynh' như anh em);
+canh	ch7_5_2_10	8	8	Story/D_7_5_2_10_001	Story/D_7_5_2_10_008	Chỉ đạo: Vân Thường chưa đủ 18: biết ơn, thân như anh em, không lời tình.
+canh	ch7_5_5_1	51	51	Story/T_7_5_5_1_001	Story/D_7_5_5_1_049	Vân Thường chưa đủ 18;
+canh	ch7_5_6_2	106	104	Story/D_7_5_6_2_001	Story/D_7_5_6_2_103	Mặc Linh, Vân Thường chưa đủ 18: hẹn là anh em thân, không lời tình;
+canh	ch7_5_6_4	1	1	Story/N_7_5_6_4_001	Story/N_7_5_6_4_001	Chỉ đạo: Mặc Linh chưa đủ 18: 依恋 → 'quấn quýt, ỷ lại vào sư huynh', không lời tình.
+canh	ch7_5_6_5	1	1	Story/N_7_5_6_5_001	Story/N_7_5_6_5_001	Chỉ đạo: Vân Thường chưa đủ 18: chơi như em gái tinh nghịch.
+canh	ch8_2_1	274	265	Story/D_8_2_1_001	Story/D_8_2_1_281	Chỉ đạo: Mặc Linh, Vân Thường chưa đủ 18: chỉ là anh em lo cho nhau;
+canh	ch8_2_5_2	8	8	Story/D_8_2_5_2_001	Story/D_8_2_5_2_008	Tránh: lời cợt nhả với Mặc Linh (chưa đủ 18) chỉ giữ ý khinh bỉ, không tô thêm.
+canh	ch8_2_5_9	102	97	Story/D_8_2_5_9_001	Story/D_8_2_5_9_044	Chỉ đạo: Vân Thường chưa đủ 18: trò đùa 许配/大办/成亲 theo khung em gái nuôi ('cho huynh ấy nhận cháu gái ông làm em gái nuôi', 'làm lễ nhận em gái nuôi thật linh đình', như Story/D_7_5_4_8_131), 太喜欢默铃 → 'quý Mặc Linh lắm', không lời tình; Tránh: không 'gả', 'thành thân' trong trò đùa này;
+canh	ch8_2_6_2	105	100	Story/D_8_2_6_2_001	Story/D_8_2_6_2_093	Phàn Khiếu Thiên chưa đủ 18;
+canh	ch8_2_6_6_1	155	140	Story/D_8_2_6_6_1_001	Story/D_8_2_6_6_1_093	Vân Thường (089–093): muội – ca ca/huynh, chỉ tình anh em (Tránh).
+canh	ch8_3_1_2	142	136	Story/D_8_3_1_2_001	Story/D_8_3_1_2_120	Vân Thường chưa đủ 18.
+canh	ch8_3_2_1	22	22	Story/D_8_3_2_1_001	Story/D_8_3_2_1_017	Chỉ đạo: lời bẩn của địch về Mặc Linh (chưa đủ 18) chỉ giữ ý xúc phạm, không tả gợi dục;
+canh	ch8_3_2_1_3	45	44	Story/D_8_3_2_1_3_001	Story/D_8_3_2_1_3_040	Chỉ đạo: Vân Thường, Mặc Linh chưa đủ 18: anh em;
+canh	ch8_3_2_1_4	40	30	Story/D_8_3_2_1_4_001	Story/D_8_3_2_1_4_039	Chỉ đạo: Mặc Linh chưa đủ 18: T_001 của nàng → 'sư huynh lo cho mình quá, có khi còn quý mình hơn mình quý huynh ấy';
+canh	ch8_4_3_4	228	217	Story/D_8_4_3_4_001	Story/T_8_4_3_4_005	chuyện vợ chồng Thụy Sanh – Mặc Linh (chưa đủ 18) chỉ nói sự việc;
+canh	ch8_4_7_1	27	27	Story/T_8_4_7_1_001	Story/D_8_4_7_1_019	Chỉ đạo: Mặc Linh chưa đủ 18: T_004–005, 007 giữ đúng sự việc nhưng bằng giọng em gái sợ bị anh bỏ lại, không chữ yêu/thích theo nghĩa trai gái (心仪的姑娘 → 'cô nương huynh ấy để ý';
+canh	ch8_4_9_2	294	283	Story/N_8_4_9_2_001	Story/N_8_4_9_2_008	Chỉ đạo: T_004–006 của Hoạt về Mặc Linh (chưa đủ 18): 下嫁给我 → lòng sư huynh muốn che chở, chỉ cần nàng không chê thì ngày ngày ở bên trông nom như ngày trước, không lời cưới hỏi tình ái;
+canh	ch8_4_11_1	19	19	Story/D_8_4_11_1_001	Story/T_8_4_11_1_001	Chỉ đạo: Vân Thường chưa đủ 18: 我身为妻子 → đùa vai vế ('là bà cô nhỏ của huynh'), không lời tình;
+canh	ch8_4_11_1_1	22	21	Story/D_8_4_11_1_1_001	Story/D_8_4_11_1_1_022	Chỉ đạo: chưa đủ 18: 为你心折 → chơi chữ 'tim gãy… phục muội sát đất';
+canh	ch8_4_11_1_2	13	13	Story/D_8_4_11_1_2_001	Story/D_8_4_11_1_2_012	Chỉ đạo: chưa đủ 18: chơi chữ 金钟罩/金奶罩 (chỗ bị véo là ngực Hoạt) làm lại không gợi dục ('ta luyện Kim Chung Tráo chứ đâu phải Kim Ngực Tráo');
+canh	ch8_4_11_1_3	13	13	Story/D_8_4_11_1_3_001	Story/D_8_4_11_1_3_013	Chỉ đạo: chưa đủ 18: hẹn như em gái bày trò bất ngờ, không ẩn ý.
+canh	ch8_6_3_1	90	88	Story/D_8_6_3_1_084	Story/D_8_6_3_1_076	Mặc Linh: muội – sư huynh (chưa đủ 18, chỉ tình anh em);
+canh	ch8_7_2_1	318	299	Story/N_8_7_2_1_001	Story/D_8_7_2_1_181	Mặc Linh chưa đủ 18: lời từ biệt như anh em;
+canh	ch8_7_2_2_1	30	30	Story/D_8_7_2_2_1_001	Story/N_8_7_2_2_1_002	没圆房 → 'chưa động phòng' chỉ nói sự việc, không gợi dục (Mặc Linh chưa đủ 18);
+canh	S0003_02_02_break_01	21	13	Story/T_S0003_02_02_Breal_01_001	LUA/S0003_02_02_break_01#2:189.0	Vân Thường chưa đủ 18: không lời gợi dục;
+canh	S0003_02_05	16	13	LUA/S0003_02_05:50.0	Story/D_S0003_02_05_010	Chỉ đạo: Vân Thường chưa đủ 18: không lời gợi dục;
+canh	S0003_02_06	55	38	LUA/S0003_02_06:28.0	Story/D_S0003_02_06_032	Chỉ đạo: Vân Thường chưa đủ 18: không lời gợi dục;
+canh	S0003_02_06_01	50	41	LUA/S0003_02_06_01:39.0	Story/D_S0003_02_06_01_026	Chỉ đạo: Vân Thường chưa đủ 18: không lời gợi dục;
+canh	S0003_02_06_03	104	57	Story/D_S0003_02_06_03_001	LUA/S0003_02_06_03#2:695.0	Chỉ đạo: 心上人 nói về tiểu sư muội (chưa đủ 18) → 'người mà bạn hết lòng che chở';
+canh	S0003_02_07	49	38	LUA/S0003_02_07:28.0	Story/D_S0003_02_07_024	Chỉ đạo: Vân Thường chưa đủ 18: không lời gợi dục;
+canh	S0003_02_09	158	129	LUA/S0003_02_09:33.0	Story/D_S0003_02_09_098	Chỉ đạo: Vân Thường chưa đủ 18: không lời gợi dục;
+canh	S0003_03_break_01	80	64	LUA/S0003_03_break_01:20.0	Story/D_S0003_03_Break_01_042	Chỉ đạo: Vân Thường chưa đủ 18: không lời gợi dục;
+canh	S0018_02_01	51	40	Story/D_S0018_02_01_001	Story/D_S0018_02_01_050	Chỉ đạo: Vân Thường chưa đủ 18: không lời gợi dục;
+canh	S0018_04	70	70	Story/D_S0018_04_001	Story/D_S0018_04_062	Chỉ đạo: Vân Thường chưa đủ 18: không lời gợi dục;
+canh	S0018_06	186	185	Story/N_S0018_06_001	Story/N_S0018_06_014	Chỉ đạo: Vân Thường chưa đủ 18: không lời gợi dục;
+canh	S0027_01	109	105	Story/D_S0027_01_001	Story/N_S0027_01_002	Chỉ đạo: Vân Thường chưa đủ 18: chỉ tình anh em, không lời gợi dục: 大喊非礼 → 'la lên “có người bắt nạt”' hoặc 'vô lễ', không nghĩa sàm sỡ;
+canh	S0028_01	178	177	Story/D_S0028_01_001	Story/D_S0028_01_164	Vân Thường chưa đủ 18: chỉ tình anh em, không lời gợi dục.
+canh	S0202_01	165	163	Story/D_S0202_01_001	Story/D_S0202_01_155	002–005, 007, 015–017 Hoạt (003–005 Hoạt tự giễu muốn bắt mạch cho Vân Thường: Vân Thường chưa đủ 18, viết thành lòng quý mến, lo cho cô bé, bỏ ý 'chiếm tiện nghi', 'tơ tưởng');
+canh	S0204_01_04_02	43	42	Story/D_S0204_01_04_02_001	Story/D_S0204_01_04_02_038	004 Hoạt (ngay sau đó Vân Thường ngẩng lên nhìn bạn): Vân Thường chưa đủ 18, 心爱的姑娘 → 'cô bé mình thương quý', không lời yêu.
+canh	S0207_01	97	92	Story/D_S0207_01_001	Story/N_S0207_01_016	Tránh: không lời tình trai gái với Vân Thường.
+canh	S0208_01	39	38	Story/D_S0208_01_001	Story/D_S0208_01_038	Ai nghĩ ở dòng T_: 001 Hoạt (nhìn 'Diệp Vân Chu' lùn): kẻ cải trang là Vân Thường chưa đủ 18, không tả ngực;
+canh	S0208_01_01	48	46	Story/D_S0208_01_01_001	Story/D_S0208_01_01_042	Tránh: nàng ganh tị kiểu em gái.
+canh	S0208_02_01	35	35	Story/D_S0208_02_01_001	Story/D_S0208_02_01_032	Tránh: Vân Thường chưa đủ 18;
+canh	S0208_02_02	29	28	Story/D_S0208_02_02_001	Story/D_S0208_02_02_024	Tránh: 痴情种 (Thiết Quan giễu Hoạt liều mình che chở Vân Thường) → 'thằng ngốc liều mạng vì con bé', không 'si tình';
+canh	S0208_02_03	142	135	Story/D_S0208_02_03_001	Story/N_S0208_02_03_012	Tránh: 叶女居士 → 'Diệp cô nương';
+canh	S0208_02_04	22	21	Story/D_S0208_02_04_001	Story/D_S0208_02_04_015	Tránh: lời khấn 003 这个人从来没有被人爱过 → 'người này chưa từng được ai thương';
+canh	S0208_03	119	115	Story/D_S0208_03_001	Story/T_S0208_03_012	Chỉ đạo: TRÁNH (Vân Thường chưa đủ 18): 情根深种/喜欢得紧 của Hoạt → 'quý muội nhất đời', 'cưng muội lắm';
+canh	S0208_03_01	33	32	Story/D_S0208_03_01_001	Story/D_S0208_03_01_026	Tránh: lời kể N_001 未婚男女同室而眠…羞涩 → nói việc hai người phải ngủ chung một hang vì hoạn nạn là điều lễ giáo không cho, cô bé thấy ngại kiểu em gái (không tả thẹn thùng tình tứ);
+canh	S0208_04_01_01	1	1	Story/N_S0208_04_01_01_001	Story/N_S0208_04_01_01_001	Tránh: không lời tình;
+canh	S0208_04_01_02	4	4	Story/D_S0208_04_01_02_001	Story/D_S0208_04_01_02_004	Tránh: 伺候哥哥 là đùa em gái chăm anh, không gợi ý khác.
+canh	S0208_04_01_03	3	3	Story/D_S0208_04_01_03_001	Story/D_S0208_04_01_03_003	Tránh: không lời tình.
+canh	S0208_04_01_04	3	3	Story/N_S0208_04_01_04_001	Story/N_S0208_04_01_04_003	Tránh: không lời tình.
+canh	S0208_04_01_05	2	2	Story/D_S0208_04_01_05_001	Story/D_S0208_04_01_05_002	Tránh: không lời tình.
+canh	S0208_04_01_06	8	8	Story/D_S0208_04_01_06_001	Story/D_S0208_04_01_06_007	Tránh: lời niệm của Hoạt là lo cho em gái, không lời tình.
+canh	S0208_04_01_07	107	106	Story/D_S0208_04_01_07_001	Story/D_S0208_04_01_07_102	Chỉ đạo: 056 软饭男 → 'đồ đàn ông ăn bám' (đúng gốc, cà khịa anh, không thuộc diện tránh); TRÁNH: 猥琐的表情 → 'cái mặt gian gian';
+canh	S0208_04_02	5	5	Story/D_S0208_04_02_001	Story/D_S0208_04_02_005	Tránh: không lời tình.
+canh	S0208_04_02_01	1	1	Story/N_S0208_04_02_01_001	Story/N_S0208_04_02_01_001	Tránh: 干出了一堆荒唐事情 (ăn nấm độc) → làm những trò ngớ ngẩn buồn cười (hát, nhảy, nói nhảm), không ám chỉ gì khác.
+canh	S0208_04_02_02	1	1	Story/N_S0208_04_02_01_002	Story/N_S0208_04_02_01_002	Tránh: không lời tình.
+canh	S0208_04_02_03	2	2	Story/N_S0208_04_02_03_001	Story/N_S0208_04_02_03_002	Tránh: không lời tình.
+canh	S0208_04_03	134	129	Story/D_S0208_04_03_001	Story/N_S0208_04_03_004	TRÁNH: 亲爱的好哥哥 → 'ca ca tốt nhất của muội';
+canh	S0208_04_break_start_01	360	354	Story/D_S0208_04_Break_01_001	Story/T_S0208_04_Break_01_014	Chỉ đạo: TRÁNH: trò đóng kịch 昏君/爱妃/后宫三千 → đổi thành vua – trung thần ('ái khanh', 'quần thần ba nghìn'); 002–011, 014–016 Hoạt (003 gốc gọi cha nàng 岳父 là đùa vai con rể: Vân Thường chưa đủ 18, viết 'Diệp lão tiền bối' như dòng 004, không đùa con rể;
+canh	S0208_05_01	40	40	Story/T_S0208_05_01_001	Story/N_S0208_05_01_003	Tránh: 001 哥哥，我好想你 là nói với Vân Chu (anh ruột): 'ca ca, muội nhớ huynh quá…'.
+canh	S0208_05_02	4	4	Story/T_S0208_05_02_001	Story/T_S0208_05_02_004	Tránh: không lời tình.
+canh	S0208_05_03	2	2	Story/T_S0208_05_03_001	Story/T_S0208_05_03_002	Tránh: không lời tình;
+canh	S0208_05_04	4	4	Story/T_S0208_05_04_001	Story/T_S0208_05_04_004	Tránh: 段哥哥 là anh nuôi thời nhỏ, 待我们兄妹 → 'đối với anh em ta';
+canh	S0208_05_05	149	142	Story/T_S0208_05_05_001	Story/D_S0208_05_05_129	Chỉ đạo: TRÁNH, ưu tiên: 喜欢你……最喜欢你 → 'muội quý huynh… quý huynh nhất!';
+canh	S0208_06_01	71	71	Story/D_S0208_06_01_001	Story/D_S0208_06_01_069	Tránh: lời đồn 赵师兄跳崖殉情 → 'Triệu sư huynh nhảy vực chết theo con bé' (không 'tuẫn tình');
+canh	S0208_06_02	139	134	Story/D_S0208_06_02_001	Story/N_S0208_06_02_002	Tránh: 003–004 (心悦, 蒙了心、迷了眼, 让回给你) → kiểu em gái tranh anh với bạn: 'trước kia Triệu ca ca quý ngươi nhất', 'ta lơ là nên bị tên này dỗ ngọt mất rồi', 'không trả huynh ấy lại cho ngươi đâu'.
+canh	S0208_06_02_break_start_01	36	35	Story/D_S0208_06_02_Break_01_001	Story/D_S0208_06_02_Break_01_036	TRÁNH (Vân Thường chưa đủ 18): hôn ước dịch đúng sự việc (hứa hôn, cưới, không mai mối sính lễ) nhưng bỏ hết ẩn ý chăn gối: 021 趁人之危…下得了手 → 'Sao đệ nỡ dỗ con bé hứa hôn lúc nó đang yếu lòng? Nó còn nhỏ thế cơ mà!';
+canh	S0209_01	114	107	Story/D_S0209_01_068	Story/D_S0209_01_067	Tránh: 嫁妆 (đồ nàng định nói là của hồi môn) giữ sự việc;
+canh	S0209_01_01	28	28	Story/D_S0209_01_01_001	Story/N_S0209_01_01_005	Tránh: Hoạt liều cứu em gái, không lời tình.
+canh	S0209_01_05	24	23	Story/D_S0209_01_05_001	Story/D_S0209_01_05_021	Tránh: ước nguyện Hoạt giành lại mạng Vân Thường là lòng sư huynh, không lời tình.
+canh	S0209_01_06	9	8	Story/D_S0209_01_06_001	Story/D_S0209_01_06_009	Tránh: không lời tình.
+canh	S0209_01_07	88	85	Story/D_S0209_01_07_001	Story/N_S0209_01_07_004	Chỉ đạo: TRÁNH: 喜欢你 → 'quý huynh';
+canh	S0210_01	55	55	Story/D_S0210_01_001	Story/D_S0210_01_054	Tránh: không liên quan Vân Thường;
+canh	S0210_01_01	5	5	Story/D_S0210_01_01_001	Story/D_S0210_01_01_005	Tránh: không lời tình.
+canh	S0210_01_02	97	96	Story/D_S0210_01_02_001	Story/N_S0210_01_02_007	Tránh: Hoạt bị kẹp (006 我的胸！) là trò hài, giữ như gốc;
+canh	S0211_01	53	53	Story/D_S0211_01_001	Story/D_S0211_01_044	Tránh: trò đánh đòn (打屁股) là anh dạy em nghịch, giữ hài, không ý khác;
+canh	S0212_01	124	120	Story/D_S0212_01_001	Story/D_S0212_01_112	TRÁNH: 吃他醋还是吃你醋 → 'không biết nên ganh tị với huynh ấy hay với ca ca nữa' (ganh tị kiểu em gái);
+canh	S0213_01	40	38	Story/D_S2013_01_001	Story/D_S2013_01_040	Chỉ đạo: TRÁNH: 宝贝小云裳儿，你亲亲好哥哥来了，吸溜 → 'Thường nhi bé bỏng ơi, ca ca cưng của muội tới đây!' (bỏ tiếng xì xụp).
+canh	S0213_02	63	61	Story/D_S2013_02_001	Story/N_S2013_02_006	Chỉ đạo: TRÁNH: câu khóa 'không làm việc ấy thì không ra' → 'không giải được câu đố thì không ra';
+canh	S0401_01	101	95	Story/D_S0401_01_001	Story/N_S0401_01_002	Chỉ đạo: TRÁNH: 恋奸情热，谋杀亲妹 (Vân Thường la) → 'kết bè hại em gái';
+canh	S0603_02	149	146	Story/D_S0603_02_001	Story/N_S0603_02_008	Tránh: hứa hôn chỉ nói sự việc: 我们的孩子 → 'con cháu sau này', 如意郎君 → 'người tử tế để nương tựa', 没过门 → 'chưa về nhà chồng';
+canh	S0701_01_01	69	65	Story/D_S0701_01_01_001	Story/D_S0701_01_01_060	Chỉ đạo: TRÁNH: hôn sự chỉ nói sự việc ('sư tẩu'), không lời tình;
+canh	S0802_02_01	3	3	Story/N_S0802_02_01_001	Story/N_S0802_02_01_003	Tránh: không lời tình.
+canh	S2001_01_03	89	53	Story/D_S2001_01_03_001	LUA/S2001_01_03#2:692.0	Chỉ đạo: TRÁNH: 打我小师妹的主意 → 'dám nhắm vào tiểu sư muội' (ý che chở, không lời tình).
+canh	S2321_07_02	307	298	Story/T_S2321_07_02_001	Story/D_S2321_07_02_276	Tránh (tiểu sư muội chưa đủ 18): 258 不为私情 → 'không vì tình riêng' nói như lòng trung với sư muội, không ý trai gái.
+canh	S2920_01	202	197	Story/D_S2920_01_001	Story/N_S2920_01_009	Tránh: 151 Trúc hỏi chuyện Hoạt 'từng để ý tiểu sư muội', 我也喜欢 → 'ta cũng quý';
+canh	S3001_01	127	121	Story/D_S3001_01_001	Story/D_S3001_01_114	Chỉ đạo: Tránh: Vân Thường chưa đủ 18 – T_003 của Thân Đồ Long chỉ nói dây thắt ngang người chứ không phải cổ, không gợi thân thể; 008 'đạo sĩ tu chân cũng không tránh khỏi thói đời');
+canh	S3002_01	23	22	Story/D_S3002_01_001	Story/T_S3002_01_001	Tránh: tình anh em.
+canh	S3005_01	137	128	Story/D_S3005_01_001	Story/D_S3005_01_117	Chỉ đạo: Tránh: Vân Thường chưa đủ 18 – Hoạt ganh như anh trai sợ em gái bị dỗ, không lời yêu đương (心悦 → 'quý mến', 吃醋 → 'ganh'); 006–007 Hoạt sau khi bị nàng gọi đùa 'sắc lang': Vân Thường chưa đủ 18, viết thành Hoạt tự nhủ chỉ cầm tay bắt mạch, đánh đòn thì hả giận, không tả tay mềm, không tả cảm giác thân thể;
+canh	S8200_01	70	39	Story/D_S8200_01_001	LUA/S8200_01#2:436.0	Chỉ đạo: Tránh: Mặc Linh chưa đủ 18 – T_001 là Hoạt thấy sư muội nhỏ nhắn đáng yêu như em gái, không tả thân hình theo kiểu trai gái;
+canh	S8200_01_01	7	6	LUA/S8200_01_01:26.0	Story/D_S8200_01_01_003	Chỉ đạo: Tránh: tiếc vì lỡ dịp ở cùng em gái, không lời tình.
+canh	S8500_01_02	177	104	Story/D_S8500_01_02_001	LUA/S8500_01_02#2:1116.0	Chỉ đạo: Tránh: Vân Thường và Mặc Linh chưa đủ 18 – Vân Thường 喜欢你 → 'muội quý huynh', chốt 'Tỉnh lại đi đồ béo, chẳng ai thương huynh đâu~';
+canh	S8500_01_04	8	4	Story/D_S8500_01_04_001	LUA/S8500_01_04#2:63.0	Chỉ đạo: Tránh nếu vợ trong mộng là Mặc Linh hoặc Vân Thường: câu 002 (亲热, 抱娃娃) là nhánh người lớn;
+canh	S9100_01	186	95	Story/D_S9100_01_001	LUA/S9100_01#2:1071.0	Chỉ đạo: Tránh: Mặc Linh chưa đủ 18 – Duy Nguyên 觊觎她 → 'để ý muội ấy' kiểu trêu em gái;
+canh	S9901_01	39	29	LUA/S9901_01:40.0	Story/D_S9901_01_018	Chỉ đạo: Tránh: tiểu sư muội lúc đó chưa đủ 18 – T_001 kể Hoạt ngồi dưới cửa sổ canh sư muội ốm như sư huynh lo cho em;
+canh	S9904_01_02	93	72	LUA/S9904_01_02:21.0	Story/N_S9904_01_02_012	Chỉ đạo: Tránh: Mặc Linh chưa đủ 18 – '俏生生' tả dáng đứng nhẹ, không gợi;
+canh	S9905_01	259	147	Story/N_S9905_01_001	LUA/S9905_01#2:1853.0	Tránh (Vân Thường, tiểu sư muội chưa đủ 18): 089 我可没有喜欢你 → 'muội đâu có quý huynh đâu';
+canh	act2_3	38	38	Story/N_Act_2_3_001	Story/T_Act_2_3_001	Tránh: Mặc Linh chưa đủ 18 – chỉ là em gái lo cho anh.
+canh	act2_3_3	14	12	Story/D_Act_2_3_3_002	Story/D_Act_2_3_3_014	Chỉ đạo: Tránh: Mặc Linh chưa đủ 18 – lời chia ly như anh em ('dù quãng đời còn lại không có muội'), không lời tình;
+canh	Story_lover	9	9	Story/M_Lover_00	Story/M_Lover_08	Tránh: nhãn trung tính 'người thân thiết nhất' cho mọi người (kể cả Mặc Linh, Vân Thường chưa đủ 18), không 'người trong lòng', 'người yêu'.
+canh	Story_s0019_01	7	1	Story/O_S0019_01_001	Story/O_S0019_01_007	Tránh: 心上人 trong điều kiện → 'người thân thiết nhất'.
+canh	Story_s2321_01	6	1	Story/O_S2321_01_001	Story/O_S2321_01_006	Tránh: 心上人 trong điều kiện → 'người thân thiết nhất'.
+canh	Story_s2504_02_04	6	1	Story/O_S2504_02_04_001	Story/O_S2504_02_04_006	Tránh: 心上人 trong điều kiện → 'người thân thiết nhất'.
+canh	back_03_501	4	4	Story/N_Back_03_501_001	Story/N_Back_03_501_004	Chỉ đạo: Tránh: tiểu sư muội chưa đủ 18, chỉ lòng quý mến, che chở của sư huynh, không ý trai gái. Tránh: Vân Thường chưa đủ 18, anh – em, không ý trai gái.
+canh	back_free_001	1	1	Story/N_Back_Free_001_001	Story/N_Back_Free_001_001	Tránh: tiểu sư muội chưa đủ 18, chỉ lòng quý mến, che chở của sư huynh, không ý trai gái.
+canh	birth_02_01	26	26	Story/D_Birth_02_01_001	Story/D_Birth_02_01_022	Tránh: Vân Thường chưa đủ 18, anh – em, không ý trai gái.
+canh	center_free_301	2	1	Story/N_Center_Free_301_001	LUA/center_free_301#2:22.0	Tránh: tiểu sư muội chưa đủ 18, chỉ lòng quý mến, che chở của sư huynh, không ý trai gái.
+canh	door_free_302	2	1	Story/N_Door_Free_302_001	LUA/door_free_302#2:16.0	Tránh: tiểu sư muội chưa đủ 18, chỉ lòng quý mến, che chở của sư huynh, không ý trai gái.
+canh	door_free_901	1	1	Story/N_Door_Free_901_001	Story/N_Door_Free_901_001	Tránh: tiểu sư muội chưa đủ 18, chỉ lòng quý mến, che chở của sư huynh, không ý trai gái.
+canh	door_free_902	1	1	Story/N_Door_Free_902_001	Story/N_Door_Free_902_001	Tránh: tiểu sư muội chưa đủ 18, chỉ lòng quý mến, che chở của sư huynh, không ý trai gái.
+canh	door_free_903	1	1	Story/N_Door_Free_903_001	Story/N_Door_Free_903_001	Tránh: Vân Thường chưa đủ 18, anh – em, không ý trai gái.
+canh	door_free_904	1	1	Story/N_Door_Free_904_001	Story/N_Door_Free_904_001	Tránh: Vân Thường chưa đủ 18, anh – em, không ý trai gái.
+canh	fortress_work_201_01	9	7	LUA/fortress_work_201_01:22.0	Story/N_Fortress_Work_201_01_005	Tránh: Vân Thường chưa đủ 18, anh – em, không ý trai gái.
+canh	girlroom_001	15	9	Story/D_Girlroom_001_001	LUA/girlroom_001#2:128.0	Tránh: tiểu sư muội chưa đủ 18, chỉ lòng quý mến, che chở của sư huynh, không ý trai gái.
+canh	girlroom_free_001	2	1	Story/N_Girlroom_Free_001_001	LUA/girlroom_free_001#2:14.0	Tránh: tiểu sư muội chưa đủ 18, chỉ lòng quý mến, che chở của sư huynh, không ý trai gái.
+canh	girlroom_work_101	2	1	Story/N_Girlroom_Work_101_001	LUA/girlroom_work_101#2:26.0	Tránh: tiểu sư muội chưa đủ 18, chỉ lòng quý mến, che chở của sư huynh, không ý trai gái.
+canh	girlroom_work_201	4	2	Story/N_Girlroom_Work_201_001	LUA/girlroom_work_201#2:15.0	Tránh: tiểu sư muội chưa đủ 18, chỉ lòng quý mến, che chở của sư huynh, không ý trai gái.
+canh	girlroom_work_301	2	1	Story/N_Girlroom_Work_301_001	LUA/girlroom_work_301#2:20.0	Tránh: tiểu sư muội chưa đủ 18, chỉ lòng quý mến, che chở của sư huynh, không ý trai gái.
+canh	kitchen_work_302	2	1	Story/N_Kitchen_Work_302_001	LUA/kitchen_work_302#2:19.0	Tránh: tiểu sư muội chưa đủ 18, chỉ lòng quý mến, che chở của sư huynh, không ý trai gái.
+canh	kitchen_work_303	1	1	Story/N_Kitchen_Work_303_001	Story/N_Kitchen_Work_303_001	Tránh: tiểu sư muội chưa đủ 18, chỉ lòng quý mến, che chở của sư huynh, không ý trai gái.
+canh	kitchen_work_903	76	0	Story/D_Kitchen_Work_903_001	Story/N_Kitchen_Work_903_010	Tránh: tiểu sư muội chưa đủ 18, chỉ lòng quý mến, che chở của sư huynh, không ý trai gái.
+canh	mall_free_901	2	0	Story/N_Mall_Free_901_001	LUA/mall_free_901#2:16.0	Tránh: tiểu sư muội chưa đủ 18, chỉ lòng quý mến, che chở của sư huynh, không ý trai gái.
+canh	mall_work_901	2	0	Story/N_Mall_Work_901_001	LUA/mall_work_901#2:24.0	Tránh: tiểu sư muội chưa đủ 18, chỉ lòng quý mến, che chở của sư huynh, không ý trai gái.
+canh	meeting_01	94	0	Story/N_Meet_01_001	LUA/meeting_01#2:755.0	Tránh: tiểu sư muội chưa đủ 18, chỉ lòng quý mến, che chở của sư huynh, không ý trai gái.
+canh	meeting_option_01_20	75	0	Story/D_Meet_Option_01_20_001	LUA/meeting_option_01_20#2:482.0	Tránh: tiểu sư muội chưa đủ 18, chỉ lòng quý mến, che chở của sư huynh, không ý trai gái.
+canh	room_001_break_option	10	0	Story/N_Room_001_Break_Option_001	LUA/room_001_break_option#2:81.0	Tránh: tiểu sư muội chưa đủ 18, chỉ lòng quý mến, che chở của sư huynh, không ý trai gái.
+canh	Story_s0003_02_06_03	2	1	Story/O_S0003_02_06_03_001	Story/O_S0003_02_06_03_002	Tránh: Vân Thường chưa đủ 18, khớp với T_S0003_02_06_03_002 ('thơm thật… ta đã có tiểu sư muội để cưng rồi'), không ý trai gái.
+canh	section_02_free_00_501	1	0	Story/N_Section_02_Free_00_501_001	Story/N_Section_02_Free_00_501_001	Chỉ đạo: Tránh: Vân Thường chưa đủ 18: tình anh em, không ý trai gái.
+canh	section_02_free_00_502	1	0	Story/N_Section_02_Free_00_502_001	Story/N_Section_02_Free_00_502_001	Chỉ đạo: Tránh: trò nghịch của em gái, giữ hài, không ý khác.
+canh	section_02_free_00_503	1	0	Story/N_Section_02_Free_00_503_001	Story/N_Section_02_Free_00_503_001	Chỉ đạo: Tránh: Vân Thường chưa đủ 18: tả như em gái ngủ quên, không ý trai gái.
+canh	section_02_free_01_02_302	1	0	Story/N_Section_02_Free_01_02_302_001	Story/N_Section_02_Free_01_02_302_001	Chỉ đạo: Tránh: Vân Thường chưa đủ 18: không ý trai gái.
+canh	section_02_free_03_01_102	1	0	Story/N_Section_02_Free_03_01_102_001	Story/N_Section_02_Free_03_01_102_001	Chỉ đạo: Tránh: trò đùa em gái.
+canh	section_02_free_03_01_302	1	0	Story/N_Section_02_Free_03_01_302_001	Story/N_Section_02_Free_03_01_302_001	Chỉ đạo: Tránh: em gái ăn chực, không ý khác.
+canh	section_02_free_03_03_901	1	0	Story/N_Section_02_Free_03_03_901_001	Story/N_Section_02_Free_03_03_901_001	Chỉ đạo: Tránh: Vân Thường chưa đủ 18: 皓皓素腕 → 'cổ tay gầy trắng', không tả nhan sắc.
+canh	section_02_free_03_03_902	1	0	Story/N_Section_02_Free_03_03_902_001	Story/N_Section_02_Free_03_03_902_001	Chỉ đạo: Tránh: như 03_901;
+canh	snow_01	48	0	Story/N_Snow_01_001	Story/N_Snow_01_004	Tránh: Phàn Khiếu Thiên, Vân Thường, Mặc Linh chưa đủ 18: chỉ tình đồng môn, bạn bè.
+canh	study_001	11	0	LUA/study_001:5.0	Story/B_Study_001_001	dòng màu: 'Để tránh tiết lộ, trong bản chơi thử này tam sư huynh bị khóa miệng không thương tiếc.' Cảm xúc: hài nhẹ.
+canh	talk_brother4_option_00_02	27	0	LUA/talk_brother4_option_00_02:19.0	Story/N_Talk_Brother4_Option_00_02_002	Chỉ đạo: TRÁNH (tiểu sư muội chưa đủ 18): 那么喜欢小师妹 → 'quý tiểu sư muội tới vậy';
+canh	talk_brother4_option_01_01	59	0	LUA/talk_brother4_option_01_01:21.0	Story/D_Talk_Brother4_Option_01_01_032	Chỉ đạo: TRÁNH: tiểu sư muội đã thành thân, nói đúng sự việc ('ăn mặc như một thiếu phụ nhà quyền quý'), không thêm ý trai gái.
+canh	talk_brother4_option_02	42	0	Story/D_Talk_Brother4_Option_02_001	LUA/talk_brother4_option_02#2:223.0	Chỉ đạo: TRÁNH: 你从前爱慕的小师妹 → 'tiểu sư muội mà đệ từng quý nhất';
+canh	talk_brother4_option_02_01_02	20	0	Story/D_Talk_Brother4_02_01_02_001	Story/D_Talk_Brother4_02_01_02_020	Chỉ đạo: TRÁNH: tiểu sư muội đã lấy chồng, nói đúng sự việc ('phu quân của tiểu sư muội');
+canh	talk_brother4_option_02_02	40	0	Story/D_Talk_Brother4_02_02_001	Story/D_Talk_Brother4_02_02_040	Chỉ đạo: TRÁNH: 爱慕 → 'quý nhất'.
+canh	talk_brother4_option_02_03_01	143	0	Story/D_Talk_Brother4_02_03_01_001	Story/T_Talk_Brother4_02_03_01_002	TRÁNH: 129–130 là đùa ăn thịt kiểu cương thi: 'da non thịt mềm', 'thơm phức, khỏi rửa cũng ăn được' nói như món ăn, không tả nhan sắc Vân Thường, tiểu sư muội.
+canh	talk_girl5_02	216	0	Story/D_Talk_Girl5_02_001	Story/D_Talk_Girl5_02_193	Tránh: Phàn Khiếu Thiên (chưa đủ 18, đang giả trai 'Phàn huynh đệ') không bị kéo vào chuyện cưới hỏi;
+canh	talk_girl5_02_04	21	0	Story/D_Talk_Girl5_02_04_001	Story/T_Talk_Girl5_02_04_002	Tránh: chưa đủ 18, vỏ nam 'Phàn huynh đệ';
+canh	talk_girl5_02_05	30	0	Story/D_Talk_Girl5_02_05_001	Story/N_Talk_Girl5_02_05_001	TRÁNH (Phàn Khiếu Thiên chưa đủ 18): 吃醋 → 'ganh tị' (ganh vì sư phụ có thêm đồ đệ), không ghen trai gái.
+canh	travel_result_002_902	2	0	Story/N_Travel_Result_002_902_001	LUA/travel_result_002_902#2:11.0	Chỉ đạo: Tránh: lòng sư huynh quý sư muội.
+canh	travel_result_601_502	88	0	Story/N_Travel_601_502_001	Story/D_Travel_601_502_080	Tránh: đệ tử Đường Môn mắng Tề Nhâm 'kén rể đã trượt mà còn nhớ tiểu sư muội': nói đúng sự việc kén rể, 惦记 → 'còn lăm le', không thêm ý.
+canh	travel_result_601_901_01	2	0	Story/N_Travel_601_901_01_001	Story/N_Travel_601_901_01_002	Kết quả: đệ tử Nga Mi đánh các bạn một trận, không giết không nhục, coi như kẻ điên mà tránh;
+canh	sharedassets6.assets:CombatEventActionDialog	127	0	INL/sharedassets6.assets/4571@96	INL/sharedassets6.assets/6392@100	TRÁNH (tiểu sư muội, Phàn Khiếu Thiên chưa đủ 18): 把小师妹娶过来 (đệ tử đang hăng) → 'giành tiểu sư muội về tay ta' kiểu ganh đua, không 'cưới';
+canh	Story_s0207_01	6	0	Story/O_S0207_01_001	Story/O_S0207_01_006	Tránh: theo chỉ đạo cảnh S0207_01 (tiểu sư muội, Vân Thường, Phàn Khiếu Thiên chưa đủ 18: lựa chọn không mang ý trai gái).
+canh	Story_s0208_01_01	3	0	Story/O_S0208_01_01_001	Story/O_S0208_01_01_003	Tránh: theo chỉ đạo cảnh S0208_01_01 (tiểu sư muội, Vân Thường, Phàn Khiếu Thiên chưa đủ 18: lựa chọn không mang ý trai gái).
+canh	Story_s0208_02_03	3	0	Story/O_S0208_02_03_001	Story/O_S0208_02_03_003	Tránh: theo chỉ đạo cảnh S0208_02_03 (tiểu sư muội, Vân Thường, Phàn Khiếu Thiên chưa đủ 18: lựa chọn không mang ý trai gái).
+canh	Story_s0208_03	3	0	Story/O_S0208_03_001	Story/O_S0208_03_003	Tránh: theo chỉ đạo cảnh S0208_03 (tiểu sư muội, Vân Thường, Phàn Khiếu Thiên chưa đủ 18: lựa chọn không mang ý trai gái).
+canh	Story_s0208_03_01	2	0	Story/O_S0208_03_01_001	Story/O_S0208_03_01_002	Tránh: theo chỉ đạo cảnh S0208_03_01 (tiểu sư muội, Vân Thường, Phàn Khiếu Thiên chưa đủ 18: lựa chọn không mang ý trai gái).
+canh	Story_s0208_04_01_04	3	0	Story/O_S0208_04_01_04_001	Story/O_S0208_04_01_04_003	Tránh: theo chỉ đạo cảnh S0208_04_01_04 (tiểu sư muội, Vân Thường, Phàn Khiếu Thiên chưa đủ 18: lựa chọn không mang ý trai gái).
+canh	Story_s0208_04_01_07	4	0	Story/O_S0208_04_01_07_001	Story/O_S0208_04_01_07_004	Tránh (Vân Thường chưa đủ 18): 春宫图 → 'tranh bậy bạ' (chỉ là lời nói dối đùa), không tả gì thêm.
+canh	Story_s0208_04_02	3	0	Story/O_S0208_04_02_001	Story/O_S0208_04_02_003	Tránh: theo chỉ đạo cảnh S0208_04_02 (tiểu sư muội, Vân Thường, Phàn Khiếu Thiên chưa đủ 18: lựa chọn không mang ý trai gái).
+canh	Story_s0208_04_03	18	0	Story/O_S0208_04_03_001	Story/O_S0208_04_03_018	Tránh: theo chỉ đạo cảnh S0208_04_03 (tiểu sư muội, Vân Thường, Phàn Khiếu Thiên chưa đủ 18: lựa chọn không mang ý trai gái).
+canh	Story_s0208_04_break_01	20	0	Story/O_S0208_04_Break_01_001	Story/O_S0208_04_Break_01_020	Tránh: theo chỉ đạo cảnh S0208_04_break_start_01 (tiểu sư muội, Vân Thường, Phàn Khiếu Thiên chưa đủ 18: lựa chọn không mang ý trai gái).
+canh	Story_s0208_06_02	2	0	Story/O_S0208_06_02_001	Story/O_S0208_06_02_002	Tránh: theo chỉ đạo cảnh S0208_06_02 (tiểu sư muội, Vân Thường, Phàn Khiếu Thiên chưa đủ 18: lựa chọn không mang ý trai gái).
+canh	Story_s0208_06_02_break_01	2	0	Story/O_S0208_06_02_Break_01_001	Story/O_S0208_06_02_Break_01_002	Tránh: theo chỉ đạo cảnh S0208_06_02_break_start_01 (tiểu sư muội, Vân Thường, Phàn Khiếu Thiên chưa đủ 18: lựa chọn không mang ý trai gái).
+canh	Story_s0209_01	2	0	Story/O_S0209_01_001	Story/O_S0209_01_002	Tránh: theo chỉ đạo cảnh S0209_01 (tiểu sư muội, Vân Thường, Phàn Khiếu Thiên chưa đủ 18: lựa chọn không mang ý trai gái).
+canh	Story_s0210_01	2	0	Story/O_S0210_01_001	Story/O_S0210_01_002	Tránh: theo chỉ đạo cảnh S0210_01 (tiểu sư muội, Vân Thường, Phàn Khiếu Thiên chưa đủ 18: lựa chọn không mang ý trai gái).
+canh	Story_s0210_01_02	2	0	Story/O_S0210_01_02_001	Story/O_S0210_01_02_002	Tránh: theo chỉ đạo cảnh S0210_01_02 (tiểu sư muội, Vân Thường, Phàn Khiếu Thiên chưa đủ 18: lựa chọn không mang ý trai gái).
+canh	Story_s0212_01	2	0	Story/O_S0212_01_001	Story/O_S0212_01_002	Tránh: theo chỉ đạo cảnh S0212_01 (tiểu sư muội, Vân Thường, Phàn Khiếu Thiên chưa đủ 18: lựa chọn không mang ý trai gái).
+canh	Story_s0603_02	8	0	Story/O_S0603_02_001	Story/O_S0603_02_008	Tránh: theo chỉ đạo cảnh S0603_02 (tiểu sư muội, Vân Thường, Phàn Khiếu Thiên chưa đủ 18: lựa chọn không mang ý trai gái).
+canh	Story_s0701_01_01	5	0	Story/O_S0701_01_01_001	Story/O_S0701_01_01_005	Tránh: theo chỉ đạo cảnh S0701_01_01 (tiểu sư muội, Vân Thường, Phàn Khiếu Thiên chưa đủ 18: lựa chọn không mang ý trai gái).
+canh	Story_s2001_01_03	3	0	Story/O_S2001_01_03_001	Story/O_S2001_01_03_003	Tránh: theo chỉ đạo cảnh S2001_01_03 (tiểu sư muội, Vân Thường, Phàn Khiếu Thiên chưa đủ 18: lựa chọn không mang ý trai gái).
+canh	Story_s3001_01	6	0	Story/O_S3001_01_001	Story/O_S3001_01_006	Tránh: theo chỉ đạo cảnh S3001_01 (tiểu sư muội, Vân Thường, Phàn Khiếu Thiên chưa đủ 18: lựa chọn không mang ý trai gái).
+canh	Story_s3002_01	2	0	Story/O_S3002_01_001	Story/O_S3002_01_002	Tránh: theo chỉ đạo cảnh S3002_01 (tiểu sư muội, Vân Thường, Phàn Khiếu Thiên chưa đủ 18: lựa chọn không mang ý trai gái).
+canh	Story_s3005_01	2	0	Story/O_S3005_01_001	Story/O_S3005_01_002	Tránh: theo chỉ đạo cảnh S3005_01 (tiểu sư muội, Vân Thường, Phàn Khiếu Thiên chưa đủ 18: lựa chọn không mang ý trai gái).
+canh	Story_s8200_01	2	2	Story/O_S8200_01_001	Story/O_S8200_01_002	Tránh: theo chỉ đạo cảnh S8200_01 (tiểu sư muội, Vân Thường, Phàn Khiếu Thiên chưa đủ 18: lựa chọn không mang ý trai gái).
+canh	Story_s8500_01_02	14	5	Story/O_S8500_01_02_001	Story/O_S8500_01_02_014	Tránh: theo chỉ đạo cảnh S8500_01_02 (tiểu sư muội, Vân Thường, Phàn Khiếu Thiên chưa đủ 18: lựa chọn không mang ý trai gái).
+canh	Story_s9100_01	8	1	Story/O_S9100_01_001	Story/O_S9100_01_008	Tránh: theo chỉ đạo cảnh S9100_01 (tiểu sư muội, Vân Thường, Phàn Khiếu Thiên chưa đủ 18: lựa chọn không mang ý trai gái).
+canh	Story_s9904_01_02	6	1	Story/O_S9904_01_02_001	Story/O_S9904_01_02_006	Tránh: theo chỉ đạo cảnh S9904_01_02 (tiểu sư muội, Vân Thường, Phàn Khiếu Thiên chưa đủ 18: lựa chọn không mang ý trai gái).
+canh	Story_1_1_1	9	0	Story/O_1_1_1_001	Story/O_1_1_1_010	Tránh: theo chỉ đạo cảnh ch1_1_1 (tiểu sư muội, Vân Thường, Phàn Khiếu Thiên chưa đủ 18: lựa chọn không mang ý trai gái).
+canh	Story_3_8_1_break_start_01	2	0	Story/O_3_8_1_Break_Start_01_001	Story/O_3_8_1_Break_Start_01_002	Tránh: theo chỉ đạo cảnh ch3_8_1_break_start_01 (tiểu sư muội, Vân Thường, Phàn Khiếu Thiên chưa đủ 18: lựa chọn không mang ý trai gái).
+canh	Story_4_2_3_3	5	0	Story/O_4_2_3_3_001	Story/O_4_2_3_3_005	Hoạt thấy phiền, muốn tránh xa. Tránh: theo chỉ đạo cảnh ch4_2_3_3 (tiểu sư muội, Vân Thường, Phàn Khiếu Thiên chưa đủ 18: lựa chọn không mang ý trai gái).
+canh	Story_4_2_4_1	9	0	Story/O_4_2_4_1_001	Story/O_4_2_4_1_009	Tránh: 男女授受不亲… (Vân Thường) giữ trò đùa, không ý trai gái.
+canh	Story_5_6_3_1	5	0	Story/O_5_6_3_1_001	Story/O_5_6_3_1_005	Tránh: theo chỉ đạo cảnh ch5_6_3_1 (tiểu sư muội, Vân Thường, Phàn Khiếu Thiên chưa đủ 18: lựa chọn không mang ý trai gái).
+canh	Story_6_4_2	11	0	Story/O_6_4_2_011	Story/O_6_4_2_010	Tránh: 称赞小师妹的美貌 → 'Khen tiểu sư muội xinh' kiểu anh khen em, không tả nhan sắc.
+canh	Story_8_2_5_9	2	0	Story/O_8_2_5_9_001	Story/O_8_2_5_9_002	Tránh: theo chỉ đạo cảnh ch8_2_5_9 (tiểu sư muội, Vân Thường, Phàn Khiếu Thiên chưa đủ 18: lựa chọn không mang ý trai gái).
+canh	Story_8_2_6_6_1	2	0	Story/O_8_2_6_6_1_001	Story/O_8_2_6_6_1_002	Tránh: theo chỉ đạo cảnh ch8_2_6_6_1 (tiểu sư muội, Vân Thường, Phàn Khiếu Thiên chưa đủ 18: lựa chọn không mang ý trai gái).
+canh	Story_act_2_3	3	0	Story/O_Act_2_3_001	Story/O_Act_2_3_003	Tránh: theo chỉ đạo cảnh act2_3 (tiểu sư muội, Vân Thường, Phàn Khiếu Thiên chưa đủ 18: lựa chọn không mang ý trai gái).
+canh	Story_back_03_501	4	0	Story/O_Back_03_501_001	Story/O_Back_03_501_004	Tránh: theo chỉ đạo cảnh back_03_501 (tiểu sư muội, Vân Thường, Phàn Khiếu Thiên chưa đủ 18: lựa chọn không mang ý trai gái).
+canh	Story_kitchen_work_903	9	0	Story/O_Kitchen_Work_903_001	Story/O_Kitchen_Work_903_009	Tránh: theo chỉ đạo cảnh kitchen_work_903 (tiểu sư muội, Vân Thường, Phàn Khiếu Thiên chưa đủ 18: lựa chọn không mang ý trai gái).
+canh	Story_meet_01	2	0	Story/O_Meet_01_001	Story/O_Meet_01_002	Tránh: theo chỉ đạo cảnh meeting_01 (tiểu sư muội, Vân Thường, Phàn Khiếu Thiên chưa đủ 18: lựa chọn không mang ý trai gái).
+canh	Story_room_001_break_option	6	0	Story/O_Room_001_Break_Option_001	Story/O_Room_001_Break_Option_006	Tránh: theo chỉ đạo cảnh room_001_break_option (tiểu sư muội, Vân Thường, Phàn Khiếu Thiên chưa đủ 18: lựa chọn không mang ý trai gái).
+canh	Story_talk_brother4_option_00_02	2	0	Story/O_Talk_Brother4_Option_00_02_001	Story/O_Talk_Brother4_Option_00_02_002	Tránh: theo chỉ đạo cảnh talk_brother4_option_00_02 (tiểu sư muội, Vân Thường, Phàn Khiếu Thiên chưa đủ 18: lựa chọn không mang ý trai gái).
+canh	Story_talk_brother4_option_01_01	7	0	Story/O_Talk_Brother4_Option_01_01_001	Story/O_Talk_Brother4_Option_01_01_007	Tránh: theo chỉ đạo cảnh talk_brother4_option_01_01 (tiểu sư muội, Vân Thường, Phàn Khiếu Thiên chưa đủ 18: lựa chọn không mang ý trai gái).
+canh	Story_talk_brother4_option_02	2	0	Story/O_Talk_Brother4_Option_02_001	Story/O_Talk_Brother4_Option_02_002	Tránh: theo chỉ đạo cảnh talk_brother4_option_02 (tiểu sư muội, Vân Thường, Phàn Khiếu Thiên chưa đủ 18: lựa chọn không mang ý trai gái).
+canh	Story_talk_girl5_02	9	0	Story/O_Talk_Girl5_02_001	Story/O_Talk_Girl5_02_009	Tránh: theo chỉ đạo cảnh talk_girl5_02 (tiểu sư muội, Vân Thường, Phàn Khiếu Thiên chưa đủ 18: lựa chọn không mang ý trai gái).
+phieu	LUA/ch2_2_3_4_2_1:53.0	51		LUA/ch2_2_3_4_2_1:53.0	LUA/ch2_2_3_4_2_1:53.0	Gốc "将你给劈了" nhưng các câu sau Triệu Hoạt thắng, Đàm Bá Đao chửi: nghi là hắn tự chém phải mình; dịch theo diễn biến đó, xin xác nhận. || QUYẾT: Sai: gốc là đao tuột tay chém trúng bạn (Triệu Hoạt), sau đó vẫn thắng. Đã sửa 2 câu theo gốc và sửa tóm tắt cảnh ch2_2_3_4_2_1; sotay thêm điều tránh: không viết lại diễn biến.
+phieu	Story/T_2_2_4_1_001	57		Story/T_2_2_4_1_001	Story/T_2_2_4_1_001	Câu gốc "就像我的心一样" (độc thoại Triệu Hoạt, dễ đọc thành tỏ tình với tiểu sư muội chưa đủ 18); dịch sát gốc, phiên chính xem có cần làm nhạt thành tình huynh muội. || QUYẾT: Làm nhạt: 'Cũng như ta, lúc nào cũng một lòng lo cho muội ấy vậy.' (2 câu). Rà luôn các câu Triệu Hoạt muốn cưới/ghen với tiểu sư muội ở ch1_1_1, ch1_1_2, ch1_2_5, ch2_2_4_2, ch2_2_5: viết thành lòng quý mến, che chở; sotay mục Tránh đã ghi.
+phieu	Story/D_2_4_1_013	68		Story/D_2_4_1_013	Story/D_2_4_1_013	gốc "小师妹…还欠我一次夫妻交拜" (Hoạt nói về tiểu sư muội chưa đủ 18); đã dịch sát nghĩa nghi lễ, giữ như câu đùa; phiên chính quyết giữ hay giảm || QUYẾT: Giới hạn vị thành niên: đổi thành đùa vai vế: Còn tiểu sư muội thì sao? Muội ấy nhỏ hơn đệ, lạy đệ một cái cũng được chứ. Câu sau của Thăng, Hoạt vẫn khớp.
+phieu	Story/D_2_4_7_2_1_016	82		Story/D_2_4_7_2_1_016	Story/D_2_4_7_2_1_016	Bảng thiếu cặp 唐铮 → 叶云裳; tôi tránh đại từ. || QUYẾT: Thêm cặp 唐铮 → 叶云裳: ta – ngươi (lạnh; nói về nàng là 'con nhóc').
+phieu	Story/D_2_5_3_3_2_010	96		Story/D_2_5_3_3_2_010	Story/D_2_5_3_3_2_010	Khung 'nam nhân ngưỡng mộ Tiểu Mai' và 'Mai Lan Trúc Cúc là người của chưởng phái nhân tương lai' (96.88), 心上人/心有属意 (96.59, 96.68-69): chưa rõ tuổi Tiểu Mai, 'tiểu sư muội' dưới 18; đã giữ sự việc, bỏ tình ý, dịch 'người mình quý mến'. || QUYẾT: Tiểu Mai là người lớn (notes). Đã dịch lại đúng gốc 96.68–69 (bị nụ cười câu mất hồn…), 96.87–88 (thầm thương, nữ nhân của chưởng phái nhân). 96.59 và vế 心有属意之人 chỉ tiểu sư muội nên giữ 'người mình quý mến'.
+phieu	LUA/ch2_5_3_3_3:111.0	97		LUA/ch2_5_3_3_3:111.0	LUA/ch2_5_3_3_3:111.0	Từ 97.1 đến 97.18 trông như cảnh tưởng tượng/nhại đội chiến sĩ rồi bị "chết", nhưng 97.17-18 lại như Triệu Hoạt thắng; 97.19-20 cho thấy người áo trắng (Thụy Sanh) mới là người đánh thắng ba người, 97.32 Hoạt cảm tạ cứu mạng. Dịch sát gốc, phiên chính xem ai là "bạn" ở 97.17-18 và ai nói 97.19. || QUYẾT: Ba nhánh: thua (97.1–10, nhại đội chiến binh, 'bạn' chết), thắng (97.11–18, 'bạn' là Hoạt), nhánh Thụy Sanh (97.19 ??? = Thụy Sanh nhận xét, 97.20–33 cứu Hoạt). Bản dịch đúng, giữ.
+phieu	Story/D_3_1_2_1_104	105		Story/D_3_1_2_1_104	Story/D_3_1_2_1_104	Câu đùa 老婆 của Hoạt với Vân Thường (15 tuổi) và ~105.112 (歪主意), ~105.114 (调戏小娘子) đã đổi thành đùa vai vế ("bà cô nhỏ", "giở trò chọc muội", "nịnh con gái nhà người ta") để không có khung yêu đương; ~105.10 温香软玉/非礼 cũng chỉ dịch thành ôm muội và thất lễ. || QUYẾT: Đúng hướng (Vân Thường chưa đủ 18). Đã chuốt 105.10 (ôm muội; 'tố huynh bắt nạt muội' thay 'thất lễ'), 105.112 ('giở trò chọc ghẹo muội'); giữ 'bà cô nhỏ' và 'nịnh con gái nhà người ta'. Ghi quyết định vào notes.
+phieu	Story/D_3_1_4_3_2_021	112		Story/D_3_1_4_3_2_021	Story/D_3_1_4_3_2_021	Lời 112.20-22 có vẻ là các nhánh thoại khác nhau (Đoàn đã bị đuổi ở 112.18); dịch sát gốc, không chắc 112.22 Hoạt đáp ai. || QUYẾT: Đúng: 112.20 và 112.21 là hai nhánh đáp lời Phương (hăng hái / lơ đễnh); 112.22 Phương mắng Đoàn sau khi hắn bị đuổi (nói với kẻ vắng mặt). Giữ bản dịch.
+phieu	Story/D_3_1_4_3_2_069	112		Story/D_3_1_4_3_2_069	Story/D_3_1_4_3_2_069	Gốc ví Hoạt là 'sói háo sắc' khi nói về phòng Vân Thường (chưa đủ 18): đã đổi thành 'thói làm càn', không khung tình dục. || QUYẾT: Giữ 'cái thói làm càn của đệ': đọc tự nhiên, đúng giới hạn Vân Thường; ghi vào notes Giới hạn tuổi.
+phieu	LUA/ch3_2_3_2_5:34.0	128		LUA/ch3_2_3_2_5:34.0	LUA/ch3_2_3_2_5:34.0	Lô này lẫn nhiều bản nhánh của cùng một đoạn (128.18-20 chọn lựa, 128.21-64 trộn nhiều nhánh); người nói/nghe của một số câu (128.38-42 võ sư, 128.76-85) mơ hồ nên tôi dịch theo nội dung; 128.76 và 128.77 hơi mâu thuẫn (hòa nhau / bị đánh rụng răng). || QUYẾT: 128.76 dịch sai tầm phủ định: 没动上手就让我们满地找牙 = không ra tay thật để bọn ta rụng răng; đã sửa, hết mâu thuẫn với hòa nhau. Các nhánh khác giữ. Sửa thêm 92.0 (đệ), 332.0, 550.0, 622.0.
+phieu	Story/T_4_2_1_004	164		Story/T_4_2_1_004	Story/T_4_2_1_004	Nội tâm Thăng ("割舍", "我自己的心") có thể ngụ ý tình cảm với tiểu sư muội (chưa đủ 18); dịch trung tính "ý riêng", chờ phiên chính quyết. || QUYẾT: Đúng hướng: giữ 'ý riêng', người nghĩ để trung tính; đã ghi vào notes (lần 8).
+phieu	Story/D_4_2_4_1_054	167		Story/D_4_2_4_1_054	Story/D_4_2_4_1_054	吃醋 của Hoạt nghĩ về Mặc Linh (chưa đủ 18) dịch thành "hờn dỗi", tránh khung yêu đương. || QUYẾT: Đổi thành 'ganh tị' kiểu em gái; luật thêm vào sotay; đã sửa câu.
+phieu	Story/D_4_3_6_1_006	171		Story/D_4_3_6_1_006	Story/D_4_3_6_1_006	Mặc Linh (<18): gốc Thủ Hồng nói Hoạt "对师侄女有情" rồi gả nàng; dịch thành "quan tâm", giữ việc gả; xin phiên chính xem cách xử lý cảnh kết xấu này. || QUYẾT: Chấp nhận: 'quan tâm', giữ việc gả; chỉ đạo cảnh ch4_3_6_1 đã ghi.
+phieu	Story/D_4_3_6_2_047	171		Story/D_4_3_6_2_047	Story/D_4_3_6_2_047	Vân Thường chửi tục "去你妈的" → "Cút mẹ ngươi đi"; cảnh kết xấu, nếu cần tránh tục với nhân vật <18 thì phiên chính quyết. || QUYẾT: Giữ lời tục đúng mức gốc: giới hạn tuổi chỉ về tình cảm, không kiểm duyệt lời tục.
+phieu	Story/D_4_4_1_052	174		Story/D_4_4_1_052	Story/D_4_4_1_052	Gốc nói Hoạt "争夺小师妹" với đại sư huynh, "移情别恋", "送上门来...积极考虑", Bố Y "对小师妹没那种心思": tiểu sư muội chưa đủ 18 nên dịch thành tranh sự quý mến/đùa vai vế, không khung tình ái; 174.90 "移情别恋" dịch thành "đổi mối quan tâm". || QUYẾT: Chấp nhận 052, 054; sửa 053 '移情别恋' → 'đã sớm để mắt tới cô nương khác rồi' (rõ hơn 'đổi mối quan tâm').
+phieu	Story/D_4_6_4_2_007	185		Story/D_4_6_4_2_007	Story/D_4_6_4_2_007	bảng ghi 赵活 → 唐门弟子 xưng đệ, gọi sư huynh; nhưng chỉ đạo cảnh nói đệ tử trẻ này gọi Hoạt 师兄 (Hoạt là sư huynh của họ). Tôi né đại từ cho Hoạt ở 185.59 và 185.64. || QUYẾT: Từ Story/D_4_3_8_4_069 ('师弟……不，赵师兄') lớp đệ tử sau gọi Hoạt sư huynh: thêm cặp có mốc 唐门弟子→赵活 đệ – sư huynh, 赵活→唐门弟子 huynh/ta – sư đệ (ra lệnh cả nhóm xưng ta). Đã sửa 185.59 ('Đệ đừng dọa huynh chứ…'), 185.64 ('Huynh đi xem thử'), 186.18 ('Các đệ lên trước, ta đoạn hậu').
+phieu	Story/D_4_6_5_1_001	186		Story/D_4_6_5_1_001	Story/D_4_6_5_1_001	bảng ghi 赵活 → 唐门弟子 xưng đệ, gọi sư huynh; nhưng ở ch4_6_5_1 Hoạt ra lệnh cho đệ tử Đường Môn (gốc 众位师兄弟, 你们先上，我殿后) và họ gọi Hoạt là 师兄, nên tôi dịch Hoạt xưng "ta". Cần phiên chính xác định lại vai vế Hoạt với nhóm đệ tử này. || QUYẾT: Từ Story/D_4_3_8_4_069 ('师弟……不，赵师兄') lớp đệ tử sau gọi Hoạt sư huynh: thêm cặp có mốc 唐门弟子→赵活 đệ – sư huynh, 赵活→唐门弟子 huynh/ta – sư đệ (ra lệnh cả nhóm xưng ta). Đã sửa 185.59 ('Đệ đừng dọa huynh chứ…'), 185.64 ('Huynh đi xem thử'), 186.18 ('Các đệ lên trước, ta đoạn hậu').
+phieu	Story/T_4_6_6_001	187		Story/T_4_6_6_001	Story/T_4_6_6_001	Lời Hoạt về Mặc Linh và đại sư huynh (论及婚嫁, 男女之情, 偕老, 看上): theo chỉ đạo chưa đủ 18 đã dịch giữ sự việc 'bàn tới chuyện thành thân' và lòng che chở, bỏ khung yêu đương ở 187.89-91. || QUYẾT: Chấp nhận. T_4_6_6_001 giữ 'bàn tới chuyện thành thân'; 男女之情 (T_4_6_7_Break_016–017) đổi thành 'rốt cuộc là thứ tình cảm gì?' cho sát câu hỏi gốc; 偕老/看上 giữ 'ở bên che chở đến già', 'để ta vào mắt'. Luật thêm vào sotay.
+phieu	Story/D_4_6_12_009	189		Story/D_4_6_12_009	Story/D_4_6_12_009	Lời Hoạt về việc Mặc Linh thành thân với đại sư huynh (心痛至死, 羡慕, 换不来一个她): theo chỉ đạo chưa đủ 18, dịch giữ sự việc và nỗi xót, bỏ khung tình yêu. || QUYẾT: Chấp nhận, kéo sát gốc hơn: 'chắc đệ sẽ đau lòng muốn chết', 'không đổi được một người như muội ấy' (nỗi đau mất người mình che chở, không lời yêu).
+phieu	Story/D_4_6_13_097	191		Story/D_4_6_13_097	Story/D_4_6_13_097	Gốc có lời hạ lưu của Kim Ô về Mặc Linh (按在床上都能压死); chưa đủ 18 nên đã dịch thành 'một cái đè xuống là ép chết', bỏ chữ giường. || QUYẾT: Chấp nhận: bỏ chữ giường, 'xử luôn' thay cưới (câu nhắm cả Mặc Linh). Đã thống nhất tự xưng của Kim Ô trong hai câu ('ta' cho 我).
+phieu	Story/D_5_2_1_014	213		Story/D_5_2_1_014	Story/D_5_2_1_014	Chọn rể cho Mặc Linh (15 tuổi, chưa đủ 18): dịch đúng sự việc (chọn rể, thành thân, xuất giá), không tô lãng mạn; cảnh này không có chỉ đạo sẵn nên xin phiên chính xem lại các câu 72–87. || QUYẾT: Đã đọc lại ch5_2_1–ch5_2_5: đúng sự việc (chọn rể, thành thân, xuất giá, xung hỉ), không lãng mạn; đạt. Sửa thêm D_5_2_5_079 (Vân Thường đùa 'rước Mặc Linh' → 'Mặc Linh là của bổn cô nương').
+phieu	Story/D_5_2_5_088	215		Story/D_5_2_5_088	Story/D_5_2_5_088	Gốc là 成亲 (Vân Thường đùa thành thân với Hoạt, 'gả vào Đường Môn'); nàng chưa đủ 18 nên dịch thành đùa kết nghĩa huynh muội. || QUYẾT: Đồng ý: đùa kết nghĩa huynh muội đúng luật giới hạn tuổi; giữ.
+phieu	Story/D_5_4_7_3_10_006	232		Story/D_5_4_7_3_10_006	Story/D_5_4_7_3_10_006	Gốc là lời gợi tình của Kim Ô về Mặc Linh (chưa đủ 18); đã dịch thành lời khiêu khích đanh đá, không khung tình dục. || QUYẾT: Đồng ý: giữ vẻ ghê tởm, Hoạt quát 'đừng làm bẩn tai' vẫn khớp; không khung tình dục.
+phieu	Story/D_5_4_8_5_1_037	234		Story/D_5_4_8_5_1_037	Story/D_5_4_8_5_1_037	Gốc là câu đùa 以身相许 với Mặc Linh (chưa đủ 18); đã dịch thành lời đùa báo ơn, không khung yêu đương. Câu 234.120 mắng 'lời bẩn' giữ được. || QUYẾT: Đồng ý. Sửa D_5_4_8_5_1_039 'lời tục' → 'nói bậy' cho khớp câu 038.
+phieu	Story/T_5_4_8_6_004	236		Story/T_5_4_8_6_004	Story/T_5_4_8_6_004	Gốc 忌妒 (Hoạt ghen tị với Thụy Sanh) liên quan hôn sự của Mặc Linh (chưa đủ 18); đã dịch thành 'hâm mộ' kiểu người huynh, không khung yêu đương. Gốc cả cảnh 236.17-49 dùng 心悦/两情相悦/单相思/心上人; đã chuyển thành 'quý mến/gắn bó/người huynh quý' (glossary '心上人 = người trong lòng' không dùng). || QUYẾT: Đồng ý cách chuyển (hâm mộ, quý mến, người huynh quý); đúng luật giới hạn tuổi. Đã thêm vào notes.md mục Giới hạn tuổi.
+phieu	LUA/ch1_1_1:774.0	43		LUA/ch1_1_1:774.0	LUA/ch1_1_1:774.0	Bible "Tránh" bảo đổi ý muốn cưới của Hoạt với tiểu sư muội thành lòng quý mến, nhưng chỉ đạo ch1_1_1 bảo dịch rõ ý Thanh Thành được lấy vợ; 43.6/43.7/43.66/43.67 đã làm mềm (ở gần/ở bên/giữ chân thay cho "cưới"); 43.96/43.98 giữ sự việc "gả cho người ta" vì đó là chuyện hôn sự do chưởng môn nói. Cần phiên chính chốt. || QUYẾT: Mục Tránh của sổ tay thắng: ý Hoạt muốn cưới tiểu sư muội làm mềm (ở gần, ở bên) như đã làm là đúng; sự việc đạo sĩ Thanh Thành được lấy vợ và chuyện chưởng môn gả nàng cho người ta vẫn dịch đúng. Đã sửa chỉ đạo ch1_1_1 cho khớp.
+phieu	LUA/ch1_2_5:142.0	45		LUA/ch1_2_5:142.0	LUA/ch1_2_5:142.0	Câu gốc 迟早把小师妹给娶了 và 45.85/45.87/45.92 (chuyện cưới, 情痴) đã làm mềm theo mục Tránh (giành về bên mình, vương vấn); 45.64 người nói ？？？ dùng 本宫/赵君 nên giữ 'bổn cung', 'Triệu quân' theo gốc. || QUYẾT: Đúng: chuyện cưới với tiểu sư muội làm mềm theo mục Tránh (giành về bên mình, vương vấn) là đúng; ？？？ dùng 本宫/赵君 giữ 'bổn cung', 'Triệu quân' theo gốc.
+phieu	Story/D_2_4_1_013	68		Story/D_2_4_1_013	Story/D_2_4_1_013	Gốc đùa 夫妻交拜 với tiểu sư muội; theo mục Tránh đã đổi thành "một lạy nhận làm huynh trưởng", câu 68.25–26 giữ phản ứng. Phiên chính xem trò đùa còn đủ nhịp không. || QUYẾT: 'nhận làm huynh trưởng' nhạt, câu 'nghe mà phát khiếp' mất cớ. Đổi thành 'muội ấy vẫn còn nợ đệ một lạy nhận cha nuôi mà' (đùa vai vế, không ý trai gái, vẫn chướng tai). Ghi vào sotay.
+phieu	LUA/ch2_5_3_2:1699.0	96		LUA/ch2_5_3_2:1699.0	LUA/ch2_5_3_2:1699.0	Bảng 魏菊 → 虞小梅 ghi xưng 'tiểu muội', nhưng ở ch2_5_3_2 Ngụy Cúc đang nghiêm với Tiểu Mai (gọi 小梅师妹, xưng 本座); đã tránh tự xưng hoặc dùng 'bổn tọa' theo gốc. Nên xem lại cột xưng của cặp này. || QUYẾT: Thêm cặp 魏菊 → 虞小梅: tiểu nữ – Tiểu Mai sư muội khi hòa nhã; nghiêm, ra uy (gốc 本座) thì bổn tọa – muội. Bản dịch ch2_5_3_2 giữ nguyên.
+phieu	Story/D_3_1_2_1_104	105		Story/D_3_1_2_1_104	Story/D_3_1_2_1_104	Trò đùa 是我老婆 (Vân Thường chưa đủ 18) đổi thành "em gái nuôi nhà huynh", câu đáp 105.112 đổi 禽兽 → "đồ mặt dày" cho khớp; phiên chính xem lại có cần chướng tai hơn không. || QUYẾT: Giữ mục Tránh ('em gái nuôi', 'đồ mặt dày'). Chỉ sửa nhịp: 102/103/104/106 cùng khung 'trông thì…, hóa ra…' để cú chốt rơi cuối câu.
+phieu	Story/T_5_4_5_3_005	229		Story/T_5_4_5_3_005	Story/T_5_4_5_3_005	Chỉ đạo cảnh ghi mọi ý nghĩ T_5_4_5_3_* là của Hoạt, nhưng câu này (lần đầu nghe danh Diệp Vân Chu, "lỡ phải giao đấu thì tránh xa hắn") và 229.51–229.53 (hai người đánh giá nhau) có vẻ là của người phe Không Động hoặc của Thụy Sanh/Vân Chu; đã dịch "ta" trung tính. || QUYẾT: Đúng: T_5_4_5_3_001, 005 là của Kim Ô (người ngoài, Hoạt vốn quen Vân Chu); 002 của Thụy Sanh nhìn Vân Chu, 003 của Vân Chu nhìn Thụy Sanh, 004 của cả hai. Đã sửa chỉ đạo ch5_4_5_3; sửa 001 thành giọng Kim Ô ('tên công tử áo trắng', 'Hắn').
+phieu	Story/D_5_4_8_5_1_037	234		Story/D_5_4_8_5_1_037	Story/D_5_4_8_5_1_037	Gốc 以身相许 (đùa lấy thân báo đáp) với tiểu sư muội chưa đủ 18: đổi thành "bán thân làm trâu làm ngựa" để giữ cớ cho câu Duy Nguyên chê "lời bậy bạ"; phiên chính xem có ổn không. || QUYẾT: 'bán thân' tiếng Việt dễ hiểu thành bán dâm, bỏ. Viết lại: 037 'Muội cứu mạng huynh, vậy cả đời này huynh theo hầu muội, làm trâu làm ngựa cho muội nhé, được không?' (chướng ngay giữa hôn lễ của nàng), 038 'đừng có nói bậy!', 039 'Thế mà gọi là nói bậy à?'. Đã ghi chỉ đạo ch5_4_8_5_1.
+phieu	Story/T_6_2_2_Break_01_001	274		Story/T_6_2_2_Break_01_001	Story/T_6_2_2_Break_01_001	Chỉ đạo cảnh ch6_2_2_break_start_01 ghi "ý nghĩ của Hoạt", nhưng câu này (师兄武功又高…我是不是配不上他) và lời dẫn ~274.14 cho thấy là ý nghĩ của Mặc Linh; đã viết "ta… có phải là không xứng với sư huynh" (chữ "xứng" chạm giới hạn hứa hôn của tiểu sư muội, cần duyệt). || QUYẾT: Ý nghĩ là của Mặc Linh: đã sửa chỉ đạo ch6_2_2_break_start_01; viết lại câu thành 'Ta… có phải ta kém sư huynh xa quá rồi không?' (bỏ 'xứng', theo mục Tránh: Mặc Linh chưa đủ 18).
+phieu	Story/D_6_3_5_Break_01_066	278		Story/D_6_3_5_Break_01_066	Story/D_6_3_5_Break_01_066	Cảnh Vân Thường đòi cõng có nhiều câu gán đôi (拜天地 ~278.12, 动坏心思/一亲芳泽/柳下惠/绑了远走高飞 ~278.14–17, 禽兽 ~278.20, 体己话/花开堪折 ~278.22): đã đổi theo mục Tránh (kết nghĩa huynh muội, cưng nựng, em gái nuôi, thú dữ), giữ nhịp; xin phiên chính duyệt lại. || QUYẾT: Duyệt lại: giữ 'kết nghĩa huynh muội' (066) và 'thú dữ' (074). Viết lại 068–071: Hoạt đùa sợ mình 'ngứa tay bắt nạt muội', 'véo má', 'trói muội vác đi giấu' (bỏ 'cưng nựng', 'em gái nuôi' gượng); 076 bỏ thơ hái hoa, thành 'Có dịp vui thì phải vui ngay, đợi qua rồi tiếc cũng muộn!'. Câu đáp 072–075 vẫn khớp.
+phieu	Story/D_6_4_1_057	279		Story/D_6_4_1_057	Story/D_6_4_1_057	Vân Chu đùa khuyên Hoạt đổi 伴侣 hiền hơn, Vân Thường đáp 妹夫/大舅哥: Vân Thường chưa đủ 18 nên đổi thành đùa vai anh – em gái (đổi một cô em gái chịu khó hơn; xúi người khác bỏ rơi em gái mình). Phiên chính xem có giữ không. || QUYẾT: Giữ: 'đổi một cô em gái hiền lành, chịu khó hơn' – 'xúi người khác bỏ rơi em gái mình' đọc tự nhiên, câu đáp khớp.
+phieu	Story/D_6_4_3_1_030	281		Story/D_6_4_3_1_030	Story/D_6_4_3_1_030	狗男女 (Họa Trung Tiên mắng Hoạt và người được cứu lần trước): chưa rõ người kia có phải nhân vật chưa đủ 18 không nên dịch 'hai kẻ đáng ghét các ngươi'; phiên chính xem có đổi lại 'đôi cẩu nam nữ' không. || QUYẾT: Người kia là Tiểu Mai (người lớn, Họa Trung Tiên cứu cả hai ở Không Động): dịch đúng gốc 'đôi cẩu nam nữ các ngươi'; đã sửa D_6_4_3_1_030, chỉ đạo ch6_4_3_1 đã ghi.
+phieu	Story/D_6_4_3_2_01_503_028	283		Story/D_6_4_3_2_01_503_028	Story/D_6_4_3_2_01_503_028	Gốc 情郎 (Ôn phu nhân nói với Vân Thường, chưa đủ 18) đã viết "người ngươi quý" theo mục Tránh; phiên chính xem có giữ được nhịp không. || QUYẾT: Giữ 'người ngươi quý': đọc trôi, ý 'cả đời hắn không rời ngươi' vẫn nối.
+phieu	Story/D_6_4_3_4_034	285		Story/D_6_4_3_4_034	Story/D_6_4_3_4_034	Gốc 心上人 (Tiểu Mai trêu về tiểu sư muội) đổi thành "người ngày trước huynh cưng nhất" theo mục Tránh. || QUYẾT: Giữ 'người ngày trước huynh cưng nhất' (chỉ tiểu sư muội): tự nhiên, ý 'chột dạ' còn nguyên.
+phieu	Story/D_7_5_6_3_088	382		Story/D_7_5_6_3_088	Story/D_7_5_6_3_088	Câu Hoạt đáp Vân Thường (chưa đủ 18) gốc 英雄难过美人关: giữ thành ngữ quen 'Anh hùng khó qua ải mỹ nhân' (nói chung về tật đa tình của hắn), không thêm lời tình; phiên chính xem có cần làm nhạt hơn không. || QUYẾT: Hoạt nói thẳng với Vân Thường nên là lời tán tỉnh nhắm vào nàng: viết lại 'Tại lòng huynh rộng quá, thấy ai cũng muốn quý, chuyện này sao tính là huynh coi rẻ muội được?'
+phieu	Story/D_8_1_1_1_031	384		Story/D_8_1_1_1_031	Story/D_8_1_1_1_031	Mặc Linh nhánh tốt: 情根深种/我也一样/遇了良人/相配 đổi theo mục Tránh thành "cưng muội", "người đáng để nương tựa", "gả … cho đệ ấy" (hôn sự giữ sự việc); phiên chính xem lại. || QUYẾT: Duyệt, giữ hướng. Sửa 031 cho trơn: 'ai bảo huynh cưng muội nhất trên đời, có muốn bỏ cũng chẳng bỏ được?'. T_003/004 (Thăng nghĩ, 'gả… cho đệ ấy') giữ vì là sự việc hôn sự.
+cau	Story/D_8_2_1_176	397	x	Story/D_8_2_1_176	Story/D_8_2_1_176	Gốc: Vân Thường nói không định yêu huynh nữa → đã viết: "chẳng định chơi thân với huynh nữa", có thêm chị dâu cũng chẳng liên quan tới muội
+cau	Story/D_8_2_5_6_1_012	401	x	Story/D_8_2_5_6_1_012	Story/D_8_2_5_6_1_012	Gốc: nói Mặc Linh có tình cảm thật, vẻ ái mộ → đã viết theo hướng 'muội coi là thật', 'ngưỡng mộ'
+cau	Story/D_8_2_5_6_1_017	401	x	Story/D_8_2_5_6_1_017	Story/D_8_2_5_6_1_017	Gốc: nói Vân Thường có tình cảm thật, ghen → đã viết 'muội coi là thật', 'ganh tị'
+cau	Story/D_8_2_5_6_1_051	401	x	Story/D_8_2_5_6_1_051	Story/D_8_2_5_6_1_051	Gốc: Mặc Linh hóa ra có tình cảm thật → đã viết 'hóa ra muội coi là thật', 'ngưỡng mộ'
+cau	Story/D_8_2_5_6_1_108	401	x	Story/D_8_2_5_6_1_108	Story/D_8_2_5_6_1_108	Gốc: Vân Thường nói huynh ấy yêu mình → đã viết 'huynh ấy cưng muội'
+cau	Story/D_8_2_5_6_1_024	401	x	Story/D_8_2_5_6_1_024	Story/D_8_2_5_6_1_024	Gốc: Tiểu Mai bảo muội thích thì giữ → đã viết 'muội muốn thì cứ giữ lấy'
+cau	Story/D_8_2_5_9_025	404	x	Story/D_8_2_5_9_025	Story/D_8_2_5_9_025	Gốc: Vân Thường nói ngoài Mặc Linh không chịu chung chồng với ai → đã viết 'không định chia ca ca cho cô gái nào khác'
+cau	Story/D_8_2_6_1_025	404	x	Story/D_8_2_6_1_025	Story/D_8_2_6_1_025	Gốc: Hoạt khen tiểu sư muội đẹp như hoa như ngọc → đã viết 'tiểu sư muội xinh xắn thế này'
+cau	Story/N_8_2_6_2_6_001	408	x	Story/N_8_2_6_2_6_001	Story/N_8_2_6_2_6_001	Gốc: lời kể ví tiểu sư muội nhìn sư huynh như người tình → đã viết: trong mắt muội ấy sư huynh là người tốt nhất, sợ người khác cướp đi làm chú rể
+cau	Story/N_6_4_2_001	chắc	x	Story/N_6_4_2_001	Story/N_6_4_2_001	Gốc: Mặc Linh là thiếu nữ đang biết yêu → đã viết: thiếu nữ đang tuổi lớn nhạy cảm
+cau	Story/D_6_4_2_028	chắc	x	Story/D_6_4_2_028	Story/D_6_4_2_028	Gốc: dù hai ta tình ý đôi bên → đã viết: dù hai ta thân nhau đến mấy
+cau	Story/D_6_4_2_102	chắc	x	Story/D_6_4_2_102	Story/D_6_4_2_102	Gốc: huynh theo đuổi muội, phải chung tình → đã viết: huynh bám theo muội, không được đổi ý
+cau	Story/D_6_4_2_125	chưa chắc	x	Story/D_6_4_2_125	Story/D_6_4_2_125	Gốc: nếu huynh thay lòng (tình cảm) → đã viết: nếu huynh đổi ý
+cau	Story/D_6_4_2_135	chắc	x	Story/D_6_4_2_135	Story/D_6_4_2_135	Gốc: trước đây huynh yêu đơn phương Mặc Linh → đã viết: trước đây huynh một lòng quý Mặc Linh
+cau	Story/D_7_5_6_2_019	chắc	x	Story/D_7_5_6_2_019	Story/D_7_5_6_2_019	Gốc: muội hỏng thì huynh cô độc cả đời không vợ → đã viết: cả đời chẳng còn ai bám theo huynh
+cau	Story/D_4_3_6_2_001	chưa chắc	x	Story/D_4_3_6_2_001	Story/D_4_3_6_2_001	Gốc: ép muội theo về với huynh, sẽ yêu chiều muội → đã viết: muội cứ nghe theo huynh, huynh sẽ thương muội
+cau	Story/D_4_9_3_5_013	chưa chắc	x	Story/D_4_9_3_5_013	Story/D_4_9_3_5_013	Gốc: huynh phải mê muội đến không kìm được → đã viết: huynh phải quý muội đến không kìm được
+cau	Story/D_6_4_3_2_01_503_028	chắc	x	Story/D_6_4_3_2_01_503_028	Story/D_6_4_3_2_01_503_028	Gốc: giúp tình lang của ngươi → đã viết: giúp người ngươi quý
+cau	Story/D_6_4_4_1_085	chắc	x	Story/D_6_4_4_1_085	Story/D_6_4_4_1_085	Gốc: nhắc huynh mãi rung động vì muội → đã viết: nhắc huynh luôn thấy muội đáng yêu nhất
+cau	Story/D_6_4_4_1_088	chắc	x	Story/D_6_4_4_1_088	Story/D_6_4_4_1_088	Gốc: mặt huynh lúc động tình thật đáng sợ → đã viết: mặt huynh lúc cảm động thật đáng sợ
+cau	Story/D_5_4_8_5_3_017	chắc	x	Story/D_5_4_8_5_3_017	Story/D_5_4_8_5_3_017	Gốc: lòng ta có ái mộ muội ấy → đã viết: lòng quý mến thì ta có
+cau	Story/D_5_4_8_5_3_018	chắc	x	Story/D_5_4_8_5_3_018	Story/D_5_4_8_5_3_018	Gốc: ta chỉ tương tư đơn phương → đã viết: chỉ có mình ta quý muội ấy
+cau	Story/D_4_8_9_3_057	chắc	x	Story/D_4_8_9_3_057	Story/D_4_8_9_3_057	Gốc: Mặc Linh, Vân Thường cùng đêm đêm tranh sủng → đã viết: hai nàng chỉ quấn quýt, tranh sủng chỉ còn Long nữ hiệp
+cau	Story/T_3_1_2_3_Break_01_005	chắc	x	Story/T_3_1_2_3_Break_01_005	Story/T_3_1_2_3_Break_01_005	Gốc: huynh chỉ ham sắc đẹp của muội → đã viết: huynh chỉ ham được muội gọi ca ca
+cau	Story/D_5_5_1_014	chắc	x	Story/D_5_5_1_014	Story/D_5_5_1_014	Gốc: khóc nữa anh bắt về làm vợ → đã viết: bắt về làm em út nhà anh
+cau	Story/D_5_5_1_036	chắc	x	Story/D_5_5_1_036	Story/D_5_5_1_036	Gốc: Vân Thường đùa muốn thành đôi lứa với Mặc Linh → đã viết: hai ta ở bên nhau mãi mãi
+cau	Story/T_5_5_1_004	chắc	x	Story/T_5_5_1_004	Story/T_5_5_1_004	Gốc: ai bảo Mặc Linh thích (yêu) huynh → đã viết: ai bảo Mặc Linh lại quý huynh
+cau	Story/T_4_5_1_001	chưa chắc	x	Story/T_4_5_1_001	Story/T_4_5_1_001	Gốc: muội không hề có chút tình ý với đại sư huynh → đã viết: muội không hề muốn thành thân với đại sư huynh
+cau	Story/D_5_5_3_046	chưa chắc	x	Story/D_5_5_3_046	Story/D_5_5_3_046	Gốc: cuối cùng đệ vẫn ra tay ve vãn muội ấy → đã viết: cuối cùng đệ không giữ được lễ
+cau	Story/D_5_5_3_057	chắc	x	Story/D_5_5_3_057	Story/D_5_5_3_057	Gốc: quản cái miệng vợ đệ → đã viết: quản miệng tiểu sư muội nhà đệ
+cau	Story/D_5_5_3_059	chắc	x	Story/D_5_5_3_059	Story/D_5_5_3_059	Gốc: hai đứa yêu nhau, không chia rẽ uyên ương → đã viết: cùng một lòng, không chia rẽ hai đứa
+cau	Story/D_5_4_8_9_028	chưa chắc	x	Story/D_5_4_8_9_028	Story/D_5_4_8_9_028	Gốc: huynh vẫn rất muốn có muội (dù mập) → đã viết: huynh vẫn quý muội lắm
+cau	Story/D_5_4_8_9_039	chắc	x	Story/D_5_4_8_9_039	Story/D_5_4_8_9_039	Gốc: đốt gối chồng để tỏ ý không chịu chung phòng → đã viết: đốt gối chồng cho biết không dễ bắt nạt
+cau	Story/D_5_4_8_9_058	chắc	x	Story/D_5_4_8_9_058	Story/D_5_4_8_9_058	Gốc: cướp tiểu sư muội ôm vào lòng → đã viết: cướp tiểu sư muội đi
+cau	Story/T_5_2_7_1_003	chắc	x	Story/T_5_2_7_1_003	Story/T_5_2_7_1_003	Gốc: huynh thích kiểu con gái dịu dàng như muội hơn → đã viết: huynh quý cái nết hiền của muội hơn
+cau	Story/D_5_2_7_1_094	chắc	x	Story/D_5_2_7_1_094	Story/D_5_2_7_1_094	Gốc: khóc nữa anh bắt về làm vợ → đã viết: bắt về làm em út nhà anh
+cau	Story/N_7_5_6_4_001	chắc	x	Story/N_7_5_6_4_001	Story/N_7_5_6_4_001	Gốc: lưu luyến tình cảm, mong nắm tay bên nhau đến già → đã viết: quấn quýt ỷ lại, mong nương tựa suốt đời
+cau	Story/D_5_5_2_Break_01_034	chắc	x	Story/D_5_5_2_Break_01_034	Story/D_5_5_2_Break_01_034	Gốc: ta yêu tiểu sư muội đến không dứt ra được → đã viết: ta quý tiểu sư muội đến mê muội
+cau	Story/D_5_5_2_Break_01_060	chắc	x	Story/D_5_5_2_Break_01_060	Story/D_5_5_2_Break_01_060	Gốc: huynh ái mộ tiểu sư muội là lẽ đương nhiên → đã viết: huynh quý tiểu sư muội là hiển nhiên
+cau	Story/D_5_5_2_Break_01_061	chưa chắc	x	Story/D_5_5_2_Break_01_061	Story/D_5_5_2_Break_01_061	Gốc: tiểu sư muội lại có tình ý với huynh → đã viết: tiểu sư muội lại quý huynh
+cau	Story/D_6_6_2_Break_01_193	chưa chắc	x	Story/D_6_6_2_Break_01_193	Story/D_6_6_2_Break_01_193	Gốc: đánh là tình mắng là yêu, muội có tình với huynh → đã viết: đánh là thương mắng là quý
+cau	Story/D_6_6_2_Break_01_195	chắc	x	Story/D_6_6_2_Break_01_195	Story/D_6_6_2_Break_01_195	Gốc: người ta thầm thương là cô nương này → đã viết: ta chỉ quý cô nương này
+cau	LUA/ch1_1_1:774.0	chắc	x	LUA/ch1_1_1:774.0	LUA/ch1_1_1:774.0	Gốc: sang Thanh Thành thì người cưới không phải tiểu sư muội → đã viết: sang Thanh Thành thì không được ở gần muội
+cau	LUA/ch1_1_1:785.0	chắc	x	LUA/ch1_1_1:785.0	LUA/ch1_1_1:785.0	Gốc: không sang Thanh Thành cũng chẳng cưới được muội → đã viết: cũng đâu giữ được muội ở bên
+cau	Story/T_1_1_1_001	chắc	x	Story/T_1_1_1_001	Story/T_1_1_1_001	Gốc: không sang Thanh Thành cũng chẳng cưới được muội → đã viết: cũng đâu giữ được muội ở bên
+cau	Story/D_5_2_5_067	chưa chắc	x	Story/D_5_2_5_067	Story/D_5_2_5_067	Gốc: đệ đem lòng say đắm tiểu sư muội → đã viết: đệ một lòng thương tiểu sư muội
+cau	Story/D_5_2_5_079	chắc	x	Story/D_5_2_5_079	Story/D_5_2_5_079	Gốc: chúng cướp vợ của muội (đùa về Mặc Linh) → đã viết: chúng cướp Mặc Linh của muội
+cau	Story/D_5_3_1_005	chắc	x	Story/D_5_3_1_005	Story/D_5_3_1_005	Gốc: vừa gặp đã đem lòng yêu sâu đậm, sẽ yêu cô → đã viết: đem lòng ngưỡng mộ, sẽ hết lòng đối tốt
+cau	Story/D_5_3_1_019	chắc	x	Story/D_5_3_1_019	Story/D_5_3_1_019	Gốc: hai bên tình đầu ý hợp, yêu một người, ta phải lòng cô → đã viết: tâm ý tương thông, đã chọn một người, đã chọn cô
+cau	Story/D_6_8_4_105	chưa chắc	x	Story/D_6_8_4_105	Story/D_6_8_4_105	Gốc: con hồ ly lẳng lơ đừng sàm sỡ chồng người ta → đã viết: con hồ ly nhỏ đừng động tay chân chồng người ta
+cau	Story/D_2_4_5_4_1_007	chắc	x	Story/D_2_4_5_4_1_007	Story/D_2_4_5_4_1_007	Gốc: gọi cô dâu của ta, phu quân tới đây → đã viết: hai em, ta tới đây
+cau	Story/T_2_4_5_4_1_002	chắc	x	Story/T_2_4_5_4_1_002	Story/T_2_4_5_4_1_002	Gốc: dỗ ngọt lừa tiểu sư muội vào động phòng → đã viết: lừa tiểu sư muội đi theo ta
+cau	Story/D_3_1_4_1_027	chắc	x	Story/D_3_1_4_1_027	Story/D_3_1_4_1_027	Gốc: mắng là đồ dê xồm → đã viết: mắng là đồ xấu xa
+cau	Story/D_6_9_2_Break_01_077	chắc	x	Story/D_6_9_2_Break_01_077	Story/D_6_9_2_Break_01_077	Gốc: muội làm áp trại phu nhân của huynh → đã viết: huynh trại chủ, muội nhị trại chủ
+cau	Story/D_6_9_2_Break_01_114	chưa chắc	x	Story/D_6_9_2_Break_01_114	Story/D_6_9_2_Break_01_114	Gốc: khiến huynh vừa yêu vừa hận cả đời → đã viết: khiến huynh vừa thương vừa giận
+cau	Story/D_6_3_5_Break_01_068	chắc	x	Story/D_6_3_5_Break_01_068	Story/D_6_3_5_Break_01_068	Gốc: cõng muội thì không kìm được nảy ý đồ xấu → đã viết: sợ ngứa tay bày trò bắt nạt muội
+cau	Story/D_6_3_5_Break_01_069	chắc	x	Story/D_6_3_5_Break_01_069	Story/D_6_3_5_Break_01_069	Gốc: muội mềm mại xinh đẹp, ai chẳng muốn gần gũi, ta không phải Liễu Hạ Huệ → đã viết: ai chẳng muốn véo má trêu, huynh không phải thánh nhân
+cau	Story/D_6_10_4_138	chắc	x	Story/D_6_10_4_138	Story/D_6_10_4_138	Gốc: khóc nữa anh bắt về làm vợ → đã viết: bắt về làm em út nhà anh
+cau	Story/D_6_10_4_139	chưa chắc	x	Story/D_6_10_4_139	Story/D_6_10_4_139	Gốc: muội đã sắp làm vợ huynh rồi → đã viết: muội đã sắp về nhà huynh rồi
+cau	Story/D_6_10_4_141	chắc	x	Story/D_6_10_4_141	Story/D_6_10_4_141	Gốc: sư huynh thèm muốn tiểu sư muội, muội si tình → đã viết: sư huynh quý tiểu sư muội, muội một lòng một dạ
+cau	Story/D_7_5_2_6_007	chắc	x	Story/D_7_5_2_6_007	Story/D_7_5_2_6_007	Gốc: tình nhân trong mắt hóa Tây Thi, muội thích hắn → đã viết: trong mắt muội hắn cái gì cũng tốt, muội quý hắn
+cau	Story/D_3_1_2_1_010	chưa chắc	x	Story/D_3_1_2_1_010	Story/D_3_1_2_1_010	Gốc: lớn lên sẽ kiện huynh tội sàm sỡ → đã viết: kiện huynh tội vô lễ
+cau	Story/D_3_1_2_1_104	chắc	x	Story/D_3_1_2_1_104	Story/D_3_1_2_1_104	Gốc: muội xinh thế, hóa ra là vợ huynh → đã viết: hóa ra là em gái nuôi nhà huynh
+cau	Story/D_3_1_2_1_105	chắc	x	Story/D_3_1_2_1_105	Story/D_3_1_2_1_105	Gốc: ai là vợ huynh, dám có ý đồ với muội, đồ cầm thú → đã viết: ai là em gái nuôi, dám tính kế, đồ mặt dày
+cau	Story/T_4_6_7_Break_016	chắc	x	Story/T_4_6_7_Break_016	Story/T_4_6_7_Break_016	Gốc: trong đó có mấy phần là tình nam nữ → đã viết: tình cảm ấy là thứ tình cảm gì
+cau	Story/T_4_6_7_Break_017	chắc	x	Story/T_4_6_7_Break_017	Story/T_4_6_7_Break_017	Gốc: trong đó có mấy phần là tình nam nữ → đã viết: tình cảm ấy là thứ tình cảm gì
+cau	Story/D_8_2_6_1_027	chắc	x	Story/D_8_2_6_1_027	Story/D_8_2_6_1_027	Câu nối sau câu khen tiểu sư muội; đã viết lại cho khớp chữ 'xinh xắn' ở câu trước
+cau	Story/D_7_5_4_8_084	chắc	x	Story/D_7_5_4_8_084	Story/D_7_5_4_8_084	Gốc: Vân Thường khoe trò nghịch bôi đen đầu ngực Hoạt → đã viết: 'vẽ đen thui lên ngực huynh ấy'
+cau	Story/D_8_3_2_1_006	chắc	x	Story/D_8_3_2_1_006	Story/D_8_3_2_1_006	Gốc: kẻ địch đòi bắt tiểu sư muội về thành thân và động phòng ngay → đã viết: "hôm nay thành thân luôn" (bỏ ý động phòng)
+cau	Story/D_8_3_2_1_3_025	chắc	x	Story/D_8_3_2_1_3_025	Story/D_8_3_2_1_3_025	Gốc: Vân Thường chê Hoạt là kẻ trăng hoa → đã viết: "cái gã có mới nới cũ này
+cau	Story/T_8_3_2_1_3_002	chắc	x	Story/T_8_3_2_1_3_002	Story/T_8_3_2_1_3_002	Gốc: ý nghĩ của gã giang hồ muốn có cả hai cô bé → đã viết: ước cả hai là em gái nhà mình
+cau	Story/D_8_3_2_1_4_023	chắc	x	Story/D_8_3_2_1_4_023	Story/D_8_3_2_1_4_023	Gốc: Hoạt đòi xem chân sư muội như phần thưởng → đã viết: xem vết thương ở chân cho tiểu sư muội
+cau	Story/T_8_3_2_1_4_001	chắc	x	Story/T_8_3_2_1_4_001	Story/T_8_3_2_1_4_001	Gốc: Mặc Linh nghĩ sư huynh thích mình hơn mình thích huynh ấy → đã viết: "quý ta hơn cả ta quý huynh ấy
+cau	Story/T_8_4_7_1_004	chắc	x	Story/T_8_4_7_1_004	Story/T_8_4_7_1_004	Gốc: Mặc Linh nghĩ sư huynh đi tìm cô gái trong lòng → đã viết: 'cô nương huynh ấy để ý'
+cau	Story/T_8_4_7_1_007	chắc	x	Story/T_8_4_7_1_007	Story/T_8_4_7_1_007	Gốc: Mặc Linh thấy an lòng và rất thích → đã viết: 'yên tâm quá, vui quá'
+cau	Story/T_8_4_9_2_006	chắc	x	Story/T_8_4_9_2_006	Story/T_8_4_9_2_006	Gốc: không dám mong nàng hạ mình lấy ta → đã viết: 'ngày ngày ở bên trông nom muội ấy'
+cau	Story/T_8_4_9_2_007	chắc	x	Story/T_8_4_9_2_007	Story/T_8_4_9_2_007	Gốc: mơ 'cóc ăn thịt thiên nga' (cưới được nàng) → đã viết: 'có phúc được ở bên chăm lo'
+cau	Story/D_8_4_11_1_005	chắc	x	Story/D_8_4_11_1_005	Story/D_8_4_11_1_005	Gốc: lấy tư cách vợ, chê chồng trăng hoa → đã viết: 'với tư cách là bà cô nhỏ của huynh'
+cau	Story/D_8_4_11_1_006	chắc	x	Story/D_8_4_11_1_006	Story/D_8_4_11_1_006	Gốc: chung thủy một lòng với nàng → đã viết: 'huynh chỉ cưng mỗi muội thôi'
+cau	Story/D_8_4_11_1_1_018	chắc	x	Story/D_8_4_11_1_1_018	Story/D_8_4_11_1_1_018	Gốc: ngồi lên đùi cho ôm → đã viết: 'cho huynh ôm muội một cái, xoa đầu muội'
+cau	Story/D_8_4_11_1_2_004	chắc	x	Story/D_8_4_11_1_2_004	Story/D_8_4_11_1_2_004	Gốc: chơi chữ với áo ngực vàng → đã viết: 'Kim Ngực Tráo'
+cau	Story/D_8_4_11_1_2_006	chắc	x	Story/D_8_4_11_1_2_006	Story/D_8_4_11_1_2_006	Gốc: chơi chữ với áo ngực vàng → đã viết: 'Kim Ngực Tráo'
+cau	Story/N_8_4_11_1_2_001	chắc	x	Story/N_8_4_11_1_2_001	Story/N_8_4_11_1_2_001	Gốc: vẫn thích nàng không kìm được → đã viết: 'bạn vẫn không nhịn được mà cưng cô bé'
+cau	Story/D_8_4_11_1_2_011	chắc	x	Story/D_8_4_11_1_2_011	Story/D_8_4_11_1_2_011	Gốc: tim đập vì sức hút của cô gái hư → đã viết: 'Sợ đứa xấu xa nguy hiểm này rồi'
+cau	Story/N_8_5_1_009	chắc	x	Story/N_8_5_1_009	Story/N_8_5_1_009	Gốc: người yêu dấu khóc như mưa → đã viết: 'mà bạn hết lòng thương quý'
+cau	Story/D_8_5_1_152	chắc	x	Story/D_8_5_1_152	Story/D_8_5_1_152	Gốc: khóc nữa sẽ lấy muội làm vợ → đã viết: 'anh bắt về làm em út nhà anh'
+cau	Story/D_8_5_1_163	chắc	x	Story/D_8_5_1_163	Story/D_8_5_1_163	Gốc: chơi đồ hàng, muội cô dâu, huynh chú rể → đã viết: 'Muội làm em gái, huynh làm anh cả'
+cau	Story/D_8_5_1_166	chắc	x	Story/D_8_5_1_166	Story/D_8_5_1_166	Gốc: Thường nhi thật ra rất thích huynh → đã viết: 'thật ra Thường nhi quý huynh lắm'
+cau	Story/M_Lover_00	chắc	x	Story/M_Lover_00	Story/M_Lover_00	Gốc: người trong lòng đổi thành Mặc Linh → đã viết: 'Người thân thiết nhất đã đổi thành Đường Mặc Linh'
+cau	Story/M_Lover_02	chắc	x	Story/M_Lover_02	Story/M_Lover_02	Gốc: người trong lòng đổi thành Vân Thường → đã viết: 'Người thân thiết nhất đã đổi thành Diệp Vân Thường'
+cau	LUA/S8500_01_02#2:830.0	chắc	x	LUA/S8500_01_02#2:830.0	LUA/S8500_01_02#2:830.0	Gốc: người trong lòng đổi thành Vân Thường → đã viết: 'Người thân thiết nhất đã đổi thành Diệp Vân Thường'
+cau	LUA/S8500_01_02#2:1008.0	chắc	x	LUA/S8500_01_02#2:1008.0	LUA/S8500_01_02#2:1008.0	Gốc: người trong lòng đổi thành Mặc Linh → đã viết: 'Người thân thiết nhất đã đổi thành Đường Mặc Linh'
+cau	LUA/S9905_01#2:1785.0	chắc	x	LUA/S9905_01#2:1785.0	LUA/S9905_01#2:1785.0	Gốc: người trong lòng đổi thành Vân Thường → đã viết: 'Người thân thiết nhất đã đổi thành Diệp Vân Thường'
+cau	Story/D_8_6_3_1_029	chắc	x	Story/D_8_6_3_1_029	Story/D_8_6_3_1_029	Gốc: Linh Tê mắng Mặc Linh là đàn bà lăng loàn → đã viết: 'hóa ra lại là đồ lòng dạ hiểm độc'
+cau	Story/D_8_6_3_2_046	chắc	x	Story/D_8_6_3_2_046	Story/D_8_6_3_2_046	Gốc: ba ngày tới không được hôn muội → đã viết: 'huynh đừng có lại gần muội'
+cau	Story/D_8_6_3_2_048	chắc	x	Story/D_8_6_3_2_048	Story/D_8_6_3_2_048	Gốc: bỗng không còn thích huynh nhiều → đã viết: 'thấy không quý huynh nhiều như trước'
+cau	Story/D_8_7_2_1_224	chắc	x	Story/D_8_7_2_1_224	Story/D_8_7_2_1_224	Gốc: dọa quay sang lấy chồng khác → đã viết: 'muội quay sang nhận người khác làm ca ca'
+cau	Story/D_8_7_2_1_208	chắc	x	Story/D_8_7_2_1_208	Story/D_8_7_2_1_208	Gốc: thích ca ca vì huynh sáng chói → đã viết: 'thì muội mới quý huynh'
+cau	Story/D_8_7_2_2_005	chắc	x	Story/D_8_7_2_2_005	Story/D_8_7_2_2_005	Gốc: thú nhận rất thích sư huynh → đã viết: 'muội thương huynh nhiều lắm'
+cau	Story/D_8_7_2_2_010	chắc	x	Story/D_8_7_2_2_010	Story/D_8_7_2_2_010	Gốc: nguyện cả đời bên nhau tới bạc đầu → đã viết: 'cả đời được nương tựa vào sư huynh'
+cau	Story/D_8_8_1_099	chắc	x	Story/D_8_8_1_099	Story/D_8_8_1_099	Gốc: Vân Thường muốn có hậu cung mỹ nữ các phái → đã viết: 'cống nạp mỹ nữ các phái về làm cung nữ hầu hạ'
+cau	Story/D_8_8_1_114	chắc	x	Story/D_8_8_1_114	Story/D_8_8_1_114	Gốc: Vân Thường nói mình là 'người của' Triệu ca ca → đã viết: 'muội là người nhà của Triệu ca ca'
+cau	Story/D_8_8_1_132	chắc	x	Story/D_8_8_1_132	Story/D_8_8_1_132	Gốc: Vân Thường nói mình là 'người của' Triệu ca ca → đã viết: 'muội là người nhà của Triệu ca ca'
+cau	Story/D_8_8_1_124	chắc	x	Story/D_8_8_1_124	Story/D_8_8_1_124	Gốc: Hoạt nói Vân Thường mượn danh phu nhân minh chủ → đã viết: 'mượn danh người nhà minh chủ đi khắp nơi'
+cau	Story/D_8_2_5_9_018	chắc	x	Story/D_8_2_5_9_018	Story/D_8_2_5_9_018	Gốc: đành gả cháu gái cho huynh ấy → đã viết: 'cho huynh ấy nhận cháu gái của ông làm em gái nuôi'
+cau	Story/D_8_2_5_9_021	chắc	x	Story/D_8_2_5_9_021	Story/D_8_2_5_9_021	Gốc: chuyện chung thân cần ông cho phép → đã viết: 'chuyện nhận anh nhận em của cháu'
+cau	Story/D_8_2_5_9_023	chắc	x	Story/D_8_2_5_9_023	Story/D_8_2_5_9_023	Gốc: lo đám cưới như gả cháu ruột → đã viết: 'làm lễ nhận em gái nuôi thật linh đình'
+cau	Story/D_8_2_5_9_027	chắc	x	Story/D_8_2_5_9_027	Story/D_8_2_5_9_027	Gốc: thành thân xong thì giết anh → đã viết: 'Chỉ cần làm lễ xong, cháu với Mặc Linh'
+cau	LUA/S0003_02_05:118.0	chắc	x	LUA/S0003_02_05:118.0	LUA/S0003_02_05:118.0	Gốc: e con bé đã bị hắn làm nhục → đã viết: 'đã rơi vào tay thằng này rồi'
+cau	LUA/S0003_02_06:303.0	chắc	x	LUA/S0003_02_06:303.0	LUA/S0003_02_06:303.0	Gốc: giả điếc lúc em gái tắm rửa → đã viết: 'đừng xen vào chuyện của em gái ngài'
+cau	LUA/S0003_02_06:321.0	chắc	x	LUA/S0003_02_06:321.0	LUA/S0003_02_06:321.0	Gốc: không đụng, chỉ nấp nhìn trộm → đã viết: 'chỉ đưa cô bé đi một lát thôi'
+cau	LUA/S0003_02_06:332.0	chắc	x	LUA/S0003_02_06:332.0	LUA/S0003_02_06:332.0	Gốc: bày trò chỉ để nhìn trộm → đã viết: 'hóa ra chỉ để bắt Diệp cô nương đi'
+cau	LUA/S0003_02_06:346.0	chắc	x	LUA/S0003_02_06:346.0	LUA/S0003_02_06:346.0	Gốc: chịu chi nghìn vàng để nhìn trộm sư muội → đã viết: 'để được ở cạnh tiểu sư muội một lát'
+cau	LUA/S0003_02_06_01:91.0	chắc	x	LUA/S0003_02_06_01:91.0	LUA/S0003_02_06_01:91.0	Gốc: làm mất trinh tiết em gái → đã viết: 'bôi nhọ thanh danh của em gái ta'
+cau	LUA/S0003_02_06_01:202.0	chắc	x	LUA/S0003_02_06_01:202.0	LUA/S0003_02_06_01:202.0	Gốc: con bé đã bị làm nhục → đã viết: 'con bé đã mang tiếng xấu rồi'
+cau	Story/D_S0003_02_06_01_014	chắc	x	Story/D_S0003_02_06_01_014	Story/D_S0003_02_06_01_014	Gốc: con bé đã bị làm nhục → đã viết: 'con bé đã mang tiếng xấu rồi'
+cau	LUA/S0003_02_06_01:350.0	chắc	x	LUA/S0003_02_06_01:350.0	LUA/S0003_02_06_01:350.0	Gốc: lời thèm muốn về tuổi của sư muội → đã viết: 'Cô nương nhà họ Đường chưa gả chồng ấy'
+cau	LUA/S0003_02_06_01:359.0	chắc	x	LUA/S0003_02_06_01:359.0	LUA/S0003_02_06_01:359.0	Gốc: chiếm đoạt, đùa bỡn đại tiểu thư → đã viết: 'hành hạ một phen cho Đường Bố Y'
+cau	Story/D_S0003_02_06_03_011	chắc	x	Story/D_S0003_02_06_03_011	Story/D_S0003_02_06_03_011	Gốc: cô bé bị bắt, bị lột đồ nhìn ngắm → đã viết: 'bị hành hạ, bị bôi nhọ hết thanh danh'
+cau	Story/T_S0003_02_06_03_002	chắc	x	Story/T_S0003_02_06_03_002	Story/T_S0003_02_06_03_002	Gốc: khen cô bé thơm, nhưng lòng đã có sư muội → đã viết: 'ta đã có tiểu sư muội để cưng rồi'
+cau	LUA/S0003_02_09:198.0	chắc	x	LUA/S0003_02_09:198.0	LUA/S0003_02_09:198.0	Gốc: khen cô bé thơm, nhưng lòng đã có sư muội → đã viết: 'ta đã có tiểu sư muội để cưng rồi'
+cau	Story/N_S0003_02_06_03_005	chắc	x	Story/N_S0003_02_06_03_005	Story/N_S0003_02_06_03_005	Gốc: bảo vệ danh dự người trong lòng → đã viết: 'người mà bạn hết lòng che chở'
+cau	LUA/S0003_02_07:191.0	chắc	x	LUA/S0003_02_07:191.0	LUA/S0003_02_07:191.0	Gốc: điểm huyệt rồi lột đồ cô bé → đã viết: 'rồi trói lại, tao vác nó đi'
+cau	LUA/S0003_02_09:406.0	chắc	x	LUA/S0003_02_09:406.0	LUA/S0003_02_09:406.0	Gốc: cô bé đẹp, cướp liều mạng giở trò → đã viết: 'liều cả mạng cũng muốn bắt cô bé đi'
+cau	LUA/S0003_02_09:432.0	chắc	x	LUA/S0003_02_09:432.0	LUA/S0003_02_09:432.0	Gốc: không dám liều mạng giở trò với sư muội → đã viết: 'liều cả mạng để bắt cóc muội ấy về'
+cau	Story/T_S0003_02_09_004	chắc	x	Story/T_S0003_02_09_004	Story/T_S0003_02_09_004	Gốc: không dám liều mạng giở trò với sư muội → đã viết: 'liều cả mạng để bắt cóc muội ấy về'
+cau	LUA/S0003_02_09:546.0	chắc	x	LUA/S0003_02_09:546.0	LUA/S0003_02_09:546.0	Gốc: mừng được gả em, gọi anh vợ → đã viết: 'được làm người một nhà với khoái kiếm'
+cau	LUA/S0003_02_09:653.0	chắc	x	LUA/S0003_02_09:653.0	LUA/S0003_02_09:653.0	Gốc: lòng đã chọn tiểu sư muội → đã viết: 'người ta muốn lo cho cả đời'
+cau	LUA/S0003_02_09:671.0	chắc	x	LUA/S0003_02_09:671.0	LUA/S0003_02_09:671.0	Gốc: có cô gái phải lòng, chân ái có thật → đã viết: 'cũng có cô gái quý được huynh'
+cau	LUA/S0003_02_09:710.0	chắc	x	LUA/S0003_02_09:710.0	LUA/S0003_02_09:710.0	Gốc: ai phải lòng mình là mù quáng → đã viết: 'ai mà quý được ta thì chắc'
+cau	LUA/S0003_02_09:920.0	chắc	x	LUA/S0003_02_09:920.0	LUA/S0003_02_09:920.0	Gốc: trinh tiết của ta cũng cần tôn trọng → đã viết: 'dù là đời trai của ta'
+cau	LUA/S0003_02_09:1043.0	chắc	x	LUA/S0003_02_09:1043.0	LUA/S0003_02_09:1043.0	Gốc: đã có người trong lòng là sư muội → đã viết: 'ta đã có người mình quý mến nhất'
+cau	Story/D_S0003_02_09_079	chắc	x	Story/D_S0003_02_09_079	Story/D_S0003_02_09_079	Gốc: đã có người trong lòng là sư muội → đã viết: 'ta đã có người mình quý mến nhất'
+cau	LUA/S0003_02_09:1163.0	chắc	x	LUA/S0003_02_09:1163.0	LUA/S0003_02_09:1163.0	Gốc: không gọi anh thì làm thiếp hầu hạ → đã viết: 'muội đành làm a hoàn hầu hạ'
+cau	Story/D_S0003_02_09_091	chắc	x	Story/D_S0003_02_09_091	Story/D_S0003_02_09_091	Gốc: không gọi anh thì làm thiếp hầu hạ → đã viết: 'muội đành làm a hoàn hầu hạ'
+cau	LUA/S0003_02_09:525.0	chắc	x	LUA/S0003_02_09:525.0	LUA/S0003_02_09:525.0	Gốc: nhãn 'động lòng' → đã viết: 'Lung lay'
+cau	Story/T_S0018_01_002	chắc	x	Story/T_S0018_01_002	Story/T_S0018_01_002	Gốc: không chỉ háo sắc mà còn vì bản đồ → đã viết: 'không phải bọn chúng chỉ giở thói côn đồ'
+cau	Story/D_S0018_01_030	chắc	x	Story/D_S0018_01_030	Story/D_S0018_01_030	Gốc: muốn nhìn trộm em gái nhà họ → đã viết: 'đi bắt cóc cô em gái nhà đó'
+cau	Story/D_S0018_01_033	chắc	x	Story/D_S0018_01_033	Story/D_S0018_01_033	Gốc: lôi ra lột đồ để xem bản đồ → đã viết: 'lôi người ta ra bắt về, rồi tra hỏi'
+cau	Story/D_S0018_01_035	chắc	x	Story/D_S0018_01_035	Story/D_S0018_01_035	Gốc: kẻ thèm sắc đẹp muốn cưới về → đã viết: 'nhắm vào nhà họ Diệp theo cách khác'
+cau	Story/D_S0018_02_015	chắc	x	Story/D_S0018_02_015	Story/D_S0018_02_015	Gốc: bản đồ xăm trên thân thể cô ấy → đã viết: 'xăm trên lưng cô bé nhà họ Diệp'
+cau	Story/D_S0018_02_01_012	chắc	x	Story/D_S0018_02_01_012	Story/D_S0018_02_01_012	Gốc: vào phòng ngắm cô em → đã viết: 'dẫn ta vào phòng gặp em gái ngươi'
+cau	Story/N_S0018_03_005	chắc	x	Story/N_S0018_03_005	Story/N_S0018_03_005	Gốc: thiếu nữ ôm chầm, tim đập → đã viết: 'khiến bạn luống cuống không biết phải làm sao'
+cau	Story/T_S0018_04_005	chắc	x	Story/T_S0018_04_005	Story/T_S0018_04_005	Gốc: cô gái làm lòng ngứa ngáy → đã viết: 'vừa buồn cười vừa chẳng biết làm sao'
+cau	Story/D_S0018_04_047	chắc	x	Story/D_S0018_04_047	Story/D_S0018_04_047	Gốc: mong có kẻ giở trò với cô ấy → đã viết: 'xông vào lôi cô ta đi'
+cau	Story/D_S0018_05_075	chắc	x	Story/D_S0018_05_075	Story/D_S0018_05_075	Gốc: nghi Hoạt bị sắc đẹp làm mờ mắt → đã viết: 'bị con nhóc kia dắt mũi'
+cau	Story/D_S0018_06_019	chắc	x	Story/D_S0018_06_019	Story/D_S0018_06_019	Gốc: bản đồ xăm trên người cô bé → đã viết: 'trên lưng cô bé nhà họ Diệp'
+cau	Story/D_S0018_06_021	chắc	x	Story/D_S0018_06_021	Story/D_S0018_06_021	Gốc: mong được cả tiền lẫn sắc → đã viết: 'vớ được cả tiền lẫn danh'
+cau	Story/D_S0018_06_044	chắc	x	Story/D_S0018_06_044	Story/D_S0018_06_044	Gốc: bản đồ xăm trên người cô em họ Diệp → đã viết: 'lên lưng muội tử nhà họ Diệp'
+cau	Story/D_S0018_06_066	chắc	x	Story/D_S0018_06_066	Story/D_S0018_06_066	Gốc: bản đồ xăm trên người nữ thí chủ → đã viết: 'trên lưng nữ thí chủ họ Diệp'
+cau	Story/D_S0018_06_101	chắc	x	Story/D_S0018_06_101	Story/D_S0018_06_101	Gốc: chỉ phu quân mới được kiểm tra → đã viết: 'phải để người nhà cô ấy làm'
+cau	Story/D_S0018_06_102	chắc	x	Story/D_S0018_06_102	Story/D_S0018_06_102	Gốc: kẻ nghèo không xứng, nàng phải gả cho hào kiệt → đã viết: 'đến lượt thằng nghèo kiết xác như ngươi ra mặt bênh à'
+cau	Story/D_S0018_01_020	chắc	x	Story/D_S0018_01_020	Story/D_S0018_01_020	Gốc: bản đồ xăm trên người em gái → đã viết: 'được xăm trên lưng em gái hắn'
+cau	Story/N_S0027_01_002	chắc	x	Story/N_S0027_01_002	Story/N_S0027_01_002	Gốc: Vân Thường hét lên là bị sàm sỡ → đã viết: 'quay đầu la lên “vô lễ”'
+cau	Story/D_S0028_02_134	chắc	x	Story/D_S0028_02_134	Story/D_S0028_02_134	Gốc: hứa cho Vân Thường làm hoàng hậu → đã viết: 'có thể chia cho muội nửa giang sơn'
+cau	Story/D_S0105_01_052	chắc	x	Story/D_S0105_01_052	Story/D_S0105_01_052	Gốc: Triều Hòa buông lời thô tục về em gái Hoạt → đã viết: 'đem cô em gái nhà Triệu Hoạt ngươi'
+cau	Story/T_S0202_01_003	chắc	x	Story/T_S0202_01_003	Story/T_S0202_01_003	Gốc: Hoạt sợ bắt mạch bị nghi có ý đồ xấu → đã viết: 'lại tưởng ta bày trò trêu chọc'
+cau	Story/T_S0202_01_004	chắc	x	Story/T_S0202_01_004	Story/T_S0202_01_004	Gốc: Hoạt thừa nhận muốn nhân dịp chiếm tiện nghi → đã viết: 'dịp được chọc con bé một phen'
+cau	Story/T_S0202_01_005	chắc	x	Story/T_S0202_01_005	Story/T_S0202_01_005	Gốc: Hoạt thừa nhận có tình ý vì nàng xinh → đã viết: 'bảo mình chẳng quý con bé chút nào'
+cau	Story/D_S0202_02_03_090	chắc	x	Story/D_S0202_02_03_090	Story/D_S0202_02_03_090	Gốc: Huỳnh nói hai cô bé sinh ra để bị chà đạp → đã viết: 'sinh ra là để bị ta nựng cho nát bét'
+cau	Story/D_S0204_01_037	chắc	x	Story/D_S0204_01_037	Story/D_S0204_01_037	Gốc: dọa lột áo em gái để xem bản đồ → đã viết: 'bản nữ hiệp sẽ bắt cóc em gái ngươi'
+cau	Story/D_S0204_01_040	chắc	x	Story/D_S0204_01_040	Story/D_S0204_01_040	Gốc: Mặc Linh nhại lời dọa cởi áo em gái → đã viết: 'sẽ bắt em gái ngươi… đi thật xa'
+cau	Story/D_S0204_01_01_062	chắc	x	Story/D_S0204_01_01_062	Story/D_S0204_01_01_062	Gốc: kiếp này vô duyên, đành tha cho huynh → đã viết: 'kiếp này đã không có duyên gặp lại'
+cau	Story/T_S0204_01_04_02_004	chắc	x	Story/T_S0204_01_04_02_004	Story/T_S0204_01_04_02_004	Gốc: không cứu nổi cô gái mình yêu → đã viết: 'đến cô bé mình thương quý'
+cau	Story/D_S0207_01_045	chắc	x	Story/D_S0207_01_045	Story/D_S0207_01_045	Gốc: lời dọa đánh kèm tiếng xì xụp → đã viết: 'nếm mùi bị đánh đòn cho nở'
+cau	Story/N_S0207_01_010	chắc	x	Story/N_S0207_01_010	Story/N_S0207_01_010	Gốc: Mặc Linh rung động trước Hoạt → đã viết: 'tiểu sư muội cũng háo hức muốn bắt chước'
+cau	Story/T_S0208_01_001	chắc	x	Story/T_S0208_01_001	Story/T_S0208_01_001	Gốc: tả ngực người cải trang phồng lên → đã viết: 'Mặt mũi… đúng là thanh tú thật'
+cau	Story/D_S0208_01_015	chắc	x	Story/D_S0208_01_015	Story/D_S0208_01_015	Gốc: gọi bọn cầu thân là cầm thú thèm nhan sắc → đã viết: 'lũ cầm thú nhắm vào Đường cô nương'
+cau	Story/D_S0208_01_02_039	chắc	x	Story/D_S0208_01_02_039	Story/D_S0208_01_02_039	Gốc: gọi tâm sự của Hoạt là dơ bẩn → đã viết: 'mấy cái tâm tư xấu xa của huynh'
+cau	Story/D_S0208_01_02_044	chắc	x	Story/D_S0208_01_02_044	Story/D_S0208_01_02_044	Gốc: lấy thân báo ơn cứu mạng → đã viết: 'đem cả đời ra báo đáp cũng không quá'
+cau	Story/N_S0208_01_02_003	chắc	x	Story/N_S0208_01_02_003	Story/N_S0208_01_02_003	Gốc: Hoạt yêu thương Vân Thường sâu nặng → đã viết: 'quý cô bé đến không kìm được lòng'
+cau	Story/D_S0208_01_02_058	chắc	x	Story/D_S0208_01_02_058	Story/D_S0208_01_02_058	Gốc: câu Cáo Tử 'ăn và sắc là bản tính' → đã viết: 'ăn uống và quý mến người khác là bản tính'
+cau	Story/N_S0208_01_02_005	chắc	x	Story/N_S0208_01_02_005	Story/N_S0208_01_02_005	Gốc: Hoạt có tình riêng với nàng → đã viết: 'mong được làm người nhà của Vân Thường'
+cau	Story/N_S0208_01_02_006	chắc	x	Story/N_S0208_01_02_006	Story/N_S0208_01_02_006	Gốc: vừa tham vừa yêu, muốn giữ làm của riêng → đã viết: 'giữ cô bé ở bên mình như em gái ruột'
+cau	Story/D_S0208_02_02_016	chắc	x	Story/D_S0208_02_02_016	Story/D_S0208_02_02_016	Gốc: chê Hoạt si tình nhưng xấu → đã viết: 'Đúng là một thằng ngốc liều mạng vì con bé'
+cau	Story/T_S0208_02_04_003	chắc	x	Story/T_S0208_02_04_003	Story/T_S0208_02_04_003	Gốc: người này chưa từng được ai yêu → đã viết: 'người này chưa từng được ai thương cả'
+cau	Story/D_S0208_03_013	chắc	x	Story/D_S0208_03_013	Story/D_S0208_03_013	Gốc: đừng tự mình đa tình → đã viết: 'đừng có tưởng bở, ghê chết đi được'
+cau	Story/T_S0208_03_001	chắc	x	Story/T_S0208_03_001	Story/T_S0208_03_001	Gốc: định nhân lúc tưởng sắp chết mà sàm sỡ → đã viết: 'nhân dịp này trêu con bé một phen'
+cau	Story/D_S0208_03_037	chắc	x	Story/D_S0208_03_037	Story/D_S0208_03_037	Gốc: mắng đồ dâm thú, ý nghĩ dơ bẩn → đã viết: 'Ca ca đồ xấu xa này'
+cau	Story/D_S0208_03_038	chắc	x	Story/D_S0208_03_038	Story/D_S0208_03_038	Gốc: bảo đừng vội ngửi nàng → đã viết: 'huynh đừng vội giở trò'
+cau	Story/D_S0208_03_055	chắc	x	Story/D_S0208_03_055	Story/D_S0208_03_055	Gốc: thương nhớ nàng, tình đã sâu nặng → đã viết: 'quý muội nhất đời'
+cau	Story/D_S0208_03_056	chắc	x	Story/D_S0208_03_056	Story/D_S0208_03_056	Gốc: thích nàng lắm, sa vào không dứt → đã viết: 'huynh cũng cưng muội lắm'
+cau	Story/D_S0208_03_072	chắc	x	Story/D_S0208_03_072	Story/D_S0208_03_072	Gốc: không làm huynh muội thì lùi bước chọn thứ khác → đã viết: 'Không làm huynh muội thì làm bạn thân cũng được'
+cau	Story/T_S0208_03_007	chắc	x	Story/T_S0208_03_007	Story/T_S0208_03_007	Gốc: biết hắn có ý xấu mà không đề phòng → đã viết: 'biết rõ ta đang tính trêu nó'
+cau	Story/T_S0208_03_008	chắc	x	Story/T_S0208_03_008	Story/T_S0208_03_008	Gốc: không phải giả đứng đắn, chân đau không làm được → đã viết: 'có muốn trêu cũng không còn sức'
+cau	Story/D_S0208_03_01_002	chắc	x	Story/D_S0208_03_01_002	Story/D_S0208_03_01_002	Gốc: thú thấy nàng xinh đẹp ngon mắt → đã viết: 'thấy muội trông ngon miệng'
+cau	Story/D_S0208_03_01_003	chắc	x	Story/D_S0208_03_01_003	Story/D_S0208_03_01_003	Gốc: 'ăn' này không phải 'ăn' kia → đã viết: 'Thú dữ thấy ngon là ăn thật đấy'
+cau	Story/N_S0208_03_01_001	chắc	x	Story/N_S0208_03_01_001	Story/N_S0208_03_01_001	Gốc: trai gái chưa cưới ngủ chung, thẹn thùng → đã viết: 'nàng cũng không khỏi thấy ngại'
+cau	Story/D_S0208_04_01_07_040	chắc	x	Story/D_S0208_04_01_07_040	Story/D_S0208_04_01_07_040	Gốc: ngươi đã từ chối huynh ấy rồi → đã viết: 'Ngươi đã đẩy huynh ấy ra xa rồi'
+cau	Story/T_S0208_04_03_002	chắc	x	Story/T_S0208_04_03_002	Story/T_S0208_04_03_002	Gốc: thuốc bổ làm ca ca khỏe lên thì nàng gặp nguy → đã viết: 'ta hết đường bắt nạt huynh ấy mất'
+cau	Story/D_S0208_04_Break_01_011	chắc	x	Story/D_S0208_04_Break_01_011	Story/D_S0208_04_Break_01_011	Gốc: kêu cứu vì bị sàm sỡ → đã viết: 'Có kẻ bắt nạt người ta!!'
+cau	Story/D_S0208_04_Break_01_012	chắc	x	Story/D_S0208_04_Break_01_012	Story/D_S0208_04_Break_01_012	Gốc: kêu cứu vì bị sàm sỡ → đã viết: 'Có kẻ bắt nạt người ta!!'
+cau	Story/N_S0208_04_03_004	chắc	x	Story/N_S0208_04_03_004	Story/N_S0208_04_03_004	Gốc: nàng dành cho hắn nhiều hơn cả biết ơn → đã viết: 'mà còn là quý mến và nương tựa'
+cau	Story/T_S0208_04_Break_01_003	chắc	x	Story/T_S0208_04_Break_01_003	Story/T_S0208_04_Break_01_003	Gốc: gọi cha nàng là bố vợ → đã viết: 'Diệp lão tiền bối mềm lòng quá'
+cau	Story/D_S0208_04_Break_01_099	chắc	x	Story/D_S0208_04_Break_01_099	Story/D_S0208_04_Break_01_099	Gốc: hậu cung ba nghìn mỹ nhân, có cả Mặc Linh → đã viết: 'Ba nghìn quần thần dưới trướng'
+cau	Story/D_S0208_04_Break_01_100	chắc	x	Story/D_S0208_04_Break_01_100	Story/D_S0208_04_Break_01_100	Gốc: có huynh rồi còn muốn hậu cung → đã viết: 'muội còn muốn có ba nghìn quần thần à'
+cau	Story/D_S0208_04_Break_01_101	chắc	x	Story/D_S0208_04_Break_01_101	Story/D_S0208_04_Break_01_101	Gốc: có hậu cung rồi thì cần huynh làm gì → đã viết: 'trẫm có ba nghìn quần thần rồi'
+cau	Story/D_S0208_04_Break_01_107	chắc	x	Story/D_S0208_04_Break_01_107	Story/D_S0208_04_Break_01_107	Gốc: ái phi hợp ý thì hậu cung bị bỏ không → đã viết: 'đành ngồi chơi xơi nước thôi'
+cau	Story/D_S0208_04_Break_01_260	chắc	x	Story/D_S0208_04_Break_01_260	Story/D_S0208_04_Break_01_260	Gốc: người được nuôi để giáo chủ thái bổ → đã viết: 'cho tên vua hưởng lạc ấy hút lấy công lực'
+cau	Story/D_S0208_05_05_037	chắc	x	Story/D_S0208_05_05_037	Story/D_S0208_05_05_037	Gốc: nàng thú nhận thích huynh nhất → đã viết: 'quý huynh… quý huynh nhất'
+cau	Story/D_S0208_05_05_041	chắc	x	Story/D_S0208_05_05_041	Story/D_S0208_05_05_041	Gốc: Tranh nói chết vì tình cùng con nhóc → đã viết: 'đi chết theo con nhóc Điểm Thương này'
+cau	Story/D_S0208_05_05_103	chắc	x	Story/D_S0208_05_05_103	Story/D_S0208_05_05_103	Gốc: Hoạt mơ thấy mình có vợ → đã viết: 'trong mơ có người hứa kiếp sau sẽ gả cho huynh'
+cau	Story/D_S0208_05_05_118	chắc	x	Story/D_S0208_05_05_118	Story/D_S0208_05_05_118	Gốc: nhại lời nàng mắng huynh là cầm thú → đã viết: 'lộ nguyên hình ngay, đồ xấu xa'
+cau	Story/D_S0208_05_05_129	chắc	x	Story/D_S0208_05_05_129	Story/D_S0208_05_05_129	Gốc: nàng sợ phải ở góa khi chồng còn sống → đã viết: 'Huynh định bỏ muội lại một mình à'
+cau	Story/D_S0208_06_01_023	chắc	x	Story/D_S0208_06_01_023	Story/D_S0208_06_01_023	Gốc: lời đồn Hoạt nhảy vực chết vì tình → đã viết: 'Triệu sư huynh nhảy vực chết theo con bé'
+cau	Story/D_S0208_06_02_016	chắc	x	Story/D_S0208_06_02_016	Story/D_S0208_06_02_016	Gốc: Thăng hỏi có bị bỏ thuốc mê tình không → đã viết: 'thứ độc dược mê hồn gây ảo giác'
+cau	Story/D_S0208_06_02_032	chắc	x	Story/D_S0208_06_02_032	Story/D_S0208_06_02_032	Gốc: già đi, nhan sắc phai thì hết yêu → đã viết: 'muội già đi, xấu đi rồi huynh hết thương muội'
+cau	Story/D_S0208_06_02_037	chắc	x	Story/D_S0208_06_02_037	Story/D_S0208_06_02_037	Gốc: nàng gọi Triệu lang, dặn phải chung tình → đã viết: 'Triệu ca ca, huynh phải giữ lời hứa'
+cau	Story/D_S0208_06_02_043	chắc	x	Story/D_S0208_06_02_043	Story/D_S0208_06_02_043	Gốc: tố huynh định cưỡng hôn nàng → đã viết: 'chu mỏ ra dài thật dài, định bắt nạt muội'
+cau	Story/D_S0208_06_02_079	chắc	x	Story/D_S0208_06_02_079	Story/D_S0208_06_02_079	Gốc: nàng vẫn ái mộ Triệu thiếu hiệp → đã viết: 'muội vẫn rất quý mến Triệu thiếu hiệp'
+cau	Story/D_S0208_06_02_086	chắc	x	Story/D_S0208_06_02_086	Story/D_S0208_06_02_086	Gốc: cảm động trước tình sâu và sự sủng ái → đã viết: 'hết lòng che chở cưng chiều'
+cau	Story/D_S0208_06_02_133	chắc	x	Story/D_S0208_06_02_133	Story/D_S0208_06_02_133	Gốc: kết tóc vợ chồng, ân ái không nghi ngờ → đã viết: 'trọn đời một lòng tin nhau'
+cau	Story/D_S0208_06_02_122	chắc	x	Story/D_S0208_06_02_122	Story/D_S0208_06_02_122	Gốc: tiếng hôn lên má → đã viết: 'Ừm~ Hì! Được rồi'
+cau	Story/T_S0208_06_02_003	chắc	x	Story/T_S0208_06_02_003	Story/T_S0208_06_02_003	Gốc: Triệu ca ca từng thầm thương Mặc Linh → đã viết: 'Triệu ca ca quý ngươi nhất'
+cau	Story/D_S0208_06_02_Break_01_021	chắc	x	Story/D_S0208_06_02_Break_01_021	Story/D_S0208_06_02_Break_01_021	Gốc: thừa lúc nguy mà ra tay với cô bé → đã viết: 'dỗ con bé hứa hôn lúc nó đang yếu lòng'
+cau	Story/D_S0208_06_02_Break_01_022	chắc	x	Story/D_S0208_06_02_Break_01_022	Story/D_S0208_06_02_Break_01_022	Gốc: định thừa cơ nhưng chưa đạt được → đã viết: 'còn chưa quỳ cầu hôn được'
+cau	Story/D_S0208_06_02_Break_01_023	chắc	x	Story/D_S0208_06_02_Break_01_023	Story/D_S0208_06_02_Break_01_023	Gốc: làm chuyện bất chính với nàng → đã viết: 'làm điều gì sai trái với muội ấy'
+cau	Story/D_S0208_06_02_Break_01_032	chắc	x	Story/D_S0208_06_02_Break_01_032	Story/D_S0208_06_02_Break_01_032	Gốc: cưới được vợ đẹp → đã viết: 'sắp cưới được Vân Thường về nhà'
+cau	Story/D_S0209_01_07_046	chắc	x	Story/D_S0209_01_07_046	Story/D_S0209_01_07_046	Gốc: nói muội không thích huynh → đã viết: 'muội không quý huynh đâu'
+cau	Story/D_S0209_01_07_068	chắc	x	Story/D_S0209_01_07_068	Story/D_S0209_01_07_068	Gốc: đơn phương làm huynh đứt ruột → đã viết: 'đau đứt từng khúc'
+cau	Story/D_S0209_01_07_078	chắc	x	Story/D_S0209_01_07_078	Story/D_S0209_01_07_078	Gốc: đơn phương làm huynh đứt ruột → đã viết: 'đau đứt từng khúc'
+cau	Story/D_S0212_01_005	chắc	x	Story/D_S0212_01_005	Story/D_S0212_01_005	Gốc: không biết nên ghen với huynh ấy hay với anh trai → đã viết: 'nên ganh tị với huynh ấy hay với ca ca'
+cau	Story/D_S0212_01_070	chắc	x	Story/D_S0212_01_070	Story/D_S0212_01_070	Gốc: Thường nhi là người của huynh → đã viết: 'Thường nhi là người nhà của huynh'
+cau	Story/D_S2013_01_002	chắc	x	Story/D_S2013_01_002	Story/D_S2013_01_002	Gốc: gọi cưng kèm tiếng xì xụp thèm thuồng → đã viết: 'ca ca cưng của muội tới đây'
+cau	Story/D_S2013_02_009	chắc	x	Story/D_S2013_02_009	Story/D_S2013_02_009	Gốc: căn phòng phải làm 'việc ấy' mới ra được → đã viết: 'không giải được câu đố đặc biệt'
+cau	Story/D_S2013_02_014	chắc	x	Story/D_S2013_02_014	Story/D_S2013_02_014	Gốc: muốn ta tự làm phần thưởng sao → đã viết: 'mong muội có phần thưởng gì khác'
+cau	Story/D_S2013_02_015	chắc	x	Story/D_S2013_02_015	Story/D_S2013_02_015	Gốc: vốn đã thuộc về huynh nên không tính là thưởng → đã viết: 'muội vốn đã là em gái của huynh'
+cau	Story/D_S2013_02_030	chắc	x	Story/D_S2013_02_030	Story/D_S2013_02_030	Gốc: huynh khéo dỗ con gái quá → đã viết: 'khéo dỗ dành người ta quá đi'
+cau	Story/D_S0401_01_098	chắc	x	Story/D_S0401_01_098	Story/D_S0401_01_098	Gốc: Vân Thường nói yêu Triệu Hoạt → đã viết: 'kính trọng huynh ấy, quý mến huynh ấy'
+cau	Story/D_S0401_01_101	chắc	x	Story/D_S0401_01_101	Story/D_S0401_01_101	Gốc: hai người tư tình, mưu hại em ruột → đã viết: 'Kết bè hại em gái!'
+cau	Story/D_S0501_01_112	chắc	x	Story/D_S0501_01_112	Story/D_S0501_01_112	Gốc: tiểu sư muội sẽ không trao lòng cho Hoạt → đã viết: 'tiểu sư muội cũng chẳng nương tựa vào đệ'
+cau	Story/N_S0501_01_010	chắc	x	Story/N_S0501_01_010	Story/N_S0501_01_010	Gốc: cả đời không gặp lại người trong lòng → đã viết: 'người thân thiết nhất của mình'
+cau	Story/N_S0501_01_011	chắc	x	Story/N_S0501_01_011	Story/N_S0501_01_011	Gốc: thiếu nữ nào cũng không bằng nàng, không ai thay được → đã viết: 'cô em nhỏ trong ký ức của bạn'
+cau	Story/T_S0501_01_010	chắc	x	Story/T_S0501_01_010	Story/T_S0501_01_010	Gốc: Vân Thường muốn chiếm trọn đời Hoạt → đã viết: 'giữ huynh làm ca ca của riêng muội'
+cau	Story/D_S0603_01_014	chắc	x	Story/D_S0603_01_014	Story/D_S0603_01_014	Gốc: Vân Thường ngượng không dám nhìn mặt Hoạt → đã viết: 'đằng nào cái mặt đó muội cũng chẳng cần dùng tới'
+cau	Story/T_S0603_02_001	chắc	x	Story/T_S0603_02_001	Story/T_S0603_02_001	Gốc: con của hai người sau này mang họ gì → đã viết: 'Con cháu sau này nên mang họ Triệu'
+cau	Story/T_S0603_02_002	chắc	x	Story/T_S0603_02_002	Story/T_S0603_02_002	Gốc: em gái gặp được lang quân như ý → đã viết: 'gặp được người tử tế để nương tựa'
+cau	Story/T_S0603_02_005	chắc	x	Story/T_S0603_02_005	Story/T_S0603_02_005	Gốc: mình có mắt, không chọn nhầm người → đã viết: 'không nhận nhầm ca ca'
+cau	Story/N_S0603_02_005	chắc	x	Story/N_S0603_02_005	Story/N_S0603_02_005	Gốc: trái tim đã trao cho bạn thì thu lại → đã viết: 'lời hứa hôn với bạn, cô bé rút lại luôn cho xong'
+cau	Story/T_S0603_02_006	chắc	x	Story/T_S0603_02_006	Story/T_S0603_02_006	Gốc: Vân Thường nghĩ mình còn chưa về nhà chồng, mắng yêu ca ca là cầm thú → đã viết: 'Ca ca xấu xa.'
+cau	Story/D_S0701_01_024	chắc	x	Story/D_S0701_01_024	Story/D_S0701_01_024	Gốc: mắng Hoạt nhìn vợ người ta mà thèm nhỏ dãi → đã viết: 'nhìn vợ người ta chằm chằm'
+cau	Story/D_S0701_02_004	chắc	x	Story/D_S0701_02_004	Story/D_S0701_02_004	Gốc: có người rất yêu mến bà của các cháu → đã viết: 'có một người rất quý bà của chúng'
+cau	Story/D_S0701_02_01_005	chắc	x	Story/D_S0701_02_01_005	Story/D_S0701_02_01_005	Gốc: như vậy huynh càng thích muội hơn → đã viết: 'khiến huynh càng quý muội hơn sao'
+cau	Story/D_S0701_02_01_008	chắc	x	Story/D_S0701_02_01_008	Story/D_S0701_02_01_008	Gốc: cấm huynh thích muội, đi thích người khác đi → đã viết: 'đi mà quý người khác đi'
+cau	Story/D_S0701_02_01_020	chắc	x	Story/D_S0701_02_01_020	Story/D_S0701_02_01_020	Gốc: không thể làm hại cô gái mình yêu → đã viết: 'làm hại cô gái mà mình quý mến'
+cau	Story/D_S0801_02_02_195	chắc	x	Story/D_S0801_02_02_195	Story/D_S0801_02_02_195	Gốc: tưởng Hoạt chỉ thích kiểu nhỏ con như Vân Thường → đã viết: 'trong mắt ngươi chỉ có mỗi con nhóc'
+cau	Story/D_S0501_01_164	chắc	x	Story/D_S0501_01_164	Story/D_S0501_01_164	Gốc: đi phá động phòng của Mặc Linh → đã viết: 'đi quậy đám cưới của Mặc Linh nữa'
+cau	Story/D_S0501_01_165	chắc	x	Story/D_S0501_01_165	Story/D_S0501_01_165	Gốc: đó nào phải phá động phòng → đã viết: 'đó nào phải quậy đám cưới'
+cau	Story/N_S0501_01_030	chắc	x	Story/N_S0501_01_030	Story/N_S0501_01_030	Gốc: không dám đi phá động phòng → đã viết: 'không dám bày trò quậy cô dâu chú rể'
+cau	LUA/S2001_01:2199.0	chắc	x	LUA/S2001_01:2199.0	LUA/S2001_01:2199.0	Gốc: khen con gái chưởng môn lớn lên rất đẹp (để làm mai) → đã viết: 'đã lớn khôn, được nhiều người khen ngợi'
+cau	LUA/S2001_01:2968.0	chắc	x	LUA/S2001_01:2968.0	LUA/S2001_01:2968.0	Gốc: chửi hai tên dâm tặc → đã viết: 'Hai tên gian tặc kia'
+cau	Story/D_S2321_07_02_258	chắc	x	Story/D_S2321_07_02_258	Story/D_S2321_07_02_258	Gốc: thề trung thành với tiểu sư muội dù không vì tình riêng → đã viết: 'dù không vì tình nghĩa huynh muội'
+cau	Story/D_S2901_04_02_04_011	chắc	x	Story/D_S2901_04_02_04_011	Story/D_S2901_04_02_04_011	Gốc: bài hát dọa 'khóc nữa là bắt tiểu sư muội về làm vợ' → đã viết: 'bắt về làm em út nhà anh'
+cau	Story/D_S2920_01_150	chắc	x	Story/D_S2920_01_150	Story/D_S2920_01_150	Gốc: Trúc đoán người Hoạt thầm thương là Vân Thường, 'vừa yêu vừa hận' → đã viết: 'khiến người ta vừa thương vừa giận'
+cau	Story/D_S2920_01_151	chắc	x	Story/D_S2920_01_151	Story/D_S2920_01_151	Gốc: Trúc nghe nói Hoạt từng thầm thương tiểu sư muội, 'nếu ta là nam nhân ta cũng thích' → đã viết: 'huynh rất lo cho tiểu sư muội… nếu ta là nam nhân, ta cũng quý'
+cau	Story/D_S3002_01_019	chắc	x	Story/D_S3002_01_019	Story/D_S3002_01_019	Gốc: thiếu hiệp áo đen nói câu tán tỉnh 'lửa cô nhóm lên thì cô tự dập' → đã viết: 'Rắc rối do cô gây ra thì cô tự đi mà dọn'
+cau	Story/D_S3003_01_012	chắc	x	Story/D_S3003_01_012	Story/D_S3003_01_012	Gốc: lặp câu 'lửa cô nhóm lên thì cô tự dập' → đã viết: 'Rắc rối do cô gây ra thì cô tự đi mà dọn'
+cau	Story/T_S3001_01_003	chắc	x	Story/T_S3001_01_003	Story/T_S3001_01_003	Gốc: chỉ nói 'chỗ bị siết không phải cổ' → đã viết: 'không phải cổ mà là ngang người'
+cau	Story/D_S3005_01_055	chắc	x	Story/D_S3005_01_055	Story/D_S3005_01_055	Gốc: Vân Thường la 'có người sàm sỡ' → đã viết: 'Cứu mạng! Có người bắt nạt con nít!'
+cau	Story/D_S3005_01_058	chắc	x	Story/D_S3005_01_058	Story/D_S3005_01_058	Gốc: Vân Thường mắng Hoạt làm 'hành vi cầm thú' khi đánh mông → đã viết: 'dám phát vào mông người ta tàn nhẫn'
+cau	Story/D_S3005_01_070	chắc	x	Story/D_S3005_01_070	Story/D_S3005_01_070	Gốc: Vân Thường gọi Hoạt là 'sắc lang' vì cầm tay mình hăng say → đã viết: 'cầm tay người ta bắt mạch hăng say'
+cau	Story/T_S3005_01_006	chắc	x	Story/T_S3005_01_006	Story/T_S3005_01_006	Gốc: Hoạt nghĩ bàn tay Vân Thường mềm, thơm → đã viết: 'Ta chỉ cầm tay con bé để bắt mạch'
+cau	Story/T_S3005_01_007	chắc	x	Story/T_S3005_01_007	Story/T_S3005_01_007	Gốc: Hoạt nghĩ cảm giác tay lúc đánh mông thật tuyệt → đã viết: 'trận đòn lúc nãy thì đúng là đánh cho hả giận'
+cau	Story/T_S3005_01_001	chắc	x	Story/T_S3005_01_001	Story/T_S3005_01_001	Gốc: Hoạt tự hỏi có phải Vân Thường 'phải lòng' Thân Đồ đạo trưởng → đã viết: 'Vân Thường quý mến Thân Đồ đạo trưởng thật'
+cau	Story/D_S3005_01_037	chắc	x	Story/D_S3005_01_037	Story/D_S3005_01_037	Gốc: Vân Thường hỏi Hoạt 'Ghen à?' → đã viết: 'Ganh tị à?'
+cau	Story/D_S3005_01_038	chắc	x	Story/D_S3005_01_038	Story/D_S3005_01_038	Gốc: Hoạt đáp 'Ghen với ai chứ?' → đã viết: 'Ganh tị với ai chứ? Không có.'
+cau	Story/D_S3005_01_117	chắc	x	Story/D_S3005_01_117	Story/D_S3005_01_117	Gốc: Hoạt hả hê nhớ cảm giác tay khi đánh mông Vân Thường, đùa rằng cô bé chỉ còn cách gả cho mình → đã viết: 'coi như đã trị được con bé một trận'
+cau	Story/N_S8200_01_001	chắc	x	Story/N_S8200_01_001	Story/N_S8200_01_001	Gốc: ánh mắt không đứng đắn của bạn cứ đảo qua đảo lại nhìn tiểu sư muội → đã viết: 'mắt cứ len lén nhìn muội ấy mãi'
+cau	Story/D_S8500_01_02_052	chắc	x	Story/D_S8500_01_02_052	Story/D_S8500_01_02_052	Gốc: Vân Thường nói 'muội thích huynh' → đã viết: 'Tin tốt là muội quý huynh'
+cau	Story/D_S8500_01_02_055	chắc	x	Story/D_S8500_01_02_055	Story/D_S8500_01_02_055	Gốc: Vân Thường nói 'chẳng ai yêu huynh' → đã viết: 'Chẳng ai thương huynh đâu'
+cau	Story/N_S8500_01_02_003	chắc	x	Story/N_S8500_01_02_003	Story/N_S8500_01_02_003	Gốc: bạn bất giác sa vào lưới tình với con bé → đã viết: 'vẫn bất giác bị cuốn theo trò'
+cau	Story/D_S9100_01_021	chắc	x	Story/D_S9100_01_021	Story/D_S9100_01_021	Gốc: Hoạt muốn đi 'ngắm' tiểu sư muội → đã viết: 'ta cũng muốn đi nhìn tiểu sư muội'
+cau	Story/D_S9100_01_049	chắc	x	Story/D_S9100_01_049	Story/D_S9100_01_049	Gốc: Duy Nguyên hỏi Hoạt có thèm muốn tiểu sư muội từ hồi đó không → đã viết: 'đã để ý muội ấy rồi đấy chứ'
+cau	Story/D_S9100_01_050	chắc	x	Story/D_S9100_01_050	Story/D_S9100_01_050	Gốc: Hoạt khen tiểu sư muội vẫn là 'cô bé thơm ngọt' → đã viết: 'vẫn còn là một cô bé ngây thơ đáng yêu'
+cau	LUA/S9901_01:51.0	chắc	x	LUA/S9901_01:51.0	LUA/S9901_01:51.0	Gốc: Hoạt nấp dưới cửa sổ giường tiểu sư muội (gốc không nêu mục đích) → đã viết: 'để trông chừng muội ấy'
+cau	LUA/S9901_01:297.0	chắc	x	LUA/S9901_01:297.0	LUA/S9901_01:297.0	Gốc: tiểu sư muội mà Triệu sư huynh 'ái mộ' → đã viết: 'mà huynh ấy hết lòng quý mến'
+cau	Story/D_S9100_01_080	chắc	x	Story/D_S9100_01_080	Story/D_S9100_01_080	Gốc: Hoạt mừng thầm 'chẳng lẽ chưởng môn cũng tính gả tiểu sư muội cho ta' → đã viết: 'cho ta được ở bên chăm sóc tiểu sư muội'
+cau	LUA/S9904_01_02:656.0	chắc	x	LUA/S9904_01_02:656.0	LUA/S9904_01_02:656.0	Gốc: tim đập, không biết vì còn sợ hay vì đã phải lòng tiểu sư muội → đã viết: 'vì thấy thương cô em nhỏ này quá'
+cau	LUA/S9904_01_02:487.0	chắc	x	LUA/S9904_01_02:487.0	LUA/S9904_01_02:487.0	Gốc: có người lao vào lòng bạn (tiểu sư muội đỡ bạn) → đã viết: 'có người lao thẳng vào người mình'
+cau	Story/D_S9905_01_089	chắc	x	Story/D_S9905_01_089	Story/D_S9905_01_089	Gốc: Vân Thường nói "muội đâu có thích huynh" → đã viết: 'muội không quý huynh đâu'
+cau	Story/N_S9905_01_020	chắc	x	Story/N_S9905_01_020	Story/N_S9905_01_020	Gốc: câu thơ cổ "…trong đó lại có những kẻ si tình" (nói về Hoạt và Vân Thường) → đã viết: 'những đứa trẻ khờ dại'
+cau	Story/N_Back_Work_501_002	chắc	x	Story/N_Back_Work_501_002	Story/N_Back_Work_501_002	Gốc: Vân Thường muốn nhào vào lòng, bạn không có phúc hưởng ơn mỹ nhân → đã viết: 'nhào tới ôm ca ca một cái'
+cau	Story/D_Back_Free_901_010	chắc	x	Story/D_Back_Free_901_010	Story/D_Back_Free_901_010	Gốc: đại sư huynh già trẻ gì cũng không tha (Mai khi ấy mới mười tuổi) → đã viết: 'đại sư huynh của ta đào hoa lắm'
+cau	Story/N_Back_Free_001_001	chắc	x	Story/N_Back_Free_001_001	Story/N_Back_Free_001_001	Gốc: muốn khoe chiêu để chiếm được trái tim muội ấy → đã viết: 'khoe vài chiêu cho muội ấy phục'
+cau	Story/D_Birth_02_01_008	chắc	x	Story/D_Birth_02_01_008	Story/D_Birth_02_01_008	Gốc: mèo ăn vụng mặc trộm áo người trong lòng → đã viết: 'mèo con mặc trộm áo người mình quý'
+cau	Story/D_Birth_02_01_012	chắc	x	Story/D_Birth_02_01_012	Story/D_Birth_02_01_012	Gốc: tiêu tiền cho người và vật mình yêu thích (có Mặc Linh) → đã viết: 'người, những thứ mình quý'
+cau	Story/N_Girlroom_Free_001_001	chắc	x	Story/N_Girlroom_Free_001_001	Story/N_Girlroom_Free_001_001	Gốc: 'người trong lòng' (chỉ tiểu sư muội) → đã viết: 'bầu bạn với người mình quý mến'
+cau	LUA/girlroom_free_001#2:14.0	chắc	x	LUA/girlroom_free_001#2:14.0	LUA/girlroom_free_001#2:14.0	Gốc: 'người trong lòng' (chỉ tiểu sư muội) → đã viết: 'bầu bạn với người mình quý mến'
+cau	Story/T_Kitchen_Work_903_001	chắc	x	Story/T_Kitchen_Work_903_001	Story/T_Kitchen_Work_903_001	Gốc: thấy tiểu sư muội là "mặt mất kiểm soát" (颜面失调), sợ chưởng môn giết → đã viết: 'ta mừng quá, mặt cứ cười ngoác ra không kìm nổi'
+cau	Story/N_Mall_Free_901_001	chắc	x	Story/N_Mall_Free_901_001	Story/N_Mall_Free_901_001	Gốc: "lòng bạn cũng bị nàng dắt đi mất" (心也被她牵走了) → đã viết: 'đầu óc bạn cũng cứ nghĩ theo muội ấy'
+cau	Story/N_Mall_Work_901_001	chắc	x	Story/N_Mall_Work_901_001	Story/N_Mall_Work_901_001	Gốc: "hồn bị nàng đoạt mất, thẫn thờ đi theo" (魂为之夺) → đã viết: 'Bạn ngẩn cả người, thẫn thờ đi theo bóng muội ấy'
+cau	Story/T_Meet_01_003	chắc	x	Story/T_Meet_01_003	Story/T_Meet_01_003	Gốc: "Ta muốn ra đứng sau tiểu sư muội để ngửi muội ấy! Chắc chắn rất thơm!" → đã viết: 'Ta phải tới đứng ngay sau tiểu sư muội mới được! Đứng gần muội ấy là vui rồi!'
+cau	Story/T_Meet_Option_01_20_001	chắc	x	Story/T_Meet_Option_01_20_001	Story/T_Meet_Option_01_20_001	Gốc: "nửa năm không gặp tiểu sư muội, ta có suy tim mà chết không" (心力衰竭而死) → đã viết: 'Nửa năm không gặp tiểu sư muội, chắc ta buồn chết mất'
+cau	Story/N_Section_01_Free_01_403_001	chắc	x	Story/N_Section_01_Free_01_403_001	Story/N_Section_01_Free_01_403_001	Gốc: tiểu sư muội tự vào phòng, quỳ xin được "lâm hạnh" (ngủ cùng) → đã viết: 'quỳ xin được theo hầu trà nước cho bạn'
+cau	LUA/section_01_free_01_403#2:40.0	chắc	x	LUA/section_01_free_01_403#2:40.0	LUA/section_01_free_01_403#2:40.0	Gốc: tiểu sư muội tự vào phòng, quỳ xin được "lâm hạnh" (ngủ cùng) → đã viết: 'quỳ xin được theo hầu trà nước cho bạn'
+cau	LUA/talk_brother4_option_00_02:37.0	chắc	x	LUA/talk_brother4_option_00_02:37.0	LUA/talk_brother4_option_00_02:37.0	Gốc: 你真那么喜欢小师妹 (thích tiểu sư muội đến vậy) → đã viết: 'Đệ quý tiểu sư muội tới vậy thật à?'
+cau	LUA/talk_brother4_option_00_02:145.0	chắc	x	LUA/talk_brother4_option_00_02:145.0	LUA/talk_brother4_option_00_02:145.0	Gốc: 也没那么喜欢小师妹 (không thích đến thế) → đã viết: 'không quý tiểu sư muội tới mức đó'
+cau	LUA/talk_brother4_option_00_02:154.0	chắc	x	LUA/talk_brother4_option_00_02:154.0	LUA/talk_brother4_option_00_02:154.0	Gốc: 移情别恋 (đổi lòng sang yêu người khác) → đã viết: 'thôi bận lòng về muội ấy'
+cau	LUA/talk_brother4_option_00_02:165.0	chắc	x	LUA/talk_brother4_option_00_02:165.0	LUA/talk_brother4_option_00_02:165.0	Gốc: 迎娶小师妹 (cưới tiểu sư muội) → đã viết: 'được ở bên lo cho tiểu sư muội cả đời'
+cau	Story/D_Talk_Brother4_Option_02_001	chắc	x	Story/D_Talk_Brother4_Option_02_001	Story/D_Talk_Brother4_Option_02_001	Gốc: 你从前爱慕的小师妹 (tiểu sư muội đệ từng thầm yêu) → đã viết: 'tiểu sư muội mà đệ từng quý nhất'
+cau	Story/D_Talk_Brother4_02_02_002	chắc	x	Story/D_Talk_Brother4_02_02_002	Story/D_Talk_Brother4_02_02_002	Gốc: 你从前爱慕的小师妹 (tiểu sư muội đệ từng thầm yêu) → đã viết: 'tiểu sư muội mà đệ từng quý nhất'
+cau	Story/D_Talk_Brother4_02_02_004	chắc	x	Story/D_Talk_Brother4_02_02_004	Story/D_Talk_Brother4_02_02_004	Gốc: 你终于死了心 (cuối cùng đệ cũng hết hy vọng với tiểu sư muội) → đã viết: 'Cuối cùng đệ cũng dứt ra được'
+cau	LUA/talk_brother4_option_02#2:19.0	chắc	x	LUA/talk_brother4_option_02#2:19.0	LUA/talk_brother4_option_02#2:19.0	Gốc: 你从前爱慕的小师妹 (tiểu sư muội đệ từng thầm yêu) → đã viết: 'tiểu sư muội mà đệ từng quý nhất'
+cau	Story/D_Talk_Girl5_02_091	chắc	x	Story/D_Talk_Girl5_02_091	Story/D_Talk_Girl5_02_091	Gốc: Lan bảo Hoạt tắm sạch cho Phàn Khiếu Thiên rồi thì e Hoạt còn không xứng (làm chồng) → đã viết: 'không xứng làm sư huynh của nó'
+cau	Story/D_Talk_Girl5_02_106	chắc	x	Story/D_Talk_Girl5_02_106	Story/D_Talk_Girl5_02_106	Gốc: bắt Phàn Khiếu Thiên đi tắm rồi bái đường (thành thân) với Hoạt → đã viết: 'làm lễ kết nghĩa huynh muội với ngươi'
+cau	Story/D_Talk_Girl5_02_115	chắc	x	Story/D_Talk_Girl5_02_115	Story/D_Talk_Girl5_02_115	Gốc: Phàn Khiếu Thiên: con trai không thể bái đường thành thân với con trai → đã viết: 'không kết nghĩa huynh muội được'
+cau	Story/D_Talk_Girl5_02_05_027	chắc	x	Story/D_Talk_Girl5_02_05_027	Story/D_Talk_Girl5_02_05_027	Gốc: Hoạt: chẳng phải (sư phụ) đi kiếm cô dâu cho ta sao (cô dâu ở nhánh này là Phàn Khiếu Thiên) → đã viết: 'đi tìm người nhà mới cho đệ tử'
+cau	Story/N_Talk_Girl5_02_05_001	chắc	x	Story/N_Talk_Girl5_02_05_001	Story/N_Talk_Girl5_02_05_001	Gốc: Hoạt hơi "ăn giấm" (ghen) khi sư phụ dắt Phàn Khiếu Thiên đi → đã viết: 'hơi ganh tị'
+cau	Story/D_Talk_Girl5_02_04_005	chắc	x	Story/D_Talk_Girl5_02_04_005	Story/D_Talk_Girl5_02_04_005	Gốc: Lan trách Hoạt không biết "thương hương tiếc ngọc" với Phàn Khiếu Thiên → đã viết: 'không biết nhẹ tay thương xót'
+cau	Story/D_Travel_601_502_011	chắc	x	Story/D_Travel_601_502_011	Story/D_Travel_601_502_011	Gốc: Tề Nhâm nói nếu Mặc Linh không còn trinh thì thôi, "hậu cung" của hắn không chứa "giày rách" → đã viết: 'đã hứa hôn với người khác'
+cau	Story/O_S0003_02_09_001	chắc	x	Story/O_S0003_02_09_001	Story/O_S0003_02_09_001	Gốc: Hoạt "hơi động lòng" (心动) khi Vân Chu ngỏ ý gả Vân Thường → đã viết: 'Cũng hơi lung lay'
+cau	Story/O_S0208_03_003	chắc	x	Story/O_S0208_03_003	Story/O_S0208_03_003	Gốc: nhãn lựa chọn ghi "趁机告白" (nhân cơ hội tỏ tình) với Vân Thường → đã viết: 'nhân cơ hội nói lời thương'
+cau	Story/O_S0208_04_03_011	chắc	x	Story/O_S0208_04_03_011	Story/O_S0208_04_03_011	Gốc: Hoạt nói dối Vân Thường "phải dùng miệng hút ra" (必须用嘴吸出来) → đã viết: 'phải hút độc ra ngay'
+cau	Story/O_5_4_8_7_1_002	chắc	x	Story/O_5_4_8_7_1_002	Story/O_5_4_8_7_1_002	Gốc: Hoạt hô "tiểu sư muội là của ta" (ý giành người yêu) → đã viết: 'Tiểu sư muội là người nhà của ta!'
+cau	Story/O_5_4_8_9_005	chắc	x	Story/O_5_4_8_9_005	Story/O_5_4_8_9_005	Gốc: Hoạt hô "tiểu sư muội là của ta" (ý giành người yêu) → đã viết: 'Tiểu sư muội là người nhà của ta!'
+cau	INL/sharedassets6.assets/4616@232	chắc	x	INL/sharedassets6.assets/4616@232	INL/sharedassets6.assets/4616@232	Gốc: đánh chết sư huynh rồi cưới tiểu sư muội về (把小師妹娶過來) → đã viết: 'giành tiểu sư muội về tay đệ'
+cau	INL/sharedassets6.assets/5912@180	chắc	x	INL/sharedassets6.assets/5912@180	INL/sharedassets6.assets/5912@180	Gốc: thắng thì được nắm tay tiểu sư muội thật hả (我打贏真的可以牽妳手手嗎) → đã viết: 'nắm tay dắt đi chơi'
+cau	LegendInfo/Ch_0_4_1_001	chắc	x	LegendInfo/Ch_0_4_1_001	LegendInfo/Ch_0_4_1_001	Gốc: 告白被拒绝，竟意图用强；心上人 (tỏ tình bị từ chối, định cưỡng ép; người trong lòng) → đã viết: 'Bạn nói lời thương nhưng bị từ chối, vậy mà lại định dùng vũ lực giữ muội ấy lại'
+cau	LegendInfo/Ch_0_4_1_002	chắc	x	LegendInfo/Ch_0_4_1_002	LegendInfo/Ch_0_4_1_002	Gốc: 告白被拒绝，竟意图用强；心上的人儿 → đã viết: 'không nỡ làm tổn thương người mình quý mến'
+cau	LegendInfo/Ch_0_4_003	chắc	x	LegendInfo/Ch_0_4_003	LegendInfo/Ch_0_4_003	Gốc: 爱与缘皆是掌心里的流沙 (tình yêu và duyên) → đã viết: 'Tình thương và duyên phận đều là cát chảy trong lòng bàn tay'
+cau	LegendInfo/Ch_2_2_5_4_005	chắc	x	LegendInfo/Ch_2_2_5_4_005	LegendInfo/Ch_2_2_5_4_005	Gốc: 想博得美人青睐 (muốn được người đẹp để mắt, nói về tiểu sư muội) → đã viết: 'muốn lấy lòng tiểu sư muội'
+cau	LegendInfo/Ch_2_4_5_4_1_004	chắc	x	LegendInfo/Ch_2_4_5_4_1_004	LegendInfo/Ch_2_4_5_4_1_004	Gốc: 意图非礼 (định giở trò sàm sỡ tiểu sư muội) → đã viết: 'với ý đồ xấu'
+cau	LegendInfo/Ch_2_5_3_3_1_002	chắc	x	LegendInfo/Ch_2_5_3_3_1_002	LegendInfo/Ch_2_5_3_3_1_002	Gốc: 想起了唐门的小师妹，满腔柔情 (lòng đầy nhu tình với tiểu sư muội) → đã viết: 'lòng tràn đầy thương mến'
+cau	LegendInfo/Ch_4_6_12_006	chắc	x	LegendInfo/Ch_4_6_12_006	LegendInfo/Ch_4_6_12_006	Gốc: 只妒他能与小师妹结为连理…也换不来一个她 (ghen vì đại sư huynh được kết duyên với tiểu sư muội) → đã viết: 'chỉ ganh vì huynh ấy được ở bên chăm sóc tiểu sư muội cả đời … không đổi được một chỗ bên muội ấy'
+cau	LegendInfo/Ch_4_7_1_004	chắc	x	LegendInfo/Ch_4_7_1_004	LegendInfo/Ch_4_7_1_004	Gốc: 大师兄八成便不能再娶小师妹…做小、做平妻…即使小师妹最终仍然要嫁旁人，好歹你也能多陪她几年 (đại sư huynh khó cưới tiểu sư muội; muội ấy không thể làm lẽ/vợ ngang hàng; dù muội ấy gả cho người khác bạn vẫn được ở bên thêm mấy năm) → đã viết: 'đại sư huynh tám phần không thể nhận phần ở bên chăm sóc tiểu sư muội cả đời nữa … không thể để muội ấy chịu phận dưới hay phận ngang hàng … dù cuối cùng tiểu sư muội vẫn sẽ về nhà người khác, ít ra bạn cũng được ở bên trông nom muội ấy thêm mấy năm'
+cau	LegendInfo/Ch_6_2_4_003	chắc	x	LegendInfo/Ch_6_2_4_003	LegendInfo/Ch_6_2_4_003	Gốc: 得了小师妹的芳心 (chiếm được trái tim tiểu sư muội) → đã viết: 'đã có được lòng tin cậy của tiểu sư muội'
+cau	LegendInfo/Ch_8_1_1_1_038	chắc	x	LegendInfo/Ch_8_1_1_1_038	LegendInfo/Ch_8_1_1_1_038	Gốc: 看上了你／偏偏爱慕你／你心悦谁 (Vân Thường, Mặc Linh phải lòng bạn) → đã viết: 'quý bạn tới vậy'
+cau	LegendInfo/Ch_8_5_1_009	chắc	x	LegendInfo/Ch_8_5_1_009	LegendInfo/Ch_8_5_1_009	Gốc: 两情相悦 (tiểu sư muội và bạn yêu nhau) → đã viết: 'hai người thương nhau như người một nhà'
+cau	LegendInfo/Ch_8_5_1_010	chắc	x	LegendInfo/Ch_8_5_1_010	LegendInfo/Ch_8_5_1_010	Gốc: 云裳有夫，我的郎君 (Vân Thường nói đã có chồng, phu quân của em) → đã viết: 'Vân Thường đã có người để chờ rồi. Người của Vân Thường'
+cau	LegendInfo/Ch_8_6_3_2_003	chắc	x	LegendInfo/Ch_8_6_3_2_003	LegendInfo/Ch_8_6_3_2_003	Gốc: 她爱和谁过日子…只顾自己喜欢就好 (Mặc Linh thích ai thì sống với người đó) → đã viết: 'muốn sống cùng ai là chuyện của muội ấy'
+cau	LegendInfo/Ch_5_4_8_5_3_003	chắc	x	LegendInfo/Ch_5_4_8_5_3_003	LegendInfo/Ch_5_4_8_5_3_003	Gốc: 两情相悦 (bạn và tiểu sư muội yêu nhau) → đã viết: 'hai người đều quý mến nhau'
+cau	LegendInfo/Ch_5_5_2_Break_01_004	chắc	x	LegendInfo/Ch_5_5_2_Break_01_004	LegendInfo/Ch_5_5_2_Break_01_004	Gốc: 你喜欢小师妹…小师妹居然会喜欢 (bạn thích tiểu sư muội, muội ấy cũng thích bạn) → đã viết: 'Bạn quý tiểu sư muội là lẽ đương nhiên, nhưng tiểu sư muội lại quý cả bạn'
+cau	LegendInfo/Ch_5_5_3_010	chắc	x	LegendInfo/Ch_5_5_3_010	LegendInfo/Ch_5_5_3_010	Gốc: 哄骗小师妹芳心 (dụ được trái tim tiểu sư muội) → đã viết: 'dỗ ngọt tiểu sư muội thế nào'
+cau	LegendInfo/Ch_5_5_3_011	chắc	x	LegendInfo/Ch_5_5_3_011	LegendInfo/Ch_5_5_3_011	Gốc: 两情相悦…不愿拆散鸳鸯 (hai người yêu nhau, không muốn chia rẽ uyên ương) → đã viết: 'đã cùng một lòng'
+cau	LegendInfo/Ch_6_2_4_010	chắc	x	LegendInfo/Ch_6_2_4_010	LegendInfo/Ch_6_2_4_010	Gốc: 受你非礼 (bị bạn sàm sỡ) → đã viết: 'giở trò với ý đồ xấu'
+cau	LegendInfo/Ch_6_6_2_Break_01_039	chắc	x	LegendInfo/Ch_6_6_2_Break_01_039	LegendInfo/Ch_6_6_2_Break_01_039	Gốc: 不争宠，不嫉妒 (không tranh sủng, không ghen) → đã viết: 'không tranh giành, không ganh tị'
+cau	LegendInfo/Ch_8_2_5_2_004	chắc	x	LegendInfo/Ch_8_2_5_2_004	LegendInfo/Ch_8_2_5_2_004	Gốc: kẻ địch thấy tiểu sư muội xinh đẹp, muốn chiếm cô làm của riêng, buông lời khinh bạc → đã viết: 'nổi ý đồ xấu'
+cau	LegendInfo/Ch_8_2_5_6_1_004	chắc	x	LegendInfo/Ch_8_2_5_6_1_004	LegendInfo/Ch_8_2_5_6_1_004	Gốc: tiểu sư muội yêu bạn thật lòng (真爱) → đã viết: 'tiểu sư muội lại thật lòng thương bạn'
+cau	LegendInfo/Ch_8_2_5_6_1_006	chắc	x	LegendInfo/Ch_8_2_5_6_1_006	LegendInfo/Ch_8_2_5_6_1_006	Gốc: Vân Thường lao ra tuyên bố chủ quyền với bạn, yêu bạn thật lòng (宣示主权, 真爱) → đã viết: 'cô bé lại thật lòng thương bạn'
+cau	LegendInfo/Ch_8_2_5_9_001	chắc	x	LegendInfo/Ch_8_2_5_9_001	LegendInfo/Ch_8_2_5_9_001	Gốc: Vân Thường và bạn yêu nhau (两情相悦), xin tam sư huynh gả mình cho bạn → đã viết: 'Vân Thường và bạn quý mến nhau, cùng một lòng'
+cau	LegendInfo/Ch_8_2_5_9_002	chắc	x	LegendInfo/Ch_8_2_5_9_002	LegendInfo/Ch_8_2_5_9_002	Gốc: Vân Thường không muốn chia sủng, không chung chồng với ai ngoài Mặc Linh; nếu bạn cưới cả hai → đã viết: 'cô bé không định chia bạn với bất kỳ ai'
+cau	LegendInfo/Ch_8_2_6_2_6_003	chắc	x	LegendInfo/Ch_8_2_6_2_6_003	LegendInfo/Ch_8_2_6_2_6_003	Gốc: tiểu sư muội nhìn bạn bằng mắt người yêu (情人眼里出西施), sợ người khác cướp bạn → đã viết: 'Trong mắt muội ấy, bạn là người tốt nhất'
+cau	LegendInfo/Ch_8_3_2_1_3_007	chắc	x	LegendInfo/Ch_8_3_2_1_3_007	LegendInfo/Ch_8_3_2_1_3_007	Gốc: bạn nổi tà niệm, muốn có cả hai cô gái, hưởng phúc tề nhân (齐人之福) → đã viết: 'giữ cả hai cô bé ở bên mình mà chăm sóc'
+cau	LegendInfo/Ch_8_3_2_1_4_004	chắc	x	LegendInfo/Ch_8_3_2_1_4_004	LegendInfo/Ch_8_3_2_1_4_004	Gốc: bạn tiếc không được nhìn no mắt và sờ đùi tiểu sư muội khi bôi thuốc → đã viết: 'được tự tay bôi thuốc chăm sóc cho muội ấy'
+cau	LegendInfo/Ch_8_3_2_1_4_005	chắc	x	LegendInfo/Ch_8_3_2_1_4_005	LegendInfo/Ch_8_3_2_1_4_005	Gốc: bạn không có ý mạo phạm giai nhân (唐突佳人) → đã viết: 'Bạn đâu có ý mạo phạm muội ấy'
+cau	LegendInfo/Ch_8_4_7_1_002	chắc	x	LegendInfo/Ch_8_4_7_1_002	LegendInfo/Ch_8_4_7_1_002	Gốc: tiểu sư muội trách bạn thay lòng đổi dạ (移情别恋) → đã viết: 'trách bạn có người khác rồi quên muội ấy'
+cau	LegendInfo/S0003_02_05_001	chắc	x	LegendInfo/S0003_02_05_001	LegendInfo/S0003_02_05_001	Gốc: ba tên ác bá cho rằng bạn là dâm tặc nhắm vào em gái Diệp Vân Chu (淫贼) → đã viết: 'kẻ có ý đồ xấu nhắm vào em gái ruột của Diệp Vân Chu'
+cau	LegendInfo/S0003_02_06_001	chắc	x	LegendInfo/S0003_02_06_001	LegendInfo/S0003_02_06_001	Gốc: ba tên thèm sắc đẹp Vân Thường, xin chỉ cần được nhìn trộm cô tắm (觊觎美色, 窥见美人入浴) → đã viết: 'chỉ cần được nhìn mặt cô bé một lần là mãn nguyện'
+cau	LegendInfo/S0003_02_06_01_001	chắc	x	LegendInfo/S0003_02_06_01_001	LegendInfo/S0003_02_06_01_001	Gốc: không ai được nhục người trong lòng bạn (心上之人 = tiểu sư muội) → đã viết: 'người bạn quý mến nhất'
+cau	LegendInfo/S0003_02_06_03_001	chắc	x	LegendInfo/S0003_02_06_03_001	LegendInfo/S0003_02_06_03_001	Gốc: Vân Thường gọi bạn là ca ca, lòng bạn rung động (心头一荡) → đã viết: 'khiến lòng bạn mềm nhũn'
+cau	LegendInfo/S0003_02_09_004	chắc	x	LegendInfo/S0003_02_09_004	LegendInfo/S0003_02_09_004	Gốc: bạn mê Vân Thường xinh đẹp, nghĩ lấy được nàng làm vợ thì còn mong gì, lòng xao động; hai bên yêu nhau mới bền → đã viết: 'được ở bên chăm sóc cô bé thì còn mong gì hơn'
+cau	LegendInfo/S0003_02_09_005	chắc	x	LegendInfo/S0003_02_09_005	LegendInfo/S0003_02_09_005	Gốc: lòng bạn đã có giai nhân; tiểu sư muội đẹp cỡ nào khiến bạn si tình như vậy → đã viết: 'khiến bạn hết lòng lo cho muội ấy như vậy'
+cau	LegendInfo/S0003_02_09_006	chắc	x	LegendInfo/S0003_02_09_006	LegendInfo/S0003_02_09_006	Gốc: Vân Chu dọa đem Vân Thường cho bạn làm thiếp; lòng bạn rung động → đã viết: 'đem cô bé cho bạn làm nha hoàn hầu hạ'
+cau	LegendInfo/S0018_01_007	chắc	x	LegendInfo/S0018_01_007	LegendInfo/S0018_01_007	Gốc: ba tên ác bá muốn nhìn thân thể trần của Vân Thường (欲窥胴体), không chỉ vì háo sắc → đã viết: 'đòi xem người Diệp cô nương, không phải đơn thuần vì ý đồ xấu'
+cau	LegendInfo/S0018_01_010	chắc	x	LegendInfo/S0018_01_010	LegendInfo/S0018_01_010	Gốc: kẻ khác muốn chiếm trái tim người đẹp Vân Thường, cưới về rồi muốn nhìn thế nào thì nhìn (博得芳心, 娶) → đã viết: 'muốn lấy lòng cô bé, đưa cô bé về nhà mình'
+cau	LegendInfo/S0018_03_009	chắc	x	LegendInfo/S0018_03_009	LegendInfo/S0018_03_009	Gốc: Vân Thường nhào vào lòng, bạn ngửi mùi hương thiếu nữ mà tim đập rộn (扑鼻香气, 心跳加剧) → đã viết: 'bạn không khỏi bối rối, lòng ấm hẳn lên'
+cau	LegendInfo/S0018_04_008	chắc	x	LegendInfo/S0018_04_008	LegendInfo/S0018_04_008	Gốc: Vân Thường tinh nghịch khiến bạn ngứa ngáy trong lòng, không nhịn được mà thích (心痒痒, 喜欢) → đã viết: 'vẫn không nhịn được mà quý cô bé'
+cau	LegendInfo/S0018_05_009	chắc	x	LegendInfo/S0018_05_009	LegendInfo/S0018_05_009	Gốc: nhị sư huynh nghi bạn ham sắc đẹp của cô bé họ Diệp (美色) → đã viết: 'có ý đồ gì với cô bé họ Diệp'
+cau	LegendInfo/S0018_06_002	chắc	x	LegendInfo/S0018_06_002	LegendInfo/S0018_06_002	Gốc: Phùng Sử định làm người hòa giải để được cả tiền lẫn sắc (财色兼收, nhắm Vân Thường) → đã viết: 'vơ cả tiền lẫn người về tay'
+cau	LegendInfo/S0018_06_005	chắc	x	LegendInfo/S0018_06_005	LegendInfo/S0018_06_005	Gốc: đám đông đòi Vân Thường cởi áo cho khám người (脱衣验身) → đã viết: 'để người ta xem trên người cô bé có hình xăm hay không'
+cau	LegendInfo/S0501_01_003	chắc	x	LegendInfo/S0501_01_003	LegendInfo/S0501_01_003	Gốc: cả đời không gặp lại người trong lòng (心上的人儿 = tiểu sư muội); đi qua vạn hoa không vương lá, gái xuân thì không bằng người trong ký ức → đã viết: 'không gặp lại người bạn quý mến nhất nữa'
+cau	LegendInfo/Ch_8_2_1_022	chắc	x	LegendInfo/Ch_8_2_1_022	LegendInfo/Ch_8_2_1_022	Gốc: tiểu sư muội nguyện theo bạn như theo người mình yêu (与君相随) → đã viết: 'muội ấy cũng muốn theo bạn tới đó'
+cau	LegendInfo/S0202_02_01_003	chắc	x	LegendInfo/S0202_02_01_003	LegendInfo/S0202_02_01_003	Gốc: Thượng Quan Huỳnh cho rằng bạn là kẻ háo sắc (登徒子) đang bám theo nhóm có tiểu sư muội và Vân Thường → đã viết: 'nhận định bạn là kẻ có ý đồ xấu, kẻ bám đuôi'
+cau	LegendInfo/S0202_02_03_003	chắc	x	LegendInfo/S0202_02_03_003	LegendInfo/S0202_02_03_003	Gốc: Thượng Quan Huỳnh vừa thấy hai cô bé đã thích (喜欢) không kìm được, muốn ôm hôn → đã viết: 'nàng đã quý mến không kìm được'
+cau	LegendInfo/Ch_3_3_1_2_2_002	chắc	x	LegendInfo/Ch_3_3_1_2_2_002	LegendInfo/Ch_3_3_1_2_2_002	Gốc: Vân Thường đã là thiếu nữ đến tuổi chờ gả (待字闺中的妙龄少女), bạn phải giữ ý → đã viết: 'Cô bé đã là một thiếu nữ, lại ngây thơ không biết chừng mực'
+cau	LegendInfo/S3005_01_002	chắc	x	LegendInfo/S3005_01_002	LegendInfo/S3005_01_002	Gốc: Vân Thường là cô gái nhà lành chưa chồng (妙龄未嫁的清白小娘子) bị bạn chạm vào, theo lễ giáo trinh tiết → đã viết: 'Dù sao cô bé cũng là con gái nhà lành, bị bạn đánh như vậy'
+cau	LegendInfo/S3005_01_004	chắc	x	LegendInfo/S3005_01_004	LegendInfo/S3005_01_004	Gốc: bạn cầm cổ tay Vân Thường, sờ bàn tay nhỏ cũng thích (摸摸小手也是好的) → đã viết: 'được chăm sóc cô bé thế này bạn cũng thấy lòng ấm lên'
+cau	LegendInfo/S3005_01_005	chắc	x	LegendInfo/S3005_01_005	LegendInfo/S3005_01_005	Gốc: nhớ lại lúc đánh vào mông cô bé, bạn càng thấy thích thú khó tả (妙不可言) → đã viết: 'giờ nhớ lại, bạn càng thấy bối rối'
+cau	LegendInfo/S3005_01_007	chắc	x	LegendInfo/S3005_01_007	LegendInfo/S3005_01_007	Gốc: Đường Phương cho rằng bạn đang sàm sỡ (轻薄) Vân Thường → đã viết: 'liền khẳng định bạn đang có ý đồ xấu với cô bé'
+cau	LegendInfo/S3005_01_008	chắc	x	LegendInfo/S3005_01_008	LegendInfo/S3005_01_008	Gốc: hiếm có dịp đường hoàng sờ bàn tay nhỏ của Vân Thường (摸摸她小手) → đã viết: 'cơ hội được đường hoàng chăm sóc cô bé như vậy cũng chẳng nhiều'
+cau	LegendInfo/Ch_3_1_7_1_003	chắc	x	LegendInfo/Ch_3_1_7_1_003	LegendInfo/Ch_3_1_7_1_003	Gốc: lời đồn nói bản đồ kho báu giấu trên lưng trần (裸背) của Vân Thường → đã viết: 'được giấu ngay trên lưng Diệp Vân Thường'
+cau	LegendInfo/Ch_3_1_7_3_005	chắc	x	LegendInfo/Ch_3_1_7_3_005	LegendInfo/Ch_3_1_7_3_005	Gốc: bạn yêu chết đi được (爱煞) cô em nhỏ này → đã viết: 'trong lòng bạn thương cô em nhỏ hoạt bát lém lỉnh này vô cùng'
+cau	LegendInfo/S0028_02_Break_01_001	chắc	x	LegendInfo/S0028_02_Break_01_001	LegendInfo/S0028_02_Break_01_001	Gốc: trừ phi Vân Thường cởi hết áo trước mọi người (当众褪光了衣裳) để tự chứng minh → đã viết: 'Trừ phi Diệp Vân Thường để mọi người tận mắt xem lưng mình mà tự chứng minh trong sạch'
+cau	LegendInfo/S0204_01_01_002	chắc	x	LegendInfo/S0204_01_01_002	LegendInfo/S0204_01_01_002	Gốc: bạn muốn giam (囚禁) cô bé bên mình suốt đời → đã viết: 'muốn giữ chặt cô bé bên mình suốt đời'
+cau	LegendInfo/S0204_01_01_003	chắc	x	LegendInfo/S0204_01_01_003	LegendInfo/S0204_01_01_003	Gốc: người bạn yêu (心爱的人儿) từ biệt bạn → đã viết: 'Cô em bạn thương mến nhất từ biệt bạn'
+cau	LegendInfo/S0204_01_01_004	chắc	x	LegendInfo/S0204_01_01_004	LegendInfo/S0204_01_01_004	Gốc: Vân Thường biết tâm tình của bạn, kiếp này vô duyên (今生无缘), trả lại trái tim cho bạn (把心归还给你) → đã viết: 'cô bé để bạn nhẹ lòng mà buông tay'
+cau	LegendInfo/Ch_4_6_9_007	chắc	x	LegendInfo/Ch_4_6_9_007	LegendInfo/Ch_4_6_9_007	Gốc: vì lòng riêng (私心) Vân Thường không muốn tiểu sư muội ngủ chung phòng với bạn → đã viết: 'Vì chút lòng ganh tị, Vân Thường không mấy muốn tiểu sư muội ngủ lại Phòng luyện đan'
+cau	LegendInfo/S0208_01_002	chắc	x	LegendInfo/S0208_01_002	LegendInfo/S0208_01_002	Gốc: Vân Thường muốn gán ghép (凑到一块) anh trai với tiểu sư muội → đã viết: 'cố ý muốn cho anh trai mình và người bạn thân nhất ở bên nhau'
+cau	LegendInfo/S0208_01_01_002	chắc	x	LegendInfo/S0208_01_01_002	LegendInfo/S0208_01_01_002	Gốc: Vân Thường biết tâm ý của bạn, nói sau này sẽ có cô gái khác (别的姑娘) thay cô bé hưởng phúc → đã viết: 'Sau này rồi sẽ có người biết bạn tốt tới nhường nào, ở bên chăm sóc bạn thay cô bé'
+cau	LegendInfo/S0208_04_01_07_004	chắc	x	LegendInfo/S0208_04_01_07_004	LegendInfo/S0208_04_01_07_004	Gốc: bạn tự nhận đang đọc sách tranh xuân cung (春宫画册), làm con thú háo sắc bị bắt quả tang → đã viết: 'giả vờ nói thứ bạn đang đọc là sách bậy bạ không đứng đắn'
+cau	LegendInfo/S0208_05_01_005	chắc	x	LegendInfo/S0208_05_01_005	LegendInfo/S0208_05_01_005	Gốc: bạn yêu quý, nâng niu cô bé (爱重她的你) → đã viết: 'bạn, người lúc này đang thương quý cô bé'
+cau	LegendInfo/S0208_05_05_003	chắc	x	LegendInfo/S0208_05_05_003	LegendInfo/S0208_05_05_003	Gốc: hai người cùng mơ một giấc mơ tên là chết vì tình (殉情) → đã viết: 'đang cùng mơ một giấc mơ, tên là cùng chết vì nhau'
+cau	LegendInfo/S0208_05_05_004	chắc	x	LegendInfo/S0208_05_05_004	LegendInfo/S0208_05_05_004	Gốc: Vân Thường thôi làm huynh muội, nhận lời gả cho bạn làm vợ (嫁你为妻) → đã viết: 'cô bé chẳng ngại chiều theo ý bạn, từ nay ở bên chăm sóc bạn mãi mãi'
+cau	LegendInfo/S0208_05_05_005	chắc	x	LegendInfo/S0208_05_05_005	LegendInfo/S0208_05_05_005	Gốc: di vật thành của hồi môn (嫁妆) → đã viết: 'quanh co thành món quà cô bé mang tới cho bạn'
+cau	LegendInfo/S0208_03_002	chắc	x	LegendInfo/S0208_03_002	LegendInfo/S0208_03_002	Gốc: bạn thổ lộ tình ý (倾诉心中情意) với Vân Thường → đã viết: 'cũng phải nói hết những lời thương mến trong lòng'
+cau	LegendInfo/S0213_02_005	chắc	x	LegendInfo/S0213_02_005	LegendInfo/S0213_02_005	Gốc: Vân Thường tự hào là người vợ hiền (贤内助) của bạn → đã viết: 'có thể ngẩng cao đầu tự hào là trợ thủ đắc lực của bạn'
+cau	LegendInfo/S0701_01_01_003	chắc	x	LegendInfo/S0701_01_01_003	LegendInfo/S0701_01_01_003	Gốc: trái tim Vân Thường đã bị bạn chiếm (她的心被你占了) → đã viết: 'Nếu không phải lòng cô bé đã quá gắn bó với bạn không cách nào dứt ra'
+cau	LegendInfo/Ch_3_3_2_2_4_001	chắc	x	LegendInfo/Ch_3_3_2_2_4_001	LegendInfo/Ch_3_3_2_2_4_001	Gốc: Vân Thường làm nũng thì nghìn vẻ kiều mị (千娇百媚), bạn được người đẹp (可人儿) ở bên → đã viết: 'Có được cô em đáng yêu như vậy ở bên'
+cau	LegendInfo/S2901_03_01_06_02_002	chắc	x	LegendInfo/S2901_03_01_06_02_002	LegendInfo/S2901_03_01_06_02_002	Gốc: 勾引姊夫: Bảo Hoa muốn quyến rũ anh rể → đã viết: 'rõ ràng là muốn bám lấy người anh rể giàu sang'
+cau	LegendInfo/S2901_03_01_06_02_003	chắc	x	LegendInfo/S2901_03_01_06_02_003	LegendInfo/S2901_03_01_06_02_003	Gốc: 贪花风流 / 凭自己的姿色手腕: công tử háo sắc, Bảo Hoa cậy nhan sắc và thủ đoạn → đã viết: 'thấy cũng giống hạng công tử ăn chơi'
+cau	LegendInfo/S2901_03_01_06_02_008	chắc	x	LegendInfo/S2901_03_01_06_02_008	LegendInfo/S2901_03_01_06_02_008	Gốc: 怦然心动…要是能够跟了他: Bảo Hoa rung động, mong được theo (làm vợ) công tử → đã viết: 'Nếu được bám theo chàng ta, sau này không biết sẽ sung sướng tới đâu.'
+cau	LegendInfo/S2310_01_03_017	chắc	x	LegendInfo/S2310_01_03_017	LegendInfo/S2310_01_03_017	Gốc: 荳蔻之年的女儿…送到掌派人榻上: đưa con gái tuổi mười ba lên giường tổng chưởng môn → đã viết: 'sau này đương nhiên được gả cho tổng chưởng môn'
+cau	LegendInfo/S2920_01_009	chắc	x	LegendInfo/S2920_01_009	LegendInfo/S2920_01_009	Gốc: 倾慕小师妹的传言…你若心慕上述几位: lời đồn bạn ái mộ tiểu sư muội; bạn thương ai trong mấy người ấy cũng hợp lý → đã viết: 'lời đồn bạn quý mến tiểu sư muội hết mực'
+cau	LegendInfo/Ch_5_6_1_023	chắc	x	LegendInfo/Ch_5_6_1_023	LegendInfo/Ch_5_6_1_023	Gốc: 被恶徒撕裂了衣裳襟口…围着她嘲笑非礼: bọn đòi nợ xé áo Bảo Hoa, vây quanh cười cợt sàm sỡ → đã viết: 'vây quanh chế giễu, làm nhục'
+cau	LegendInfo/Ch_5_6_4_3_002	chắc	x	LegendInfo/Ch_5_6_4_3_002	LegendInfo/Ch_5_6_4_3_002	Gốc: 她从前能下决心勾引自己姊夫: Bảo Hoa từng quyết tâm quyến rũ anh rể → đã viết: 'Ngày trước nàng còn hạ quyết tâm bám lấy anh rể được'
+cau	LegendInfo/Ch_5_6_8_3_4_010	chắc	x	LegendInfo/Ch_5_6_8_3_4_010	LegendInfo/Ch_5_6_8_3_4_010	Gốc: 与你共枕而眠的每一夜都强忍恶心: Bảo Hoa mỗi đêm ngủ chung giường với bạn đều cố nén ghê tởm → đã viết: 'mỗi đêm ở bên bạn đều phải cố nén ghê tởm'
+cau	LegendInfo/S2300_02_01_002	chắc	x	LegendInfo/S2300_02_01_002	LegendInfo/S2300_02_01_002	Gốc: 她可不骑别人骑过的马，你已经被骑过，脏了 (Vân Thường chưa 18: bỏ ẩn ý 'bẩn') → đã viết: 'hết còn là ngựa riêng'
+cau	LegendInfo/Ch_6_5_2_Break_01_003	chắc	x	LegendInfo/Ch_6_5_2_Break_01_003	LegendInfo/Ch_6_5_2_Break_01_003	Gốc: 才俊那么多，可她眼里只有你 (Mặc Linh chưa 18) → đã viết: 'trong mắt muội ấy chỉ có vị sư huynh là bạn'
+cau	LegendInfo/Ch_6_5_2_Break_01_004	chắc	x	LegendInfo/Ch_6_5_2_Break_01_004	LegendInfo/Ch_6_5_2_Break_01_004	Gốc: 她只道自己与你心心相印，殊不知你早已见异思迁 (Mặc Linh chưa 18) → đã viết: 'bạn đã sớm để tâm sang người khác'
+cau	LegendInfo/Ch_6_5_2_Break_01_010	chắc	x	LegendInfo/Ch_6_5_2_Break_01_010	LegendInfo/Ch_6_5_2_Break_01_010	Gốc: 一朵鲜花插在牛粪上…羡慕你们 (ghép đôi Mặc Linh chưa 18) → đã viết: 'ngưỡng mộ hai huynh muội các bạn'
+cau	LegendInfo/Ch_6_5_2_Break_01_026	chắc	x	LegendInfo/Ch_6_5_2_Break_01_026	LegendInfo/Ch_6_5_2_Break_01_026	Gốc: 昔日心爱之人 (Mặc Linh chưa 18) → đã viết: 'cô em bạn từng quý nhất'
+cau	LegendInfo/Ch_6_5_2_Break_01_027	chắc	x	LegendInfo/Ch_6_5_2_Break_01_027	LegendInfo/Ch_6_5_2_Break_01_027	Gốc: 见你看得痴了，心底又酸又妒 (ghen vì Mặc Linh chưa 18) → đã viết: 'trong lòng nàng chẳng dễ chịu chút nào'
+cau	LegendInfo/Ch_6_5_2_Break_01_029	chắc	x	LegendInfo/Ch_6_5_2_Break_01_029	LegendInfo/Ch_6_5_2_Break_01_029	Gốc: 很怕你会旧情复燃 (Mặc Linh chưa 18) → đã viết: 'dồn hết tâm tư vào muội ấy như xưa'
+cau	LegendInfo/Ch_6_5_2_Break_01_034	chắc	x	LegendInfo/Ch_6_5_2_Break_01_034	LegendInfo/Ch_6_5_2_Break_01_034	Gốc: 挥出嫉妒之拳 (ghen vì Mặc Linh chưa 18) → đã viết: 'một cú đấm của người anh bất bình'
+cau	LegendInfo/Ch_6_5_2_Break_01_036	chắc	x	LegendInfo/Ch_6_5_2_Break_01_036	LegendInfo/Ch_6_5_2_Break_01_036	Gốc: 那是你一心一意爱的人 (Mặc Linh chưa 18) → đã viết: 'người bạn một lòng một dạ thương quý'
+cau	LegendInfo/Ch_6_5_2_Break_01_037	chắc	x	LegendInfo/Ch_6_5_2_Break_01_037	LegendInfo/Ch_6_5_2_Break_01_037	Gốc: 那是你一心一意爱的人 (Mặc Linh chưa 18) → đã viết: 'người bạn một lòng một dạ thương quý'
+cau	LegendInfo/S0603_02_001	chắc	x	LegendInfo/S0603_02_001	LegendInfo/S0603_02_001	Gốc: Diệp Vân Thường "gặp được lang quân như ý" (如意郎君) → đã viết: 'gặp được người tử tế để nương tựa'
+cau	LegendInfo/S0603_02_011	chắc	x	LegendInfo/S0603_02_011	LegendInfo/S0603_02_011	Gốc: Vân Thường định sau này dùng của hồi môn trả gấp đôi (嫁妆加倍还你) → đã viết: 'định sau này trả lại bạn gấp đôi'
+cau	LegendInfo/S0603_02_012	chắc	x	LegendInfo/S0603_02_012	LegendInfo/S0603_02_012	Gốc: Vân Thường càng nhìn càng thích bạn (越看越喜欢) → đã viết: 'càng nhìn càng quý'
+cau	LegendInfo/S0603_02_014	chắc	x	LegendInfo/S0603_02_014	LegendInfo/S0603_02_014	Gốc: gã đao khách nghĩ Vân Thường là gái dễ dãi tự sà vào lòng (一见倾心、主动投怀送抱的便宜女子) → đã viết: 'một cô ngốc dễ dụ, tự mò tới bám lấy hắn'
+cau	LegendInfo/Ch_8_4_11_1_001	chắc	x	LegendInfo/Ch_8_4_11_1_001	LegendInfo/Ch_8_4_11_1_001	Gốc: Vân Thường nổi cơn ghen (恼妒之意) khi thấy bạn nắm tay món đồ chơi → đã viết: 'cô bé bỗng dưng thấy ganh tị'
+cau	LegendInfo/Ch_8_4_11_1_2_001	chắc	x	LegendInfo/Ch_8_4_11_1_2_001	LegendInfo/Ch_8_4_11_1_2_001	Gốc: Vân Thường véo trúng đầu ngực bạn (拧中乳头) → đã viết: 'trúng ngay ngực bạn'
+cau	LegendInfo/Ch_8_4_11_1_2_004	chắc	x	LegendInfo/Ch_8_4_11_1_2_004	LegendInfo/Ch_8_4_11_1_2_004	Gốc: Vân Thường để ý/phải lòng bạn (看上你) → đã viết: 'cô bé quý bạn'
+cau	LegendInfo/Ch_8_4_11_1_2_005	chắc	x	LegendInfo/Ch_8_4_11_1_2_005	LegendInfo/Ch_8_4_11_1_2_005	Gốc: bạn vẫn không kìm được mà thích cô bé (情不自禁的喜欢) → đã viết: 'không nhịn được mà cưng cô bé'
+cau	Misc/Desc/7002	chắc	x	Misc/Desc/7002	Misc/Desc/7002	Gốc: tứ sư huynh không quan tâm chuyện tình cảm nam nữ của các người với tiểu sư muội (儿女情长) → đã viết: 'chẳng quan tâm các người quý muội ấy tới mức nào'
+cau	CharacterIntro4/sister1	chắc	x	CharacterIntro4/sister1	CharacterIntro4/sister1	Gốc: Mặc Linh biết rõ mình đang thầm yêu, ngưỡng mộ bạn (倾慕着你) → đã viết: 'biết rất rõ mình quý mến bạn'
+cau	CharacterIntro4/special4	chắc	x	CharacterIntro4/special4	CharacterIntro4/special4	Gốc: tên ăn mày định giữ cô bé làm nô lệ tình dục, chờ cô bé lớn lên là ra tay (收为禁脔…只待她身骨长成就下手) → đã viết: 'ôm ý đồ xấu chờ cô bé lớn lên'
+cau	CharacterIntro2/special800	chắc	x	CharacterIntro2/special800	CharacterIntro2/special800	Gốc: bé gái bị giam dưới hầm làm nô lệ tình dục (当作禁脔) → đã viết: 'bị kẻ khác giam dưới hầm để hành hạ'
+cau	CharacterIntro4/girl2	chắc	x	CharacterIntro4/girl2	CharacterIntro4/girl2	Gốc: Vân Thường tiếc không cưới được Mặc Linh nên đành lấy bạn làm chồng (想娶默铃…嫁你为妻) → đã viết: 'được ở bên bạn để bạn chăm sóc'
+cau	Special/Desc/1005	chắc	x	Special/Desc/1005	Special/Desc/1005	Gốc: chiếc lược Vân Thường tặng bạn làm tín vật kết tóc phu thê (结发之证) → đã viết: 'tặng bạn làm tín vật gắn bó'
+cau	CombatTalking/C009	chắc	x	CombatTalking/C009	CombatTalking/C009	Gốc: Hoạt tự nhận ở lại Đường Môn vì thèm sắc đẹp của tiểu sư muội → đã viết: 'vì quý tiểu sư muội của Đường Môn'
+cau	CombatTalking/1506_01_02_005	chắc	x	CombatTalking/1506_01_02_005	CombatTalking/1506_01_02_005	Gốc: đệ tử khuyên Hoạt: thiếu gì hoa thơm cỏ lạ (ý tình yêu với tiểu sư muội) → đã viết: 'đâu phải trên đời chỉ có mỗi một người để huynh quý mến'
+cau	CombatTalking/1506_01_02_011	chắc	x	CombatTalking/1506_01_02_011	CombatTalking/1506_01_02_011	Gốc: ai cũng thấy tiểu sư muội không thích (yêu) Hoạt → đã viết: 'muội ấy chẳng quý huynh như huynh tưởng đâu'
+cau	CombatTalking/1814_01_05_001	chắc	x	CombatTalking/1814_01_05_001	CombatTalking/1814_01_05_001	Gốc: Vô Tướng tổ sư nói Hoạt và Diệp Vân Thường hai bên yêu nhau (两情相悦) → đã viết: 'thân thiết quý mến nhau'
+cau	INL/level2/32839@144	chắc	x	INL/level2/32839@144	INL/level2/32839@144	Gốc: gốc: "Tiểu sư muội, ta thích muội" (lời tình cảm hướng về tiểu sư muội) → đã viết: 'huynh quý muội lắm'
+cau	INL/level2/32840@144	chắc	x	INL/level2/32840@144	INL/level2/32840@144	Gốc: "Tiểu sư muội, ta thích muội" (lời tình cảm hướng về tiểu sư muội) → đã viết: 'huynh quý muội lắm'
+cau	INL/level2/32844@144	chắc	x	INL/level2/32844@144	INL/level2/32844@144	Gốc: "Tiểu sư muội, ta thích muội" (lời tình cảm hướng về tiểu sư muội) → đã viết: 'huynh quý muội lắm'
+cau	INL/level2/32845@144	chắc	x	INL/level2/32845@144	INL/level2/32845@144	Gốc: "Tiểu sư muội, ta thích muội" (lời tình cảm hướng về tiểu sư muội) → đã viết: 'huynh quý muội lắm'
+cau	INL/level2/32846@144	chắc	x	INL/level2/32846@144	INL/level2/32846@144	Gốc: "Tiểu sư muội, ta thích muội" (lời tình cảm hướng về tiểu sư muội) → đã viết: 'huynh quý muội lắm'

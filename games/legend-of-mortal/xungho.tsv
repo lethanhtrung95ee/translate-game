@@ -1,0 +1,967 @@
+speaker	listener	tu_canh	xung	goi	note
+赵活	*		ta	ngươi/cô nương/cô	mặc định; người lạ lịch sự: tại hạ – các hạ/huynh đài/cô nương; nữ ngang hàng: cô; bề trên: vãn bối – tiền bối
+赵活	唐升		đệ	tam sư huynh	đồng môn, Thăng là sư huynh; thân. Ở ch0 Thăng là chưởng môn tạm quyền nhưng vẫn gọi tam sư huynh
+赵活	唐惟元		đệ	tứ sư huynh	đồng môn, thân, hay đùa
+赵活	唐布衣		đệ	đại sư huynh	đồng môn, rất thân
+赵活	唐铮		đệ	nhị sư huynh	đồng môn, quan hệ lạnh
+赵活	唐默铃		huynh	tiểu sư muội	đồng môn, che chở từ nhỏ (được sư nương nhờ); nàng chưa đủ 18: chỉ tình huynh muội
+赵活	唐中翎		đệ tử	chưởng môn	đệ tử khác họ với chưởng môn; kính sợ
+赵活	龙湘		đệ/ta	Tương tỷ/Long cô nương/Long nữ hiệp/cô	Tương hơn tuổi, gọi 弟: đệ – Tương tỷ (gốc 湘姊). Nhánh chưa thân (gốc 龙姑娘/龙女侠, vd D_4_9_2_065): ta – Long cô nương/Long nữ hiệp, đại từ 'cô'
+赵活	叶云裳		huynh	Vân Thường	nàng gọi 哥哥; chưa đủ 18: anh – em
+赵活	叶云舟		ta	Diệp huynh	bạn ngang hàng, kính trọng
+赵活	夏侯兰		đồ đệ	sư phụ	thầy trò (bí mật với người ngoài)
+赵活	虞小梅		ta	Tiểu Mai	bạn bè khác phái, gốc gọi 小梅
+赵活	郁竹		ta	Tiểu Trúc/cô	bạn, gốc gọi 小竹; đại từ 'cô'
+赵活	魏菊		ta	Ngụy chưởng môn	kính trọng, gốc 魏掌门
+赵活	上官萤		ta	Thượng Quan cô nương/cô	mới quen (gốc 上官姑娘); đại từ 'cô', không 'ngươi'; nói về nàng: 'nàng'
+赵活	瑞杏		ta	Hạnh nhi	gốc 杏儿; thân
+赵活	瑞笙		ta	A Sanh/Thụy huynh/huynh	bạn giang hồ; gốc 阿笙 → A Sanh; 瑞公子 → Thụy công tử (lúc giận, khách sáo)
+赵活	南宫深		ta	đại công tử	khách – chủ, hơi mỉa
+赵活	南宫浅		huynh	Thiển đệ	Thiển gọi Triệu đại ca
+赵活	唐芳		đệ	sư tỷ	Phương nhập môn trước, gốc 唐芳师姊/师姐
+赵活	樊啸天		ta	Phàn huynh đệ	vỏ: tưởng là con trai (樊兄弟)
+赵活	樊啸天	Story/D_4_6_1_064	huynh	sư muội	đã biết là con gái, cùng thầy Hạ Hầu Lan
+赵活	万里鹏程		vãn bối	tiền bối	kính bậc trên
+赵活	石公远		ta	Thạch bang chủ	khách sáo, sau thân
+赵活	金乌上人		ta	ngươi	đối địch
+赵活	李大夫		ta	Lý đại phu	khách quen, bị mắng
+赵活	丹霞子		ta/Triệu mỗ	đạo trưởng	gốc 道长; 赵某 → Triệu mỗ; 本大爷/本山人 đùa → bổn đại gia/bổn sơn nhân
+赵活	温夫人		vãn bối	cung chủ	kính
+赵活	唐门弟子		huynh	sư đệ	ch0 (hai năm sau): Hoạt là sư huynh của lớp đệ tử mới. Riêng D_0_1_014–028 vừa tỉnh, tưởng mình còn là đệ tử khác họ thấp nhất nên gọi lầm 'các vị sư huynh', xưng 'đệ' (đúng gốc, giữ)
+赵活	唐门女弟子		huynh	sư muội	lớp sau; riêng ch0_4 là cựu sư tỷ chua ngoa: gọi 'bà ta', xưng 'ta'
+唐升	*		tại hạ/ta	huynh đài	lễ độ với người ngoài; họp nội bộ, nói trước cả môn, ra lệnh đệ tử: ta – các ngươi/các sư đệ; 我唐升 → Đường Thăng ta; 本人 → bổn nhân
+唐升	赵活		huynh	sư đệ	sư huynh thương sư đệ
+唐升	唐惟元		huynh	tứ sư đệ	sư huynh
+唐升	唐默铃		huynh	tiểu sư muội	sư huynh
+唐升	唐中翎		đệ tử	chưởng môn	thầy trò
+唐惟元	*		ta	ngươi	lễ với người ngoài: tại hạ
+唐惟元	赵活		huynh	sư đệ	thân; nói với cả nhóm có Thăng: lời kể chung xưng ta, câu gọi riêng Hoạt (师弟) xưng huynh, câu đáp riêng Thăng xưng đệ (ch7_5_5_2_1)
+唐惟元	唐升		đệ	tam sư huynh	lúc công việc gọi 代掌门 → chưởng môn tạm quyền; nói với cả nhóm có Thăng (vd Thăng + Hoạt): xưng ta, gọi hai người/mọi người, 二位 đùa → hai vị
+唐布衣	*		ta	ngươi/cô nương/cô	với người ngoài: Đường mỗ; nữ người ngoài: cô nương/cô
+唐布衣	赵活		huynh	sư đệ	thân
+唐铮	*		ta	ngươi	lạnh
+唐铮	赵活		ta	ngươi	khinh, không coi là sư đệ; gọi 'đồ heo ngu họ Triệu' (赵氏蠢猪), 'đồ vô dụng' (废物); từ ch2_4_7_2_2 thỉnh thoảng gọi 'sư đệ' theo gốc
+唐铮	唐默铃		huynh	tiểu sư muội	sư huynh
+唐中翎	*		ta	ngươi	nghi lễ: bổn tọa
+唐中翎	唐默铃		cha	Linh nhi	cha con
+唐默铃	*		muội	sư huynh	nói với đồng môn; với người ngoài: ta/vãn bối
+唐默铃	赵活		muội	sư huynh	gốc 师兄
+唐默铃	唐中翎		Linh nhi	cha	cha con
+唐芳	*		ta	các vị/ngươi	nói chung trước mọi người, người ngoài: ta; với sư huynh nhập thất xem dòng riêng (muội – sư huynh); với Hoạt: tỷ – sư đệ; Vân Thường: 'muội tử Vân Thường'
+唐门弟子	*		ta	ngươi/các ngươi	mặc định: kẻ bắt nạt, nói với nhau, với đệ tử vào sau (Đại Kình), người ngoài: ta – ngươi; chỉ khi nói với sư huynh nhập thất (Tranh, Thăng, Bố Y, Duy Nguyên) mới 'đệ – sư huynh' (xem dòng riêng); câu gốc gọi 师兄 thì theo gốc
+唐门女弟子	*		muội	sư huynh	ch0_4: cựu sư tỷ chua ngoa xưng ta, gọi Triệu Hoạt 'thằng xấu'
+唐门众弟子	*		bọn đệ	sư huynh	đồng thanh
+唐衫	*		ta	ngươi	với chưởng môn: đệ tử – chưởng môn sư bá
+唐守鸿	*		ta	ngươi	
+晁和	*		ta	ngươi	với sư huynh: đệ
+唐大鲸	*		ta	ngươi	
+唐娇娇	*		ta	ngươi	khi ngạo: bổn Kiều
+狄傲	*		ta	ngươi	
+龙湘	*		ta	ngươi/cô	bề trên: vãn bối – tiền bối; nữ ngang hàng: cô
+龙湘	赵活		tỷ/ta	đệ/Triệu huynh đệ/ngươi	Tương lớn hơn, gọi 弟: tỷ – đệ. Nhánh chưa thân (gốc 赵兄弟, vd D_4_9_2_066–072): ta – ngươi, Triệu huynh đệ
+叶云裳	*		muội	ca ca	với người lớn: vãn bối; với người lạ: ta – ngươi
+叶云裳	赵活		muội/Thường nhi	ca ca/huynh	gốc 哥哥, tự gọi 裳儿 → Thường nhi; chưa đủ 18: anh – em. Khi 哥哥 chỉ anh ruột Vân Chu → 'ca ca của muội' cho khỏi lẫn
+叶云裳	叶云舟		muội	ca ca	anh ruột
+叶云舟	*		tại hạ	các hạ	lễ độ
+叶云舟	赵活		ta/Diệp mỗ	Triệu huynh/Triệu huynh đệ/huynh	bạn; gốc 我 → ta (không 'tại hạ'), 叶某 → Diệp mỗ; 赵兄 → Triệu huynh, 赵兄弟 → Triệu huynh đệ; 我等 → bọn ta
+叶云舟	叶云裳		huynh	Vân Thường	anh ruột
+夏侯兰	*		ta	ngươi	lạnh
+夏侯兰	赵活		vi sư/ta	đồ đệ	thầy trò; gốc 为师 → vi sư, 我 → ta (我的弟子 → đồ đệ của ta)
+夏侯兰	樊啸天	Story/D_4_6_1_064	vi sư	đồ đệ	đồ đệ thứ hai
+虞小梅	*		ta/bổn Mai	ngươi/cô	tự xưng theo gốc: 我 → ta, 本梅 → bổn Mai, 小梅 tự gọi → Tiểu Mai; không đổi 我 thành bổn Mai. Lễ với bề trên: vãn bối
+虞小梅	赵活		ta/bổn Mai	A Hoạt/ngươi	gốc 阿活 → A Hoạt; 你 → ngươi (không thay 'ngươi' bằng 'A Hoạt' khi gốc không có 阿活); 我 → ta, 本梅 → bổn Mai
+郁竹	*		ta	ngươi	
+郁竹	赵活		ta	Triệu huynh/huynh/Triệu Hoạt	gốc 赵兄 → Triệu huynh; gốc gọi tên 赵活 → Triệu Hoạt; 赵兄弟 → Triệu huynh đệ; 本竹 → bổn Trúc
+魏菊	*		tiểu muội	các vị	đoan trang; một cách xưng cả cảnh; người ngoài gặp lần đầu, lễ nghi (gốc 小女子): 'tiểu nữ' (ch2_5_1, Vương pháp vương); ra uy chưởng môn 本座 → bổn tọa; nghi lễ 魏某 → Ngụy mỗ
+魏菊	赵活		tiểu muội	Triệu sư huynh/huynh	gốc 小女子/我/小妹 với Hoạt đều 'tiểu muội', một cách xưng cả cảnh (riêng ch2_5_1, lần đầu gặp trước cả nhóm khách: 'tiểu nữ'); tự sửa miệng 小妹……小女子 → 'tiểu muội… tiểu nữ'; bày tỏ lòng: thiếp – chàng/phu quân (người lớn)
+上官萤	*		ta	ngươi	lễ: tiểu nữ – các vị
+上官萤	赵活		ta	Triệu Hoạt	gọi trống tên hoặc Triệu công tử
+上官萤	南宫深		ta	đại công tử/chàng	vị hôn phu, nàng thật lòng; đại từ 'chàng'; cãi gắt, bị quát thì 'ngươi' theo gốc 你
+瑞杏	*		bổn cung/ta	ngươi	thân phận công chúa; gốc 我 → ta
+瑞杏	赵活		thiếp/ta	Triệu quân	gốc 妾身 / 赵君; gốc 我 → ta
+瑞笙	*		tại hạ/ta	các hạ	gốc 在下 → tại hạ, 我 → ta
+瑞笙	赵活		ta/tại hạ	A Hoạt/Triệu huynh/huynh	bạn thân; gốc 我 → ta, chỉ gốc 在下 mới 'tại hạ'; 阿活 → A Hoạt, 赵兄 → Triệu huynh
+南宫深	*		ta	ngươi	xưng 'bổn công tử' chỉ khi gốc 本公子; gốc 我 thì 'ta'. Với trưởng bối: vãn bối
+南宫深	赵活		ta	Triệu huynh	gốc 赵兄; 'bổn công tử' chỉ khi gốc 本公子, gốc 我 → 'ta'
+南宫浅	*		tiểu đệ/ta	đại ca	nhút nhát; gốc 我 → ta
+南宫浅	赵活		tiểu đệ/ta	Triệu đại ca	gốc 赵大哥; gốc 我 → ta
+南宫远	*		ta	ngươi	nho nhã; bạn cũ: ngu huynh
+南宫横	*		lão phu/ta	các vị	trăm tuổi; gốc 我 → ta
+温夫人	*		bổn cung/ta	ngươi	gốc 我 → ta
+孟仙谣	*		bổn huyện chủ/ta	ngươi	gốc 我 → ta
+丹霞子	*		bần đạo/ta	thiếu hiệp	gốc 贫道 → bần đạo, 我 → ta; 丹霞子/道法将军丹霞子 tự xưng tên khi hô quân
+福韫	*		tiểu tăng/ta	thí chủ	gốc 我 → ta
+释明	*		lão nạp/ta	thí chủ	gốc 我 → ta
+申屠龙	*		bần đạo/ta	cư sĩ	gốc 我 → ta
+邹博	*		bần đạo/ta	ngươi	gốc 我 → ta
+尹志平	*		bần đạo	ngươi	
+裘志攘	*		bần đạo	ngươi	
+宋悲	*		ta	ngươi	
+上官隼	*		ta	ngươi	
+解无尘	*		ta	ngươi	
+石公远	*		ta	tiểu tử	giận: lão tử; không mày – tao với Triệu Hoạt
+李富贵	*		ta	các vị	nói lắp khi sợ; với Triệu Hoạt: Triệu huynh
+王二壮	*		ta	ngươi	gốc 王某 → Vương mỗ, 老子 → lão tử (khi khoe, chửi); thanh niên: tiểu tử; nói thô 'mẹ nó' nhưng không mày – tao
+万里鹏程	*		lão phu/ta	tiểu tử	gốc 我 → ta
+樊啸天	*		ta	đại ca	俺 → ta (thô)
+画中仙	*		nô gia/ta	ngươi	lả lơi; gốc 我 → ta
+段智秀	*		bổn công tử/ta	ngươi	kẻ dưới, người hầu: 'tên kia' (那谁), sai bảo; trước đạo trưởng giả lễ: 'tại hạ' hiếm; gốc 我 → ta
+雷谦	*		ta đây/ta	tiểu tử	洒家 → ta đây; gốc 我 → ta
+龙渊	*		ta	tiểu huynh đệ	
+完颜珣	*		ta	ngươi	
+火龙仙君	*		bổn tiên quân/ta	ngươi	gốc 我 → ta
+李大夫	*		ta	ngươi	gốc xưng 我 → 'ta' (tự xưng theo chữ gốc); cộc: gọi 'thằng', 'đồ vô dụng'
+店小二	*		tiểu nhân/tôi	khách quan	giả lễ, gốc 我 → tôi
+店小二	*	Story/D_2_4_5_1_035	ta/tôi	ngươi	lộ thân phận thích khách; giả lễ, gốc 我 → tôi
+铁冠道人	*		lão phu	ngươi	
+勾魂叟	*		lão phu/ta	ngươi	gốc 老朽/老夫 → lão phu, 我 → ta (我崆峒 → Không Động ta)
+姚不知名	*		ta	ngươi	
+南宫老人	*		lão phu/ta	ngươi	gốc 老夫 → lão phu, 我 → ta (theo chữ gốc)
+老和尚	*		lão nạp	thí chủ	
+嵩山弟子	*		tiểu tăng/ta	thí chủ	gốc 我 → ta
+方丈	*		lão nạp	thí chủ	
+破戒僧	*		ta	ngươi	
+青城弟子	*		bần đạo/ta	cư sĩ	gốc 我 → ta
+青城长老	*		lão đạo/ta	ngươi	gốc 我 → ta
+全真弟子	*		ta	đạo hữu	
+全真长老	*		bần đạo	ngươi	
+铁冠道人	赵活		lão phu	tiểu quỷ	khinh
+金乌上人	*		ta/lão tử/hòa thượng	mày	tự xưng theo gốc: 我 → ta, 老子 → lão tử, 和尚/大和尚 → hòa thượng/đại hòa thượng; gọi 'mày' cả với Tiểu Mai; riêng lúc giả trọng anh hùng (D_4_6_13_2_008–010, D_4_6_13_3_001–005) gọi 'ngươi'
+赵逵	*		lão tử/ta	mày/tiểu tử	thô, ngạo; khi khoe gốc đạo sĩ (老道, 赵某) thì 'lão đạo', 'Triệu mỗ'; gọi Hoạt 'thằng nhóc áo xanh', 'tiểu tử'
+郁父	*		lão tử	chúng mày	thô, gia trưởng
+南宫己	*		tao	mày	hống hách khinh người
+歹人	*		tao	mày	thô
+山贼	*		tao	mày	thô
+海盗	*		tao	mày	thô
+醉汉	*		tao	mày	thô
+刘颚	*		ta	ngươi	ngông nhưng không thô
+颜疆	*		ta	ngươi	
+余公子	*		ta	các ngươi	
+唐门女弟子	赵活		muội	sư huynh	
+路人侠	*		ta	ngươi	khinh: tên ma giáo
+路人	*		tôi	anh	dân thường, lịch sự xa cách
+乞丐	*		ta	ngươi	
+老乞丐	*		ta	ngươi	
+夺魄弟子	*		ta	ngươi	tà phái lạnh; gốc 小弟 thì 'tiểu đệ'
+飞天弟子	*		ta	ngươi	
+飞天女弟子	*		ta	ngươi	
+铁拳弟子	*		ta	ngươi	
+铁拳老弟子	*		ta	ngươi	
+玄功弟子	*		ta	ngươi	
+峨嵋弟子	*		ta	ngươi	
+峨嵋女弟子	*		ta	ngươi	
+点苍弟子	*		ta	ngươi	
+锦香弟子	*		bọn ta	sư huynh	
+岭南弟子	*		ta	ngươi	
+岭南女弟子	*		ta	ngươi	
+泥教弟子	*		bọn ta	thiếu hiệp	
+沧帮弟子	*		ta	ngươi	
+沧帮帮主	*		ta	ngươi	
+飞石帮	*		bọn ta	các ngươi	
+飞石帮众	*		bọn ta	các ngươi	
+stone1	*		ta	các ngươi	
+stone2	*		ta	các ngươi	
+stones	*		bọn ta	các ngươi	
+南宫家丁	*		tiểu nhân/tôi	ngươi	giả lễ, gốc 我 → tôi
+家丁	*		tiểu nhân	ngươi	
+官兵	*		bọn ta	các ngươi	
+鬼卒	*		bọn ta	các ngươi	
+刺客	*		ta	ngươi	
+少侠	*		tiểu gia/ta	ngươi	gốc 我 → ta
+公子侠	*		ta	ngươi	
+女侠	*		ta	ngươi	
+女子	*		ta	ngươi	trước quan: dân nữ
+少女	*		ta	ngươi	
+妇人	*		tôi	cậu	phụ nữ bình dân với trai trẻ
+大妈	*		thím	cháu	là mẹ nuôi (干娘) thì: mẹ nuôi – con
+何大妈	*		thím	cháu	
+婢女	*		Tiểu Hủy	tiểu thư	
+武师	*		ta	ngươi	
+武师众	*		bọn ta	ngươi	
+众人	*		chúng ta	các ngươi	
+宾客	*		ta	các vị	
+先生	*		ta	ngươi	
+仙姑	*		ta	các ngươi	
+掌柜	*		tiểu nhân/tôi	khách quan	giả lễ, gốc 我 → tôi
+店家娘子	*		tôi	khách quan	
+铁匠	*		ta	ngươi	
+老人	*		lão	cháu	
+男童	*		cháu	chú	
+女童	*		cháu	chú	
+少年	*		đệ/ta	huynh	gốc 我 → ta
+向无忧	*		ta	ngươi	
+童大虫	*		ta	ngươi	
+孟珙	*		ta	ngươi	
+郁宝花	*		tiểu muội/ta	sư huynh	gốc 我 → ta
+郁城	*		đệ	Triệu đại ca	
+郁母	*		mẹ	con	
+辛儒	*		ta	ngươi	
+谭霸刀	*		ta	các ngươi	
+鞠冬音	*		ta	ngươi	
+黄佩华	*		bọn ta	tướng quân	
+盛雪	*		ta	ngươi	
+江行老	*		Giang mỗ/ta	ngươi	gốc 我 → ta
+鹤手	*		ta	ngươi	
+女飞贼	*		ta	ngươi	
+丁承烈	*		ta	ngươi	
+第三香	*		ta	ngươi	
+听海生	*		ta	ngươi	
+观云客	*		ta	ngươi	
+夏灵犀	*		ta	ngươi	
+南溪	*		ta	ngươi	
+荆红	*		ta	ngươi	
+石夫人	*		ta	ngươi	
+袁无宪	*		tiểu gia/ta	ngươi	gốc 我 → ta
+许大鲸	*		lão tử/ta	ngươi	người Thương bang thô lỗ, hống hách: gốc 老子 → lão tử, 我 → ta, 你 → ngươi (không mày – tao); xin nhập môn ở S0026_01_05: 晚辈/我 với chưởng môn → vãn bối
+赵方	*		ta	ngươi	
+铁飞龙	*		ta	ngươi	
+铁飞鹰	*		ta	ngươi	
+吕翁	*		Lã mỗ	ngươi	
+余麟	*		ta	ngươi	
+斗笠人	*		tại hạ	đại phu	
+蒙面人	*		ta	ngươi	
+？？？	*		ta/lão phu/bổn cung	ngươi	giữ trung tính; xưng theo gốc (老夫 → lão phu, 本宫 → bổn cung); không gọi 'chàng'/'nàng' khi chữ đó làm lộ người nói
+火闪电	*		-	-	
+南宫妇人	*		bổn nương tử	ngươi	gốc 本娘子: bà cô của Nam Cung Thiển, đanh đá, nóng nảy; chửi Hoạt 'tên xấu xí', 'đồ cầm thú'
+知县	*		hạ quan/bổn quan/ta	đại nhân	gốc 下官 → hạ quan, 本官 → bổn quan (kể cả khi nói với Đường chưởng môn), 我 → ta
+通判	*		bản quan/ta	ngươi	gốc 我 → ta
+捕快	*		bọn ta	ngươi	
+赵活的娘	*		mẹ	con	
+娘	*		mẹ	con	
+爹	*		cha	con	
+梁有诗	*		ta	ngươi	
+书生	*		tiểu sinh	huynh đài	
+马面	*		bọn ta	ngươi	
+牛头	*		bọn ta	ngươi	
+狗	*		-	-	
+胡嵩	*		ta	ngươi	
+女乐	*		nô tỳ	khách quan	
+护卫	*		ta	ngươi	
+大夫	*		lão phu	ngươi	
+军医	*		ta	ngươi	
+少年赵活	*		ta	ngươi	
+幼年赵活	*		cháu	chú	
+百万赵活	*		ta	ngươi	
+赵活（？）	*		ta	ngươi	
+赵活屁股	*		ta	ngươi	
+赵活的手	*		ta	ngươi	
+夏侯梅	*		ta	ngươi	
+叶云啾	*		muội	ca ca	
+李紫穹	*		ta	ngươi	
+段婉清	*		ta	ngươi	
+南宫秀	*		ta	ngươi	
+呼延菊	*		ta	ngươi	
+铜人	*		bọn ta	các ngươi	
+书蓉	*		ta	ngươi	
+鹦鹉	*		-/ta	-	gốc 我 → ta
+██	*		ta	ngươi	
+虎战车	*		-	-	
+金士兵	*		bọn ta	các ngươi	
+周浊	*		ta	ngươi	
+汉子	*		ta	ngươi	
+商人	*		tiểu nhân	khách quan	
+乐屏	*		ta	ngươi	
+方独弱	*		ta	ngươi	
+白衣少年	*		ta	ngươi	
+大理士兵	*		bọn ta	các ngươi	
+少年唐铮	*		ta	ngươi	
+少年唐布衣	*		ta	ngươi	
+赵扩	*		trẫm	khanh	
+无相祖师	*		lão phu	ngươi	
+吴乡	*		ta	ngươi	
+樵夫	*		tôi	anh	
+苏迎香	*		ta	ngươi	
+武林盟群侠	*		bọn ta	các ngươi	
+吐蕃士兵	*		bọn ta	các ngươi	
+猴子	*		-	-	
+鸡	*		-	-	
+绝世高手	*		ta	ngươi	
+崆峒四姝	*		chúng ta	ngươi	
+千面人魔	*		ta	ngươi	
+魏菊？	*		tiểu muội	các vị	như 魏菊
+轿中人	*		ta	ngươi	
+万胜	*		ta	ngươi	
+蛇	*		-	-	
+回音	*		-	-	
+picture1	*		-	-	
+picture2	*		-	-	
+picture3	*		-	-	
+picture4	*		-	-	
+picture5	*		-	-	
+阿鹤侠	*		-	-	
+野猪	*		-	-	
+雪山弟子	*		ta	ngươi	
+赵活	唐门弟子	ch1_1	đệ	sư huynh	hiện tại: Hoạt là đệ tử khác họ, đệ tử nhập thất (nội tính) dù vào sau vẫn là sư huynh, gốc 师兄; với kẻ bắt nạt khi tức: ta – các ngươi
+唐门弟子	赵活	ch1_1	ta	sư đệ	hiện tại: đệ tử nhập thất gọi Hoạt 师弟; kẻ bắt nạt khinh khỉnh xưng ta; bạn cùng phòng thân thiện: huynh/bọn ta. Câu gốc gọi 师兄 (đệ tử mới vào sau) thì theo gốc: đệ – sư huynh
+唐门众弟子	赵活	ch1_1	bọn ta	sư đệ	hiện tại: đệ tử nhập thất; ch0: bọn đệ – sư huynh
+唐升	唐门弟子		ta	sư đệ	trong môn: sư huynh của mọi đệ tử, gốc 师弟; ra lệnh, nói trước cả môn xưng ta; 'tại hạ' chỉ với người ngoài
+唐升	唐门众弟子		ta	các sư đệ	gốc 诸位师弟; nói trước cả môn xưng ta
+唐升	唐门女弟子		ta	sư muội	trong môn; ra lệnh xưng ta
+唐惟元	龙湘		tại hạ	Long cô nương	người ngoài, nữ, chưa thân: gọi Long cô nương, đại từ 'cô'; không dùng 'ngươi'
+唐门女弟子	唐默铃		ta	tiểu sư muội	Mặc Linh nhỏ nhất môn; ch0_4 cựu sư tỷ chua ngoa xưng ta, gọi muội; thân thiện thì tỷ – muội
+唐铮	唐布衣		ta	đại sư huynh	gọi 'huynh'; gắt gỏng như cãi anh ruột; bực quá thì gọi thẳng 'Đường Bố Y'
+唐布衣	唐铮		huynh	nhị sư đệ	gọi 'đệ'; trêu chọc, thân
+大夫	赵活		lão phu	cậu	lão đại phu hiền hậu (Thiên Kim Phương) với người trẻ: 'tiểu huynh đệ', 'cậu'; không 'ngươi'
+南宫家丁	赵活	ch2_2_5_3	tôi	anh	tưởng Hoạt là người hầu cùng cảnh: 'vị huynh đệ này', '老兄' = 'anh bạn'
+唐门女弟子	赵活	ch0_4	ta	thằng xấu/ngươi	ch0_4: cựu sư tỷ chua ngoa, khinh Triệu Hoạt
+唐门女弟子	赵活	ch0_5	muội	sư huynh	trở lại bình thường sau ch0_4
+赵活	南宫家丁	ch2_2_5_3	ta	anh	gia đinh tưởng Hoạt là hạ nhân; Hoạt nói thẳng, không trịch thượng; bực thì 'ngươi'
+赵活	嵩山弟子	ch2_2_5_3	ta	hòa thượng/đại sư	ch2_2_5_3: lúc cãi nhau gọi 'ông'; sau khi nhường chỗ, làm hòa gọi 'hòa thượng lão huynh/huynh'
+赵活	嵩山弟子	ch2_2_5_4	ta	đại sư	nhà sư Tung Sơn nói chung: lễ độ
+飞天弟子	唐默铃		ta	Đường cô nương/cô	khách phái khác với tiểu sư muội
+峨嵋弟子	唐默铃		ta	Đường cô nương/cô	khách phái khác với tiểu sư muội
+点苍弟子	唐默铃		ta	Đường cô nương/cô	khách phái khác với tiểu sư muội
+女侠	唐默铃	ch2_4_1	tỷ/tỷ tỷ	muội/Mặc Linh muội muội	nữ hiệp Không Động ở ch2_4_1 (gốc 姊姊, 妹子)
+飞天弟子	女侠	ch2_4_1	ta	nương tử/nàng	ch2_4_1–ch2_4_1_1: hai vợ chồng (爱妻 → nương tử)
+女侠	飞天弟子	ch2_4_1	ta	chàng	ch2_4_1–ch2_4_1_1: vợ nói với chồng, ngượng khi bị khoác vai giữa chốn đông người
+飞天弟子	女侠	ch2_4_2	ta	ngươi	người khác, không còn là cặp vợ chồng ở ch2_4_1
+女侠	飞天弟子	ch2_4_2	ta	ngươi	người khác
+店小二	赵活	ch2_4_2	tiểu nhân/tôi	khách quan/Triệu thiếu hiệp	ch2_4_2–ch2_4_4: tiểu nhị khéo nịnh, tính tiền chi li; khi chê Hoạt nghèo thì 'anh'; giả lễ, gốc 我 → tôi
+店小二	赵活	Story/D_2_4_5_1_035	ta/tôi	ngươi	lộ thân phận thích khách; giả lễ, gốc 我 → tôi
+店小二	龙渊	Story/D_2_4_5_1_035	ta/tại hạ/Dương mỗ/tôi	Long đại hiệp	kính phục, xin lĩnh giáo; giả lễ, gốc 我 → tôi
+叶云裳	唐默铃		ta	Mặc Linh	bạn thân ngang tuổi; gọi tên, cần đại từ thì 'ngươi' giọng thân; 'hai ta', 'chúng ta' thay 'hai đứa mình'; không dùng tớ – cậu, mình (cổ trang); chưa đủ 18: chỉ tình bạn, câu đùa cưới xin dịch thành đùa bạn bè
+唐默铃	叶云裳		ta	Vân Thường	bạn thân; gọi tên, câu cực ngắn; không tớ – cậu
+唐铮	叶云裳		ta	ngươi	lạnh, coi như người ngoài ở nhờ; nói về nàng: 'con nhóc' (丫头)
+叶云裳	唐大鲸		ta	Đường Đại Kình/ngươi	nàng bắt nạt ngược, giọng 'hỗn thế ma vương'; mắng 'tên Kình thối'; 本姑娘 → bản cô nương
+唐大鲸	叶云裳		ta	ngươi	sợ nàng; 姑奶奶 → 'bà cô tổ'/'tổ tông'
+唐大鲸	赵活	ch2_4_7_2	ta	ngươi	khinh, bắt nạt; gọi mỉa 'sư đệ'; thô: lão tử
+唐大鲸	赵活	ch2_4_8_6	đệ	sư huynh	sau khi bị nhị sư huynh và Vân Thường dạy cho một trận: phục, gọi 师兄
+唐大鲸	唐铮		đệ	nhị sư huynh	sợ
+唐芳	赵活		tỷ	sư đệ	gốc 师弟; nghiêm, chê thì 'ta'; giận (ch2_4_6_2_4_2) gọi thẳng 'Triệu Hoạt', 'ngươi'. Gốc có chỗ gọi 师兄 mà người nghe là Hoạt: dịch 'sư đệ' và @@bao
+唐门女弟子	赵活	ch1_1	ta	sư đệ	hiện tại: nữ đệ tử nhập thất là sư tỷ của Hoạt (gốc 师弟, 赵师弟); thân thiện thì 'tỷ'; bực thì 'ngươi'
+赵活	唐门女弟子	ch1_1	đệ	sư tỷ	hiện tại: gốc 师姊/师姐; cả hai người: 'sư huynh, sư tỷ'
+唐中翎	叶云裳		lão phu	Thường nhi	gốc 裳儿; hiền như bậc bác
+叶云裳	唐中翎		cháu	Đường bá bá	gốc 唐伯伯; nũng thì tự gọi 'Vân Thường'
+嵩山弟子	*	ch2_4_6_2	ta đây/ông đây/ta	ngươi/mày	lục lâm đầu trọc giả hòa thượng Tung Sơn (không phải sư thật): 洒家 → 'ta đây', 俺 → 'ông đây'; chửi, đe dọa được 'mày'; đám đàn em cùng giả Tung Sơn gọi nhau 'đại ca, nhị ca, tam đệ', xưng 'ta'; xin tha, chịu phục (cuối ch2_4_10_2_2): 'tiểu nhân'; gốc 我 → ta
+嵩山弟子	赵活	ch2_4_6_2	ta đây/ông đây/ta	tiểu lão đệ/Triệu đương gia	tưởng Hoạt là thủ lĩnh lục lâm đội lốt Đường Môn (赵当家); khi biết bị lừa: 'thằng họ Triệu', 'mày'; gốc 我 → ta
+嵩山弟子	*	ch2_5_1	tiểu tăng/ta	thí chủ	tăng Tung Sơn thật (hết cảnh lục lâm giả danh); gốc 我 → ta
+全真弟子	*	ch2_4_6_1_1	ta	lão huynh/huynh đệ/ngươi	lục lâm giả đạo sĩ Toàn Chân: giọng chợ búa, không 'bần đạo', không 'đạo hữu'; khách sáo xưng 'tiểu đệ'; với Nam Cung công tử: tiểu nhân – công tử; thô thì 'lão tử'
+全真弟子	赵活	ch2_4_6_2	ta	lão huynh/Triệu đương gia	tưởng Hoạt là đồng bọn (赵当家); khi biết bị bán đứng: 'thằng họ Triệu', 'ngươi'
+全真弟子	南宫秀	ch2_4_6_2	tiểu nhân/ta	công tử	gốc 小人; gốc 我 → ta
+全真弟子	*	ch2_5_1	ta	đạo hữu	đệ tử Toàn Chân thật ở Không Động; với Hoạt thì khinh: 'ngươi'
+铁拳弟子	赵活	ch2_4_6_2	ta	Triệu đương gia/ngươi	lục lâm giả đệ tử Thiết Quyền; 蔡某人 → 'họ Thái ta'; khi biết bị lừa: 'thằng họ Triệu', 'ngươi'
+峨嵋弟子	赵活	ch2_4_6_2	ta	Triệu đương gia/ngươi	lục lâm giả đệ tử Nga Mi, cộc cằn; 赖某人 → 'họ Lại ta'
+南宫家丁	*	ch2_4_6_2	ta/tao/tôi	các ngươi/mày	Nam Cung Kỷ (南宫己) mặc đồ gia đinh Nam Cung, thay công tử thuê lục lâm: hống hách với lục lâm ('các ngươi', 'các vị' khi khách sáo); liều mạng, chửi thì tao – mày; với 南宫秀: tiểu nhân – công tử; giả lễ, gốc 我 → tôi
+南宫家丁	南宫秀	ch2_4_6_2	tiểu nhân/tôi	công tử	khúm núm, gốc 小人; giả lễ, gốc 我 → tôi
+南宫家丁	*	ch2_5_1	tiểu nhân/tôi	ngươi	gia đinh Nam Cung khác (hết vai Nam Cung Kỷ); giả lễ, gốc 我 → tôi
+赵活	嵩山弟子	ch2_4_6_2	ta	lão huynh/các vị	Hoạt đóng vai đồng bọn lục lâm với đám giả danh sáu phái ('các vị đương gia'); khi họ bị bắt: 'các ngươi'
+赵活	全真弟子	ch2_4_6_2	ta	lão huynh/các vị	như với 嵩山弟子 cùng mốc
+赵活	铁拳弟子	ch2_4_6_2	ta	lão huynh/các vị	như với 嵩山弟子 cùng mốc
+赵活	峨嵋弟子	ch2_4_6_2	ta	lão huynh/các vị	như với 嵩山弟子 cùng mốc
+赵活	嵩山弟子	ch2_5_1	ta	đại sư	tăng Tung Sơn thật
+赵活	全真弟子	ch2_5_1	ta	đạo huynh/các vị	đệ tử Toàn Chân thật
+赵活	铁拳弟子	ch2_5_1	ta	huynh đệ/các vị	đệ tử Thiết Quyền thật ở Không Động
+赵活	峨嵋弟子	ch2_5_1	ta	các vị	đệ tử Nga Mi thật
+少女	*	ch2_5_1	tiểu nữ	các vị/sư huynh/sư tỷ	thiếu nữ áo vàng ở Không Động, chưa xưng tên; nhã nhặn, khiêm: 小女子 → 'tiểu nữ'
+少女	*	ch2_5_1_1	ta	ngươi	
+飞天弟子	*	ch2_5_1	ta	các vị	đệ tử Phi Thiên đón khách ở ch2_5_1: kiêu, khoe sư phụ; một cách xưng cả cảnh: ta – các vị (gốc lẫn 小弟/我/你们); 小弟 thành 'tiểu đệ' chỉ khi cả cảnh người đó đều khách sáo (Hứa Thắng ch2_5_2_4)
+雷谦	赵活		ta đây/lão ca/ta	tiểu tử/Triệu tiểu tử	洒家 → ta đây; sau khi thân: xưng 'lão ca', gọi 'Triệu tiểu tử', 'tiểu huynh đệ'; gốc 我 → ta
+赵活	雷谦		tiểu tử/tiểu đệ	Lôi chưởng môn/Lôi đại ca	gốc 小子; được bảo thôi gọi chưởng môn thì gọi 'Lôi đại ca' (雷大哥)
+玄功弟子	赵活		ta	Triệu sư huynh	nữ đệ tử Huyền Công, sư tỷ của Ngụy Cúc; lễ mà lạnh, gốc 赵师兄; một chỗ 赵兄弟 → 'Triệu huynh đệ'
+赵活	玄功弟子		tại hạ/ta	sư tỷ	gốc 师姐
+青城弟子	赵活	ch2_5_1	ta	ngươi	khinh Hoạt xấu, gọi 'tên này', 'ngươi'
+峨嵋女弟子	赵活		ta	vị sư huynh Đường Môn này/ngươi	khách sáo mà xa cách
+赵活	虞小梅	ch2_5_3_2	ta	Ngu sư tỷ	mới gặp, gốc 虞师姐
+赵活	虞小梅	Story/D_2_5_3_2_040	ta	Tiểu Mai/cô	nàng bảo gọi 小梅; đại từ 'cô'; giận (bị giam lỏng) thì 'ngươi'
+赵活	鹤手		vãn bối/ta	tiền bối/A Hạc hiệp	con rối tay hình hạc nói bên cửa sổ; Hoạt đoán người điều khiển là nữ
+鹤手	赵活		ta	tiểu tử áo xanh/ngươi	吾 → ta; giọng 'linh hạc nghìn năm' bông đùa
+唐大鲸	赵活	ch2_4_7_2_2	đệ	sư huynh	bị nhị sư huynh trị, phải nhận Hoạt là sư huynh (gốc 师兄)
+唐门弟子	唐大鲸		ta	Đại Kình sư đệ/ngươi	gốc 大鲸师弟: Đại Kình vào sau, là sư đệ
+唐门弟子	铁拳弟子		ta	ngươi/các ngươi	người ngoài phái
+唐门弟子	唐铮		đệ	nhị sư huynh	đệ tử lớp sau với sư huynh nhập thất
+唐芳	唐铮		muội	nhị sư huynh	Phương là sư muội của các sư huynh nhập thất
+唐门弟子	唐升		đệ	tam sư huynh	đệ tử lớp sau với sư huynh nhập thất
+唐芳	唐升		muội	tam sư huynh	Phương là sư muội của các sư huynh nhập thất
+唐门弟子	唐布衣		đệ	đại sư huynh	đệ tử lớp sau với sư huynh nhập thất
+唐芳	唐布衣		muội	đại sư huynh	Phương là sư muội của các sư huynh nhập thất
+唐门弟子	唐惟元		đệ	tứ sư huynh	đệ tử lớp sau với sư huynh nhập thất
+唐芳	唐惟元		muội	tứ sư huynh	Phương là sư muội của các sư huynh nhập thất
+唐升	唐铮		đệ	nhị sư huynh	Thăng là tam sư huynh, gọi Tranh 二师兄; lớn tuổi hơn nhưng vẫn xưng đệ
+峨嵋女弟子	魏菊		vãn bối	chưởng môn	sau khi biết nàng là chưởng môn Huyền Công (ch2_5_1): lễ, ngượng; không 'ngươi'
+全真弟子	魏菊	ch2_5_1	bọn vãn bối/vãn bối/ta	chưởng môn/ngài	biết nàng là chưởng môn thì xin lỗi, kính; gốc 我 → ta
+青城弟子	魏菊	ch2_5_1	vãn bối/ta	chưởng môn	gốc 我 → ta
+段智秀	赵活		bổn công tử/ta	ngươi/Triệu thiếu hiệp	khinh: 'tên xấu xí', 'thứ hạ dân' (贱民); trước mặt đạo trưởng giả lễ: 赵少侠 → 'Triệu thiếu hiệp'
+赵活	段智秀		ta	ngươi/Đoàn công tử	căm, mỉa; giả lễ: 'Đoàn công tử', 'các hạ', tự xưng 'Triệu mỗ' (赵某)
+段智秀	叶云裳		bổn công tử/ta	Vân Thường muội muội/muội	gốc 云裳妹妹/云裳妹子; lớn lên cùng nhau ở Điểm Thương, tự coi như anh trai (段哥哥). Nàng chưa đủ 18: chỉ là thân như người nhà và thói chiếm hữu, hối lỗi; không lời tình ái, không 'thương nhớ' kiểu trai gái
+叶云裳	段智秀		ta	Đoàn công tử/các hạ/ngươi	hiện tại: lạnh, mỉa (段公子, 阁下); hồi ức và lúc mềm lòng gốc gọi 段哥哥 → 'muội – Đoàn ca ca' (anh – em)
+申屠龙	赵活		bần đạo/ta	Triệu cư sĩ	gốc 赵居士; gốc 我 → ta
+申屠龙	叶云裳		bần đạo/ta	Diệp cư sĩ/cô nương	hai người: 'nhị vị cư sĩ'; gốc 我 → ta
+赵活	申屠龙		ta/tại hạ	Thân Đồ đạo trưởng/đạo trưởng	
+叶云裳	申屠龙		muội/vãn bối	Thân Đồ đạo trưởng/ngài	gốc 您, nũng nịu nhờ cậy
+青城长老	赵活		lão đạo/ta	thiếu hiệp/ngươi	Thiết Quan (nhãn 青城长老): giả lễ 少侠 mà khinh; nổi giận: 'đồ chuột nhắt' (鼠辈); Hoài Tố, Bất Bình cũng xưng lão đạo; gốc 我 → ta
+赵活	青城长老		ta/tại hạ	đạo trưởng/lão đạo trưởng	bực thì 'lão đạo trưởng', trong bụng 'lão mũi trâu' (牛鼻子)
+青城长老	叶云裳		lão đạo/ta	Diệp cô nương/con nhóc	gốc 叶姑娘; giận: 天真小儿 → 'con nhóc ngây thơ'; gốc 我 → ta
+叶云裳	青城长老		ta/vãn bối	đạo trưởng/cao nhân	mỉa: 'cao nhân hạ đẳng' (好低级的高人)
+青城长老	段智秀		lão đạo/vi sư/ta	Đoàn công tử/Tú nhi	Thiết Quan nịnh khách quý: 段公子; khi đã nhận làm đồ đệ: 秀儿 → 'Tú nhi', tự xưng 'vi sư'; gốc 我 → ta
+段智秀	青城长老		đệ tử/ta	Thiết Quan sư phụ/sư phụ	gốc 铁冠师父; với các đạo trưởng khác: 'đạo trưởng'; gốc 我 → ta
+青城弟子	叶云裳		bần đạo/ta	Diệp cô nương	gốc 叶姑娘; lễ độ, quen mặt
+叶云裳	青城弟子		muội	đạo trưởng	quen mặt, nghịch: tự xưng muội cho thân
+青城弟子	赵活	ch3_1_1	bần đạo/ta	Triệu cư sĩ/Triệu huynh đệ/ngươi	ở Thanh Thành: kẻ thân gọi 赵居士/赵兄弟; kẻ khinh, kẻ bị Đoàn mua chuộc: ta – ngươi
+赵活	青城弟子	ch3_1_1	ta/tại hạ	đạo trưởng/vị đạo trưởng này	
+邹博	赵活		lão đạo/bần đạo/ta	ngươi/Triệu tiểu hữu	nghiêm, nóng: quát 'câm miệng'; gốc 我 → ta
+赵活	邹博		ta/tại hạ	Trâu chưởng môn	gốc 邹掌门; Vân Thường gọi đùa 邹肥伯 → 'bác Trâu béo'
+邹博	青城长老		bần đạo/ta	sư huynh/sư đệ/trưởng lão	Thiết Quan là sư huynh (铁冠师兄), Hoài Tố, Bất Bình là sư đệ
+邹博	申屠龙		ta	Dật Trần sư đệ/sư đệ	gốc 逸尘师弟
+申屠龙	青城长老		bần đạo/đệ/ta	sư huynh	gốc 师兄; gốc 我 → ta
+赵逵	邹博		lão tử/ta	sư huynh/chưởng môn sư huynh/ông	cựu đồng môn Thanh Thành, gốc 掌门师兄, 师兄; khịa thân kiểu anh em cũ, không 'mày'
+邹博	赵逵		lão đạo/ta	Triệu pháp vương/ngươi	lạnh, khách sáo mỉa (赵法王); nổi nóng: gốc 老子 → 'lão tử', chửi 'mày'
+赵活	赵逵		ta	ngươi/pháp vương	sợ mà cứng miệng
+马面	赵逵		thuộc hạ	pháp vương	gốc 属下, 法王
+牛头	赵逵		thuộc hạ	pháp vương	
+青城长老	邹博		lão đạo/ta	chưởng môn/chưởng môn sư đệ	Thiết Quan gọi 掌门师弟 (mỉa ngầm); trưởng lão khác: 掌门
+唐芳	叶云裳		tỷ	Vân Thường/muội tử	thương như em; Vân Thường gọi 芳姐姐 → 'Phương tỷ tỷ'
+叶云裳	唐芳		muội	Phương tỷ tỷ/Phương tỷ	gốc 芳姐姐, 芳姐
+唐芳	段智秀		ta	ngươi	giận sôi: 'đồ khốn' (王八蛋), không nể
+段智秀	唐芳		bổn công tử/ta	ngươi	khinh nữ lưu: 'con mụ'
+唐门弟子	唐芳		ta	sư muội	đệ tử nhập thất lớn hơn đi cùng ở Thanh Thành gọi 师弟、师妹; gốc gọi 师姐 thì 'đệ – sư tỷ'
+唐芳	唐门弟子		muội	sư huynh	gốc gọi 师弟 thì 'tỷ – sư đệ'
+叶云舟	段智秀		ta	Đoàn huynh/ngươi	hồi ức Điểm Thương (đầu ch3_1_4_1): bạn đồng môn, gọi thẳng, khịa nhẹ
+段智秀	叶云舟		ta/bổn công tử	Vân Chu/ngươi	hồi ức: bạn đồng môn, kiêu
+叶云裳	路人		muội	đại ca/ông chủ	gốc 店家老哥, 老板; nịnh ngọt để xin kẹo
+路人	叶云裳		tôi	cô bé/cô nương	gốc 小妹子, 姑娘
+南宫己	*	ch2_6_3_1	tôi/tiểu nhân	các người/đại gia/mày	sau trận dọa ở ch2_6_2_4 thì sợ, xuống nước: tôi/tiểu nhân; buột miệng chửi lại (你他妈) vẫn 'mày'
+唐门弟子	赵活		đệ	sư huynh	ch0 (giấc mộng tương lai): đệ tử lớp sau gọi Hoạt 师兄, xưng đệ; từ ch1_1 xem dòng có mốc
+店小二	*	ch3_1_7_1	tôi	khách	ch3_1_7_1: tiểu nhị quán trà trên núi, dân quê không biết võ, cộc cằn chán đời (khác tiểu nhị Giang Lăng); 'các vị' khi nói cả nhóm, 'cô' với nữ hiệp
+店小二	赵活	ch3_1_7_1	tôi	khách	tiểu nhị quán trà núi, không phải thích khách Giang Lăng
+店小二	*	ch3_5_3_7_1	tiểu nhân/tôi	khách quan	tiểu nhị quán ở trấn gần Giang Lăng: xởi lởi; với gia đinh Nam Cung 'đại gia', với ăn mày 'Cái gia'; giả lễ, gốc 我 → tôi
+店小二	赵活	ch3_5_3_7_1	tiểu nhân/tôi	khách quan	giả lễ, gốc 我 → tôi
+南宫家丁	*	ch3_5_3_4	tiểu nhân/tôi	các vị đại hiệp	gia đinh Nam Cung thật ở Giang Lăng (A Ất = Nam Cung Ất, A Đinh); mỉa thì vẫn 'đại hiệp' giọng châm; Nam Cung Ất lúc ngạo, so tài: ta – ngươi; giả lễ, gốc 我 → tôi
+南宫家丁	赵活	ch3_5_3_4	tiểu nhân/tôi	thiếu hiệp/lão huynh	hết vai ch2 (tôi – anh); A Đinh đã thân, gốc 老兄 → 'lão huynh'; gốc 少侠/大侠 → 'thiếu hiệp'/'đại hiệp'; Nam Cung Ất ngạo, so tài: ta – ngươi; giả lễ, gốc 我 → tôi
+南宫家丁	南宫深	ch3_5_3_4	tiểu nhân/tôi	đại công tử	giả lễ, gốc 我 → tôi
+南宫家丁	南宫浅	ch3_5_3_4	tiểu nhân/tôi	nhị công tử	giả lễ, gốc 我 → tôi
+南宫深	唐惟元		bổn công tử/ta	Đường tứ hiệp	khách sáo; khi khinh, nghi ngờ: 'Đường Tứ', 'ngươi'; gốc 我 → ta
+唐惟元	南宫深		tại hạ	đại công tử	khéo, xởi lởi kiểu buôn bán
+南宫远	唐惟元		ta	hiền điệt	gốc 世伯/贤侄: thân tình như chú cháu
+唐惟元	南宫远		tiểu điệt	thế bá	gốc 世伯; nịnh khéo, mặc cả
+南宫横	唐惟元		lão phu/ta	Đường tứ hiệp	khi mắng yêu: 'thằng béo ngốc' (傻小胖子); gốc 我 → ta
+唐惟元	南宫横		tại hạ	lão thái gia	gốc 老太爷; nhận lỗi xưng 'Đường Tứ'
+南宫横	南宫深		ông/ta	Thâm nhi	gốc 爷爷/深儿; giận thì mắng 'thằng ranh' (小兔崽子), chửi thô; gốc 我 → ta
+南宫深	南宫横		cháu/ta	ông nội	gốc 孙儿/爷爷; gốc 我 → ta
+南宫深	南宫浅		ta	A Thiển/đệ	anh cả lạnh nhạt, khinh em thứ; gốc 阿浅
+南宫浅	南宫深		đệ/ta	đại ca	gốc 大哥, nhút nhát; gốc 我 → ta
+宋悲	唐惟元		bổn quan	Đường Tứ	quen mặt, nửa đùa nửa răn; với cả nhóm: 'các vị'
+唐惟元	宋悲		thảo dân	Tống đại nhân	gốc 草民
+南宫深	宋悲		vãn bối/ta	Tống đại nhân	gốc 我 → ta
+叶云舟	唐芳		Diệp mỗ	nữ đại phu	gốc 女大夫/叶某, lễ độ, nhờ trông em gái
+唐芳	叶云舟		ta	Diệp thiếu hiệp	gốc 叶少侠
+唐芳	申屠龙		ta	đạo trưởng	nể, hơi ngưỡng mộ
+南宫妇人	南宫浅		cô	Thiển nhi	gốc 小姑姑; giận thì gọi cả tên 'Nam Cung Thiển'
+南宫浅	南宫妇人		cháu/ta	tiểu cô cô	gốc 小姑姑; gốc 我 → ta
+赵活	南宫妇人		ta	phu nhân	gốc 大娘子; đùa ghẹo người lớn, dịch đúng mức
+乞丐	赵活	ch3_5_3_7_1	ta	ngươi	cầm đầu toán ăn mày Đại Nghĩa phân đà: suồng sã, nửa thù nửa quen; tức thì xưng 'lão tử', gọi 'thằng hèn' (không mày – tao)
+赵活	南宫家丁	ch3_5_3_4	ta	lão huynh	gốc 老兄; gia đinh ngạo, khinh thì 'ngươi', 'tên này'
+赵活	宋悲		tiểu dân/ta	đại nhân/Tống đại nhân	ch2: bị giam ở nhà lao Giang Lăng, gốc 大人; nói lý thì 'ta'; gốc 我 → ta
+赵活	南宫远		vãn bối	Nam Cung gia chủ	theo Duy Nguyên gọi 'thế bá' nếu gốc 世伯
+赵活	南宫横		vãn bối	lão thái gia	gốc 老太爷
+赵活	解无尘		tại hạ	Giải đại hiệp	gốc 解大侠
+赵活	乞丐	ch3_5_3_7_1	ta	lão huynh	gốc 老兄: với toán ăn mày Đại Nghĩa phân đà quen cũ; đối đầu thì 'các ngươi'
+解无尘	赵活		ta/Giải mỗ	ngươi/Triệu Hoạt	gốc 我 → ta; chỉ gốc 解某 mới 'Giải mỗ'; hiếu thắng, sĩ diện
+赵活	宋悲	ch3_2_3_2_2_1	tại hạ/ta	Tống đại nhân	ch3: giang hồ gặp lại thần bộ; gốc 我 → ta
+南宫深	赵活	ch3_8_3_2	ta	ngươi	ch3_8_3_2 gây sự, khinh (gốc 你, 刁奴); 'bổn công tử' chỉ khi gốc 本公子
+南宫深	赵活	ch3_10_1	ta	Triệu huynh/ngươi	sau ch3_8_3_2: gốc 赵兄 thì 'Triệu huynh', gốc 你 lúc lạnh nhạt, nghi ngờ thì 'ngươi'; 'bổn công tử' chỉ khi gốc 本公子
+南宫深	上官萤		ta	Huỳnh nhi/nàng	vị hôn thê; gốc 萤儿, 上官娘子 → Thượng Quan cô nương; đại từ 'nàng'; 'bổn công tử' chỉ khi gốc 本公子
+赵活	上官萤	Story/D_2_4_2_Break_01_031	ta	Huỳnh cô nương/cô	gốc 萤姑娘; đại từ 'cô', không 'ngươi' (kể cả khi nàng gọi 'ngươi'); nói về nàng: 'nàng'
+南宫家丁	南宫家丁	ch3_5_3_4	tôi	anh/A Ất/A Đinh	gia đinh Nam Cung với nhau: tôi – anh, gọi tên A Ất, A Đinh
+唐惟元	南宫家丁		ta	ngươi/lão huynh	khách giang hồ với gia đinh: ta – ngươi; trấn an, xởi lởi: 'lão huynh'; khách sáo thay cả nhóm: bọn tại hạ
+王二壮	赵活		ta	tiểu tử/ngươi	gốc 小子; nể thì gọi tên Triệu Hoạt
+王二壮	魏菊		ta	Ngụy chưởng môn/cô	gốc 魏掌门; trêu: 小妮子 → con bé
+王二壮	瑞笙		ta	tiểu tử/ngươi	bậc trên chỉ điểm hậu bối
+王二壮	解无尘		ta	ngươi/tiểu tử	khinh mà dạy bảo như bậc chú
+王二壮	南宫横		ta/Vương mỗ	lão thái gia/ngài	gốc 老太爷, 您; kính mà cứng
+南宫横	王二壮		lão hủ/ta	Vương lão đệ/ngươi	gốc 王老弟; gốc 我 → ta
+王二壮	南宫远	Story/D_3_12_1_019	ta/lão tử	ngươi/A Viễn	bạn cũ hóa thù, trách chuyện Ôn phu nhân; gốc 阿远 khi nhớ thời trẻ; chửi 'mẹ nó' nhưng không mày – tao
+南宫远	王二壮		Nam Cung mỗ/ta	Vương bang chủ	chưa nhận ra bạn cũ; gốc 南宫某人
+南宫远	王二壮	Story/D_3_12_1_028	ta	Vương huynh đệ/huynh đệ/ngươi	nhận ra bạn thân thời trẻ (王公子 → Vương công tử, 兄弟 → huynh đệ); đại từ 'ngươi' thân tình
+王二壮	温夫人		đại ca	Nghênh Hương	gốc 大哥/迎香; tình cũ, dịu giọng
+温夫人	王二壮		Nghênh Hương/ta	Vương đại ca	gốc 王大哥; khóc tiễn; gốc 我 → ta
+王二壮	李富贵		cha	con	gốc 孩儿; nghĩa phụ – nghĩa tử, thương
+李富贵	王二壮		con	cha nuôi	gốc 干爹
+李富贵	赵活		ta	Triệu huynh	
+南宫远	南宫深		cha	Thâm nhi/con	gốc 爹/深儿/为父 → cha; nghiêm mà thương
+南宫深	南宫远		con/ta	cha	gốc 孩儿/爹; gốc 我 → ta
+南宫浅	南宫远		con/ta	cha	gốc 爹; khao khát được cha quan tâm; gốc 我 → ta
+南宫远	南宫浅		ta/cha	Thiển nhi/con/ngươi	lạnh nhạt với con vợ lẽ; giận thì 'ngươi'
+南宫远	赵活		ta	Triệu thiếu hiệp	gốc 赵少侠; khách sáo
+温夫人	龙湘		bổn cung/vi sư/ta	Tương nhi/con	gốc 湘儿, 本宫, 为师; thầy như mẹ, cưng mà nghiêm; gốc 我 → ta
+龙湘	温夫人		đồ nhi/con	sư phụ	gốc 徒儿/师父; nũng như con gái
+魏菊	王二壮		tiểu nữ	Vương pháp vương	gốc 小女子/王法王; khiêm mà mưu
+魏菊	瑞笙		tiểu muội	Thụy công tử	gốc 瑞公子
+瑞笙	魏菊		ta	Tiểu Cúc	gốc 小菊; thân, che chở
+瑞笙	王二壮		tại hạ/vãn bối	Vương bang chủ/tiền bối	gốc 王帮主, 前辈; tự nhún 小子 → 'tiểu tử'
+解无尘	王二壮		ta/Giải mỗ	Vương bang chủ	gốc 王帮主; 我 → ta, 解某 → Giải mỗ
+魏菊	玄功弟子		tiểu muội/bổn tọa	sư tỷ	gốc 师姐; ra uy chưởng môn, xử phạt: 本座 → bổn tọa
+玄功弟子	魏菊		ta/đệ tử	chưởng môn sư muội	gốc 掌门师妹; nhận lỗi: 弟子 → đệ tử
+玄功弟子	郁竹		ta	Tiểu Trúc sư muội	gốc 小竹师妹
+魏菊	郁竹		tiểu muội/ta	Tiểu Trúc sư muội	gốc 小竹师妹
+郁竹	魏菊		ta	Ngụy chưởng môn	gốc 魏掌门
+童大虫	郁竹		ta	Tiểu Trúc/ngươi	sư huynh Thiết Quyền khắc nghiệt (gốc 小竹); gắt nhưng ngầm thương, không mày – tao
+郁竹	童大虫		ta	Đồng sư huynh	gốc 童师兄
+赵活	飞天弟子	ch3_14_1	ta	huynh đài/lão huynh	gốc 兄台, 老兄
+飞天弟子	赵活	ch3_14_1	ta/lão tử	ngươi/Triệu Hoạt	thô (老子, 你他妈) nhưng không mày – tao
+唐惟元	郁竹		ta/tại hạ	Trúc cô nương/Úc cô nương	gốc 竹娘子, 郁娘子; quen mặt (khách quen tiệm rèn)
+郁竹	唐惟元		ta	tứ gia	gốc 四爷
+唐惟元	唐中翎		đệ tử	chưởng môn	
+唐中翎	唐惟元		bổn tọa/ta	Duy Nguyên/ngươi	gốc 惟元, 本座
+唐中翎	赵活		bổn tọa/ta	Triệu Hoạt/ngươi	gốc 赵活, 本座; thầy nghiêm với đệ tử khác họ
+唐中翎	郁竹		lão phu	cháu/Úc hiền điệt nữ	gốc 老夫, 郁贤侄女
+郁竹	唐中翎		vãn bối	tiền bối/Đường tiền bối	gốc 晚辈, 唐前辈
+叶云裳	郁竹		muội	Trúc tỷ tỷ	gốc 竹姐姐
+唐默铃	郁竹		muội	sư tỷ	gốc 师姐 (Mặc Linh tưởng Trúc đã nhập môn)
+唐门弟子	郁竹		ta	Úc cô nương/Úc nữ hiệp	gốc 郁女侠; người ngoài nữ, đại từ 'cô'
+唐门女弟子	郁竹		ta	Úc nữ hiệp/cô	gốc 郁女侠
+郁竹	唐门弟子		ta	các vị	
+唐铮	唐升		ta	tam sư đệ/Đường Thăng	gốc 三师弟; nói với người khác gọi thẳng 唐升
+唐铮	唐惟元		ta	ngươi/lão Tứ	lạnh, khinh
+唐惟元	唐铮		đệ	nhị sư huynh	gốc 二师兄; sợ
+上官萤	赵活	ch4_3_9	ta	Triệu Hoạt/huynh	từ cảnh xin lỗi ch4_3_9: đã thân, đại từ 'huynh' cho 你 (gốc gọi trống 赵活; 赵兄弟 → Triệu huynh đệ); chỉ 'ngươi' khi gốc mắng thật (畜生, 狗东西…)
+虞小梅	唐中翎	ch4_2_1	đệ tử	sư phụ	ở ch4 Tiểu Mai đã bái Đường chưởng môn làm thầy (D_4_3_7_1_024, D_4_4_2_Break_154); 师父 = chưởng môn; thầy cũ thì 'sư phụ ở Phi Thiên Môn'
+唐中翎	虞小梅	ch4_2_1	ta	Tiểu Mai/ngươi	thầy với đồ đệ mới, hiền; nghi lễ: bổn tọa
+唐升	虞小梅	ch4_2_1	huynh	Ngu sư muội/Tiểu Mai	gốc 虞师妹: Tiểu Mai đã vào Đường Môn
+唐惟元	虞小梅	ch4_2_1	huynh	Tiểu Mai/sư muội	đồng môn
+虞小梅	唐惟元	ch4_2_1	muội/ta/bổn Mai	tứ sư huynh	gốc 四师兄; 本梅 → bổn Mai, 我 → muội/ta
+虞小梅	唐升	ch4_2_1	muội/ta/bổn Mai	tam sư huynh/Đường tam gia	gốc 三师兄; 唐三爷 (mỉa khi chia tay) → Đường tam gia; 代掌门 → chưởng môn tạm quyền; 本梅 → bổn Mai
+唐布衣	唐默铃		huynh	tiểu sư muội	coi như em ruột, hay trêu ('con nhóc chậm hiểu' 晚熟的笨妞儿); nàng chưa đủ 18: chuyện hôn sự chỉ nói sự việc
+唐默铃	唐布衣		muội	đại sư huynh	gốc 大师兄; dỗi thì 'huynh'
+唐布衣	唐升		huynh	tam sư đệ	gốc 三师弟; trêu, thân
+唐升	唐布衣		đệ	đại sư huynh	gốc 大师兄; trách mà thương
+唐布衣	唐惟元		huynh	tứ sư đệ	gốc 四师弟
+唐惟元	唐布衣		đệ	đại sư huynh	gốc 大师兄; cà khịa
+唐布衣	郁竹		ta	Tiểu Trúc/cô	người ngoài nữ, quen mặt (từng mua đồ ở tiệm rèn)
+郁竹	唐布衣		ta	Đường đại hiệp	gốc 唐大侠
+郁竹	唐升		ta	tam gia	gốc 三爷
+唐升	郁竹		ta	Trúc cô nương/cô	gốc 竹娘子; người ngoài nữ, đại từ 'cô'
+唐衫	唐升		ta	chưởng môn tạm quyền	gốc 代掌门; đã được thu nhận, cung kính, áy náy chuyện cũ
+唐升	唐衫		ta	ngươi	khoan dung, ôn hòa
+唐门弟子	唐升	ch4_4_1	đệ	chưởng môn sư huynh/chưởng môn tạm quyền	gốc 掌门师兄, 代掌门
+唐布衣	石公远		Đường mỗ/ta	Thạch bang chủ/Thạch lão huynh	gốc 石帮主, 石老兄; khiêu khích mà không khinh
+石公远	唐布衣		ta/lão tử	ngươi/tiểu tử/tên giặc	gốc 臭贼, 狗贼, 小子; tưởng hắn bắt cóc vợ mình: thô, to tiếng, nhưng không mày – tao
+石夫人	石公远		ta/thiếp	ông/lão Thạch/Thạch lang	gốc 老石, 石郎, 笨石头 → đồ đầu đá; gốc 妾身 → thiếp; giận thì gọi thẳng 'Thạch Công Viễn'
+石公远	石夫人		ta/lão Thạch	phu nhân/nàng	gốc 夫人; sợ vợ, thương vợ; tự xưng 俺老石 → lão Thạch này
+石夫人	唐布衣		ta	Đường Bố Y/ngươi	giận: 'đồ chó chết' (狗杂种), 'tên mặt hoa da phấn' (兔儿爷); biết ơn thì 'Đường thiếu hiệp' (唐少侠)
+唐布衣	石夫人		Đường mỗ/ta	Thạch phu nhân	gốc 石夫人
+飞石帮	石公远	ch4_6_1	bọn thuộc hạ/chúng ta	bang chủ	gốc 帮主; can ngăn hết lời
+福韫	唐布衣		tiểu tăng/ta	Đường thí chủ	gốc 唐施主; gốc 我 → ta
+唐布衣	福韫		Đường mỗ/ta	Phúc Uẩn pháp sư/tiểu sư phụ	gốc 福韫法师
+妇人	赵活	ch4_5_3_break_start_01	tôi/đại nương	thiếu gia/thiếu hiệp	Chu thím bán bánh bao (朱婶): gốc 奴家 → tôi, 大娘 → đại nương, 少爷 → thiếu gia, 少侠 → thiếu hiệp
+赵活	妇人	ch4_5_3_break_start_01	tôi	Chu thím/thím	gốc 朱婶; bị lừa, bực vẫn gọi 'thím', không 'ngươi'
+路人侠	赵活	ch4_5_3_break_start_01	ta	tiểu tử/ngươi	gốc 你小子; hiệp khách tầm thường khinh người
+赵活	路人侠	ch4_5_3_break_start_01	ta	nhị vị/các ngươi	gốc 二位; khiêu khích, chế giễu thì 'các ngươi', 'đồ phế vật'
+少侠	赵活	ch4_5_3_break_start_01	tiểu gia/ta	ngươi	gốc 小爷; ngông; gốc 我 → ta
+赵活	少侠	ch4_5_3_break_start_01	ta	ngươi	đối thủ; chửi thì theo gốc (战你娘亲 → đánh cả mẹ ngươi, glossary)
+少侠	龙湘	ch4_5_3_break_start_01	tiểu gia/ta	nữ hiệp/tiểu nương tử	gốc 女侠, 小娘子; buông lời sàm sỡ (người lớn, dịch đúng gốc)
+龙湘	少侠	ch4_5_3_break_start_01	ta	thiếu hiệp/ngươi	gốc 少侠; thẳng, lễ phép kiểu ngây ngô
+龙湘	唐布衣		ta	Đường Bố Y/ngươi	gọi thẳng tên, gắt mà để ý (登徒子 → đồ dê xồm)
+唐布衣	龙湘		ta	Long cô nương/cô	gốc 龙姑娘; né, sợ bị đánh
+樊啸天	夏侯兰	Story/D_4_6_1_064	đồ nhi/ta	sư phụ	gốc 师父; 俺 bị sư phụ cấm → 'ta' hoặc 'đồ nhi'
+樊啸天	赵活	Story/D_4_6_1_064	ta	sư huynh/đại ca	gốc 师兄; quen miệng gọi 大哥 thì 'đại ca'
+泥教弟子	赵活	ch4_6_4_2	ta/bọn ta	huynh đài	gốc 兄台; lễ độ
+赵活	泥教弟子	ch4_6_4_2	tại hạ/ta	nhị vị/huynh đài	gốc 二位仁兄
+唐门女弟子	唐门女弟子	ch4_2_3_6	ta	sư muội/sư tỷ	nhãn chung nhiều người: người gọi 师姐 (sư muội) xưng muội, gọi sư tỷ; sư tỷ (vd Tú Tú ch4_2_3_6) xưng ta/tỷ, gọi muội; theo câu gốc
+唐门女弟子	*	ch1_1	ta	các vị/ngươi/cô	hiện tại: nữ đệ tử nhập thất; với sư tỷ xưng muội, với sư muội xưng tỷ; nữ người ngoài: cô; với Hoạt xem dòng riêng
+峨嵋女弟子	解无尘		muội	sư huynh	gốc 师兄
+唐默铃	释明		ta	ngươi/lão hòa thượng	kẻ thù hại cha; người ngoài: ta
+虞小梅	唐布衣		ta/bổn Mai	đại sư huynh	gốc 大师兄; cả khi trở mặt vẫn gọi đại sư huynh
+唐布衣	虞小梅		ta/huynh	Tiểu Mai/sư muội/ngươi	gốc 小梅, 新来的师妹; khi nàng trở mặt: ta – ngươi
+虞小梅	龙湘		ta	nữ hiệp/cô	gốc 白衣女侠, 女侠
+龙湘	虞小梅		ta	cô	người ngoài nữ, ganh nhau
+虞小梅	郁竹		ta/bổn Mai	Tiểu Trúc/ngươi	bạn từ nhỏ (gốc 小竹, 妳); 竹大爷 mỉa → Trúc đại gia; 跟屁虫 → đồ bám đuôi
+郁竹	虞小梅		ta	Tiểu Mai/ngươi	bạn từ nhỏ; giận gọi cả họ tên 虞小梅 → Ngu Tiểu Mai; 坏女人 → đồ đàn bà xấu xa
+唐升	虞小梅	Story/D_4_9_3_7_031	ta	Ngu nữ hiệp	tiễn nàng rời Đường Môn, gốc 虞女侠: gọi như người ngoài
+申屠龙	*	Story/D_4_8_7_5_038	bần đạo/ta	ngươi	lộ mặt thật: 贫道 → bần đạo, 吾 → ta, 本王 → bổn vương; ngạo mà phong nhã, không mày – tao
+申屠龙	虞小梅	Story/D_4_8_7_5_038	bần đạo/ta	Tiểu Mai/Ngu Tiểu Mai/ngươi	cấp trên lạnh lùng với kẻ phản lệnh; gốc 小梅, 虞小梅
+申屠龙	赵活	Story/D_4_8_8_3_004	bần đạo/ta	Triệu cư sĩ/ngươi	đã trở mặt: vẫn 'bần đạo', 'Triệu cư sĩ' nhưng lạnh, khinh (丑陋不堪的俗物 → đồ phàm phu xấu xí); 吾 → ta
+虞小梅	申屠龙	Story/D_4_8_8_4_017	thuộc hạ	ngài/Thân Đồ đạo trưởng/bệ hạ	gốc 属下, 您; 陛下 → bệ hạ
+女飞贼	申屠龙		thuộc hạ	giáo chủ	gốc 属下, 教主
+申屠龙	女飞贼		ta	ngươi	
+金乌上人	申屠龙		thuộc hạ	giáo chủ/ngài	gốc 属下, 教主, 您; 吾王 → vương thượng
+申屠龙	金乌上人		ta/bần đạo	Báo Chín Mạng/ngươi	gốc 九命豹; khinh, lạnh
+申屠龙	龙湘		ta	tiểu nữ oa/ngươi	gốc 小女娃; nhắc cha nàng: 龙少侠 → Long thiếu hiệp
+龙湘	申屠龙		vãn bối/ta	ngươi/Lý giáo chủ/yêu đạo	gốc 晚辈, 李教主, 妖道
+申屠龙	福韫		ta/bần đạo	Phúc Uẩn pháp sư/tiểu hòa thượng/ngươi	gốc 福韫法师, 你小和尚
+福韫	申屠龙		tiểu tăng/ta	đạo trưởng/Thân Đồ đạo trưởng	gốc 道长, 申屠道长; gốc 我 → ta
+申屠龙	唐布衣		bần đạo/ta	Phi hiệp/Đường thiếu hiệp/ngươi	gốc 飞侠, 唐少侠
+唐布衣	申屠龙		ta/Đường mỗ	ngươi/các hạ	gốc 阁下, 唐某; chửi thì 'tên tà ma'
+赵活	福韫		ta/tại hạ	pháp sư/đại sư	gốc 法师, 大师
+福韫	赵活		tiểu tăng/ta	Triệu thí chủ/thí chủ	gốc 赵施主, 施主; gốc 我 → ta
+金乌上人	虞小梅		ta/lão tử	Tiểu Mai/mày	gốc 小梅, 臭小娘 → con ranh thối; thầy cũ (教头) hống hách
+唐门弟子	赵活	Story/D_4_3_8_4_069	đệ	sư huynh/Triệu sư huynh	từ khi Hoạt liều mình bảo vệ chưởng môn (D_4_3_8_4_069 '师弟……不，赵师兄'), đệ tử nhập thất lớp sau gọi 师兄: đệ – sư huynh; người gốc vẫn gọi 师弟 (lớn hơn) thì ta – sư đệ
+赵活	唐门弟子	Story/D_4_3_8_4_069	huynh/ta	sư đệ/các sư đệ	đệ tử lớp sau gọi Hoạt 师兄; 众位师兄弟 → các vị sư huynh đệ; ra lệnh cho cả nhóm xưng ta; người gốc gọi 师兄 (đệ tử nhập thất lớn hơn) thì đệ – sư huynh
+唐门弟子	赵活	Story/D_4_8_8_3_006	ta	ngươi/sư đệ	hồi ức thời nhỏ (ch4_8_8_3): đệ tử nhập thất bắt nạt Hoạt ngoại tính, khinh khỉnh
+唐门弟子	赵活	Story/D_4_8_8_3_010	đệ	sư huynh/Triệu sư huynh	hết hồi ức: như từ D_4_3_8_4_069
+唐门女弟子	赵活	Story/D_4_8_8_3_008	ta	ngươi/nó	hồi ức thời nhỏ: sư tỷ chê Hoạt yếu, mít ướt
+唐门女弟子	赵活	Story/D_4_8_8_3_010	muội/ta	sư huynh/Triệu sư huynh/sư đệ	theo gốc: người gọi 赵师兄 (lớp sau) xưng muội; sư tỷ lớn hơn gọi 师弟 thì ta – sư đệ
+赵扩	赵活		trẫm/ta	Đường ái khanh/hoàng huynh	chỉ trong mộng (D_4_8_9_3_079–083): gốc 唐爱卿, 皇兄
+唐默铃	唐升	ch5_2_1	muội	tam sư huynh	gốc 三师兄
+唐默铃	唐惟元	ch5_2_1	muội	tứ sư huynh	gốc 四师兄
+唐惟元	唐默铃	ch5_2_2	huynh	tiểu sư muội	gốc 小师妹, 四师兄我 → 'tứ sư huynh'
+叶云舟	唐升	ch5_2_5	tại hạ/ta	Đường chưởng môn	gốc 唐掌门, 叶某 → 'Diệp mỗ'
+唐升	南宫老人	ch5_3_1	ta	Vĩ huynh	Nam Cung Vĩ, bạn cũ; gốc 伟兄
+南宫老人	唐升	ch5_3_1	lão ca/lão phu	Thăng huynh/Đường tam hiệp	Nam Cung Vĩ, bạn cũ; gốc 老哥哥我, 升兄, 唐三侠
+南宫老人	南宫深	ch5_3_1	ông/lão phu	Thâm nhi/đại công tử	Nam Cung Vĩ là ông chú (叔公); gốc 深儿, 大公子
+南宫深	南宫老人	ch5_3_1	cháu/ta	ông	gốc 叔公 (ông chú); gốc 我 → ta
+南宫深	唐升	ch5_3_1	vãn bối/ta	Đường tam gia/Đường tam hiệp/Đường chưởng môn	theo gốc 唐三爷, 唐三侠, 唐掌门; 'bổn công tử' chỉ khi gốc 本公子
+南宫深	唐默铃	ch5_3_1	ta/ngu huynh	Đường thế muội	gốc 唐世妹, 愚兄; khách sáo, không lời tình tứ (Mặc Linh chưa đủ 18)
+唐默铃	南宫深	ch5_3_1	muội	đại công tử	gốc 大公子; lễ phép, ít lời
+唐默铃	南宫老人	ch5_3_1	cháu	Nam Cung bá bá	gốc 南宫世伯
+唐升	南宫深	ch5_3_1	ta/Đường mỗ	đại công tử	gốc 大公子, 唐某
+唐升	少侠	ch5_3_1	ta	thiếu hiệp/hiền điệt	gốc 少侠, 贤侄; khách cầu thân
+唐升	掌柜	ch5_3_1	ta	hai vị/ông	khách cầu thân (chú của Dịch Phàm)
+掌柜	唐升	ch5_3_1	ta/tôi	Đường tam hiệp	chú của Dịch Phàm làm mối; gốc 唐三侠; giả lễ, gốc 我 → tôi
+掌柜	少侠	ch5_3_1	chú/tôi	Phàm nhi/cháu	gốc 凡儿, 侄儿; giả lễ, gốc 我 → tôi
+少侠	掌柜	ch5_3_1	cháu/ta	chú	gốc 叔叔; gốc 我 → ta
+少侠	唐升	ch5_3_1	tại hạ/vãn bối/ta	Đường tam hiệp/Đường tiền bối	nhãn chung nhiều người cầu thân (Dịch Phàm, Tề Nhâm…); gốc 唐三侠, 唐前辈; gốc 我 → ta
+少侠	唐默铃	ch5_3_1	tại hạ/ta	Đường tiểu nương tử/cô	gốc 唐小娘子; Tề Nhâm 女人 → 'cô kia'; lời cầu thân khách sáo hay ngạo, không say đắm (Mặc Linh chưa đủ 18)
+解无尘	唐升	ch5_3_1	ta/Giải mỗ	Đường tam hiệp	gốc 唐三侠; 我 → ta, 解某 → Giải mỗ
+唐升	解无尘	ch5_3_1	ta/Đường mỗ	Giải đại hiệp	gốc 解大侠
+解无尘	唐默铃	ch5_3_1	ta/Giải mỗ	Đường cô nương/Đường tiểu nương tử	gốc 唐姑娘, 唐小娘子; 我 → ta, 解某 → Giải mỗ; coi như người nhà của bạn, che chở (nàng chưa đủ 18: không tình tứ)
+路人侠	南宫深	ch5_3_1	ta	đại công tử	gốc 大公子, 公子
+南宫深	路人侠	ch5_3_1	bổn công tử/ta	thiếu hiệp	gốc 少侠; 'bổn công tử' chỉ khi gốc 本公子
+南宫老人	路人侠	ch5_3_1	lão phu	tiểu huynh đệ	gốc 小兄弟
+南宫老人	赵活	ch5_3_2_break_start_01	lão phu/lão già này	thiếu hiệp	gốc 少侠, 老儿我
+赵活	南宫老人	ch5_3_2_break_start_01	ta	lão tiền bối	gốc 您老
+南宫家丁	南宫老人	ch5_3_2_break_start_01	tiểu nhân/tôi	Vĩ gia	gốc 伟爷; giả lễ, gốc 我 → tôi
+南宫深	铁匠	ch5_4_1	ta	Chu huynh/huynh đài	gốc 朱兄, 兄台
+铁匠	南宫深	ch5_4_1	Chu mỗ/tiểu nhân	đại công tử	gốc 敝人, 朱某, 小人, 大公子
+点苍弟子	叶云裳	ch5_4_1	ta/sư huynh	Vân Thường sư muội	đồng môn Điểm Thương; gốc 云裳师妹, 同门师兄
+叶云裳	点苍弟子	ch5_4_1	ta	ngươi/tên này	sư huynh đồng môn hay bị cô trêu
+叶云裳	少侠	ch5_4_1	muội/ta	thiếu hiệp	gốc 少侠; giả ngọt
+少侠	叶云裳	ch5_4_1	ta	tiểu nương tử/cô bé	gốc 小娘子; không lời tình tứ (Vân Thường chưa đủ 18)
+叶云裳	唐升	ch5_4_1	cháu	ông	gốc 爷爷 (trêu Thăng già)
+唐升	叶云裳	ch5_4_1	ta	Diệp cô nương	gốc 叶小娘子
+唐升	点苍弟子	ch5_4_1	ta	huynh đài	gốc 兄台
+解无尘	南宫深	ch5_4_2	ta	đại công tử	gốc 大公子
+南宫深	解无尘	ch5_4_2	tại hạ/ta	Giải đại hiệp/Phong Thần	gốc 解大侠, 风神
+瑞笙	唐升	ch5_4_2	tại hạ/vãn bối	chưởng môn	gốc 掌门
+唐升	瑞笙	ch5_4_2	ta	Thụy công tử/tiểu huynh đệ	gốc 瑞公子, 小兄弟
+瑞笙	唐默铃	ch5_4_2	tại hạ/ta	Đường cô nương	gốc 唐姑娘, 在下 → tại hạ, 我 → ta; khách cầu thân lịch sự, không tình tứ (Mặc Linh chưa đủ 18)
+唐默铃	瑞笙	ch5_4_2	muội	Thụy công tử	gốc 瑞公子
+瑞笙	南宫深	ch5_4_2	đệ	Nam Cung đại ca	gốc 南宫大哥, 兄弟我
+南宫深	瑞笙	ch5_4_2	ta	Thụy công tử/Thụy huynh đệ	gốc 瑞公子, 瑞兄弟
+瑞笙	解无尘	ch5_4_2	đệ	Giải đại ca	gốc 解大哥, 兄弟我
+解无尘	瑞笙	ch5_4_2	ta	Thụy công tử	gốc 瑞公子
+唐惟元	金乌上人	ch5_4_5	ta/Béo gia	ngươi/tên ác tăng	gốc 胖爷 → 'Béo gia', 恶僧
+金乌上人	唐惟元	ch5_4_5	hòa thượng/ta	Đường lão tứ/thằng béo/mày	gốc 唐老四, 小胖哥, 小胖子; tự xưng theo gốc
+金乌上人	赵活	ch5_4_5_2	ta/lão tử/hòa thượng	mày/Triệu lão đệ/Xú hiệp	gốc 赵老弟, 丑侠; chửi 狗杂种 → 'thằng chó'
+飞天弟子	金乌上人	ch5_4_5_2	đệ	Kim Ô sư huynh	gốc 金乌师兄
+金乌上人	唐默铃	ch5_4_5_3	ta/hòa thượng	con nhóc/mày	đe dọa; lời bẩn về nàng chỉ ở mức vu khống danh tiết (Mặc Linh chưa đủ 18)
+金乌上人	瑞笙	ch5_4_5_3	lão tử/ta	thằng ranh họ Thụy/mày	gốc 姓瑞的臭小子
+瑞笙	金乌上人	ch5_4_5_3	ta	Kim Ô Thượng Nhân/ngươi	đối địch
+颜疆	瑞笙	ch5_4_5_3	ta	Thụy huynh đệ	gốc 瑞兄弟; quen biết cũ
+童大虫	瑞笙	ch5_4_5_3	ta	Thụy lão đệ/Thụy tiểu đệ	gốc 瑞老弟, 瑞小弟
+鞠冬音	瑞笙	ch5_4_5_3	thiếp	Thụy công tử	gốc 妾身, 瑞公子
+唐惟元	瑞笙	ch5_4_6_break_start_01	ta	thiếu hiệp	gốc 少侠
+颜疆	金乌上人	ch5_4_6_break_start_01	bọn ta	chưởng phái nhân tương lai	gốc 准掌派人
+颜疆	唐门弟子	ch5_4_7_2_1	lão tử	mày	gốc 老子; hành hạ đệ tử Đường Môn
+唐默铃	金乌上人	ch5_4_7_2_1	ta	ngươi	đối địch
+瑞笙	童大虫	ch5_4_7_3_1	đệ	Đồng lão ca	gốc 童老哥, 兄弟我
+童大虫	赵活	ch5_4_7_3_1	ta	Triệu Hoạt/ngươi	gốc 赵活; nhớ thời Hoạt du học Không Động, ngầm nhường đường
+赵活	童大虫	ch5_4_7_3_1	ta	Đồng sư huynh	gốc 童师兄
+唐门弟子	唐默铃	ch5_4_4	đệ	tiểu sư muội	gốc 小师妹; nhãn chung
+唐铮	唐中翎	ch5_2_6_4	đệ tử	chưởng môn	gốc 启禀掌门
+郁竹	叶云裳		tỷ/ta	Vân Thường muội/muội	gốc 云裳妹子, 小妹子; Vân Thường gọi 竹姐姐 'Trúc tỷ tỷ'
+赵活	申屠龙	Story/D_4_8_8_4_015	ta	ngươi/Thân Đồ đạo trưởng	đã lộ mặt, thù địch: ta – ngươi; lúc cố xu nịnh kéo dài thời gian (D_4_8_9_1_008) được 'ngài'
+赵活	鞠冬音	ch5_4_7_3_7	đệ	sư tỷ	gốc 师姐/师姊; Hoạt từng du học Huyền Công Môn nên gọi nàng sư tỷ, kính mà gấp gáp; tiễn khách gọi 女侠 → nữ hiệp
+鞠冬音	赵活	ch5_4_7_3_7	ta	ngươi/Triệu sư đệ/Triệu thiếu hiệp	lạnh, đúng mực; từ D_5_4_7_3_7_013 gốc 赵师弟 → Triệu sư đệ; 赵少侠 → Triệu thiếu hiệp; nói về Ngụy Cúc: 掌门师妹 → chưởng môn sư muội
+赵活	颜疆	ch5_4_7_3_3	ta/đệ	Nhan sư huynh/ngươi	gốc 颜师兄; đối đầu thì ta – ngươi; kính trọng, lúc hắn hấp hối hay xin lỗi: đệ – Nhan sư huynh; 颜大侠 → Nhan đại hiệp (khách sáo)
+颜疆	赵活	ch5_4_7_3_3	ta/lão tử	ngươi/Triệu Hoạt	khinh, thô; gốc 老子 → lão tử, 姓赵的 → thằng họ Triệu; sau khi Kim Ô lộ mặt (ch5_4_8_8_4) lấy lòng: gốc 赵师弟, 师兄我 → Triệu sư đệ, sư huynh; không mày – tao với Hoạt
+叶云舟	金乌上人	ch5_4_5_3	ta/Diệp mỗ	ác tăng/ngươi	gốc 恶僧, 叶某; lạnh, gọn
+叶云舟	唐惟元	ch5_4_5_3	tại hạ/ta	Đường tứ hiệp	gốc 唐四侠; lễ độ
+颜疆	赵活	ch5_4_8_8_4	ta/sư huynh	Triệu sư đệ/đệ/Triệu Hoạt	Kim Ô đã lộ mặt: quay sang lấy lòng (gốc 赵师弟, 师兄我 → sư huynh); 喂，赵活/姓赵的 lúc gọi đầu cảnh → 'Này, Triệu Hoạt!'/'Này, thằng họ Triệu!'; 蓝色的王八蛋 nói với Dư Lân
+赵活	颜疆	ch5_4_8_8_4	đệ/tại hạ/ta	Nhan sư huynh/Nhan đại hiệp	gốc 颜师兄 → đệ – Nhan sư huynh; 颜大侠…在下 → tại hạ – Nhan đại hiệp (khách sáo, mỉa); gắt (想打吗？) → ta – ngươi
+郁城	赵活	ch5_6_1	đệ/tiểu đệ/tiểu nhân	Triệu đại ca/Triệu đại hiệp	hết kiêu, khúm núm, hối lỗi: gốc 小弟 → tiểu đệ, 小人 → tiểu nhân, 赵大哥 → Triệu đại ca, 赵大侠 → Triệu đại hiệp; nói về chị: 大姊 → đại tỷ, 二姊 → nhị tỷ
+赵活	郁城	ch5_6_1	ta	ngươi/A Thành/tiểu tử	lúc đầu lạnh, khó chịu với nhà họ Úc (崆峒高足 mỉa → 'cao đồ Không Động'); về sau gốc 阿城 → A Thành, 小子 → tiểu tử
+郁城	丹霞子	ch5_6_1	đệ/vãn bối	đạo trưởng	gốc 道长; 军爷 lúc chưa biết → quan gia
+丹霞子	郁城	ch5_6_1	bần đạo/ta	Úc tiểu hữu/tiểu tử	gốc 郁小友 → Úc tiểu hữu; hào sảng
+丹霞子	赵活		bần đạo/ta	Triệu thiếu hiệp/Triệu huynh đệ	gốc 赵少侠 → Triệu thiếu hiệp, 赵兄弟 → Triệu huynh đệ; 贫道 → bần đạo, 我 → ta; thân dần, đùa cợt
+郁城	郁宝花	ch5_6_1	đệ	nhị tỷ	gốc 二姊
+郁宝花	郁城	ch5_6_1	tỷ/ta	A Thành	gốc 阿城; gốc 我 → ta
+郁城	郁父	ch5_6_1	con	cha	gốc 爹
+郁宝花	郁父	ch5_6_1	con/ta	cha	gốc 爹; gốc 我 → ta
+郁父	郁母	ch5_6_1	lão tử	mụ/con mụ	thô, đánh vợ: 臭婆娘 → con mụ thối tha, 贱骨头 → đồ tiện cốt; không 'tao'
+郁母	郁父	ch5_6_1	tôi	ông	vợ trách chồng; cùng quẫn
+唐门女弟子	赵活	Story/D_4_3_8_4_069	muội/ta	sư huynh/Triệu sư huynh	lớp sau gọi Hoạt 师兄 từ khi hắn liều mình bảo vệ chưởng môn; người gốc vẫn gọi 师弟 (lớn hơn) thì ta – sư đệ; khịa, chê thì 'ta' – 'huynh'
+赵活	唐门女弟子	Story/D_4_3_8_4_069	huynh/ta	sư muội	lớp sau; người gốc gọi 师姐/师姊 thì đệ – sư tỷ
+唐门女弟子	瑞笙	ch5_5_3	ta/nô gia	Thụy công tử/Thụy thiếu hiệp/chàng	nữ đệ tử người lớn, mê Thụy, lẳng lơ đúng gốc (奴家 → nô gia; 瑞哥哥 → Thụy ca ca); cãi nhau: 悍妇 → đồ đàn bà chanh chua, 荡妇 → đồ lẳng lơ
+瑞笙	唐门女弟子	ch5_5_3	tại hạ	sư tỷ/cô nương	gốc 师姐; lúng túng né
+唐升	叶云舟	ch5_2_5	ta	Diệp thiếu hiệp	lễ độ
+瑞笙	颜疆	ch5_4_5_3	ta	Nhan huynh/huynh	gốc 颜兄; quen biết cũ, đối đầu vẫn giữ lễ
+瑞笙	童大虫	ch5_4_5_3	ta/huynh đệ ta	Đồng lão ca/huynh	gốc 童老哥, 兄弟我
+辛儒	赵活	ch2_2_3_4_3_break_01_01_01	ta	đệ/sư đệ	cựu sư tỷ thân thiết; thân mật kiểu chị gái, không ngươi (trừ nhánh hải tặc, khi nàng chưa nhận ra hoặc coi Hoạt là cướp)
+赵活	辛儒	ch2_2_3_4_3_break_01_01_01	đệ	sư tỷ/tỷ	sư đệ cũ, kính và quý sư tỷ
+南宫家丁	赵活	LUA/ch2_2_6_3:434.0	tao/tôi	mày	gia đinh trở mặt chửi Hoạt (gốc 姓赵的, 推你又怎样, 讨打, 拚了, 混蛋): thằng họ Triệu, tao – mày; câu mở đầu còn giả lễ ('vị bằng hữu Đường Môn này', 同为下人) vẫn tôi – anh; giả lễ, gốc 我 → tôi
+南宫家丁	赵活	ch2_2_6_5	tôi	anh	hết trận cãi ở hậu viện; gia đinh thường gặp lại Hoạt: tôi – anh (tưởng cùng cảnh hạ nhân)
+南宫家丁	赵活	Story/D_2_2_6_3_025	tao/tôi	mày	bản Story của cùng cảnh: từ câu 推你又怎样 gia đinh chửi Hoạt tao – mày; giả lễ, gốc 我 → tôi
+魏菊	虞小梅		tiểu nữ/bổn tọa	Tiểu Mai sư muội/muội	thường hòa nhã: tiểu nữ – Tiểu Mai sư muội; nghiêm, ra uy chưởng môn (ch2_5_3_2, gốc 本座, gọi thẳng 虞小梅): bổn tọa – muội/Ngu Tiểu Mai
+青城弟子	*	ch2_5_1	ta	đạo hữu/các vị	đệ tử Thanh Thành trẻ, kiêu: gốc 我 → 'ta'; 'bần đạo' chỉ khi gốc 贫道; 我说 mở câu → 'Này,'
+嵩山弟子	赵活	ch2_4_10_2	ông đây/tao/ta	mày/thằng họ Triệu	lục lâm giả Tung Sơn bị bắt, biết bị Hoạt lừa: chửi tao – mày (洒家 vẫn 'ta đây'); xin tha, chịu phục (cuối ch2_4_10_2_2): tiểu nhân – đại gia; gốc 我 → ta
+嵩山弟子	赵活	ch2_5_1	tiểu tăng/ta	thí chủ	tăng Tung Sơn thật (hết cảnh lục lâm giả danh); gốc 我 → ta
+南宫己	赵活	Story/D_2_6_2_3_037	ta	Triệu huynh/Triệu ân công/huynh	nhánh ch2_6_2_3: tỉnh ngộ nhờ Hoạt nhắc, đổi giọng kính trọng (赵兄/赵恩公), bỏ tao – mày
+南宫己	赵活	ch2_6_3_1	tôi/tiểu nhân	đại gia/các người/mày	như dòng 南宫己 → * cùng mốc
+南宫己	赵活	ch2_6_2_4	tao	mày	nhánh khác (ch2_6_2_4: bị dọa tra khảo) vẫn hống hách tao – mày như trước
+魏菊	赵活	ch2_5_1	tiểu nữ	Triệu sư huynh/huynh	lần đầu gặp, nói trước cả nhóm khách: 'tiểu nữ' cả cảnh (trò đùa 一直用『小女子』自称 dựa vào đó)
+魏菊	赵活	ch2_5_1_1	tiểu muội	Triệu sư huynh/huynh	từ đây với Hoạt: 'tiểu muội' cả cảnh dù gốc 小女子
+魏菊	*	ch2_5_1	tiểu nữ	các vị	đón khách các phái lần đầu: 'tiểu nữ' cả cảnh
+魏菊	*	ch2_5_1_1	tiểu muội	các vị	như dòng gốc
+赵活	樊啸天	Story/D_3_2_3_2_3_Break_Start_01_045	huynh	sư muội	nhánh ch3_2_3_2_3 (045–056): cùng thầy Hạ Hầu Lan, gốc gọi 师妹
+樊啸天	赵活	Story/D_3_2_3_2_3_Break_Start_01_045	ta	sư huynh	nhánh ch3_2_3_2_3: gốc 师兄; 俺 → ta
+赵活	樊啸天	Story/D_3_2_3_2_3_Break_Start_01_004	ta	Phàn huynh đệ	trở lại vỏ cho nhánh chưa biết (từ _004) tới mốc lộ D_4_6_1_064
+樊啸天	赵活	Story/D_3_2_3_2_3_Break_Start_01_004	ta	đại ca	vỏ: 俺 → ta, gọi 大哥
+晁和	唐布衣		đệ	đại sư huynh	gốc 师弟我/小弟 với Bố Y (199.69, 199.71, 199.82); với người khác vẫn 'ta'
+赵活	虞小梅	Story/D_4_8_6_153	ta	ngươi	Hoạt tuyên bố 'đã là kẻ thù', cấm gọi thân mật: từ đây ta – ngươi
+赵活	虞小梅	Story/D_5_6_4_4_4_160	ta	Tiểu Mai/cô	Hoạt tới Trấn Hồn Ngục cứu nàng ('ta tới đón cô về nhà'): hòa lại, gốc 小梅 → Tiểu Mai, 你 → cô; lúc cáu, đùa vẫn 'cô'
+黄佩华	丹霞子	ch5_6_3_1_1	tiểu muội/ta	tướng quân	gốc 小妹 → tiểu muội, 我 → ta, 我方 → bên ta, 我等 → bọn tiểu muội; nữ đệ tử Huyền Công Môn kính phục Đan Hà Tử
+丹霞子	黄佩华	ch5_6_3_1_1	bần đạo/ta	Hoàng sư muội	gốc 黄师妹; 贫道 → bần đạo, 我 → ta
+黄佩华	赵活	ch5_6_3_1_1	ta	thiếu hiệp/ngươi	gốc 少侠, 你; dè chừng, hơi khinh người ngoài; trong bụng phục tài hắn
+黄佩华	魏菊	ch5_6_3_1_1	đệ tử	chưởng môn	gốc 弟子, 掌门
+魏菊	黄佩华	ch5_6_3_1_1	tiểu muội/ta	Hoàng sư tỷ	gốc 黄师姐
+魏菊	丹霞子	ch5_6_4_2	tiểu muội/bổn tọa	tướng quân/Đan Hà Tử sư huynh	gốc 将军, 丹霞子师兄; 民女/小女子 lúc ra mắt → tiểu nữ
+丹霞子	魏菊	ch5_6_4_2	bần đạo/ta	Ngụy chưởng môn	gốc 魏掌门; kính mà thật thà; 我 → ta
+魏菊	赵活	ch5_6_4_2	tiểu muội	Triệu đại hiệp/Triệu thiếu hiệp/huynh	gốc 赵师兄 → Triệu sư huynh, 赵少侠 → Triệu thiếu hiệp, 赵大侠 → Triệu đại hiệp
+魏菊	赵活	Story/D_5_6_6_4_062	thuộc hạ	tổng chưởng môn	Hoạt được tổ sư 'chỉ định' làm tổng chưởng môn: gốc 属下, 掌派人/掌派 → tổng chưởng môn; nghiêm túc thật, Hoạt thì cuống
+丹霞子	赵活	Story/D_5_6_6_4_058	thuộc hạ/Đan Hà/ta	tổng chưởng môn	gốc 属下, 丹霞, 掌派; trước đó vẫn bần đạo – Triệu thiếu hiệp; gốc 我 → ta
+雷谦	郁竹	ch5_6_5_1	ta đây/ta	con nhóc/Tiểu Trúc	gốc 死丫头 → con nhóc chết tiệt, 小丫头 → con nhóc; thô mà thương như em; gốc 我 → ta
+郁竹	雷谦	ch5_6_5_1	ta	Lôi đại ca/Lôi lão đại	gốc 雷大哥, 雷老大
+雷谦	丹霞子	ch5_6_4_2	ta đây/ta	đạo trưởng	gốc 道长; 雷老大 là cách Đan Hà Tử gọi ông; gốc 我 → ta
+丹霞子	雷谦	ch5_6_4_2	bần đạo/ta	Lôi lão đại/Lôi chưởng môn	gốc 雷老大, 雷掌门; gốc 我 → ta
+郁宝花	郁竹	ch5_6_4_3	muội/Bảo Hoa/ta	đại tỷ/tỷ	gốc 大姊, 姊, 宝花 tự gọi → Bảo Hoa; giả vờ ghét để lừa lính canh rồi lộ thương chị; gốc 我 → ta
+郁竹	郁宝花	ch5_6_4_3	tỷ	Bảo Hoa/muội	gốc 宝花; chị cả cam chịu, thương em
+夺魄弟子	郁宝花	ch5_6_4_3	ta	Úc sư tỷ/ngươi	lính canh Trấn Hồn Ngục: lúc đầu hống hách 'ngươi', nghe 'phu nhân tổng chưởng môn' thì 'Úc sư tỷ'
+飞天女弟子	虞小梅	ch5_6_4_3	thím	Tiểu Mai	Nhan tẩu (vợ góa Nhan Cương), gốc 婶子 → thím, 你嫂子我 → chị dâu đây; mộc, thô mà tốt bụng, mắng 'câm cái mỏ chim lại'
+飞天女弟子	郁竹	ch5_6_4_3	thím	Tiểu Trúc	như với Tiểu Mai
+虞小梅	飞天女弟子	ch5_6_4_3	ta	Nhan tẩu/thím	gốc 颜嫂, 婶子, 大嫂
+郁竹	飞天女弟子	ch5_6_4_3	ta	Nhan tẩu	gốc 颜嫂
+勾魂叟	虞小梅	ch5_6_4_3	lão phu/ta	Ngu sư điệt/ngươi	gốc 老朽 → lão phu, 我 → ta, 虞师侄, 小娘子 → cô nương; giọng ôn hòa khó đoán; hai nàng: 二位师侄 → hai vị sư điệt
+勾魂叟	郁竹	ch5_6_4_3	lão phu/ta	Úc sư điệt/ngươi	gốc 郁师侄, 孩子 → cháu; 老朽 → lão phu, 我 → ta
+虞小梅	勾魂叟	ch5_6_4_3	ta	trưởng lão/ngài	gốc 长老, 您 (mỉa lễ), 这老儿 nghĩ thầm → lão già này
+勾魂叟	余麟	ch5_6_4_3	lão phu/ta	Lân nhi	gốc 麟儿; gốc 我 → ta
+余麟	勾魂叟	ch5_6_4_3	ta	trưởng lão	gốc 长老, 遵命 → tuân lệnh
+荆红	勾魂叟	ch5_6_4_4_4	ta	lão già	gốc 死老头, 糟老头子, 您 mỉa; hấp hối gọi thẳng tên 姚知命
+勾魂叟	荆红	ch5_6_4_4_4	lão phu/vi sư/ta	nghịch đồ/ngươi	gốc 逆徒, 孽徒; 为师 chỉ ở câu lộ thầy trò (D_5_6_4_4_4_1_024–026); gốc 我 → ta
+荆红	虞小梅	ch5_6_4_4_4	tỷ tỷ/ta	Tiểu Mai muội muội/ngươi	gốc 姊姊我, 小梅妹妹 (ngọt giả, mỉa); 虞小梅 cả họ tên khi gắt; 骚货 → con đĩ
+荆红	郁竹	ch5_6_4_4_4	tỷ tỷ/ta	Tiểu Trúc muội muội/ngươi	gốc 小竹妹妹
+虞小梅	荆红	ch5_6_4_4_4	ta	Kinh Hồng tỷ tỷ/ngươi	gốc 荆红姊姊 (ngọt giả), 你/阁下 khi đốp chát
+郁竹	荆红	ch5_6_4_4_4	ta	Kinh Hồng sư tỷ/ngươi	gốc 荆红师姐
+荆红	余麟	ch5_6_4_4_4	ta	Dư hộ pháp/sư đệ	gốc 余护法, 师弟, 师姐我 → sư tỷ đây
+余麟	荆红	ch5_6_4_4_4	ta/bổn hộ pháp	đại sư tỷ/Kinh Hồng	gốc 大师姐, 好你个荆红; 本护法 → bổn hộ pháp
+画中仙	赵活	ch5_6_6_2	nô gia/sư tỷ/ta	sư đệ	gốc 奴家, 师姐我, 师弟; từng giả nữ đệ tử Đường Môn; gốc 我 → ta
+赵活	画中仙	ch5_6_6_2	đệ	sư tỷ	gốc 师姐 (tưởng là sư tỷ Đường Môn)
+姚不知名	虞小梅	ch5_6_5_5	lão phu/tổ sư gia gia/ta	đồ tôn/ngươi	gốc 老夫, 祖师爷爷我, 好徒孙; 本座 → bổn tọa; gốc 我 → ta
+姚不知名	画中仙	ch5_6_5_5	lão phu/vi sư/ta	nghiệt đồ/ngươi	gốc 孽徒, 为师; gốc 我 → ta
+画中仙	姚不知名	ch5_6_5_5	nô gia/ta	lão nhân gia/ngài	gốc 您老人家, 您; cợt nhả; gốc 我 → ta
+姚不知名	赵活	ch5_6_5_5	lão phu/ta	đồ xấu xí/ngươi	gốc 丑东西 → đồ xấu xí; gốc 我 → ta
+赵活	姚不知名	ch5_6_5_5	ta	lão già/ngươi	gốc 老东西 → lão già khốn
+赵活	魏菊	ch5_6_4_2	ta	Ngụy chưởng môn	gốc 魏掌门; 赵某 → Triệu mỗ
+飞天女弟子	虞小梅	ch5_6_4_4_1	ta	Tiểu Mai/sư muội	hết cảnh Nhan tẩu: nữ đệ tử Phi Thiên chung chung, gốc 小梅师妹 → Tiểu Mai sư muội
+飞天女弟子	郁竹	ch5_6_4_4_1	ta	ngươi	hết cảnh Nhan tẩu
+虞小梅	飞天女弟子	ch5_6_4_4_1	ta	sư tỷ	hết cảnh Nhan tẩu
+郁竹	飞天女弟子	ch5_6_4_4_1	ta	sư tỷ	hết cảnh Nhan tẩu
+赵活	虞小梅	ch4_8_7_3	ta	cô	đánh thắng nàng, nàng khuyên hắn trốn: hắn mềm lại, 'cô' (theo chỉ đạo ch4_8_7_3)
+郁父	丹霞子	ch5_6_1	tôi/thảo dân	quan gia	tưởng là quan quân, xun xoe tố cáo: 官爷 → quan gia, 青天大老爷 → quan thanh liêm, 草民 → thảo dân
+郁城	刺客	ch5_6_1	tôi/ta	ngươi	giận hỏi tội: ta – ngươi; bị dọa giết, van xin: tôi
+郁城	夺魄弟子	ch5_6_1	tôi/ta	ngươi	giận hỏi tội: ta – ngươi; van xin: tôi
+颜疆	赵活	ch5_6_7_3	thuộc hạ/ta	tổng chưởng môn/ngài	từ khi Hoạt được 'tổ sư' định làm tổng chưởng môn: gốc 属下 → thuộc hạ, 掌派人/掌派 → tổng chưởng môn, 您 → ngài; lúc thân, đùa (老弟) vẫn có thể 'lão đệ'
+童大虫	赵活	ch5_6_7_3	thuộc hạ/ta	tổng chưởng môn/ngài	từ khi Hoạt được 'tổ sư' định làm tổng chưởng môn: gốc 属下 → thuộc hạ, 掌派人/掌派 → tổng chưởng môn, 您 → ngài; lúc thân, đùa (老弟) vẫn có thể 'lão đệ'
+余麟	赵活	ch5_6_7_3	thuộc hạ/ta	tổng chưởng môn/ngài	từ khi Hoạt được 'tổ sư' định làm tổng chưởng môn: gốc 属下 → thuộc hạ, 掌派人/掌派 → tổng chưởng môn, 您 → ngài; lúc thân, đùa (老弟) vẫn có thể 'lão đệ'
+雷谦	赵活	ch5_6_7_3	ta/thuộc hạ	tổng chưởng môn/ngài	chưởng môn, trưởng lão Không Động với tân tổng chưởng môn: gốc 掌派人 → tổng chưởng môn, 您 → ngài, 属下 → thuộc hạ; vẫn giữ giọng riêng (Lôi Khiêm 洒家 → sái gia, Hỏa Long 本仙君 → bổn tiên quân, Câu Hồn Tẩu 老朽 → lão phu)
+火龙仙君	赵活	ch5_6_7_3	ta/thuộc hạ	tổng chưởng môn/ngài	chưởng môn, trưởng lão Không Động với tân tổng chưởng môn: gốc 掌派人 → tổng chưởng môn, 您 → ngài, 属下 → thuộc hạ; vẫn giữ giọng riêng (Lôi Khiêm 洒家 → sái gia, Hỏa Long 本仙君 → bổn tiên quân, Câu Hồn Tẩu 老朽 → lão phu)
+勾魂叟	赵活	ch5_6_7_3	ta/thuộc hạ	tổng chưởng môn/ngài	chưởng môn, trưởng lão Không Động với tân tổng chưởng môn: gốc 掌派人 → tổng chưởng môn, 您 → ngài, 属下 → thuộc hạ; vẫn giữ giọng riêng (Lôi Khiêm 洒家 → sái gia, Hỏa Long 本仙君 → bổn tiên quân, Câu Hồn Tẩu 老朽 → lão phu)
+黄佩华	赵活	ch5_6_7_3	thuộc hạ/ta	tổng chưởng môn	gốc 属下, 掌派人
+郁竹	赵活	ch5_6_7_3	ta/bổn Trúc	huynh/Triệu Hoạt/tổng chưởng môn	trước mặt người Không Động gọi 掌派人 → tổng chưởng môn, 您 → ngài (cả lúc đùa); riêng tư vẫn huynh/Triệu Hoạt; người yêu (nhánh ch5_6_8_3_4): 赵郎 → Triệu lang, 心上人 → người trong lòng
+虞小梅	赵活	ch5_6_7_3	ta/bổn Mai	A Hoạt/ngươi/tổng chưởng môn	gốc 阿活 → A Hoạt, 你 → ngươi; đùa phép tắc 掌派人 → tổng chưởng môn, 遵命 → tuân lệnh
+盛雪	赵活	ch6_4_3_1	ta	công tử/ngươi	gốc 公子; nghi kỵ, khinh thì 'ngươi'; 这厮 → 'tên này'
+赵活	盛雪	ch6_4_3_1	ta/tại hạ	Thịnh cô nương/cô	gốc 盛娘子 → Thịnh cô nương
+锦香弟子	赵活	ch6_3_5	tiểu nữ/ta	Triệu công tử/công tử/Triệu thiếu hiệp	gốc 小女子 → tiểu nữ, 公子, 赵少侠; tò mò, hay chê thẳng
+赵活	锦香弟子	ch6_3_5	tại hạ/ta	cô nương/nữ hiệp	gốc 女侠 → nữ hiệp; khách ở nhờ, lễ phép
+温夫人	赵活	ch6_4_1	bổn cung/ta	Triệu thiếu hiệp/thiếu hiệp	gốc 本宫, 赵少侠/少侠; lúc nói thật (ch6_4_4_3) có thể 'ta'; gốc 我 → ta
+温夫人	唐默铃	ch6_4_1	bổn cung/ta	Đường cô nương	gốc 唐小娘子 → Đường cô nương; nàng chưa đủ 18: khen trong sáng; gốc 我 → ta
+唐默铃	温夫人	ch6_4_1	vãn bối/muội	tiền bối/cung chủ	gốc 晚辈, 前辈
+温夫人	南宫远	ch6_7_1	ta/bổn cung	ngươi/Nam Cung Viễn	người yêu cũ thành thù: gọi thẳng tên 南宫远; mỉa 妾身 → thiếp, 公子 → công tử
+南宫远	温夫人	ch6_7_1	ta	Nghênh Hương/muội	người yêu cũ: gốc 迎香 → Nghênh Hương, 你 → muội; trước đông người gọi 温夫人 → Ôn phu nhân
+温夫人	画中仙	ch6_6_2_break_start_01	ta/tỷ	Tiên nhi	chị em ruột: gốc 仙儿 → Tiên nhi
+画中仙	温夫人	ch6_6_2_break_start_01	Tiên nhi/muội/ta	tỷ tỷ/sư phụ	gốc 姊姊 → tỷ tỷ; trước người ngoài gọi 师父 → sư phụ; gốc 我 → ta
+虞小梅	温夫人	ch6_7_5	ta/tiểu Mai	cô cô/Ôn phu nhân	gốc 大姑姑/小姑姑 → đại cô cô/tiểu cô cô; trước đó gọi 温夫人
+上官隼	赵活	ch6_5_3_1	ta/Thượng Quan mỗ	tiểu tử/ngươi	gốc 上官某人 → Thượng Quan mỗ, 小子 → tiểu tử, 蠢材 → đồ ngu
+赵活	上官隼	ch6_5_3_1	vãn bối/tại hạ	Thượng Quan tiền bối/gia chủ	gốc 上官前辈, 上官家主; giận thì 'ngươi'
+上官萤	上官隼		con	cha	gốc 爹
+上官隼	上官萤		ta/cha	con/Huỳnh nhi	lạnh, coi con như quân cờ
+宋悲	赵活	ch6_2_1	ta/Tống mỗ	Triệu Hoạt/ngươi/Triệu thiếu hiệp	gốc gọi trống tên 赵活, 赵少侠; công sai cứng, ngầm quý
+听海生	叶云舟	ch6_5_4	vi sư/ta	Vân Chu/nghịch đồ	gốc 逆徒 → nghịch đồ, 为师 → vi sư
+叶云舟	听海生	ch6_5_4	đệ tử	sư phụ	gốc 弟子, 师父
+瑞笙	唐默铃	ch6_5_2_break_start_01	ta/tại hạ	Linh nhi/Đường cô nương	nhánh nàng là vợ Thụy: 铃儿 → Linh nhi, chỉ nói sự việc, không lời tình (chưa đủ 18); nhánh khác 唐姑娘 → Đường cô nương
+唐默铃	瑞笙	ch6_5_2_1	muội/ta	Thụy công tử	gốc 瑞公子
+魏菊	赵活	ch6_5_2_break_start_01	thiếp/thuộc hạ	Triệu lang/phu quân/chàng/tổng chưởng môn	nhánh đã thành thân/đính ước (gốc 赵郎, người lớn): 赵郎 → Triệu lang, 夫君/郎君 → phu quân/phu quân, 你 → 'chàng'; gốc lẫn 妾身/我/小妹 → 'thiếp' cả cảnh (vd ch7_5_2_2); việc công 属下 → thuộc hạ, 掌派人 → tổng chưởng môn; nhánh chưa cưới: tiểu muội – Triệu sư huynh/huynh
+孟仙谣	虞小梅	ch6_6_2_2	bổn huyện chủ/ta	Ngu Tiểu Mai/ngươi/Mai Mai	gốc 虞小梅, 梅梅 → Mai Mai, 梅娘子 → Mai cô nương; chửi 臭女人 → đồ đàn bà thối, 八婆 → bà tám
+孟仙谣	瑞笙	ch6_6_2_2	ta/bổn huyện chủ	phu quân/ngươi	gốc 郎君 → phu quân
+唐惟元	郁竹	Story/D_5_6_8_3_6_152	huynh/ta	Tiểu Trúc sư muội/muội	nhánh Úc Trúc về Đường Môn: gốc 小竹师妹; đồng môn, thân
+郁竹	唐惟元	Story/D_5_6_8_3_6_152	muội/ta	tứ sư huynh/tứ gia	gốc 四师兄 → tứ sư huynh; gốc 四爷 → tứ gia
+虞小梅	赵活	Story/D_5_6_8_3_5_131	ta/bổn Mai/Tiểu Mai	A Hoạt/huynh/tổng chưởng môn	nàng quay lại tìm Hoạt, thổ lộ muốn ở bên chàng: 你 → huynh (không 'ngươi'), 本梅 → bổn Mai, 小梅 tự gọi → Tiểu Mai; đùa phép tắc 掌派 → tổng chưởng môn; trêu, mắng yêu vẫn 'huynh'
+赵活	虞小梅	ch6_3_4	ta	Tiểu Mai/nàng/cô	nhánh đã thành vợ chồng (Hoạt gọi 夫人/我家小梅, nàng gọi 阿活/郎君): 你 → 'nàng', 夫人 → 'phu nhân'; nhánh chỉ là bạn: 'cô' như trước. Người lớn.
+赵活	郁竹	ch6_3_4	ta	Tiểu Trúc/nàng/cô	nhánh đã thành vợ chồng (我家小竹, 竹夫人, nàng gọi 赵郎/掌派夫人): 你 → 'nàng', 竹夫人 → 'Trúc phu nhân'; nhánh bạn: 'cô'. Người lớn.
+郁竹	赵活	ch6_3_4	ta/bổn Trúc	huynh/Triệu Hoạt/Triệu lang/tổng chưởng môn	gốc 赵郎 → Triệu lang, 夫君 → phu quân, 掌派人 → tổng chưởng môn; 你 → huynh; 妾 trong thư → thiếp
+赵活	魏菊	ch6_5_2_break_start_01	ta	Tiểu Cúc/nàng/Ngụy chưởng môn	nhánh đã thành thân: 小菊 → Tiểu Cúc, 夫人/贤内助 → phu nhân/hiền nội trợ, 你 → 'nàng'; nhánh khác: Ngụy chưởng môn/cô
+赵活	上官萤	ch6_10_5	ta	Huỳnh nhi/nàng/Huỳnh cô nương/cô	nhánh hứa hôn, về Đường Môn (萤儿, 未婚妻): 萤儿 → Huỳnh nhi, 萤姑娘 → Huỳnh cô nương, 你 → 'nàng'; nhánh khác 'cô'
+画中仙	赵活	ch6_4_3_1	nô gia/sư tỷ/ta	sư đệ/ngươi	奴家 và 妾身 đều → 'nô gia' (một cách xưng cả cảnh); 师姐我 → sư tỷ; 我 đứng cạnh 奴家/妾身 trong cùng câu cũng 'nô gia'; gốc 我 → ta
+画中仙	*	ch6_4_3_1	nô gia/ta	ngươi	奴家/妾身 → nô gia; gốc 我 → ta
+虞小梅	赵活	ch6_3_4	ta/bổn Mai	A Hoạt/huynh/phu quân	nhánh đã thành vợ chồng (người lớn): 你 → huynh, 我家阿活 → A Hoạt nhà ta, 郎君/夫君 → phu quân, 掌派人 → tổng chưởng môn; nhánh chỉ là bạn: ta – A Hoạt/ngươi như trước
+唐衫	赵活	ch7_3_2_1	đệ/ta	sư huynh/Triệu sư huynh/huynh	đã là đồng môn (lớp sau): 师兄/赵师兄 → sư huynh/Triệu sư huynh, 师弟我 → đệ, 你 → huynh; lễ phép mà thẳng, có lúc khiêu khích để được đấu
+赵活	唐衫	ch7_3_2_1	ta/huynh	đệ/Đường Sam	sư huynh hơi ghét (Sam đẹp trai, từng gây chuyện ở ch4): 你 → đệ, gọi tên 唐衫 → Đường Sam; nói sau lưng: 'tên Đường Sam này'
+唐衫	唐升	ch7_5_4_8	đệ/ta	chưởng môn sư huynh	gốc 掌门师兄 (Thăng đã là chưởng môn)
+唐衫	唐娇娇	ch7_5_4_8	đệ/ta	sư tỷ/Kiều Kiều sư tỷ	gốc 师姐/娇娇师姊; hai người là tình nhân (người lớn), Sam ngượng, hay can
+唐娇娇	唐衫	ch7_5_4_8	ta/bổn Kiều	ngươi/cục cưng/chàng	tình nhân (người lớn), nàng lấn át: 小亲亲 → cục cưng, 男人 gọi thẳng → chàng, 我男人 → người đàn ông của ta, 新宠儿 → cục cưng mới
+唐娇娇	赵活	ch7_5_4_8	ta/bổn Kiều	ngươi/đồ xấu xí	từng đeo bám Hoạt cho vui, nay chê: 丑八怪 → đồ xấu xí; với người khác nói về hắn: 'tên xấu xí này'
+赵活	唐娇娇	ch7_5_4_8	huynh/ta	Kiều Kiều sư muội/muội	gốc 娇娇师妹 (Hoạt gọi đùa là sư muội dù nàng tự nhận sư tỷ)
+唐娇娇	唐升	ch7_5_4_8	ta/bổn Kiều	tam sư huynh/chưởng môn sư huynh	gốc 三师兄, 掌门师兄
+温夫人	虞小梅	Story/D_6_6_2_Break_01_400	ta/cô cô/đại cô cô	con/Tiểu Mai	lộ là cô ruột (gốc 我/大姑姑): ta, hoặc cô cô khi gốc tự gọi 姑姑; gọi con. Nhánh không nhận cháu (gốc 小梅娘子, D_6_7_4_011/071): ta – cô
+虞小梅	温夫人	Story/D_6_6_2_Break_01_400	con/Tiểu Mai	cô cô/đại cô cô	cháu ruột với cô: xưng con (gốc 我/小梅), gọi cô cô; nhánh chưa nhận: ta – cung chủ/Ôn phu nhân
+温夫人	虞小梅	Story/D_6_8_2_Break_01_087	bổn cung/ta	ngươi	người đội lốt Ôn phu nhân, chưa nhận nhau, thử Tiểu Mai: theo gốc 本宫/我 – 你
+虞小梅	温夫人	Story/D_6_8_2_Break_01_087	ta	ngươi	tưởng là kẻ giả mạo, thù địch
+温夫人	虞小梅	Story/D_6_8_2_Break_01_103	ta/cô cô	con	đã nhận nhau: tiểu cô cô (Họa Trung Tiên) giờ mang danh Ôn phu nhân; cô ruột – cháu
+虞小梅	温夫人	Story/D_6_8_2_Break_01_103	con/Tiểu Mai	cô cô	đã nhận nhau: cháu – cô ruột
+画中仙	虞小梅	Story/D_6_7_5_144	ta/cô cô	con	nói thật là cô ruột (亲姑姑), lời trăn trối: ta/cô cô – con; trước đó nô gia – muội, câu 140–142 giả làm hung thủ: ta – ngươi
+虞小梅	画中仙	Story/D_6_7_5_145	con/Tiểu Mai	cô cô/tiểu cô cô	cháu ruột với cô
+南宫深	南宫浅	Story/D_6_8_2_Break_01_157	ta	ngươi/Nam Cung Thiển	từ câu 别叫我大哥: đoạn tuyệt, coi Thiển là người ngoài
+画中仙	虞小梅	Story/D_6_4_3_4_2_066	nô gia/cô cô/ta	muội/Tiểu Mai	nhận là cô họ xa: thân mật, nô gia – muội; câu 6_7_5_140–142 giả làm hung thủ: ta – ngươi; gốc 我 → ta
+沧帮帮主	上官萤		ta/thuộc hạ	đại tiểu thư	
+沧帮帮主	赵活		ta	tổng chưởng môn	gốc 掌派(人)
+南溪	赵活	ch6_9_2_3	ta/tại hạ	Triệu thiếu hiệp/ngươi	lạnh, thẳng; gốc 在下 → tại hạ
+颜疆	赵活	ch8_1_1_2_3_1	thuộc hạ/ta	tổng chưởng môn	thuộc hạ Không Động (gốc 属下, 掌派人)
+赵活	颜疆	ch8_1_1_2_3_1	ta/đệ	Nhan đại ca/huynh	coi là anh em, cấm quỳ (gốc 大哥)
+赵活	上官萤	ch6_10_1	ta	Huỳnh nhi/nàng/Huỳnh cô nương/cô	nhánh hứa hôn (nàng gọi 赵郎, sắp bái đường, vd D_6_10_1_198, 259–281): 你 → 'nàng', 萤儿 → Huỳnh nhi; nhánh khác: Huỳnh cô nương/cô; nói về nàng: 'nàng'
+上官萤	赵活	ch6_10_1	ta	Triệu Hoạt/huynh/Triệu lang/chàng	nhánh hứa hôn/thành thân: câu gốc gọi 赵郎/夫君 hoặc 妾身 (lời ngọt, trang trọng) → Triệu lang/phu quân, đại từ 'chàng' trong câu đó; cãi cọ, bàn việc thường ngày giữ giọng ta – huynh (tính nàng gắt); mắng thật thì 'ngươi'
+唐惟元	上官萤		ta/huynh	đệ muội/Thượng Quan đại tiểu thư/cô	nhánh Huỳnh hứa hôn/thành thân với Hoạt: 弟妹 → đệ muội, 你 → cô; nhánh khác: Thượng Quan đại tiểu thư/cô; người ngoài nữ: không 'ngươi'
+唐惟元	魏菊		ta/huynh	đệ muội/Ngụy chưởng môn/cô	nhánh Ngụy Cúc thành thân với Hoạt: 弟妹 → đệ muội; nhánh khác Ngụy chưởng môn/cô; không 'ngươi'
+赵活	樊啸天	Story/D_7_5_2_9_068	ta	Phàn huynh đệ/huynh đệ/ngươi	nhánh Phàn vẫn bị coi là con trai (gốc 大哥/俺/兄弟, 068–072): vỏ huynh đệ, ta – ngươi
+樊啸天	赵活	Story/D_7_5_2_9_068	ta	đại ca/huynh	nhánh vỏ con trai: 大哥 → đại ca, 俺 → ta
+赵活	樊啸天	Story/D_7_5_2_9_073	huynh	sư muội/muội	hết đoạn nhánh vỏ: trở lại sư huynh – sư muội (đã biết là con gái)
+樊啸天	赵活	Story/D_7_5_2_9_073	ta	sư huynh/đại ca	trở lại: gốc 师兄; quen miệng 大哥 thì 'đại ca'
+唐升	叶云裳	ch7_5_4_8	ông/ông đây	cháu/Thường nhi	Vân Thường nhận Thăng làm ông (爷爷), Thăng chịu vai: 我/爷爷我 → ông/ông đây, 你 → cháu, 裳儿 → Thường nhi; không 'muội', không 'gia gia'
+叶云裳	唐升	ch7_5_4_8	cháu/Thường nhi	ông	gốc 爷爷 → ông (không 'gia gia', không 'ông nội' khi gọi), 您 → ông; 裳儿 tự gọi → Thường nhi
+夏侯兰	赵活	ch7_5_6_3	vi sư/ta/Lan tỷ	đồ đệ/ngươi/đệ	nhánh vừa là thầy vừa là vợ (người lớn): thường vi sư/ta – ngươi; câu gốc tự xưng 兰姊 → Lan tỷ, cả câu đó tỷ – đệ (D_8_1_1_1_238)
+上官萤	赵活	ch8_1_1_1	ta	Triệu Hoạt/huynh	nhánh Huỳnh không thành vợ chồng (D_8_1_1_1_267 我虽不能与你结连理): ta – huynh; nhánh hứa hôn/thành thân giữ dòng ch6_10_1
+赵活	上官萤	ch8_1_1_1	ta	Huỳnh cô nương/cô	nhánh không thành vợ chồng (D_8_1_1_1_257–279): 'cô', không 'nàng'; nhánh hứa hôn/thành thân: Huỳnh nhi/nàng như dòng ch6_10_1
+赵活	解无尘	ch8_2_1	ta	huynh/sư huynh/Giải huynh	đã thân như anh em; Giải đùa gọi 师弟 thì Hoạt đáp 师兄 → sư huynh; 你 → huynh; gốc 解大侠 (khách sáo) → Giải đại hiệp
+解无尘	赵活	ch8_2_1	ta/sư huynh	ngươi/sư đệ	đùa nhận làm sư huynh: 师兄我 → sư huynh đây, 师弟 → sư đệ; 你 → ngươi
+晁和	唐布衣	ch6_8_3	ta	ngươi	đã phản Đường Môn, theo Liên minh: ta – ngươi, hèn mà hống hách; không còn 'đệ – đại sư huynh'
+晁和	*	ch6_8_3	ta	ngươi/các ngươi	với người Đường Môn: ta – ngươi/các ngươi; với Nam Cung Thâm, Tống Bi: ta – ngài/Gia chủ Nam Cung/Tống đại nhân
+唐衫	赵活	ch8_2_5_4	ta	ngươi/Triệu sư huynh	nhánh Sam không được Đường Môn thu nhận, quay lại làm địch: 你 → ngươi; 赵师兄 → Triệu sư huynh (mỉa); không 'đệ', không 'huynh'
+赵活	唐衫	ch8_2_5_4	ta	ngươi	Sam thành địch: ta – ngươi (你这家伙 → thằng này/tên này); không 'đệ'
+唐衫	*	ch8_2_5_4	ta	các ngươi/ngươi	thành địch: với người Đường Môn ta – ngươi/các ngươi; 上官娘子 → Thượng Quan cô nương
+谭霸刀	*	ch8_2_5_2	ta/đại hiệp ta	ngươi/các ngươi	thô ở chữ chửi (臭小子 → thằng nhãi thối, 妈的 → mẹ kiếp), nhưng vẫn ta – ngươi, không mày – tao; 大侠我 → đại hiệp ta đây
+瑞笙	解无尘	ch8_2_6_3_1	ta	Giải đại hiệp/huynh	đã là địch (minh chủ Liên minh) nhưng vẫn nể: gốc 解大侠 → Giải đại hiệp, 你 → huynh; không 'đệ', không 'Giải đại ca'
+解无尘	瑞笙	ch8_2_6_3_1	ta	minh chủ/ngươi	đối địch: gốc 盟主 → minh chủ, 你 → ngươi
+上官萤	南宫深	ch8_3_2_2	ta	Nam Cung gia chủ/đại công tử/ngươi	sau khi cắt đứt hôn ước, đứng về phía Hoạt (ch8_3_2_2): gắt, xa cách, 你 → ngươi, không còn 'chàng'; gọi theo gốc (大公子 → đại công tử)
+向无忧	龙湘		ta/Hướng mỗ	nữ hiệp/chưởng môn/cô	lễ độ với nữ giang hồ (gốc 女侠/掌门/南夫人), đại từ 'cô', không 'ngươi'
+向无忧	夏侯兰		ta/Hướng mỗ	nữ hiệp/chưởng môn/cô	lễ độ với nữ giang hồ (gốc 女侠/掌门/南夫人), đại từ 'cô', không 'ngươi'
+向无忧	南溪		ta/Hướng mỗ	nữ hiệp/chưởng môn/cô	lễ độ với nữ giang hồ (gốc 女侠/掌门/南夫人), đại từ 'cô', không 'ngươi'
+向无忧	叶云裳		ta/Hướng mỗ	Diệp cô nương/cô	gốc 叶小娘子 → Diệp cô nương; lễ độ, đại từ 'cô'
+叶云舟	听海生	ch8_4_10_1	ta	hai vị tiền bối/hai vị	đã bị trục xuất, đứng về phía Đường Môn, đối đầu thầy cũ và sư bá (Điểm Thương song tôn): gọi 二位前辈 → hai vị tiền bối; 我 → ta, không còn 'đệ tử'
+叶云舟	观云客	ch8_4_10_1	ta	hai vị tiền bối/hai vị	như với Thính Hải Sinh: 我 → ta
+赵活	夏侯兰	ch8_4_6_1	ta/đồ đệ	sư phụ/nàng	nhánh vừa là thầy vừa là vợ (người lớn, ch8): gốc 我 → ta, 弟子 → đồ đệ; gọi 师父 → sư phụ, 你 → nàng
+男童	男童	ch8_7_2_1	ta	ngươi	trẻ con chơi với nhau, chế giễu nhau: ta – ngươi (không mày – tao); 我们 → bọn ta, bọn mình
+男童	女童	ch8_7_2_1	ta	ngươi	trẻ con chơi với nhau, chế giễu nhau: ta – ngươi (không mày – tao); 我们 → bọn ta, bọn mình
+男童	幼年赵活	ch8_7_2_1	ta	ngươi	trẻ con chơi với nhau, chế giễu nhau: ta – ngươi (không mày – tao); 我们 → bọn ta, bọn mình
+女童	男童	ch8_7_2_1	ta	ngươi	trẻ con chơi với nhau, chế giễu nhau: ta – ngươi (không mày – tao); 我们 → bọn ta, bọn mình
+女童	幼年赵活	ch8_7_2_1	ta	ngươi	trẻ con chơi với nhau, chế giễu nhau: ta – ngươi (không mày – tao); 我们 → bọn ta, bọn mình
+幼年赵活	男童	ch8_7_2_1	ta	ngươi	trẻ con chơi với nhau, chế giễu nhau: ta – ngươi (không mày – tao); 我们 → bọn ta, bọn mình
+幼年赵活	女童	ch8_7_2_1	ta	ngươi	trẻ con chơi với nhau, chế giễu nhau: ta – ngươi (không mày – tao); 我们 → bọn ta, bọn mình
+男童	书生	ch8_7_2_1	cháu	ông	trẻ con với ông kể chuyện
+女童	书生	ch8_7_2_1	cháu	ông	trẻ con với ông kể chuyện
+少侠	锦香弟子	S0003_02_01	ta	cô nương/cô	gốc 小娘子/你 khi tán tỉnh hay nói chuyện với nữ đệ tử Cẩm Hương chưa thân: cô nương/cô, không 'ngươi' (S0003_02_01)
+叶云舟	点苍弟子		ta/Diệp mỗ	sư huynh/hai người	sư huynh đồng môn cũ đang trở mặt: gốc 我 → ta (không 'tại hạ'), 叶某 → Diệp mỗ; 师兄 → sư huynh, 你们 → hai người/các người
+点苍弟子	叶云舟		ta/bọn ta	Diệp sư đệ/ngươi	sư huynh Điểm Thương đuổi bắt: gốc 叶师弟 → Diệp sư đệ; 我们 → bọn ta
+唐门弟子	赵活	Story/D_S0024_01_004	ta	ngươi/sư đệ	S0024_01: sư huynh nhập thất lôi Hoạt dậy đi làm (lời kể 那师兄), mắng 'đồ lười', khinh khỉnh
+赵活	唐门弟子	Story/D_S0024_01_004	đệ	sư huynh	S0024_01: người đánh thức là sư huynh của Hoạt
+唐门弟子	赵活	Story/D_S0024_01_014	đệ	sư huynh/Triệu sư huynh	hết đoạn S0024_01_004–013: như từ D_4_3_8_4_069
+赵活	唐门弟子	Story/D_S0024_01_014	huynh/ta	sư đệ/các sư đệ	hết đoạn S0024_01_004–013: như từ D_4_3_8_4_069
+叶云啾	*	S0208_01	ta/Diệp mỗ	ngươi/các ngươi	S0208_01: Vân Thường cải trang làm 'Diệp Vân Chu' lùn, nói như đàn ông với đám cầu thân; gốc 叶某 → Diệp mỗ
+大妈	*	S0106_01	ta	các ngươi/ngươi	đại sư cô Đường Tiểu Lâu (người nói 大妈 ở S0106_*, S0202_02_*): gốc 我 → ta; đệ tử gọi bà 大师姑/师姑 → 'sư cô'; Phương (师侄) → 'cháu'; không 'thím'
+大妈	晁和	S0106_01	mẹ nuôi/ta	con	Triều Hòa gọi 干娘 → 'mẹ nuôi'; bà gọi 干儿/儿 → 'con', tự gọi 干娘 → 'mẹ nuôi'
+大妈	*	S0204_01_01	thím	cháu/cậu	hết tuyến đại sư cô: 大妈 lại là các bà thím dân thường (nông dân, hàng xóm); nếu chỉ đạo cảnh ghi là đại sư cô (vd door_special_01_01) thì theo dòng S0106_01
+赵活	樊啸天	S0104_01	ta/huynh	Phàn huynh đệ/sư muội	sự kiện phụ (S01xx trở đi) không theo mốc lộ: theo chữ gốc từng cảnh: gốc 樊兄弟 → 'Phàn huynh đệ', xưng ta/huynh, đại từ 'đệ' (vỏ con trai); gốc 师妹 → huynh – sư muội/muội
+樊啸天	赵活	S0104_01	ta	đại ca/sư huynh	sự kiện phụ: theo gốc từng câu: 大哥 → đại ca, 师兄 → sư huynh; 俺 → ta
+叶云裳	赵活	S0208_01	muội/Thường nhi	ca ca/Triệu ca ca/huynh	tuyến riêng Vân Thường (S0208–S0213): em gái thân thiết; 哥哥 → ca ca, 赵哥哥 → Triệu ca ca, 裳儿 → Thường nhi; lúc dỗi, cố đẩy xa (赵少侠/赵大侠/您, 小女子) → Triệu thiếu hiệp/Triệu đại hiệp, vẫn xưng muội; 哥哥 chỉ Vân Chu → 'ca ca của muội'; 未婚夫婿 (S0212_01) → 'vị hôn phu', không lời tình; chưa đủ 18
+赵活	叶云裳	S0208_01	huynh	Vân Thường/muội	tuyến riêng: sư huynh che chở em gái; 妹子 → 'em gái'; 你 → muội; nói về nàng với người khác: 'muội ấy'/'con bé', không 'nàng' trong thoại; hứa hôn (S0208_06_02_break_start_01, S0212_01) dịch đúng sự việc, không lời tình; chưa đủ 18
+叶云舟	赵活	S0208_01	ta/Diệp mỗ	Triệu huynh/huynh	tuyến riêng: bạn thân, mang ơn cứu em; lúc tạ ơn, thất thần (S0208_06_01) trang trọng → Diệp mỗ; gốc 我 → ta
+赵活	叶云舟	S0208_01	ta	Diệp huynh/huynh	tuyến riêng: bạn thân như anh em; 叶兄 → Diệp huynh
+叶云舟	叶云裳	S0208_01	huynh	Vân Thường/muội	anh ruột, thương mà nghiêm; dọa gia pháp (S0211_01) vẫn huynh – muội
+叶云裳	叶云舟	S0208_01	muội	ca ca	em ruột; trêu anh (S0212_01) vẫn muội – ca ca; 本座 làm bộ → bổn tọa
+完颜珣	龙湘		ta/bác	cháu/Tương nhi	bác – cháu: nghĩa huynh của Long Uyên, cha nàng (gốc 湘儿, 老伯/伯伯); trẫm khi nói việc nước theo gốc 朕
+唐门弟子	赵活	Story/D_S0302_01_016	ta	ngươi/Triệu Hoạt	S0302_01_016: đệ tử bị đánh thức chửi thẳng 妈的赵活, gọi tên: ta – ngươi, chỉ câu này
+唐门弟子	赵活	Story/D_S0302_01_017	đệ	sư huynh/Triệu sư huynh	hết câu chửi S0302_01_016: như từ D_4_3_8_4_069
+唐惟元	夏侯兰		ta/tại hạ/Đường Tứ	Hạ Hầu nữ hiệp	talk_brother4_option_02_03_01: sợ và nịnh nàng; nàng bảo gọi 'Đường Tứ' (唐四), xưng theo gốc
+夏侯兰	唐惟元		ta	ngươi/Đường Tứ/thằng mập	khinh rồi nể một nửa; 小胖子 → 'thằng mập'
+夏侯兰	上官萤		ta	ngươi	con gái kẻ thù (cha nàng không cứu Tuyết Sơn): lạnh, dọa; talk_girl5_02, 02_06
+上官萤	夏侯兰		ta/Huỳnh nhi (khi nhắc cha)	Hạ Hầu nữ hiệp/Hạ Hầu cô nương/ngươi	kiêu, không chịu kém; lúc bị bắt thì sợ mà giữ lễ
+夏侯兰	魏菊		ta	ngươi/Ngụy chưởng môn	đồng môn Không Động; nàng gọi Lan 'U Lan sư tỷ'
+魏菊	夏侯兰		tiểu muội/bổn tọa (lỡ miệng)	U Lan sư tỷ/sư tỷ	sợ Lan, nói vòng vo, khiêm
+邹博	叶云舟		lão đạo/bần đạo	Diệp thiếu hiệp/ngươi	người trẻ có danh (Thương Tùng kiếm khách); travel_result_601_902_03
+虞小梅	瑞笙		ta/bổn Mai	A Sanh/huynh/ngươi	thân từ trước, hay trêu: 'huynh' khi nói thân, 'ngươi' khi cà khịa; lừa Thụy ở section_01_free_08_04
+龙湘	齐壬		ta	ngươi/huynh đệ	đối thủ lạ trên đường; gốc gọi 兄弟 khi bảo băng bó
+瑞笙	虞小梅		tại hạ/ta	Tiểu Mai/cô	lễ độ; gốc 在下 → tại hạ, 我 → ta; ngây thơ tưởng nàng là yêu tinh hạc (section_01_free_08_04)
+吕翁	唐升		Lã mỗ	Đường tam gia/Đường tam hiệp/các người	chủ nợ ngoài mặt khách sáo (gốc 唐三爷, 唐三侠); tức lên thì gọi chung cả Đường Môn 'các người'
+唐升	吕翁		tại hạ/bổn môn	Lã Ông/ông	gốc 吕翁, 您; lễ độ với chủ nợ lớn tuổi, cứng rắn khi bị ép gả tiểu sư muội
+赵活	吕翁		ta	Lã Ông/Lã lão tiên sinh/ông	gốc 吕翁, 吕老先生; nổi giận đuổi khách: ngươi, 吕老胖子 → lão béo họ Lã
+吕翁	赵活		Lã mỗ	ngươi/tên này/thằng nhóc	coi Hoạt là kẻ dưới
+孟仙谣	赵活		bổn huyện chủ/ta	ngươi	gốc 本县主, 我; kiêu, giữ khoảng cách
+赵活	孟仙谣		ta	huyện chủ/huyện chủ đại nhân	gốc 县主; đại từ ngôi hai tránh 'ngươi', dùng 'huyện chủ'
+孟仙谣	孟珙		muội/ta	tứ ca/huynh	anh em khác mẹ, gốc 四哥; nũng, cãi lý
+孟珙	孟仙谣		ta	tiểu muội/muội/Tiên Dao	gốc 小妹, 仙谣; nghiêm như anh cả, mắng khi em làm càn (小丫头 → con nhóc này)
+孟珙	赵活		ta/Mạnh mỗ	Triệu thiếu hiệp/thiếu hiệp/Triệu lão đệ/ngươi	gốc 少侠, 赵老弟; mời gọi mình 'đại ca' (D_S2321_03_01_023)
+赵活	孟珙		ta	Mạnh phó úy/Mạnh đại ca/huynh	gốc 孟副尉, 孟大哥; lúc đầu 孟校尉 → Mạnh hiệu úy
+孟珙	虞小梅		Mạnh mỗ/ta	Ngu cô nương/Ngu nữ hiệp	gốc 虞娘子, 虞女侠; lễ độ
+虞小梅	孟珙		ta/bổn Mai	Mạnh phó úy/Tứ lang	gốc 孟副尉; 四郎 trêu → Tứ lang
+孟珙	赵方		mạt tướng	chế trí sứ	gốc 末将, 制置使; báo cáo quân sự
+赵方	孟珙		lão phu	Mạnh phó úy/ngươi	gốc 老夫, 孟副尉
+赵方	裘志攘		lão phu/bổn soái	đạo trưởng/ngươi	gốc 老夫, 本帅, 道长; giận: 牛鼻子道士 → lão đạo sĩ mũi trâu
+裘志攘	赵方		bần đạo/ta/bọn ta	Triệu lão tướng quân/tướng quân/ngài	gốc 贫道, 我, 我等; 您 → ngài (lễ ngoài, ngạo trong)
+赵方	赵活		lão phu	Triệu thiếu hiệp/thằng nhóc thối	gốc 赵少侠; 臭小子 → thằng nhóc thối (thân, cùng họ Triệu)
+赵活	赵方		thảo dân/tiểu tử/ta	chế trí sứ/ngài	gốc 草民, 小子, 制置使, 您
+丁承烈	赵活		tại hạ/Đinh mỗ/ta	Triệu thiếu hiệp/Triệu huynh đệ/ngươi	gốc 在下, 丁某, 赵少侠, 赵兄弟
+赵活	丁承烈		tại hạ/ta	Đinh hộ vệ/ngươi	gốc 丁护卫
+丁承烈	孟仙谣		thuộc hạ	huyện chủ	gốc 属下, 县主; thân vệ của huyện chủ
+丁承烈	孟珙		thuộc hạ/ta	Mạnh phó úy/phó úy	gốc 属下, 孟副尉, 副尉
+丁承烈	赵方		mạt tướng	chế trí sứ	gốc 末将, 制置使
+婢女	孟仙谣		Tiểu Hủy	huyện chủ/ngài	tỳ nữ Tiểu Hủy (小卉) xưng tên; 您 → ngài; câu nói lễ có 'ạ'
+孟仙谣	婢女		ta/bổn huyện chủ	Tiểu Hủy/ngươi	gốc 小卉
+第三香	夏侯兰		ta	ngươi/Lan	gốc 兰, 你; gặp lại để quyết đấu: lạnh
+第三香	夏侯兰	S2504_02_03	ta	nàng/Lan/Hạ Hầu Lan	sau khi bị đồ đệ nàng đánh bại: giọng mềm lại, gọi 'nàng'; gọi cả họ tên khi hét
+夏侯兰	第三香		ta	ngươi/Đệ Tam Hương	kẻ thù cũ, người yêu năm xưa; hồi ức thời trẻ (S2504_02_01, S2504_02_06) nàng gọi 'huynh/Đệ Tam sư huynh', xưng 'ta' (gốc 妾 → thiếp)
+夏侯梅	第三香		ta	Tam Hương/ngươi/Đệ Tam sư huynh/huynh	hồi ức: gốc 三香, 你; 第三师兄 → Đệ Tam sư huynh, khi thân thì 'huynh'
+第三香	夏侯梅		đệ/ta	Tiểu Mai sư tỷ/tỷ	hồi ức lúc mới gặp: gốc 小梅师姐
+女子	第三香		ta/Cúc Lan	chàng/Hương lang	Cúc Lan (鞠兰) tự nhận là vợ: gốc 香郎 → Hương lang, 你 → chàng
+女子	第三香	S2504_02_03	ta	đại ca/huynh	gốc 大哥 → đại ca, 你 → huynh
+第三香	女子		ta	ngươi/Cúc Lan	gốc 鞠兰; lạnh
+颜疆	虞小梅		ta	Tiểu Mai sư muội/muội/ngươi	gốc 小梅师妹; ra vẻ sư huynh quản em: muội; lúc bắt bẻ: ngươi
+虞小梅	颜疆		ta/bổn Mai	huynh/sư huynh/ngươi	gốc 师兄; cà khịa: ngươi
+火龙仙君	虞小梅		vi sư/bổn tiên quân	ngươi/Tiểu Mai	gốc 为师, 本仙君; sư phụ hống hách
+虞小梅	火龙仙君		ta/đệ tử/bổn Mai	sư phụ/người	gốc 师父, 您 → người; gốc 我 → ta, 弟子 → đệ tử
+丹霞子	虞小梅		ta/bần đạo	Tiểu Mai/muội	gốc 小梅, 师妹
+虞小梅	丹霞子		ta/bổn Mai	đại sư huynh/huynh	gốc 大师兄, 你 → huynh
+虞小梅	孟仙谣		ta/bổn Mai	huyện chủ/cô/ngươi	gốc 县主; lúc đầu đối đầu: ngươi; sau: huyện chủ/cô
+孟仙谣	虞小梅		bổn huyện chủ/ta	ngươi/Ngu cô nương/Mai cô nương/Ngu nữ hiệp	gốc 虞小娘子, 梅娘子, 虞女侠; kiêu
+第三香	夏侯兰	S2504_02_06	ta	ngươi/Lan	hồi ức lúc lâm chung của Lan (S2504_02_06): lời năm xưa, lạnh, 'ngươi'
+郁父	余公子	S2901_03_01_05	ta/lão Úc này/lão già này	Dư công tử/công tử/ngài	nịnh rể giàu: gốc 我 → ta, 老汉/老郁 → lão già này/lão Úc này; với vợ con vẫn lão tử – mày/chúng mày
+郁父	郁竹	S2901_03_01_05	lão tử	mày/con nhãi/Tiểu Trúc	thô, khinh con cả: 这丫头 → con nhãi này; 小竹 → Tiểu Trúc
+郁城	赵活	S2901_03_01_05	ta	ngươi	lúc còn hỗn (trước ch5_6_1): ta – ngươi; chê chị 矮子 → đồ lùn
+郁城	郁竹	S2901_03_01_05	đệ/ta	tỷ/đại tỷ/tỷ tỷ	gốc 大姊 → đại tỷ, 姐/姊姊 → tỷ/tỷ tỷ; hỗn: 你 → tỷ (không 'ngươi' với chị)
+郁竹	郁城		tỷ	A Thành/đệ	gốc 阿城 → A Thành; chị cả dỗ em
+郁竹	郁父		con/ta	cha	gốc 爹 → cha
+余公子	郁竹	S2900_03	tiểu khả/ta/bổn công tử	Trúc cô nương/cô	gốc 小可 → tiểu khả, 竹娘子 → Trúc cô nương, 你 → cô; cả Dư công tử thật lẫn Tiểu Mai cải trang (từ S2900_03_01) đều gọi phụ nữ 'cô', 'nương tử'
+余公子	赵活	S2900_03_01	ta	A Hoạt/ngươi/Triệu huynh đệ	Tiểu Mai cải trang Dư công tử: 阿活 → A Hoạt, 你 → ngươi; trước người ngoài coi Hoạt là gia đinh
+余公子	瑞笙	S2900_03	ta/Dư mỗ	Thụy công tử/huynh	Dư công tử thật: 瑞公子 → Thụy công tử, 余某 → Dư mỗ
+余公子	郁父	S2901_03_01_05	ta/bổn công tử	Úc lão huynh/đại ca/lão huynh	gốc 郁老兄 → Úc lão huynh, 大哥 → đại ca, 老兄 → lão huynh; nhắc vợ chưa cưới: 拙荆 → tiện nội
+夺魄弟子	郁竹	S2700_02_01	ta/sư đệ	Trúc sư tỷ/tỷ	gốc 竹师姐 → Trúc sư tỷ, 你 → tỷ; 师弟 tự xưng → sư đệ
+夺魄弟子	郁竹	S2800_03_06	ta	ngươi/Úc Trúc	Vương Ngũ (nhãn 夺魄弟子): ta – ngươi; Trúc đáp 'ta – Vương Ngũ ngươi'
+郁竹	夺魄弟子	S2800_03_06	ta	ngươi/Vương Ngũ	Vương Ngũ
+铁飞龙	郁竹	S2910_01	ta/Thiết Phi Long ta	ngươi/Liệt Cốt Ma	khinh rồi phục: 小不点 → con nhóc tí hon, 裂骨魔 → Liệt Cốt Ma
+铁飞鹰	铁飞龙	S2914_03	ta	sư huynh/huynh	gốc 师兄
+铁飞鹰	郁竹	S2914_03	ta/bọn ta	cô/ngươi	với nữ đệ tử: 你 → cô; khinh, khích
+鞠冬音	郁竹	S2915_02	ta	Trúc sư muội/sư muội	gốc 竹师妹
+鞠冬音	赵活	S2915_02	ta	Triệu sư đệ/ngươi/các hạ	gốc 赵师弟, 阁下; nói về Ngụy Cúc: 掌门师妹 → chưởng môn sư muội
+青城长老	赵活	S3001_01	lão đạo/ta	Triệu tiểu hữu/thiếu hiệp/ngươi	gốc 赵小友 → Triệu tiểu hữu; trưởng lão dạy võ, ra vẻ hiền
+申屠龙	叶云裳	S3001_01	bần đạo/ta	Diệp cô nương/Diệp cư sĩ	gốc 叶姑娘 → Diệp cô nương; lộ mặt (D_S3001_01_109–113, độc thoại): 吾 → ta, nhắc nàng: 她 → nó; viết thành hại, luyện đan, không gợi tình
+郁竹	妇人	S2920_01	ta	thím Tôn/thím	thím Tôn (孙婶) ở Ngoại bảo
+妇人	郁竹	S2920_01	tôi/dì	cô/Trúc cô nương	thím Tôn; với cháu gái: dì – cháu
+女子	郁竹	S2920_01	em/cháu	chị/Trúc cô nương	cháu gái thím Tôn (甥女); gọi thím 姨/娘 → dì
+赵活	郁竹	S2922_01	ta	Tiểu Trúc/nàng	S2922 là nhánh vợ chồng (kết cục Úc Trúc): 你 → nàng; ngoài nhánh này 'cô'. Người lớn.
+郁竹	赵活	S2922_01	ta/bổn Trúc	huynh/Triệu lang/phu quân/tổng chưởng môn	kết cục: 你 → huynh; riêng tư 赵郎 → Triệu lang, 夫郎 → phu quân; mọi nhánh Trúc nói với Hoạt 'ta – huynh'

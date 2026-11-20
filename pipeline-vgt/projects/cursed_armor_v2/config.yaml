@@ -1,0 +1,15 @@
+# Du an thu, tach tu cursed_armor (vgt fork). Patch o <du an>/patch.
+rpgmaker:
+  font_file: C:/Windows/Fonts/segoeui.ttf
+  js_tables:
+  - file: js/plugins/Z_Wolfzq_Text.js
+    start: var wolfzqText = {
+  js_replace:
+  - file: js/plugins/Z_All.js
+    find: StorageManager.load("language")
+    replace: '""'
+    count: 3
+qa:
+  ten_chung: [50, 51, 52, 53, 54, 55, 59]   # \N[n] la danh tu chung (bible style.notes 2): Lính gác, Dân làng...
+  max_line_chars: 44
+  ui_too_long: warn

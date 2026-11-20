@@ -1,0 +1,4 @@
+FFRS/Content/Paks/FFRS-Windows_0_P.*  # pak vá của bản build: chỉ AssetRegistry, shader, PipelineCache (đã liệt kê index, 2026-11-12); IoStore ucas nén Oodle
+FFRS/Content/Paks/FFRS-Windows.pak  # 2,9 GB, quá giới hạn cầu nối; locres ja/en đã trích sẵn từ pak này (tools/goc), coverage trên bản trích: đủ
+FFRS/Content/Paks/FFRS-Windows.ucas  # 11 GB IoStore nén Oodle; asset UE dùng FText qua locres (khóa ST_*), không quét được trên cloud
+FFRS/Binaries/Win64/FFRS-Win64-Shipping.exe  # 495 MB > giới hạn cầu nối; chữ hiện cho người chơi đi qua locres

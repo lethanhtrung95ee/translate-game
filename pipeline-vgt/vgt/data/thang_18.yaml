@@ -1,0 +1,92 @@
+# THANG TU NGU 18+ dung chung MOI game (G-022, 1_QUYET_DINH muc 4). Luat cot loi: GIU DUNG MUC cua cau goc.
+# Muc (nhe -> nang): noi_tranh < y_hoc < van_h < tho.
+#   noi_tranh: chi dung khi CAU GOC noi tranh (那裡 / あそこ / down there).
+#   y_hoc    : tu y hoc / trung tinh.
+#   van_h    : an du quen cua truyen nguoi lon (khong y hoc, khong chui).
+#   tho      : tu tuc, chui.
+# goc: tu nguon theo ngon ngu (zh/ja/en/ko); vi: tu Viet theo muc. Them tu moi khi gap (kem bang chung trong G-022).
+# 02/11 nguoi dung: bo tu Han-Viet kieu truyen convert (khe thit, hoa huyet, mat huyet, lo nho, con thit,
+# go bong, hau dinh, tinh hoa, giao hoan...) vi 'khong hieu gi ca'; cho kin nu muc van H chi dung 'buom'.
+# Dung cho: (1) prompt dich gia + kiem dinh vien (chi phan ngon ngu nguon cua game), (2) QA [lam nhe?] / [ha muc?] / [nang muc?].
+muc: [noi_tranh, y_hoc, van_h, tho]
+khai_niem:
+- id: duong_vat
+  ten: bộ phận nam
+  goc:
+    zh: {y_hoc: [陰莖, 阴茎, 陽具, 阳具, 男根], van_h: [肉棒, 肉莖, 肉茎, 巨根, 龜頭, 龟头], tho: [雞巴, 鸡巴, 屌, 大屌, 老二]}
+    ja: {y_hoc: [陰茎, ペニス, 男根], van_h: [肉棒, おちんちん, イチモツ, 亀頭], tho: [ちんぽ, チンポ, ちんこ, チンコ]}
+    en: {y_hoc: [penis, phallus], van_h: [member, shaft, manhood], tho: [cock, dick, prick]}
+    ko: {y_hoc: [음경, 성기], tho: [자지, 좆]}
+  vi: {noi_tranh: [cái ấy, chỗ ấy, thằng nhỏ, cái đó, thứ đó, thứ kia], y_hoc: [dương vật, quy đầu], van_h: [gậy thịt, cây hàng, của quý, đầu khấc], tho: [cặc, buồi, con cu, dái]}
+  nhan_dien: {van_h: [côn thịt]}
+- id: am_ho
+  ten: bộ phận nữ
+  goc:
+    zh: {y_hoc: [陰道, 阴道, 陰部, 阴部, 陰唇, 阴唇, 陰蒂, 阴蒂], van_h: [小穴, 肉穴, 蜜穴, 花穴, 嫩穴, 騷穴, 骚穴, 淫穴, 你的洞, 洞里, 洞裡, 花心, 子宮, 子宫], tho: [屄, 騷屄, 骚屄, 賤屄, 贱屄]}
+    ja: {y_hoc: [膣, 陰部, ヴァギナ, 陰核, クリトリス, 子宮], van_h: [秘部, 蜜壺, 割れ目, 秘所], tho: [まんこ, マンコ, おまんこ, オマンコ]}
+    en: {y_hoc: [vagina, vulva, labia, clitoris, womb], van_h: [slit, folds, honeypot], tho: [pussy, cunt, twat]}
+    ko: {y_hoc: [질, 음부], tho: [보지]}
+  vi: {noi_tranh: [chỗ ấy, bên dưới, chỗ kín, cái ấy, bên trong em, nơi đó], y_hoc: [âm đạo, âm hộ, môi âm hộ, âm vật, tử cung, cửa mình], van_h: [bướm], tho: [lồn]}
+  nhan_dien: {van_h: [khe thịt, hoa huyệt, mật huyệt, lỗ nhỏ, khe hồng, hang, huyệt, lỗ], tho: [cái lỗ dâm]}
+- id: nguc
+  ten: ngực
+  goc:
+    zh: {y_hoc: [乳房, 胸部, 乳頭, 乳头, 乳暈, 乳晕], van_h: [雙峰, 双峰, 酥胸, 美乳, 巨乳], tho: [奶子, 騷奶, 骚奶, 大奶子]}
+    ja: {y_hoc: [乳房, 乳首, 乳輪], van_h: [おっぱい, 巨乳, 爆乳], tho: [デカパイ]}
+    en: {y_hoc: [breasts, nipples, areola], van_h: [bosom, chest], tho: [tits, boobs, titties]}
+    ko: {y_hoc: [유방, 젖꼭지], tho: [젖통]}
+  vi: {noi_tranh: [phía trước, chỗ đó], y_hoc: [bầu ngực, ngực, núm vú, đầu vú, quầng vú], van_h: [cặp ngực, bầu vú, đôi bầu], tho: [vú, đầu ti, cặp vú, vếu]}
+  nhan_dien: {van_h: [gò bồng, đôi gò]}
+- id: hau_mon
+  ten: hậu môn
+  goc:
+    zh: {y_hoc: [肛門, 肛门], van_h: [後庭, 后庭, 菊穴, 菊花], tho: [屁眼]}
+    ja: {y_hoc: [肛門], van_h: [アナル, 尻穴, 菊門], tho: [ケツ穴]}
+    en: {y_hoc: [anus, rectum], van_h: [backdoor, rear], tho: [asshole, butthole]}
+    ko: {y_hoc: [항문], tho: [똥구멍]}
+  vi: {noi_tranh: [phía sau, đằng sau], y_hoc: [hậu môn, trực tràng], van_h: [cửa sau, lỗ sau], tho: [lỗ đít, lỗ hậu]}
+  nhan_dien: {van_h: [hậu đình, hoa cúc]}
+- id: tinh_dich
+  ten: tinh dịch
+  goc:
+    zh: {y_hoc: [精液, 精子], van_h: [白濁, 白浊, 精華, 精华, 子孫], tho: [臭精, 濃精, 浓精]}
+    ja: {y_hoc: [精液, 精子], van_h: [白濁, 子種], tho: [ザーメン, 精子汁]}
+    en: {y_hoc: [semen, sperm], van_h: [seed, load], tho: [cum, jizz, spunk]}
+    ko: {y_hoc: [정액]}
+  vi: {noi_tranh: [thứ đó, cái đó], y_hoc: [tinh dịch, tinh trùng], van_h: [dịch trắng, hạt giống], tho: [tinh, khí, nước tinh]}
+  nhan_dien: {van_h: [tinh hoa, dòng tinh]}
+- id: giao_hop
+  ten: giao hợp
+  goc:
+    zh: {y_hoc: [性交, 交合, 做愛, 做爱, 性行為, 性行为], van_h: [交歡, 交欢, 雲雨, 云雨, 侵犯, 插入], tho: [肏, 操我, 幹我, 干我, 被幹, 被干, 日你]}
+    ja: {y_hoc: [性交, セックス], van_h: [交わる, 挿入, 犯す], tho: [ハメる, ヤる, ハメ]}
+    en: {y_hoc: [intercourse, have sex, sex], van_h: [take her, make love, penetrate], tho: [fuck, fucking, screw]}
+    ko: {y_hoc: [성교, 섹스], tho: [박아]}
+  vi: {noi_tranh: [chuyện ấy, làm chuyện đó, chuyện đó], y_hoc: [giao hợp, quan hệ, làm tình], van_h: [ân ái, mây mưa, đâm vào, cắm vào, xâm phạm, chiếm đoạt], tho: [địt, đụ, chịch, nện]}
+  nhan_dien: {van_h: [giao hoan]}
+- id: len_dinh
+  ten: lên đỉnh
+  goc:
+    zh: {y_hoc: [高潮], van_h: [洩身, 泄身, 去了, 要去了]}
+    ja: {y_hoc: [絶頂, オーガズム], van_h: [イク, イッちゃう, イっちゃう, イった]}
+    en: {y_hoc: [orgasm, climax], van_h: [cum, coming]}
+    ko: {y_hoc: [절정, 오르가즘], van_h: [가버]}
+  vi: {noi_tranh: [sướng quá], y_hoc: [cực khoái, cao trào], van_h: [lên đỉnh, ra rồi, ra mất, xuất, tới rồi]}
+- id: thu_dam
+  ten: thủ dâm
+  goc:
+    zh: {y_hoc: [自慰, 手淫], tho: [打手槍, 打手枪, 擼, 撸]}
+    ja: {y_hoc: [自慰, オナニー], tho: [シコる]}
+    en: {y_hoc: [masturbate, masturbation], tho: [jerk off, wank, fap]}
+    ko: {y_hoc: [자위]}
+  vi: {noi_tranh: [tự an ủi], y_hoc: [thủ dâm], van_h: [tự sướng, tự thỏa mãn], tho: [quay tay, sục, móc]}
+- id: khau_dam
+  ten: khẩu dâm
+  goc:
+    zh: {y_hoc: [口交], van_h: [吹簫, 吹箫, 含住, 舔], tho: [吃屌, 吃雞巴, 吃鸡巴]}
+    ja: {y_hoc: [口淫], van_h: [フェラ, 咥え, 舐め], tho: [しゃぶ]}
+    en: {y_hoc: [oral sex, fellatio, cunnilingus], van_h: [blowjob, suck, lick], tho: [deepthroat, face-fuck]}
+    ko: {y_hoc: [구강성교], van_h: [빨아]}
+  vi: {noi_tranh: [dùng miệng], y_hoc: [khẩu dâm, quan hệ bằng miệng], van_h: [ngậm, mút, liếm, thổi kèn], tho: [bú, bú cặc, bú lồn]}
+# Tu nguon da nghia (cung dung ngoai canh nong): van dua vao prompt, nhung QA KHONG dung de do muc (tranh bao nham).
+qa_bo_qua: [舔, 插入, 侵犯, 含住, 去了, 要去了, 犯す, 挿入, 舐め, 咥え, 交わる, member, shaft, manhood, sex, cum, coming, suck, lick, rear, load, seed, chest, bosom, backdoor, screw, take her, penetrate, make love, 菊花, 子孫, 精華, 精华, 花心, 子宮, 子宫, 胸部, 乳房, 精子, 白濁, 白浊, 高潮, 絶頂, climax, 自慰, 侵犯, 洞里, 洞裡, 巨乳, おっぱい, 빨아, 가버, 박아, イク, 秘所]

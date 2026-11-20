@@ -1,0 +1,440 @@
+speaker	listener	tu_canh	xung	goi	note
+龍木	タマ		tôi	Tama/cậu	cộng sự AI, nói thân, thường gọi tên; Tama nổi khùng thì Ryuki xuống giọng xin lỗi
+龍木	ボス		tôi	Sếp	cấp dưới với chỉ huy, kính ngữ
+龍木	伊達		em	anh Date	đàn em với tiền bối thân (伊達さん)
+龍木	米治		tôi	ông Komeji	lịch sự với người lớn tuổi (46)
+龍木	祥磨		anh	Shoma/em	Shoma nhỏ hơn nhiều, Ryuki hiền
+龍木	イリス		anh	Iris/em	Iris 18 tuổi, quen qua vụ án
+龍木	みずき１８		anh	Mizuki/em	Ryuki 29, Mizuki 18, quen từ khi cô bé còn nhỏ (きみ)
+龍木	みずき		anh	Mizuki/em	bé 12 tuổi, con nuôi tiền bối (みずきちゃん)
+龍木	みずき姉１８		anh	Mizuki/em	người đọc thấy là Mizuki
+龍木	時雨		tôi	bà Tokiko	lịch sự với lãnh đạo NAIX 53 tuổi, đang điều tra
+龍木	ライアン		tôi	Lien/cậu	gần tuổi nhau (22–23)
+龍木	厳		tôi	anh Gen	khách với chủ quán, lịch sự
+龍木	アイボゥ		tôi	Aiba	AI của đồng nghiệp
+龍木	亜麻芽		anh	Amame/em	Amame 18 tuổi
+龍木	絆		anh	Kizuna/em	Kizuna 18 tuổi
+龍木	絆２４		anh	Kizuna/em	nhỏ tuổi hơn
+龍木	応太		tôi	anh Ota	Ota hơn một tuổi nên Ryuki dùng kính ngữ
+龍木	ママ		tôi	Mama	khách quen quán bar
+龍木	法螺鳥		tôi	ông Chikara	lịch sự với viện trưởng 60 tuổi
+龍木	猛馬		tôi	ông Moma	lịch sự, dè chừng trùm yakuza
+龍木	仮面の女		tôi	cô	người lạ đáng ngờ
+龍木	ネエネ		tôi	cô	đồng nghiệp ngầm trẻ hơn
+龍木	稚枝		tôi	ông Riichi	lịch sự với chủ tịch trại trẻ
+龍木	テアラァ		tôi	anh	Ryuki vốn lịch sự; câu gốc chửi (テメエ/貴様) mới xuống mày
+龍木	鑑識官		tôi	anh Kagami	đồng nghiệp cảnh sát lớn tuổi
+龍木	刑事		tôi	anh Ushidera	đồng nghiệp lớn tuổi, bị khinh nhưng vẫn lễ phép
+龍木	受付嬢		tôi	cô	người lạ lịch sự
+龍木	陳平		tôi	anh Chinpei	người lạ lịch sự
+龍木	看護師		tôi	chị	y tá lớn tuổi hơn
+龍木	瞳		tôi	chị Hitomi	mẹ Iris, lịch sự
+龍木	世島		tôi	ông Sejima	cựu nghị sĩ lớn tuổi
+龍木	牡丹井		tôi	anh Mamoru	người lạ lịch sự
+龍木	出題者		tôi	ông	MC trong mơ
+龍木	研究員		tôi	anh	người lạ
+龍木	*		tôi	anh/chị/ông/bà theo tuổi	Ryuki lễ phép với mọi người
+タマ	龍木		tôi	Ryuki/cậu	cộng sự, trêu chọc. Khi nổi khùng (あぁ～!?, テメエ, タコ作): tao – mày rồi trở lại 'tôi – cậu'
+タマ	ボス		tôi	Sếp	chỉ huy
+タマ	*		tôi	theo tuổi: anh/chị/cô/ông/bà	AI lịch sự kiểu tự tin
+アイボゥ	みずき１８		tôi	Mizuki/cô	cộng sự kiêm người giám hộ, giọng cứng
+アイボゥ	みずき姉１８		tôi	Mizuki/cô	người đọc thấy là Mizuki
+アイボゥ	龍木		tôi	Ryuki/cậu	AI lão luyện với người trẻ
+アイボゥ	ライアン		tôi	cậu	người trẻ
+アイボゥ	伊達		tôi	Date/anh	cộng sự cũ, cãi nhau như bạn lâu năm
+アイボゥ	ボス		tôi	Sếp	chỉ huy
+アイボゥ	*		tôi	theo tuổi: anh/chị/cô/cậu	trung tính, khô
+みずき１８	アイボゥ		mình	Aiba/cậu	cộng sự thân như bạn
+みずき１８	仮面の女		tôi	cô	kẻ lạ từng bắn mình, cảnh giác
+みずき１８	仮面の女	c510_M1_Genzai_Children	em	chị	biết cô ấy là chị 'cùng gen' của mình
+みずき１８	ネエネ		em	chị Bibi/chị	chị gái thân
+みずき１８	ライアン		em	anh Lien	bạn lớn tuổi hơn, gọi tên trơn ライアン
+みずき１８	ボス		em	Sếp	cấp dưới thân, ít kính ngữ
+みずき１８	龍木		tôi	anh/Ryuki	gọi trống 龍木, bực vì anh ta sa sút; giữ khoảng cách
+みずき１８	祥磨		mình	Shoma/cậu	ngang tuổi (18), thân
+みずき１８	亜麻芽		em	chị Amame	Amame 24, gọi 麻芽ちゃん thân thiết
+みずき１８	伊達		tôi	Date/ông	bố nuôi nhưng gọi trống 伊達, kiểu cãi nhau thân
+みずき１８	絆２４		mình	Kizzy/cậu	bạn thân, gọi biệt danh 絆っち
+みずき１８	厳		em	anh Gen	厳ちゃん, thân như anh
+みずき１８	イリス２４		em	chị Iris	bạn thân lớn tuổi hơn
+みずき１８	応太３０		em	anh Ota	応たん, thân
+みずき１８	ピュータ		cháu	chú Pewter	đồng nghiệp lớn tuổi, nói suồng sã
+みずき１８	鑑識官		tôi	chú	gọi おじさん, cấp bậc cao hơn ông ấy
+みずき１８	刑事		tôi	ông	bị ông ta khinh, đáp lại cứng
+みずき１８	ママ		em	Mama	khách quen
+みずき１８	猛馬		tôi	chú Moma	quen biết, cà khịa
+みずき１８	稚枝		cháu	bác Riichi	quen từ nhỏ ở trại trẻ
+みずき１８	テアラァ		tôi	anh/hắn	đối đầu; câu gốc chửi mới xuống mày
+みずき１８	時雨		tôi	bà	người lạ đáng ngờ
+みずき１８	看護師		em	chị	lịch sự
+みずき１８	受付嬢		em	chị	nhân viên công ty mình nhưng lớn tuổi hơn
+みずき１８	*		tôi	anh/chị/cô/chú theo tuổi	thẳng tính, ít kính ngữ
+みずき姉１８	アイボゥ		mình	Aiba/cậu	vỏ Mizuki: giữ như Mizuki 18
+みずき姉１８	ライアン		em	anh Lien	vỏ Mizuki
+みずき姉１８	厳		em	anh Gen	vỏ Mizuki
+みずき姉１８	龍木		tôi	anh/Ryuki	vỏ Mizuki
+みずき姉１８	鑑識官		tôi	chú	vỏ Mizuki
+みずき姉１８	伊達		tôi	Date/ông	vỏ Mizuki
+みずき姉１８	祥磨		mình	Shoma/cậu	vỏ Mizuki
+みずき姉１８	テアラァ		tôi	anh/hắn	vỏ Mizuki
+みずき姉１８	猛馬イリス		tôi	chú Moma	vỏ Mizuki
+みずき姉１８	時雨		tôi	bà	vỏ Mizuki
+みずき姉１８	ボス		em	Sếp	vỏ Mizuki
+みずき姉１８	ママ		em	Mama	vỏ Mizuki
+みずき姉１８	刑事		tôi	ông	vỏ Mizuki
+みずき姉１８	*		tôi	anh/chị/cô/chú theo tuổi	vỏ Mizuki: như Mizuki 18
+みずき	龍木		em	anh Ryuki	bé 12 tuổi với người lớn (龍木さん), giọng tỉnh bơ
+みずき	タマ		em	chị Tama	AI của Ryuki
+みずき	絆		mình	Kizzy	bạn thân dù hơn 6 tuổi; Kizuna gọi ngược là 'chị'
+みずき	伊達		tôi	Date/ông	bố nuôi, gọi trống 伊達, cà khịa
+みずき	ライアン		em	anh Lien	người lớn quen
+みずき	祥磨		tớ	Shoma/cậu	cùng tuổi
+みずき	応太		em	anh Ota	応たん
+みずき	イリス		em	chị Iris	bạn thân lớn hơn
+みずき	*		em	anh/chị/chú/cô theo tuổi	trẻ con với người lớn, lém lỉnh
+ライアン	みずき１８		anh	Mizuki/em	bạn lớn tuổi hơn
+ライアン	みずき姉１８		anh	Mizuki/em	vỏ Mizuki
+ライアン	みずき		anh	Mizuki/em	bé 12 tuổi
+ライアン	絆２４		anh	Kizzy/em	người yêu, gọi 絆っち
+ライアン	絆		anh	Kizzy/em	người mình theo đuổi, gọi 絆っち
+ライアン	龍木		tôi	Ryuki/cậu	gần tuổi, gọi おまえ thân
+ライアン	アイボゥ		tôi	Aiba	
+ライアン	*		tôi	anh/chị/cậu theo tuổi	thoải mái
+米治	龍木		tôi	cậu Ryuki	龍木はん/あんさん: giọng MC xởi lởi
+米治	タマ		tôi	cô Tama	
+米治	応太		tôi	cậu Ota	người trẻ quen
+米治	祥磨		bố	con/Shoma	父ちゃん
+米治	亜麻芽		bố	con/Amame	con gái ruột
+米治	*		tôi	anh/chị/cậu/cô	dân diễn khúm núm
+祥磨	龍木		em	anh Ryuki	龍木さん
+祥磨	みずき１８		mình	Mizuki/cậu	gọi trống みずき, ngang tuổi
+祥磨	みずき姉１８		mình	Mizuki/cậu	vỏ Mizuki
+祥磨	みずき		tớ	Mizuki/cậu	cùng tuổi
+祥磨	米治		con	bố	父さん
+祥磨	亜麻芽		em	chị	姉ちゃん
+祥磨	タマ		em	chị Tama	
+祥磨	*		em	anh/chị	cụt, lạnh
+ボス	龍木		tôi	Ryuki/cậu	龍木くん
+ボス	みずき１８		chị	Mizuki/em	thân từ nhỏ, Sếp thích tự coi mình trẻ
+ボス	みずき姉１８		chị	Mizuki/em	vỏ Mizuki
+ボス	みずき		chị	Mizuki/em	bé 12 tuổi
+ボス	ネエネ		chị	em	người thân cận
+ボス	アイボゥ		tôi	Aiba	
+ボス	タマ		tôi	Tama	
+ボス	ピュータ		tôi	Pewter/anh	cấp dưới
+ボス	伊達		tôi	Date/cậu	伊達くん
+ボス	*		tôi	anh/chị/cậu/cô	chỉ huy
+伊達	龍木		anh	Ryuki/cậu	tiền bối thân với đàn em (おまえ); Ryuki xưng em – anh Date nên Date xưng anh
+伊達	みずき１８		tôi	Mizuki/nhóc	bố nuôi kiểu bạn cùng nhà
+伊達	みずき姉１８		tôi	Mizuki/nhóc	vỏ Mizuki
+伊達	みずき		tôi	Mizuki/nhóc	bé 12 tuổi
+伊達	ネエネ		tôi	cô	người trẻ quen
+伊達	ボス		tôi	Sếp	cấp trên cũ
+伊達	アイボゥ		tôi	Aiba	cộng sự cũ
+伊達	タマ		tôi	Tama	
+伊達	厳		tôi	Gen	bạn lâu năm
+伊達	亜麻芽		tôi	cô/Amame	
+伊達	祥磨		tôi	nhóc/Shoma	
+伊達	*		tôi	anh/chị/cô/cậu	bất cần
+亜麻芽	みずき１８		chị	Mizuki/em	みずきちゃん, hơn 6 tuổi
+亜麻芽	厳		em	anh Gen	厳ちゃん, thân như người nhà
+亜麻芽	龍木		em	anh Ryuki	lễ phép
+亜麻芽	アイボゥ		tôi	Aiba	
+亜麻芽	米治		con	bố	bố ruột
+亜麻芽	イリス		mình	Iris/cậu	bạn cùng lớp
+亜麻芽	祥磨		chị	em	em trai
+亜麻芽	閏		tôi	anh	người lạ đáng sợ
+亜麻芽	*		em	anh/chị	dịu dàng
+ネエネ	みずき１８		chị	em/Mizuki	chị 'cùng gen'
+ネエネ	アイボゥ		tôi	Aiba	từng làm việc cùng
+ネエネ	伊達		tôi	Date/anh	gọi trống 伊達
+ネエネ	ボス		tôi	Sếp	chỉ huy kiêm mẹ nuôi, giữ cách gọi công việc
+ネエネ	龍木		tôi	Ryuki/anh	đồng nghiệp lớn tuổi hơn, gọi trống
+ネエネ	ライアン		tôi	anh Lien	
+ネエネ	祥磨		chị	em/Shoma	
+ネエネ	絆２４		chị	em/Kizuna	sống chung 6 năm
+ネエネ	稚枝		cháu	bác Riichi	từng được ông ấy cưu mang
+ネエネ	*		tôi	anh/chị	điềm tĩnh
+厳	みずき１８		anh	Mizuki/em	きみ, hiền
+厳	みずき姉１８		anh	Mizuki/em	vỏ Mizuki
+厳	龍木		tôi	anh Ryuki	lịch sự với khách
+厳	亜麻芽		anh	em/Amame	che chở
+厳	アイボゥ		tôi	Aiba	
+厳	タマ		tôi	cô Tama	
+厳	伊達		tôi	anh Date	伊達さん
+厳	*		tôi	quý khách/anh/chị	lịch sự
+仮面の女	みずき１８		tôi	cô	lạnh, giữ khoảng cách (おまえ)
+仮面の女	みずき１８	c510_M1_Genzai_Children	chị	em	đã nhận là chị em
+仮面の女	龍木		tôi	anh	lạnh lùng (おまえ)
+仮面の女	アイボゥ		tôi	Aiba	
+仮面の女	法螺鳥		tôi	ông	kẻ thù
+仮面の女	*		tôi	anh/cô	cụt, lạnh
+ママ	龍木		chị	cưng/Ryuki	龍木ちゃん, lẳng lơ
+ママ	みずき１８		chị	cưng/Mizuki	みずきちゃん
+ママ	みずき姉１８		chị	cưng/Mizuki	vỏ Mizuki
+ママ	タマ		chị	Tama	
+ママ	*		chị	cưng	kể cả khi nói thẳng với người chơi
+イリス	龍木		em	anh Ryuki	龍木さん
+イリス	タマ		em	chị Tama	
+イリス	亜麻芽		mình	Amame/cậu	bạn cùng lớp, 麻芽ちゃん
+イリス	応太		em	anh Ota	fan ruột
+イリス	猛馬		em	chú Moma	fan ruột lớn tuổi
+イリス	絆		mình	Kizuna/cậu	bạn cùng lớp
+イリス	みずき		chị	Mizuki/em	bạn nhỏ tuổi
+イリス	*		em	anh/chị	
+イリス２４	みずき１８		chị	Mizuki/em	みずきちゃん
+イリス２４	応太３０		em	anh Ota	
+イリス２４	*		em	anh/chị	
+絆	ライアン		em	anh Lien	người theo đuổi mình
+絆	龍木		em	anh Ryuki	lễ phép kiểu tiểu thư
+絆	みずき		em	chị/chị Mizuki	gọi お姉様 dù lớn hơn 6 tuổi — giữ trò này
+絆	イリス		mình	bạn Iris	bạn cùng lớp, lịch sự (イリスさん)
+絆	アイボゥ		tôi	Aiba	
+絆	応太		em	anh Ota	
+絆	稚枝		con	cha	お父様, kính cẩn
+絆	*		em	anh/chị	trang trọng
+絆２４	みずき１８		em	chị	お姉様
+絆２４	ライアン		em	anh/Lien	người yêu
+絆２４	アイボゥ		tôi	Aiba	
+絆２４	仮面の女		em	chị	お姉様
+絆２４	ネエネ		em	chị	お姉様; về sau gọi phân biệt 'chị lớn'/'chị nhỏ'
+絆２４	龍木		em	anh Ryuki	
+絆２４	稚枝		con	cha	
+絆２４	*		em	anh/chị	trang trọng
+応太	米治		tôi	chú Komeji	người lớn tuổi
+応太	龍木		tôi	anh Ryuki	龍木さん
+応太	みずき		anh	Mizuki/em	bé 12
+応太	イリス		anh	Iris/em	idol mình mê
+応太	絆		anh	Kizuna/em	
+応太	猛馬		tôi	ông Moma	
+応太	*		tôi	anh/chị	
+応太３０	みずき１８		anh	Mizuki/em	みずきちゃん
+応太３０	イリス２４		anh	Iris/em	
+応太３０	アイボゥ		tôi	Aiba	
+応太３０	運転手		tôi	bác	lớn tuổi
+応太３０	*		tôi	anh/chị	
+時雨	龍木		tôi	anh Ryuki	kính ngữ, điềm tĩnh
+時雨	タマ		tôi	cô	
+時雨	みずき姉１８		tôi	cô Mizuki	
+時雨	亜麻芽		tôi	cô	
+時雨	テアラァ		tôi	anh	
+時雨	*		tôi	anh/chị	lịch sự
+ピュータ	みずき１８		chú	Mizuki/cháu	みずきちゃん, lớn hơn 25 tuổi
+ピュータ	ボス		tôi	Sếp	
+ピュータ	龍木		tôi	Ryuki/cậu	龍木くん
+ピュータ	ネエネ		tôi	cô	
+ピュータ	タマ		tôi	Tama	
+ピュータ	アイボゥ		tôi	Aiba	
+ピュータ	*		tôi	anh/chị	
+法螺鳥	龍木		tôi	anh Ryuki	lịch sự giả tạo
+法螺鳥	タマ		tôi	cô	
+法螺鳥	アイボゥ		ta	ngươi	trong ác mộng (M13): kẻ thí nghiệm rợn người
+法螺鳥	仮面の女		ta	ngươi	trong ác mộng: coi đứa trẻ là vật thí nghiệm
+法螺鳥	*		tôi	anh/chị	ngoài đời lịch sự; trong ác mộng ta – ngươi
+猛馬	龍木		tôi	cậu	おまえ, cục mà không khinh
+猛馬	みずき１８		tôi	nhóc	quen biết
+猛馬	イリス		chú	cháu/Iris	idol mình mê, ngượng
+猛馬	陳平		anh	chú	đại ca với đàn em cũ
+猛馬	タマ		tôi	cô	
+猛馬	*		tôi	cậu/cô	cục cằn
+猛馬イリス	みずき姉１８		tôi	nhóc	như Moma
+猛馬イリス	みずき１８		tôi	nhóc	như Moma
+猛馬イリス	ライアン		tôi	cậu	
+猛馬イリス	陳平		anh	chú	
+猛馬イリス	*		tôi	cậu/cô	như Moma
+陳平	龍木		tôi	cậu	gần tuổi
+陳平	受付嬢		anh	em	律っちゃん, người yêu
+陳平	猛馬		em	đại ca	親分
+陳平	猛馬イリス		em	đại ca	親分
+陳平	*		tôi	anh/chị	bụi
+稚枝	龍木		tôi	cậu	きみ
+稚枝	ネエネ		bác	cháu	từng cưu mang (暮主くん)
+稚枝	みずき１８		bác	cháu	biết từ bé
+稚枝	ライアン		tôi	cậu	lạnh lùng, không chấp nhận
+稚枝	タマ		tôi	cô	
+稚枝	絆		cha	con	
+稚枝	絆２４		cha	con	
+稚枝	*		tôi	cậu/cô	nghiêm
+テアラァ	*		ta	ngươi	kẻ sát nhân trịch thượng; khi giả lịch sự gọi tên (くん)
+テアラァ	龍木		ta	ngươi/Ryuki	
+テアラァ	みずき姉１８		ta	ngươi	
+テアラァ	世島		ta	ngươi	
+テアラァ	伊達		ta	ngươi/Date	
+閏	亜麻芽		tôi	em	dỗ dành kiểu cuồng tín (きみ)
+閏	*		tôi	em/anh/chị	
+刑事	龍木		tôi	cậu	khinh, mỉa (おまえ), không có テメエ nên không mày – tao
+刑事	みずき１８		tôi	nhóc/cô	coi là con nít (ガキンチョ)
+刑事	みずき姉１８		tôi	nhóc/cô	vỏ Mizuki
+刑事	*		tôi	cậu/cô	thô
+鑑識官	龍木		tôi	anh Ryuki	lễ phép
+鑑識官	みずき１８		tôi	cô Mizuki	cô cấp bậc cao hơn
+鑑識官	みずき姉１８		tôi	cô Mizuki	vỏ Mizuki
+鑑識官	みずき		chú	cháu/nhóc	mắng bé 12 tuổi
+鑑識官	刑事		tôi	anh Ushidera	
+鑑識官	*		tôi	anh/chị/cô	lễ phép
+看護師	*		tôi	anh/chị/em	lịch sự, nhiều chuyện
+受付嬢	龍木		em	anh	lẳng lơ
+受付嬢	みずき１８		chị	em/giám đốc	Mizuki là giám đốc nhưng nhỏ tuổi
+受付嬢	陳平		em	anh	người yêu
+受付嬢	*		em	anh/chị	
+瞳	*		tôi	anh/chị	lịch sự
+運転手	*		tôi	cậu/cô/quý khách	kèm 'bẩm', 'ạ'
+警官	*		tôi	anh/chị	lễ phép
+研究員	*		tôi	anh/chị	
+世島	テアラァ		ta	ngươi	cựu nghị sĩ xưng ta thì gọi ngươi (キサマ); không tao – mày
+世島	*		ta	cậu/các người	trịch thượng, khinh người
+牡丹井	*		tôi	cậu/cô	khi say có テメエ thì tao – mày
+出題者	*		tôi	cậu Ryuki/bạn	【あなた】 là người chơi → 【bạn】
+？	*		tôi	theo câu gốc	người chưa lộ danh tính
+アナウンス	*		—	—	thông báo, không xưng hô
+SAT隊長	*		tôi	anh/chị	
+*	*		tôi	anh/chị/ông/bà theo tuổi; ngang hàng gọi tên	người nói phụ: theo bảng kiểu người hiện đại
+イリス	ボス		em	Sếp	cô gái trẻ với nữ cảnh sát trưởng ABIS, lễ phép
+みずき	ボス		em	Sếp	bé 12 tuổi được Sếp nuôi nấng/che chở, gọi ボス như người lớn
+タマ	龍木	a050_Ry_6YsAgo_StudioDV:019_007	tao	mày	Tama nổi khùng (あぁ～!?/テメエ/タコ作) ở 019_007–019_010: giọng côn đồ tao – mày
+タマ	龍木	a050_Ry_6YsAgo_StudioDV:019_011	tôi	Ryuki/cậu	hết cơn khùng, trở lại tôi – cậu
+警官	龍木		tôi	anh Ryuki	cảnh sát khu vực với đặc vụ ABIS, lễ phép (龍木さん)
+警官	みずき１８		tôi	cô	lễ phép với đặc vụ ABIS
+みずき	鑑識官		cháu	chú	bé 12 tuổi với giám định viên lớn tuổi, nói trống không, hồn nhiên
+ロッカーの人	みずき１８		tôi	(không gọi)	giọng bí ẩn trong tủ đồ, rợn; không gọi tên
+ロッカーの人	*		tôi	(không gọi)	giọng bí ẩn trong tủ đồ
+タマ	龍木	a110_Ry_6YsAgo_BossRoom:020_002	tao	mày	Tama nổi khùng (あぁ～!?/ボケェ/おまえ) 020_002–020_003: tao – mày
+タマ	龍木	a110_Ry_6YsAgo_BossRoom:021_001	tôi	Ryuki/cậu	hết cơn khùng
+タマ	龍木	a175_x20_Ry_Saigen_StudioDV:016_015	tao	mày	Tama nhập vai đạo diễn cục cằn (うるせえな、この三文役者が/ぞ/かんな) 016_015–016_020: tao – mày
+タマ	龍木	a175_x20_Ry_Saigen_StudioDV:016_021	tôi	Ryuki/cậu	gốc trở lại giọng nữ (ね/わ) từ 016_021: vẫn đóng đạo diễn nhưng tôi – cậu
+謎の声	龍木		-	ngươi	giọng bí ẩn trong Somnium (M0) buộc tội Ryuki (おまえ): không xưng, gọi 'ngươi' cho rợn; giữ mơ hồ
+警官人形	龍木		mình	cậu	búp bê cảnh sát biết nói, giọng hồn nhiên như trẻ con
+男	絆		anh	Kizuna/em	khách quen quán Matsushita, chưa lộ tên (sau đó là Lien); xưng anh, gọi em
+男	*		tôi	không gọi ai	khách say bia không cồn, chưa lộ tên; nói lè nhè
+イリス	厳		em	anh Gen	bạn thân của Amame, quen quán Brahman (厳ちゃん)
+厳	イリス		anh	em/Iris	che chở như với Amame
+龍木	謎の声		-	mày	M0:100: Ryuki gào với giọng nói mà anh tin là Dahlia Boat, kẻ giết anh Date: cơn giận với kẻ thù, gọi 'mày', không xưng 'tao'
+鞠夫	*		tôi	-	Mario, thú nhồi bông biết nói trong Somnium M0; không gọi ai
+稚枝	みずき		bác	cháu	bé 12 tuổi bạn của Kizuna; ông lịch sự với bé
+タマ	龍木	R12_somnium:001_305	tao	mày	Tama nổi khùng (なんじゃとボケナス) ở 001_305: tao – mày
+タマ	龍木	R12_somnium:001_306	tôi	Ryuki/cậu	hết cơn khùng
+タマ	龍木	a275_x20_Ry_Saigen_Naix_CEO:008_011	tao	mày	Tama đạo diễn nổi khùng (テメエ!! 大部屋に戻すぞ) 008_011: tao – mày
+タマ	龍木	a275_x20_Ry_Saigen_Naix_CEO:008_012	tôi	Ryuki/cậu	hết cơn khùng (008_014 lại giọng thường)
+タマ	龍木	a275_x20_Ry_Saigen_Naix_CEO:012_004	tao	mày	Tama đạo diễn quát giọng đàn ông (聞いてんだ!!/失格だからな!!) 012_004–012_006: tao – mày
+タマ	龍木	a275_x20_Ry_Saigen_Naix_CEO:012_007	tôi	Ryuki/cậu	hết cơn khùng (012_008 lại ngọt)
+タマ	龍木	a275_x20_Ry_Saigen_Naix_CEO:015_040	tao	mày	Tama đạo diễn (灰皿投げんぞ、テメエ!!) 015_040: tao – mày
+タマ	龍木	a275_x20_Ry_Saigen_Naix_CEO:015_041	tôi	Ryuki/cậu	hết cơn khùng
+龍木	ピュータ		tôi	anh Pewter	đồng nghiệp ABIS lớn tuổi hơn
+タマ	ピュータ		tôi	anh Pewter	AI của Ryuki, lịch sự với đồng nghiệp của chủ
+＊＊	*		tôi	-	lời kể ngôi thứ nhất của nhân vật chính cảnh
+牡丹井	龍木		tôi	anh Ryuki/anh	vệ sĩ với điều tra viên ABIS, lịch sự cứng; say thì theo dòng *
+闇金業者	米治		tôi	ông Komeji/ông	đòi nợ, đe dọa trơn tru (米治さん/あんた)
+米治	闇金業者		tôi	anh	con nợ van xin, khúm núm
+研究員Ｇ	*		tôi	các người	lính viện Horadori với đối phương: lạnh; với đồng bọn tôi – cậu
+研究員Ｓ	*		tôi	các người	lính viện Horadori đe dọa con tin, lạnh
+司会	米治		tôi	ông/ông chú	MC truyền hình khinh nghệ sĩ hết thời
+仮面の女	みずき		tôi	nhóc	coi bé Mizuki là trẻ con (ガキ), khinh khỉnh
+仮面の女	米治		tôi	ông chú	gọi Komeji là おっさん
+仮面の女	祥磨		tôi	nhóc	gọi Shoma là 少年, xa cách
+仮面の女	伊達		tôi	anh	người lạ ngang hàng, lạnh
+仮面の女	イリス		tôi	cô	người lạ, lạnh, hỏi dồn
+みずき	仮面の女		tôi	cô	bé Mizuki cự lại kẻ lạ coi mình là trẻ con
+みずき	米治		cháu	chú Komeji	bé 12 tuổi với bố của bạn cùng lớp (米治さん)
+米治	みずき		chú	cháu/cô bé	người lớn với bé gái (お嬢ちゃん), thân thiện
+米治	伊達		tôi	anh Date	người lạ lịch sự, biết ơn
+伊達	米治		tôi	ông/anh Komeji	あんた, thoải mái, hơi trêu
+伊達	仮面の女		tôi	cô	người lạ khả nghi
+米治	仮面の女		tôi	cô	biết ơn người cứu mình
+祥磨	仮面の女		em	chị	trẻ con với người lạ có vẻ là nữ; không lộ gì thêm
+米治	ピュータ		tôi	anh	khách lịch sự với kỹ sư
+ピュータ	米治		tôi	ông Komeji	kỹ sư lễ phép với người được Psync
+イリス	祥磨		chị	Shoma/em	chị lớn với cậu bé tiểu học (祥磨くん)
+絆	祥磨		chị	Shoma/em	chị lớn với cậu bé, giọng tiểu thư
+祥磨	イリス		em	chị Iris	em nhỏ với chị lớn
+祥磨	絆		em	chị Kizuna	em nhỏ với chị lớn
+絆	亜麻芽		em	chị Amame	麻芽さん, lễ độ tiểu thư
+絆	運転手		tôi	bác	khách với tài xế lớn tuổi, lịch sự
+亜麻芽	ママ		em	Mama	khách quen thân với bà chủ quán
+厳	ママ		tôi	Mama	khách quen, nhã nhặn
+看護師	龍木		tôi	anh Ryuki	y tá với bệnh nhân (龍木さん), ân cần
+？	祥磨		tao	mày	bọn trẻ bắt nạt trong Somnium của Shoma (R24), xấc xược
+タマ	龍木	R24_somnium:001_169	tao	mày	Tama nổi khùng (バカ野郎が/あんたの顔を切り取ってやる)
+タマ	龍木	R24_somnium:001_173	tôi	Ryuki/cậu	trở lại
+タマ	龍木	R24_somnium:001_195	tao	mày	Tama nổi khùng (この野郎/テメエ…玉という玉をぶっ潰す)
+タマ	龍木	R24_somnium:001_204	tôi	Ryuki/cậu	trở lại (001_205 それ私…！)
+タマ	龍木	R24_somnium:001_594	tao	mày	Tama gắt (仕事に集中しろ！…だろ！)
+タマ	龍木	R24_somnium:001_596	tôi	Ryuki/cậu	trở lại
+龍木	世島	b565_R1_6YsAgo_Sejimake	tôi	ông/Sejima	Ryuki giận vì Iris bị thương (おまえ): gọi trống 'Sejima', 'ông', không kính ngữ
+世島	龍木		ta	cậu/ngươi	cựu nghị sĩ trịch thượng xưng ta; キサマ → 'ngươi' (không 'mày': xưng 'ta' thì đi với 'ngươi')
+ライアン	伊達		tôi	Date/anh bạn	伊達っち, 盟友: thân như anh em kết nghĩa, gọi 'anh bạn Date'
+外に出た囚人	*		tôi	các bạn	tù nhân ra khỏi hang nói với các tù nhân khác; gộp cả nhóm thì nói "chúng ta"
+虎の敷物	*		tôi	cậu	thảm da hổ lên tiếng đùa, không có danh xưng riêng
+板前の弟子	板前		em	anh	phụ bếp với đầu bếp
+みずき	亜麻芽		em	chị Amame	bé Mizuki 12 với Amame (麻芽ちゃん), thân như chị em
+みずき	厳		em	anh Gen	厳ちゃん, thân như anh
+タマ	米治		tôi	ông/Komeji	nói thẳng với Komeji: 'ông'; nhắc tới ông với Ryuki: gọi trống 'Komeji' như gốc (Tama gọi trống mọi người), không 'ông Komeji'
+米治	亜麻芽	R14_somnium	tôi	Amame/cô	trong Somnium của Amame, Komeji làm MC chương trình quiz, gọi 亜麻芽さん như khách mời: giữ giọng MC, không 'bố – con'
+米治	亜麻芽	b490_R1_Genzai_Psync_Rm	bố	con/Amame	ra khỏi Somnium R14: trở lại bố – con
+米治	厳		tôi	anh Gen	Komeji làm MC trong Somnium của Gen (M12): giọng MC giới thiệu thí sinh
+米治	アイボゥ		tôi	Siêu đầu bếp A/cô	MC trong M12 gọi Aiba là スーパーシェフＡ
+応太	厳		tôi	anh Gen	đối thủ nấu ăn, khách sáo mà cà khịa
+応太	アイボゥ		tôi	Siêu đầu bếp A/cô	giám khảo trong M12
+法螺鳥	厳		tôi	cậu	きみ; lạnh, coi Gen là sản phẩm thí nghiệm hỏng
+猛馬	ライアン		tôi	cậu	quen lâu năm, cục mà không khinh; lúc chửi (くたばれ) thì gắt, không đại từ
+ライアン	猛馬		tôi	ông Moma/ông	このおっさん: suồng sã với ông chú yakuza quen lâu
+看護師	みずき１８		tôi	em	y tá gần 40 với cô gái 18, lịch sự, nhiều chuyện
+看護師	みずき姉１８		tôi	em	vỏ Mizuki
+板前	板前の弟子		tao	mày	đầu bếp quát phụ bếp (バカ野郎)
+通行人Ａ	厳		tao	mày	kẻ lạ bắt nạt, chửi rủa Gen (ký ức trong M12)
+通行人Ｂ	厳		tao	mày	kẻ lạ bắt nạt, chửi rủa Gen (ký ức trong M12)
+通行人Ｃ	厳		tôi	anh	bà mẹ lạ, lúc đầu lịch sự nhờ bế con, thấy mặt Gen thì hét, ghê sợ (あんた): gắt mà không mày – tao
+店長	応太		em	anh Ota	quản lý quán với khách quen
+タマ	みずき１８		tôi	Mizuki/cô Mizuki	AI của Ryuki với nữ điều tra viên ABIS, thân thiện lịch sự
+タマ	みずき		tôi	Mizuki/em	với bé Mizuki 12 tuổi (6 năm trước), như chị lớn
+人形	*		tớ	cậu	búp bê Penny-ban chào kiểu Songoku, nói trống
+警備員	みずき１８		tôi	cô	bảo vệ cộc lốc với người lạ hỏi chuyện (không mày – tao)
+研究員Ａ	みずき１８		tôi	cô	nhà nghiên cứu hoảng hốt với kẻ xâm nhập
+研究員Ｂ	みずき１８		tôi	cô	nhà nghiên cứu hoảng hốt với kẻ xâm nhập
+研究員Ｃ	みずき１８		tôi	cô	nhà nghiên cứu gắt với kẻ xâm nhập
+絆	アイボゥ	M11_somnium:058_001	em	chị	trong mơ M11 Kizuna thấy Aiba là người chị (お姉様) chơi đá giày: em – chị
+絆	アイボゥ	M11_somnium:065_001	tôi	Aiba	hết đoạn người chị trong mơ
+タマ	亜麻芽		tôi	Amame/em	AI của Ryuki với Amame 18 tuổi, như chị lớn
+NAIXの奴Ａ	みずき１８		tao	mày/con nhóc	nhóm vũ trang NAIX thô lỗ, đe dọa (c360)
+NAIXの奴Ｂ	みずき１８		tao	mày/con nhóc	nhóm vũ trang NAIX thô lỗ, đe dọa (c360)
+NAIXの奴Ｃ	みずき１８		tao	mày/con nhóc	nhóm vũ trang NAIX thô lỗ, đe dọa (c360)
+NAIXの奴ＡＢＣ	みずき１８		tao	mày/con nhóc	nhóm vũ trang NAIX thô lỗ, đe dọa (c360)
+みずき１８	NAIXの奴Ａ		tôi	các người	đối đầu, cà khịa
+組員	みずき１８		tôi	cô	tay băng Kumakura (Yamino) nói nhảm, ngáo (c340)
+？？？	みずき姉１８		ta	ngươi	giọng biến âm, chưa rõ danh tính (lát sau tự xưng Tearer)
+ライアン	ライアン	c330_Mz_Genzai_Children:012_008	tao	mày	thư Lien viết cho chính mình sáu năm sau: tao – mày (tự nói với mình, thô mà thương; chỉ trong thư)
+みずき１８	瞳		em	cô	cô giáo Hitomi (瞳先生), mẹ Iris
+瞳	みずき１８		cô	em	cô giáo với học trò cũ
+ネエネ	厳		em	anh Gen	厳ちゃん: thân từ hồi sống trong vỏ Mizuki; như Mizuki với Gen
+厳	ネエネ		anh	em	hiền, như với Mizuki
+祥磨	ネエネ		em	chị	người lớn hơn, ít thân
+ライアン	ネエネ		tôi	Quartz/cô	cộng sự trộm cũ, gọi biệt danh cũ クォーツ dù cô không thích
+猛馬イリス	ネエネ		tôi	Quartz/nhóc	từng làm ăn với cô, gọi biệt danh cũ
+絆２４	みずき１８	c520_M1_Genzai_BrahmanD:005_005	em	chị Nhỏ/chị	小姉様: từ đây gọi phân biệt chị Nhỏ (Mizuki Date) – chị Lớn (Bibi)
+絆２４	ネエネ	c520_M1_Genzai_BrahmanD:005_007	em	chị Lớn/chị	大姉様
+絆２４	みずき１８	d310_M2_Genzai_Torisira	em	chị	nhánh M2: chưa có chuyện chị Nhỏ/chị Lớn; お姉様 = chị
+みずき１８	仮面の女	d310_M2_Genzai_Torisira	tôi	cô	nhánh M2: Mizuki chưa biết đó là Bibi
+仮面の女	みずき１８	d310_M2_Genzai_Torisira	tôi	cô	nhánh M2: lạnh, giữ khoảng cách (おまえ)
+ネエネ	ボス	c570_M1_Genzai_Psync_Rm	tôi	Sếp/mẹ	lỡ miệng gọi ママ = 'mẹ' (không phải Mama quán Marble); Sếp cấm gọi thế ở chỗ làm
+ネエネ	龍木	c540_M1_Genzai_NaixDome	tôi	Ryuki/anh	căm Ryuki vì chuyện sáu năm trước, lạnh, gắt; chỉ tha khi phá xong vụ án
+ネエネ	龍木	d310_M2_Genzai_Torisira	tôi	Ryuki/anh	đồng nghiệp lớn tuổi hơn, gọi trống (nhánh M2)
+ネエネ	ボス	d310_M2_Genzai_Torisira	tôi	Sếp	nhánh M2
+伊達	閏		tao	mày	kẻ đã giết người thân, Date căm phẫn khi đối mặt
+ネエネ	亜麻芽		tôi	Amame/cô	cùng 24 tuổi, không thân; gọi trống 亜麻芽
+アイボゥ	亜麻芽		tôi	Amame/cô	lạ, khô; khi thẩm vấn trong Somnium (おまえ) vẫn 'cô', giọng cứng
+亜麻芽	閏	M15_somnium:051_001	tôi	mày	Amame vỡ òa căm hận (おまえ) 051_001–053_004: tôi – mày
+亜麻芽	閏	M15_somnium:055_001	tôi	anh	hết cơn: trở lại tôi – anh (あなた)
+祥磨	伊達		cháu	chú Date	Shoma 18 (trông như 12) với bố nuôi Mizuki, người lớn tuổi
+祥磨	*	c550_M1_Genzai_Endataku:001_023	tôi	các người/anh/chị	c550: gào chặn cửa bảo vệ chị (僕 giận) → tôi; với Amame vẫn em – chị
+祥磨	*	c560_M1_Genzai_Psync_Rm	em	anh/chị	hết c550: trở lại em
+亜麻芽	伊達		em	anh Date	Amame 24 lễ phép (です/ます) với Date
+SAT隊長	みずき１８		tôi	cô Mizuki/cô	みずきさん: lịch sự mà mỉa
+仮面の女	絆２４	e515_M3_Genzai_Children:003_001	chị	em/Kizuna	M3 lộ mặt: Kizuna gọi お姉様, quen từ lâu
+仮面の女	ライアン	e515_M3_Genzai_Children:003_001	tôi	Lien/anh	M3: quen Lien (cộng sự trộm cũ)
+ライアン	仮面の女	e515_M3_Genzai_Children:003_005	tôi	Quartz/cô	M3: nhận ra là Quartz
+多国籍マフィア	*		tao	mày/chúng mày	côn đồ đánh thuê (くそガキ, 殺っちまう): thô
+龍木	ネエネ	f520_Ry_Genzai_Tokuritu	tôi	Bibi/cô	lịch sử mới: Ryuki gọi theo Mizuki là ネエネ
+時雨	*	f130_Ry_6YsAgo_Naix_CEO	tôi	bạn	f130: Tokiko nói thẳng với người chơi (Frayer, あなた) → bạn; với Ryuki vẫn anh Ryuki
+厳	ライアン		tôi	cậu/Lien	bạn quen, Gen điềm đạm
+ライアン	厳		tôi	Gen	Lien gọi trơn tên, bỗ bã
+亜麻芽	ライアン		em	anh Lien	Amame dịu dàng, lễ phép với Lien lớn tuổi hơn
+仮面の女	みずき１８	e515_M3_Genzai_Children	chị	em	sau khi mặt nạ rơi ở M3: nói như chị với em

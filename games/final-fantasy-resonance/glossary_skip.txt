@@ -1,0 +1,234 @@
+# Ứng viên tên/thuật ngữ đã quyết là không cần glossary. Mỗi dòng: '<gốc>  # lý do'.
+コマンド名「ダミー」  # mục nội bộ/giả của dữ liệu, không hiện cho người chơi
+死亡時テキストカウンター  # mục nội bộ/giả của dữ liệu, không hiện cho người chơi
+オープニング用増援カウンター  # mục nội bộ/giả của dữ liệu, không hiện cho người chơi
+状態盗むダミー  # mục nội bộ/giả của dữ liệu, không hiện cho người chơi
+死亡演出  # mục nội bộ/giả của dữ liệu, không hiện cho người chơi
+アタシ  # đại từ/từ thường, dịch theo ngữ cảnh, không cần glossary
+ワシ  # đại từ/từ thường, dịch theo ngữ cảnh, không cần glossary
+オレ  # đại từ/từ thường, dịch theo ngữ cảnh, không cần glossary
+ダメ  # đại từ/từ thường, dịch theo ngữ cảnh, không cần glossary
+フェード  # đại từ/từ thường, dịch theo ngữ cảnh, không cần glossary
+クリア  # đại từ/từ thường, dịch theo ngữ cảnh, không cần glossary
+アップ  # đại từ/từ thường, dịch theo ngữ cảnh, không cần glossary
+カウンター  # đại từ/từ thường, dịch theo ngữ cảnh, không cần glossary
+バカ  # từ thường/vay mượn hoặc mảnh của tên đã có; dịch theo ngữ cảnh
+ホント  # từ thường/vay mượn hoặc mảnh của tên đã có; dịch theo ngữ cảnh
+プレイ  # từ thường/vay mượn hoặc mảnh của tên đã có; dịch theo ngữ cảnh
+ナンパ  # từ thường/vay mượn hoặc mảnh của tên đã có; dịch theo ngữ cảnh
+マント  # từ thường/vay mượn hoặc mảnh của tên đã có; dịch theo ngữ cảnh
+エネルギー  # từ thường/vay mượn hoặc mảnh của tên đã có; dịch theo ngữ cảnh
+ランダム  # từ thường/vay mượn hoặc mảnh của tên đã có; dịch theo ngữ cảnh
+ナンバーワン  # từ thường/vay mượn hoặc mảnh của tên đã có; dịch theo ngữ cảnh
+メモ  # từ thường/vay mượn hoặc mảnh của tên đã có; dịch theo ngữ cảnh
+キラキラ  # từ thường/vay mượn hoặc mảnh của tên đã có; dịch theo ngữ cảnh
+ペース  # từ thường/vay mượn hoặc mảnh của tên đã có; dịch theo ngữ cảnh
+アーマー  # từ thường/vay mượn hoặc mảnh của tên đã có; dịch theo ngữ cảnh
+レベル  # từ thường/vay mượn hoặc mảnh của tên đã có; dịch theo ngữ cảnh
+シールド  # từ thường/vay mượn hoặc mảnh của tên đã có; dịch theo ngữ cảnh
+キャラクター  # từ thường/vay mượn hoặc mảnh của tên đã có; dịch theo ngữ cảnh
+フッ  # từ thường/vay mượn hoặc mảnh của tên đã có; dịch theo ngữ cảnh
+チャージ  # từ thường/vay mượn hoặc mảnh của tên đã có; dịch theo ngữ cảnh
+モード  # từ thường/vay mượn hoặc mảnh của tên đã có; dịch theo ngữ cảnh
+デート  # từ thường/vay mượn hoặc mảnh của tên đã có; dịch theo ngữ cảnh
+コイン  # từ thường/vay mượn hoặc mảnh của tên đã có; dịch theo ngữ cảnh
+マンホール  # từ thường/vay mượn hoặc mảnh của tên đã có; dịch theo ngữ cảnh
+クラス  # từ thường/vay mượn hoặc mảnh của tên đã có; dịch theo ngữ cảnh
+イベント  # từ thường/vay mượn hoặc mảnh của tên đã có; dịch theo ngữ cảnh
+テスト  # từ thường/vay mượn hoặc mảnh của tên đã có; dịch theo ngữ cảnh
+ボク  # từ thường/vay mượn hoặc mảnh của tên đã có; dịch theo ngữ cảnh
+ハッキリ  # từ thường/vay mượn hoặc mảnh của tên đã có; dịch theo ngữ cảnh
+ナワトビ  # từ thường/vay mượn hoặc mảnh của tên đã có; dịch theo ngữ cảnh
+スパイ  # từ thường/vay mượn hoặc mảnh của tên đã có; dịch theo ngữ cảnh
+ロッド  # từ thường/vay mượn hoặc mảnh của tên đã có; dịch theo ngữ cảnh
+アルテミス  # từ thường/vay mượn hoặc mảnh của tên đã có; dịch theo ngữ cảnh
+カードキー  # từ thường/vay mượn hoặc mảnh của tên đã có; dịch theo ngữ cảnh
+レバー  # từ thường/vay mượn hoặc mảnh của tên đã có; dịch theo ngữ cảnh
+メインメニュー  # từ thường/vay mượn hoặc mảnh của tên đã có; dịch theo ngữ cảnh
+エンカウント  # từ thường/vay mượn hoặc mảnh của tên đã có; dịch theo ngữ cảnh
+エース  # từ thường/vay mượn hoặc mảnh của tên đã có; dịch theo ngữ cảnh
+クン  # từ thường/vay mượn hoặc mảnh của tên đã có; dịch theo ngữ cảnh
+ベッド  # từ thường/vay mượn hoặc mảnh của tên đã có; dịch theo ngữ cảnh
+タダ  # từ thường/vay mượn hoặc mảnh của tên đã có; dịch theo ngữ cảnh
+カメラ  # từ thường/vay mượn hoặc mảnh của tên đã có; dịch theo ngữ cảnh
+フィールド  # từ thường/vay mượn hoặc mảnh của tên đã có; dịch theo ngữ cảnh
+レーダー  # từ thường/vay mượn hoặc mảnh của tên đã có; dịch theo ngữ cảnh
+ダッシュ  # từ thường/vay mượn hoặc mảnh của tên đã có; dịch theo ngữ cảnh
+アンタ  # từ thường/vay mượn hoặc mảnh của tên đã có; dịch theo ngữ cảnh
+デマ  # từ thường/vay mượn hoặc mảnh của tên đã có; dịch theo ngữ cảnh
+ハンマー  # từ thường/vay mượn hoặc mảnh của tên đã có; dịch theo ngữ cảnh
+リアス  # từ thường/vay mượn hoặc mảnh của tên đã có; dịch theo ngữ cảnh
+ブレード  # từ thường/vay mượn hoặc mảnh của tên đã có; dịch theo ngữ cảnh
+ダイア  # từ thường/vay mượn hoặc mảnh của tên đã có; dịch theo ngữ cảnh
+ヴェール  # từ thường/vay mượn hoặc mảnh của tên đã có; dịch theo ngữ cảnh
+メガネ  # từ thường/vay mượn hoặc mảnh của tên đã có; dịch theo ngữ cảnh
+ピアス  # từ thường/vay mượn hoặc mảnh của tên đã có; dịch theo ngữ cảnh
+リーダー  # từ thường/vay mượn hoặc mảnh của tên đã có; dịch theo ngữ cảnh
+メカ  # từ thường/vay mượn hoặc mảnh của tên đã có; dịch theo ngữ cảnh
+プリプリ  # từ thường/vay mượn hoặc mảnh của tên đã có; dịch theo ngữ cảnh
+モグ  # từ thường/vay mượn hoặc mảnh của tên đã có; dịch theo ngữ cảnh
+セーブ  # từ thường/vay mượn hoặc mảnh của tên đã có; dịch theo ngữ cảnh
+ペンダント  # từ thường/vay mượn hoặc mảnh của tên đã có; dịch theo ngữ cảnh
+ティアラ  # từ thường/vay mượn hoặc mảnh của tên đã có; dịch theo ngữ cảnh
+モノクル  # từ thường/vay mượn hoặc mảnh của tên đã có; dịch theo ngữ cảnh
+ゲーム  # từ thường/vay mượn hoặc mảnh của tên đã có; dịch theo ngữ cảnh
+ゲット  # từ thường/vay mượn hoặc mảnh của tên đã có; dịch theo ngữ cảnh
+ロマン  # từ thường/vay mượn hoặc mảnh của tên đã có; dịch theo ngữ cảnh
+キレイ  # từ thường/vay mượn hoặc mảnh của tên đã có; dịch theo ngữ cảnh
+オヤジ  # từ thường/vay mượn hoặc mảnh của tên đã có; dịch theo ngữ cảnh
+アンテナ  # từ thường/vay mượn hoặc mảnh của tên đã có; dịch theo ngữ cảnh
+ミス  # từ thường/vay mượn hoặc mảnh của tên đã có; dịch theo ngữ cảnh
+オイラ  # từ thường/vay mượn hoặc mảnh của tên đã có; dịch theo ngữ cảnh
+アイデア  # từ thường/vay mượn hoặc mảnh của tên đã có; dịch theo ngữ cảnh
+パウダー  # từ thường/vay mượn hoặc mảnh của tên đã có; dịch theo ngữ cảnh
+エリア  # từ thường/vay mượn hoặc mảnh của tên đã có; dịch theo ngữ cảnh
+カーソル  # từ thường/vay mượn hoặc mảnh của tên đã có; dịch theo ngữ cảnh
+ウワサ  # từ thường/vay mượn hoặc mảnh của tên đã có; dịch theo ngữ cảnh
+ボタン  # từ thường/vay mượn hoặc mảnh của tên đã có; dịch theo ngữ cảnh
+キミタチ  # từ thường/vay mượn hoặc mảnh của tên đã có; dịch theo ngữ cảnh
+ルート  # từ thường/vay mượn hoặc mảnh của tên đã có; dịch theo ngữ cảnh
+スピード  # từ thường/vay mượn hoặc mảnh của tên đã có; dịch theo ngữ cảnh
+アタイ  # từ thường/vay mượn hoặc mảnh của tên đã có; dịch theo ngữ cảnh
+クラスバトル  # từ thường/vay mượn hoặc mảnh của tên đã có; dịch theo ngữ cảnh
+タン  # từ thường/vay mượn hoặc mảnh của tên đã có; dịch theo ngữ cảnh
+バリア  # từ thường/vay mượn hoặc mảnh của tên đã có; dịch theo ngữ cảnh
+ネタ  # từ thường/vay mượn hoặc mảnh của tên đã có; dịch theo ngữ cảnh
+イカサマ  # từ thường/vay mượn hoặc mảnh của tên đã có; dịch theo ngữ cảnh
+オプション  # từ thường/vay mượn hoặc mảnh của tên đã có; dịch theo ngữ cảnh
+ダンジョン  # từ thường/vay mượn hoặc mảnh của tên đã có; dịch theo ngữ cảnh
+ダウン  # từ thường/vay mượn hoặc mảnh của tên đã có; dịch theo ngữ cảnh
+ミニマップ  # từ thường/vay mượn hoặc mảnh của tên đã có; dịch theo ngữ cảnh
+ページ  # từ thường/vay mượn hoặc mảnh của tên đã có; dịch theo ngữ cảnh
+バランス  # từ thường/vay mượn hoặc mảnh của tên đã có; dịch theo ngữ cảnh
+チャンス  # từ thường/vay mượn hoặc mảnh của tên đã có; dịch theo ngữ cảnh
+キミ  # từ thường/vay mượn hoặc mảnh của tên đã có; dịch theo ngữ cảnh
+トラブル  # từ thường/vay mượn hoặc mảnh của tên đã có; dịch theo ngữ cảnh
+チェック  # từ thường/vay mượn hoặc mảnh của tên đã có; dịch theo ngữ cảnh
+カウントダウン  # từ thường/vay mượn hoặc mảnh của tên đã có; dịch theo ngữ cảnh
+セーブデータ  # từ thường/vay mượn hoặc mảnh của tên đã có; dịch theo ngữ cảnh
+タイトル  # từ thường/vay mượn hoặc mảnh của tên đã có; dịch theo ngữ cảnh
+パーティメンバー  # từ thường/vay mượn hoặc mảnh của tên đã có; dịch theo ngữ cảnh
+コマンド  # từ thường/vay mượn hoặc mảnh của tên đã có; dịch theo ngữ cảnh
+ドロップ  # từ thường/vay mượn hoặc mảnh của tên đã có; dịch theo ngữ cảnh
+プレゼント  # từ thường/vay mượn hoặc mảnh của tên đã có; dịch theo ngữ cảnh
+コース  # từ thường/vay mượn hoặc mảnh của tên đã có; dịch theo ngữ cảnh
+カッコ  # từ thường/vay mượn hoặc mảnh của tên đã có; dịch theo ngữ cảnh
+バレ  # từ thường/vay mượn hoặc mảnh của tên đã có; dịch theo ngữ cảnh
+サークレット  # từ thường/vay mượn hoặc mảnh của tên đã có; dịch theo ngữ cảnh
+ラインナップ  # từ thường/vay mượn hoặc mảnh của tên đã có; dịch theo ngữ cảnh
+セキュリティ・レベル  # từ thường/vay mượn hoặc mảnh của tên đã có; dịch theo ngữ cảnh
+アサルト  # từ thường/vay mượn hoặc mảnh của tên đã có; dịch theo ngữ cảnh
+ポット  # từ thường/vay mượn hoặc mảnh của tên đã có; dịch theo ngữ cảnh
+ヴォイド  # từ thường/vay mượn hoặc mảnh của tên đã có; dịch theo ngữ cảnh
+スッキリ  # từ thường/vay mượn hoặc mảnh của tên đã có; dịch theo ngữ cảnh
+クエッ  # từ thường/vay mượn hoặc mảnh của tên đã có; dịch theo ngữ cảnh
+タイミング  # từ thường/vay mượn hoặc mảnh của tên đã có; dịch theo ngữ cảnh
+キャラ  # từ thường/vay mượn hoặc mảnh của tên đã có; dịch theo ngữ cảnh
+ヘルプ  # từ thường/vay mượn hoặc mảnh của tên đã có; dịch theo ngữ cảnh
+メンバー  # từ thường/vay mượn hoặc mảnh của tên đã có; dịch theo ngữ cảnh
+オート  # từ thường/vay mượn hoặc mảnh của tên đã có; dịch theo ngữ cảnh
+キャンセル  # từ thường/vay mượn hoặc mảnh của tên đã có; dịch theo ngữ cảnh
+ガス  # từ thường/vay mượn hoặc mảnh của tên đã có; dịch theo ngữ cảnh
+ショック  # từ thường/vay mượn hoặc mảnh của tên đã có; dịch theo ngữ cảnh
+ブリッジ  # từ thường/vay mượn hoặc mảnh của tên đã có; dịch theo ngữ cảnh
+ルルイエ  # tên mục dữ liệu dùng một lần (nhạc, danh hiệu, tiêu đề) hoặc mảnh của tên trang bị đã có; dịch như câu thường
+セラエノ  # tên mục dữ liệu dùng một lần (nhạc, danh hiệu, tiêu đề) hoặc mảnh của tên trang bị đã có; dịch như câu thường
+エイボン  # tên mục dữ liệu dùng một lần (nhạc, danh hiệu, tiêu đề) hoặc mảnh của tên trang bị đã có; dịch như câu thường
+ナコト  # tên mục dữ liệu dùng một lần (nhạc, danh hiệu, tiêu đề) hoặc mảnh của tên trang bị đã có; dịch như câu thường
+スナイパー  # tên mục dữ liệu dùng một lần (nhạc, danh hiệu, tiêu đề) hoặc mảnh của tên trang bị đã có; dịch như câu thường
+ガトリング  # tên mục dữ liệu dùng một lần (nhạc, danh hiệu, tiêu đề) hoặc mảnh của tên trang bị đã có; dịch như câu thường
+ジャケット  # tên mục dữ liệu dùng một lần (nhạc, danh hiệu, tiêu đề) hoặc mảnh của tên trang bị đã có; dịch như câu thường
+ベスト  # tên mục dữ liệu dùng một lần (nhạc, danh hiệu, tiêu đề) hoặc mảnh của tên trang bị đã có; dịch như câu thường
+テュール  # tên mục dữ liệu dùng một lần (nhạc, danh hiệu, tiêu đề) hoặc mảnh của tên trang bị đã có; dịch như câu thường
+シルク  # tên mục dữ liệu dùng một lần (nhạc, danh hiệu, tiêu đề) hoặc mảnh của tên trang bị đã có; dịch như câu thường
+ミサンガ  # tên mục dữ liệu dùng một lần (nhạc, danh hiệu, tiêu đề) hoặc mảnh của tên trang bị đã có; dịch như câu thường
+エルメス  # tên mục dữ liệu dùng một lần (nhạc, danh hiệu, tiêu đề) hoặc mảnh của tên trang bị đã có; dịch như câu thường
+リング  # tên mục dữ liệu dùng một lần (nhạc, danh hiệu, tiêu đề) hoặc mảnh của tên trang bị đã có; dịch như câu thường
+チョッキ  # tên mục dữ liệu dùng một lần (nhạc, danh hiệu, tiêu đề) hoặc mảnh của tên trang bị đã có; dịch như câu thường
+グローブ  # tên mục dữ liệu dùng một lần (nhạc, danh hiệu, tiêu đề) hoặc mảnh của tên trang bị đã có; dịch như câu thường
+アミュレット  # tên mục dữ liệu dùng một lần (nhạc, danh hiệu, tiêu đề) hoặc mảnh của tên trang bị đã có; dịch như câu thường
+バンダナ  # tên mục dữ liệu dùng một lần (nhạc, danh hiệu, tiêu đề) hoặc mảnh của tên trang bị đã có; dịch như câu thường
+ロザリオ  # tên mục dữ liệu dùng một lần (nhạc, danh hiệu, tiêu đề) hoặc mảnh của tên trang bị đã có; dịch như câu thường
+マフラー  # tên mục dữ liệu dùng một lần (nhạc, danh hiệu, tiêu đề) hoặc mảnh của tên trang bị đã có; dịch như câu thường
+ギクシャク  # tên mục dữ liệu dùng một lần (nhạc, danh hiệu, tiêu đề) hoặc mảnh của tên trang bị đã có; dịch như câu thường
+プレリュード  # tên mục dữ liệu dùng một lần (nhạc, danh hiệu, tiêu đề) hoặc mảnh của tên trang bị đã có; dịch như câu thường
+メインテーマ  # tên mục dữ liệu dùng một lần (nhạc, danh hiệu, tiêu đề) hoặc mảnh của tên trang bị đã có; dịch như câu thường
+準備  # tên mục dữ liệu dùng một lần (nhạc, danh hiệu, tiêu đề) hoặc mảnh của tên trang bị đã có; dịch như câu thường
+世界  # tên mục dữ liệu dùng một lần (nhạc, danh hiệu, tiêu đề) hoặc mảnh của tên trang bị đã có; dịch như câu thường
+ブレイブバトル  # tên mục dữ liệu dùng một lần (nhạc, danh hiệu, tiêu đề) hoặc mảnh của tên trang bị đã có; dịch như câu thường
+強大  # tên mục dữ liệu dùng một lần (nhạc, danh hiệu, tiêu đề) hoặc mảnh của tên trang bị đã có; dịch như câu thường
+召喚獣  # tên mục dữ liệu dùng một lần (nhạc, danh hiệu, tiêu đề) hoặc mảnh của tên trang bị đã có; dịch như câu thường
+リザルト  # tên mục dữ liệu dùng một lần (nhạc, danh hiệu, tiêu đề) hoặc mảnh của tên trang bị đã có; dịch như câu thường
+メインテーマ（エンド付き）  # tên mục dữ liệu dùng một lần (nhạc, danh hiệu, tiêu đề) hoặc mảnh của tên trang bị đã có; dịch như câu thường
+始動  # tên mục dữ liệu dùng một lần (nhạc, danh hiệu, tiêu đề) hoặc mảnh của tên trang bị đã có; dịch như câu thường
+対峙  # tên mục dữ liệu dùng một lần (nhạc, danh hiệu, tiêu đề) hoặc mảnh của tên trang bị đã có; dịch như câu thường
+違和感  # tên mục dữ liệu dùng một lần (nhạc, danh hiệu, tiêu đề) hoặc mảnh của tên trang bị đã có; dịch như câu thường
+大航海  # tên mục dữ liệu dùng một lần (nhạc, danh hiệu, tiêu đề) hoặc mảnh của tên trang bị đã có; dịch như câu thường
+緊急事態  # tên mục dữ liệu dùng một lần (nhạc, danh hiệu, tiêu đề) hoặc mảnh của tên trang bị đã có; dịch như câu thường
+軍隊  # tên mục dữ liệu dùng một lần (nhạc, danh hiệu, tiêu đề) hoặc mảnh của tên trang bị đã có; dịch như câu thường
+飛空艇登場  # tên mục dữ liệu dùng một lần (nhạc, danh hiệu, tiêu đề) hoặc mảnh của tên trang bị đã có; dịch như câu thường
+イベント・未決定  # tên mục dữ liệu dùng một lần (nhạc, danh hiệu, tiêu đề) hoặc mảnh của tên trang bị đã có; dịch như câu thường
+リラックス  # tên mục dữ liệu dùng một lần (nhạc, danh hiệu, tiêu đề) hoặc mảnh của tên trang bị đã có; dịch như câu thường
+メインテーマ(ハープ）  # tên mục dữ liệu dùng một lần (nhạc, danh hiệu, tiêu đề) hoặc mảnh của tên trang bị đã có; dịch như câu thường
+メインテーマ(ハープ＋ボーカル）  # tên mục dữ liệu dùng một lần (nhạc, danh hiệu, tiêu đề) hoặc mảnh của tên trang bị đã có; dịch như câu thường
+究極の幻想  # tên mục dữ liệu dùng một lần (nhạc, danh hiệu, tiêu đề) hoặc mảnh của tên trang bị đã có; dịch như câu thường
+旅立ち  # tên mục dữ liệu dùng một lần (nhạc, danh hiệu, tiêu đề) hoặc mảnh của tên trang bị đã có; dịch như câu thường
+空を知るものたち  # tên mục dữ liệu dùng một lần (nhạc, danh hiệu, tiêu đề) hoặc mảnh của tên trang bị đã có; dịch như câu thường
+さらば、オルデリオン  # tên mục dữ liệu dùng một lần (nhạc, danh hiệu, tiêu đề) hoặc mảnh của tên trang bị đã có; dịch như câu thường
+革命の終わり  # tên mục dữ liệu dùng một lần (nhạc, danh hiệu, tiêu đề) hoặc mảnh của tên trang bị đã có; dịch như câu thường
+真理を求めて  # tên mục dữ liệu dùng một lần (nhạc, danh hiệu, tiêu đề) hoặc mảnh của tên trang bị đã có; dịch như câu thường
+決着  # tên mục dữ liệu dùng một lần (nhạc, danh hiệu, tiêu đề) hoặc mảnh của tên trang bị đã có; dịch như câu thường
+あの日の輝きは  # tên mục dữ liệu dùng một lần (nhạc, danh hiệu, tiêu đề) hoặc mảnh của tên trang bị đã có; dịch như câu thường
+夢の結末  # tên mục dữ liệu dùng một lần (nhạc, danh hiệu, tiêu đề) hoặc mảnh của tên trang bị đã có; dịch như câu thường
+運命に抗う者たち  # tên mục dữ liệu dùng một lần (nhạc, danh hiệu, tiêu đề) hoặc mảnh của tên trang bị đã có; dịch như câu thường
+思い新たに  # tên mục dữ liệu dùng một lần (nhạc, danh hiệu, tiêu đề) hoặc mảnh của tên trang bị đã có; dịch như câu thường
+飛べ、エンタープライズ  # tên mục dữ liệu dùng một lần (nhạc, danh hiệu, tiêu đề) hoặc mảnh của tên trang bị đã có; dịch như câu thường
+ここからが本番だ  # tên mục dữ liệu dùng một lần (nhạc, danh hiệu, tiêu đề) hoặc mảnh của tên trang bị đã có; dịch như câu thường
+腕自慢  # tên mục dữ liệu dùng một lần (nhạc, danh hiệu, tiêu đề) hoặc mảnh của tên trang bị đã có; dịch như câu thường
+求道者  # tên mục dữ liệu dùng một lần (nhạc, danh hiệu, tiêu đề) hoặc mảnh của tên trang bị đã có; dịch như câu thường
+姫君のご褒美  # tên mục dữ liệu dùng một lần (nhạc, danh hiệu, tiêu đề) hoặc mảnh của tên trang bị đã có; dịch như câu thường
+忘却の手がかり  # tên mục dữ liệu dùng một lần (nhạc, danh hiệu, tiêu đề) hoặc mảnh của tên trang bị đã có; dịch như câu thường
+ギルは天下の回りもの  # tên mục dữ liệu dùng một lần (nhạc, danh hiệu, tiêu đề) hoặc mảnh của tên trang bị đã có; dịch như câu thường
+リド、まっしぐら  # tên mục dữ liệu dùng một lần (nhạc, danh hiệu, tiêu đề) hoặc mảnh của tên trang bị đã có; dịch như câu thường
+魔石ハンター  # tên mục dữ liệu dùng một lần (nhạc, danh hiệu, tiêu đề) hoặc mảnh của tên trang bị đã có; dịch như câu thường
+ジャイアントキリング  # tên mục dữ liệu dùng một lần (nhạc, danh hiệu, tiêu đề) hoặc mảnh của tên trang bị đã có; dịch như câu thường
+ビーストスレイヤー  # tên mục dữ liệu dùng một lần (nhạc, danh hiệu, tiêu đề) hoặc mảnh của tên trang bị đã có; dịch như câu thường
+一攫千金  # tên mục dữ liệu dùng một lần (nhạc, danh hiệu, tiêu đề) hoặc mảnh của tên trang bị đã có; dịch như câu thường
+使い手にあった武器  # tên mục dữ liệu dùng một lần (nhạc, danh hiệu, tiêu đề) hoặc mảnh của tên trang bị đã có; dịch như câu thường
+武器職人  # tên mục dữ liệu dùng một lần (nhạc, danh hiệu, tiêu đề) hoặc mảnh của tên trang bị đã có; dịch như câu thường
+アーティファクト  # tên mục dữ liệu dùng một lần (nhạc, danh hiệu, tiêu đề) hoặc mảnh của tên trang bị đã có; dịch như câu thường
+天の武具  # tên mục dữ liệu dùng một lần (nhạc, danh hiệu, tiêu đề) hoặc mảnh của tên trang bị đã có; dịch như câu thường
+値千金  # tên mục dữ liệu dùng một lần (nhạc, danh hiệu, tiêu đề) hoặc mảnh của tên trang bị đã có; dịch như câu thường
+マスターへの第一歩  # tên mục dữ liệu dùng một lần (nhạc, danh hiệu, tiêu đề) hoặc mảnh của tên trang bị đã có; dịch như câu thường
+目覚めし光  # tên mục dữ liệu dùng một lần (nhạc, danh hiệu, tiêu đề) hoặc mảnh của tên trang bị đã có; dịch như câu thường
+集いし幻影  # tên mục dữ liệu dùng một lần (nhạc, danh hiệu, tiêu đề) hoặc mảnh của tên trang bị đã có; dịch như câu thường
+祈りは結晶となりて  # tên mục dữ liệu dùng một lần (nhạc, danh hiệu, tiêu đề) hoặc mảnh của tên trang bị đã có; dịch như câu thường
+ビジョンの探求者  # tên mục dữ liệu dùng một lần (nhạc, danh hiệu, tiêu đề) hoặc mảnh của tên trang bị đã có; dịch như câu thường
+幻獣との契約  # tên mục dữ liệu dùng một lần (nhạc, danh hiệu, tiêu đề) hoặc mảnh của tên trang bị đã có; dịch như câu thường
+星を統べる者たち  # tên mục dữ liệu dùng một lần (nhạc, danh hiệu, tiêu đề) hoặc mảnh của tên trang bị đã có; dịch như câu thường
+ブレイクスルー  # tên mục dữ liệu dùng một lần (nhạc, danh hiệu, tiêu đề) hoặc mảnh của tên trang bị đã có; dịch như câu thường
+レゾナンスみだれうち  # tên mục dữ liệu dùng một lần (nhạc, danh hiệu, tiêu đề) hoặc mảnh của tên trang bị đã có; dịch như câu thường
+とことんメカボ！  # tên mục dữ liệu dùng một lần (nhạc, danh hiệu, tiêu đề) hoặc mảnh của tên trang bị đã có; dịch như câu thường
+我が名はアルテマ・・・  # tên mục dữ liệu dùng một lần (nhạc, danh hiệu, tiêu đề) hoặc mảnh của tên trang bị đã có; dịch như câu thường
+パワー  # từ thường hoặc nhãn giao diện dùng một lần; dịch như câu thường
+ピンチ  # từ thường hoặc nhãn giao diện dùng một lần; dịch như câu thường
+コレクション  # từ thường hoặc nhãn giao diện dùng một lần; dịch như câu thường
+チェンジ  # từ thường hoặc nhãn giao diện dùng một lần; dịch như câu thường
+エレベーター  # từ thường hoặc nhãn giao diện dùng một lần; dịch như câu thường
+???  # từ thường hoặc nhãn giao diện dùng một lần; dịch như câu thường
+名前  # từ thường hoặc nhãn giao diện dùng một lần; dịch như câu thường
+Data {Index}  # từ thường hoặc nhãn giao diện dùng một lần; dịch như câu thường
+Auto Save  # từ thường hoặc nhãn giao diện dùng một lần; dịch như câu thường
+No Data  # từ thường hoặc nhãn giao diện dùng một lần; dịch như câu thường
+グランシェルト諸島1  # từ thường hoặc nhãn giao diện dùng một lần; dịch như câu thường
+グランシェルト諸島2  # từ thường hoặc nhãn giao diện dùng một lần; dịch như câu thường
+はぐれ家  # từ thường hoặc nhãn giao diện dùng một lần; dịch như câu thường
+コマンドアビリティ  # từ thường hoặc nhãn giao diện dùng một lần; dịch như câu thường
+サポートアビリティ  # từ thường hoặc nhãn giao diện dùng một lần; dịch như câu thường
+マスターアビリティ  # từ thường hoặc nhãn giao diện dùng một lần; dịch như câu thường
+攻撃系  # từ thường hoặc nhãn giao diện dùng một lần; dịch như câu thường
+防御系  # từ thường hoặc nhãn giao diện dùng một lần; dịch như câu thường
+回復系  # từ thường hoặc nhãn giao diện dùng một lần; dịch như câu thường
+補助系  # từ thường hoặc nhãn giao diện dùng một lần; dịch như câu thường
+その他  # từ thường hoặc nhãn giao diện dùng một lần; dịch như câu thường
+つの  # đã bỏ khỏi glossary (đọc chương 2): khớp nhầm 一つの/立つの; SkillName500550 đã dịch 'Sừng'

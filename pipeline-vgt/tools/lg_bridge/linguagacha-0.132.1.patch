@@ -1,0 +1,26 @@
+diff --git a/src/backend/file/wolfrpg/common-events.ts b/src/backend/file/wolfrpg/common-events.ts
+index b43138b..dac34b2 100644
+--- a/src/backend/file/wolfrpg/common-events.ts
++++ b/src/backend/file/wolfrpg/common-events.ts
+@@ -4,7 +4,7 @@ import { read_wolf_command, WOLF_COMMAND, type WolfCommand } from "./commands";
+ import { RESOURCE_EXTENSIONS } from "../../../shared/text/text-resource-reference";
+ 
+ const MAGIC = [0, 0x57, 0, 0, 0x4f, 0x4c, 0, 0x46, 0x43, 0];
+-const VERSIONS = [0x90, 0x91, 0xc9, 0x93, 0xcc]; // 支持的布局版本。
++const VERSIONS = [0x90, 0x91, 0xc9, 0xca, 0x93, 0xcc]; // vgt: 0xca (WOLF 3.x + Translation Tool) bố cục như 0xc9 // 支持的布局版本。
+ const COMPRESSED = [0x93, 0xcc]; // 其中使用 LZ4 封装的版本。
+ const SELF_VARIABLE_BASE = 1600000; // 变量编号 1600000 + k 指所在公共事件的 \cself[k]。
+ const DATABASE_READ = 1; // `250` 标志位 12–15 为该值时，从数据库读入变量。
+diff --git a/src/backend/file/wolfrpg/game-data.ts b/src/backend/file/wolfrpg/game-data.ts
+index aace9ab..5fa7a6c 100644
+--- a/src/backend/file/wolfrpg/game-data.ts
++++ b/src/backend/file/wolfrpg/game-data.ts
+@@ -26,7 +26,7 @@ export function read_wolf_game_prefix(input: Uint8Array): {
+       string === 1 || string === 13 ? undefined : { kind: "game_string", string },
+       TEXT_FIELDS.has(string) ? "text" : "metadata",
+     );
+-    if (string === 1) assert(text === "0000-0000", "Unsupported WOLF game identity: " + text);
++    if (string === 1) assert(text === "0000-0000" || text.startsWith("0000-0000 + Translation Tool"), "Unsupported WOLF game identity: " + text);
+     else fields[string] = text;
+   }
+   return { doc, reader, fields };

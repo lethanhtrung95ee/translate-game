@@ -1,0 +1,157 @@
+# Nhật ký vgk
+- 2026-11-13 09:52 write: ghi 120, lỗi 0, cảnh báo 0; lô 1
+- 2026-11-13 09:53 write: ghi 113, lỗi 0, cảnh báo 0; lô 2
+- 2026-11-13 09:54 write: ghi 120, lỗi 0, cảnh báo 36; lô 3
+- 2026-11-13 09:55 write: ghi 120, lỗi 0, cảnh báo 63; lô 4
+- 2026-11-13 09:56 write: ghi 120, lỗi 0, cảnh báo 2; lô 5
+- 2026-11-13 09:57 write: ghi 120, lỗi 0, cảnh báo 0; lô 6
+- 2026-11-13 09:58 write: ghi 85, lỗi 0, cảnh báo 1; lô 7
+- 2026-11-13 09:59 write: ghi 120, lỗi 0, cảnh báo 2; lô 8
+- 2026-11-13 10:00 write: ghi 122, lỗi 0, cảnh báo 4; lô 8, 9
+- 2026-11-13 10:01 write: ghi 115, lỗi 0, cảnh báo 2; lô 9, 10
+- 2026-11-13 10:02 write: ghi 120, lỗi 0, cảnh báo 11; lô 11
+- 2026-11-13 10:04 write: ghi 120, lỗi 0, cảnh báo 6; lô 12
+- 2026-11-13 10:05 write: ghi 120, lỗi 1, cảnh báo 5; lô 11, 13
+- 2026-11-13 10:05 write: ghi 1, lỗi 0, cảnh báo 0; lô 13
+- 2026-11-13 10:09 write: ghi 54, lỗi 0, cảnh báo 6; lô 1, 2, 3, 5, 11, 12, 13
+- 2026-11-13 10:09 write: ghi 2, lỗi 0, cảnh báo 0; lô 11, 12
+- 2026-11-13 10:10 write: ghi 3, lỗi 0, cảnh báo 0; lô 11, 12
+- 2026-11-13 10:11 write: ghi 1, lỗi 0, cảnh báo 0; lô 12
+- 2026-11-13 10:11 đọc chương lần 1: tới câu thoại thứ 1509 · Lô 1–13: nghĩa đúng, giọng ổn; lỗi chính là lời kể bám câu EN (… khi …, bị động). Sửa trực tiếp 60 câu (SP01–SP06), SP05 kiếm→dao. Thêm 12 dòng xưng hô vai phụ SP03–SP04, sửa hồ sơ Girl, chỉ đạo SP06 (pipsqueak). Cờ 'tự xưng khác bảng' ở lời kể Kouko là báo nhầm (lời kể 'tôi' đúng). Hàng sửa 0 (65 câu ảnh hưởng đã soát, đúng sẵn).
+- 2026-11-13 10:13 write: ghi 119, lỗi 1, cảnh báo 4; lô 14
+- 2026-11-13 10:13 write: ghi 1, lỗi 0, cảnh báo 0; lô 14
+- 2026-11-13 10:13 write: ghi 120, lỗi 0, cảnh báo 8; lô 15
+- 2026-11-13 10:15 write: ghi 120, lỗi 0, cảnh báo 2; lô 16
+- 2026-11-13 10:15 write: ghi 87, lỗi 0, cảnh báo 10; lô 17
+- 2026-11-13 10:16 write: ghi 121, lỗi 0, cảnh báo 53; lô 17, 18
+- 2026-11-13 10:18 write: ghi 120, lỗi 0, cảnh báo 8; lô 19
+- 2026-11-13 10:19 write: ghi 82, lỗi 0, cảnh báo 7; lô 19, 20
+- 2026-11-13 10:20 write: ghi 120, lỗi 0, cảnh báo 5; lô 21
+- 2026-11-13 10:21 write: ghi 120, lỗi 0, cảnh báo 1; lô 22
+- 2026-11-13 10:22 write: ghi 120, lỗi 0, cảnh báo 6; lô 23
+- 2026-11-13 10:24 write: ghi 120, lỗi 0, cảnh báo 6; lô 24
+- 2026-11-13 10:25 write: ghi 120, lỗi 0, cảnh báo 11; lô 25
+- 2026-11-13 10:26 write: ghi 120, lỗi 0, cảnh báo 7; lô 26
+- 2026-11-13 10:27 write: ghi 119, lỗi 0, cảnh báo 7; lô 27
+- 2026-11-13 10:32 write: ghi 162, lỗi 0, cảnh báo 22; lô 1, 2, 3, 4, 5, 6, 7, 8, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25
+- 2026-11-13 10:34 đọc chương lần 2: tới câu thoại thứ 3116 · Lô 14–27 (SP06–SP11): nghĩa đúng, cảm xúc tới (SP08, SP10, SP11 tốt); lỗi chính: bám 'while/when/That's what' của EN, từ dịch đen (menu, license, mature), Botan dùng từ trừu tượng. Dài bất thường tăng do lời Botan, Mei tự nhiên dài hơn EN, không phải thêm ý. Sửa 117 câu + đổi ngoặc cong/gạch sang ngoặc thẳng, '-' ở 45 câu (bộ chữ). sotay: luật ngoặc thẳng, 5 điều tránh mới, thay câu mẫu; hồ sơ Botan; chỉ đạo SP10, SP12 bỏ ngoặc cong. Đóng phiếu #3, #4 (Akio đóng nữ chính). 442 câu ảnh hưởng đã soát, đúng sẵn.
+- 2026-11-13 10:35 write: ghi 120, lỗi 0, cảnh báo 4; lô 28
+- 2026-11-13 10:37 write: ghi 126, lỗi 0, cảnh báo 8; lô 28, 29
+- 2026-11-13 10:38 write: ghi 121, lỗi 0, cảnh báo 8; lô 29, 30
+- 2026-11-13 10:39 write: ghi 106, lỗi 0, cảnh báo 8; lô 30, 31
+- 2026-11-13 10:40 write: ghi 122, lỗi 0, cảnh báo 8; lô 31, 32
+- 2026-11-13 10:42 write: ghi 120, lỗi 0, cảnh báo 8; lô 33
+- 2026-11-13 10:42 write: ghi 1, lỗi 0, cảnh báo 1; lô 33
+- 2026-11-13 10:44 write: ghi 104, lỗi 0, cảnh báo 3; lô 34
+- 2026-11-13 10:45 write: ghi 120, lỗi 0, cảnh báo 8; lô 35
+- 2026-11-13 10:45 write: ghi 3, lỗi 0, cảnh báo 0; lô 35
+- 2026-11-13 10:46 write: ghi 115, lỗi 5, cảnh báo 7; lô 36
+- 2026-11-13 10:47 write: ghi 7, lỗi 0, cảnh báo 0; lô 36
+- 2026-11-13 10:47 write: ghi 93, lỗi 0, cảnh báo 3; lô 37
+- 2026-11-13 10:48 write: ghi 121, lỗi 0, cảnh báo 12; lô 37, 38
+- 2026-11-13 10:49 write: ghi 119, lỗi 0, cảnh báo 5; lô 38, 39
+- 2026-11-13 10:58 write: ghi 115, lỗi 0, cảnh báo 7; lô 3, 4, 14, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39
+- 2026-11-13 10:58 write: ghi 2, lỗi 0, cảnh báo 0; lô 32, 35
+- 2026-11-13 10:59 đọc chương lần 3: tới câu thoại thứ 4495 · Lần 3 (lô 28–39, SP12–16): đọc hết. Giọng ổn, SP16 giữ được cao trào lặng; lỗi chính là câu bám EN (một cách…, 'X, người đang…', mệnh đề khi) và xưng hô nhóm. Bible: thêm Nagisa→Tomoyo/Mei chị–em, Kyou→Nagisa, Akio→nhóm (chú – mấy đứa, SP14), Tomoyo→Tomoya SP14 đổi em–anh, Tomoyo→Sunohara tôi–anh (gọi tên), Sanae→Misae chị–em; hồ sơ Tomoyo/Misae/Akio SP14; sotay +2 mẫu, +2 điều tránh. Sửa 117 câu (gồm 5 câu SP02/06/12/14/15 theo lỗi lặp). Speakers.tsv sửa 4 chỗ (s12:0230, s14:0172, s15:0031, s15:0331). Đóng phiếu 5–7.
+- 2026-11-13 11:00 write: ghi 10, lỗi 0, cảnh báo 0; lô 1
+- 2026-11-13 11:01 write: ghi 10, lỗi 0, cảnh báo 0; lô 2
+- 2026-11-13 11:01 write: ghi 11, lỗi 0, cảnh báo 5; lô 3
+- 2026-11-13 11:01 write: ghi 5, lỗi 0, cảnh báo 1; lô 4
+- 2026-11-13 11:02 write: ghi 12, lỗi 0, cảnh báo 1; lô 5
+- 2026-11-13 11:02 write: ghi 6, lỗi 0, cảnh báo 0; lô 6
+- 2026-11-13 11:02 write: ghi 9, lỗi 0, cảnh báo 0; lô 7
+- 2026-11-13 11:03 write: ghi 6, lỗi 0, cảnh báo 1; lô 8
+- 2026-11-13 11:03 write: ghi 6, lỗi 0, cảnh báo 1; lô 9
+- 2026-11-13 11:03 write: ghi 4, lỗi 0, cảnh báo 0; lô 10
+- 2026-11-13 11:03 write: ghi 10, lỗi 0, cảnh báo 0; lô 11
+- 2026-11-13 11:04 write: ghi 6, lỗi 0, cảnh báo 0; lô 12
+- 2026-11-13 11:04 write: ghi 4, lỗi 0, cảnh báo 0; lô 13
+- 2026-11-13 11:33 write: ghi 18, lỗi 0, cảnh báo 3; lô 1, 3, 4, 11, 12, 20, 24, 25, 26, 29, 34, 38, 39
+- 2026-11-13 12:21 write: ghi 120, lỗi 0, cảnh báo 3; lô 1
+- 2026-11-13 12:22 write: ghi 113, lỗi 0, cảnh báo 2; lô 2
+- 2026-11-13 12:26 write: ghi 42, lỗi 0, cảnh báo 1; lô 1, 2
+- 2026-11-13 13:07 write: ghi 119, lỗi 1, cảnh báo 39; lô 3
+- 2026-11-13 13:07 write: ghi 1, lỗi 0, cảnh báo 0; lô 3
+- 2026-11-13 13:08 write: ghi 119, lỗi 1, cảnh báo 64; lô 4
+- 2026-11-13 13:08 write: ghi 2, lỗi 0, cảnh báo 0; lô 4
+- 2026-11-13 13:09 write: ghi 120, lỗi 0, cảnh báo 2; lô 5
+- 2026-11-13 13:12 write: ghi 105, lỗi 0, cảnh báo 30; lô 3, 4, 5
+- 2026-11-13 13:12 write: ghi 2, lỗi 0, cảnh báo 0; lô 3, 4
+- 2026-11-13 13:14 write: ghi 120, lỗi 0, cảnh báo 0; lô 6
+- 2026-11-13 13:15 write: ghi 84, lỗi 1, cảnh báo 3; lô 7
+- 2026-11-13 13:15 write: ghi 4, lỗi 0, cảnh báo 0; lô 7
+- 2026-11-13 13:16 write: ghi 119, lỗi 1, cảnh báo 0; lô 8
+- 2026-11-13 13:16 write: ghi 1, lỗi 0, cảnh báo 0; lô 8
+- 2026-11-13 13:19 write: ghi 72, lỗi 0, cảnh báo 5; lô 5, 6, 7, 8
+- 2026-11-13 13:19 write: ghi 1, lỗi 0, cảnh báo 1; lô 8
+- 2026-11-13 13:21 write: ghi 120, lỗi 0, cảnh báo 8; lô 9
+- 2026-11-13 13:22 write: ghi 113, lỗi 1, cảnh báo 2; lô 9, 10
+- 2026-11-13 13:22 write: ghi 2, lỗi 0, cảnh báo 1; lô 10
+- 2026-11-13 13:23 write: ghi 120, lỗi 0, cảnh báo 4; lô 11
+- 2026-11-13 13:26 write: ghi 65, lỗi 1, cảnh báo 5; lô 8, 9, 10, 11
+- 2026-11-13 13:26 write: ghi 2, lỗi 0, cảnh báo 1; lô 9, 10
+- 2026-11-13 13:28 write: ghi 119, lỗi 1, cảnh báo 13; lô 12
+- 2026-11-13 13:28 write: ghi 1, lỗi 0, cảnh báo 0; lô 12
+- 2026-11-13 13:30 write: ghi 119, lỗi 1, cảnh báo 3; lô 13
+- 2026-11-13 13:30 write: ghi 1, lỗi 0, cảnh báo 0; lô 13
+- 2026-11-13 13:31 write: ghi 118, lỗi 2, cảnh báo 1; lô 14
+- 2026-11-13 13:31 write: ghi 2, lỗi 0, cảnh báo 1; lô 14
+- 2026-11-13 13:34 write: ghi 77, lỗi 1, cảnh báo 7; lô 12, 13, 14
+- 2026-11-13 13:34 write: ghi 2, lỗi 0, cảnh báo 1; lô 12, 13
+- 2026-11-13 13:36 write: ghi 119, lỗi 1, cảnh báo 13; lô 15
+- 2026-11-13 13:36 write: ghi 1, lỗi 0, cảnh báo 0; lô 15
+- 2026-11-13 13:37 write: ghi 119, lỗi 1, cảnh báo 2; lô 16
+- 2026-11-13 13:37 write: ghi 1, lỗi 0, cảnh báo 0; lô 16
+- 2026-11-13 13:38 write: ghi 84, lỗi 3, cảnh báo 6; lô 17
+- 2026-11-13 13:38 write: ghi 4, lỗi 0, cảnh báo 1; lô 17
+- 2026-11-13 13:40 write: ghi 54, lỗi 1, cảnh báo 1; lô 15, 16, 17
+- 2026-11-13 13:41 write: ghi 1, lỗi 0, cảnh báo 0; lô 15
+- 2026-11-13 13:42 write: ghi 120, lỗi 0, cảnh báo 9; lô 18
+- 2026-11-13 13:43 write: ghi 121, lỗi 0, cảnh báo 4; lô 18, 19
+- 2026-11-13 13:44 write: ghi 83, lỗi 0, cảnh báo 7; lô 19, 20
+- 2026-11-13 13:47 write: ghi 97, lỗi 1, cảnh báo 12; lô 18, 19, 20
+- 2026-11-13 13:47 write: ghi 4, lỗi 0, cảnh báo 0; lô 18, 20
+- 2026-11-13 13:50 write: ghi 120, lỗi 0, cảnh báo 5; lô 21
+- 2026-11-13 13:51 write: ghi 118, lỗi 2, cảnh báo 0; lô 22
+- 2026-11-13 13:51 write: ghi 2, lỗi 0, cảnh báo 0; lô 22
+- 2026-11-13 13:52 write: ghi 120, lỗi 0, cảnh báo 5; lô 23
+- 2026-11-13 13:54 write: ghi 66, lỗi 1, cảnh báo 3; lô 21, 22, 23
+- 2026-11-13 13:54 write: ghi 2, lỗi 0, cảnh báo 1; lô 22, 23
+- 2026-11-13 13:57 write: ghi 120, lỗi 0, cảnh báo 9; lô 24
+- 2026-11-13 13:58 write: ghi 121, lỗi 0, cảnh báo 8; lô 24, 25
+- 2026-11-13 13:59 write: ghi 120, lỗi 0, cảnh báo 7; lô 26
+- 2026-11-13 14:02 write: ghi 75, lỗi 0, cảnh báo 7; lô 24, 25, 26
+- 2026-11-13 14:04 write: ghi 119, lỗi 0, cảnh báo 6; lô 27
+- 2026-11-13 14:05 write: ghi 125, lỗi 0, cảnh báo 4; lô 27, 28
+- 2026-11-13 14:06 write: ghi 119, lỗi 1, cảnh báo 3; lô 29
+- 2026-11-13 14:06 write: ghi 2, lỗi 0, cảnh báo 0; lô 29
+- 2026-11-13 14:10 write: ghi 113, lỗi 1, cảnh báo 12; lô 27, 28, 29
+- 2026-11-13 14:10 write: ghi 1, lỗi 0, cảnh báo 0; lô 27
+- 2026-11-13 14:10 write: ghi 10, lỗi 0, cảnh báo 1; lô 28, 29
+- 2026-11-13 14:12 write: ghi 120, lỗi 0, cảnh báo 13; lô 30
+- 2026-11-13 14:13 write: ghi 107, lỗi 0, cảnh báo 4; lô 30, 31
+- 2026-11-13 14:14 write: ghi 122, lỗi 0, cảnh báo 8; lô 31, 32
+- 2026-11-13 14:15 write: ghi 1, lỗi 0, cảnh báo 0; lô 32
+- 2026-11-13 14:18 write: ghi 77, lỗi 0, cảnh báo 12; lô 30, 31, 32
+- 2026-11-13 14:18 write: ghi 3, lỗi 0, cảnh báo 1; lô 30, 31
+- 2026-11-13 14:20 write: ghi 120, lỗi 0, cảnh báo 13; lô 33
+- 2026-11-13 14:21 write: ghi 102, lỗi 2, cảnh báo 1; lô 34
+- 2026-11-13 14:21 write: ghi 2, lỗi 0, cảnh báo 0; lô 34
+- 2026-11-13 14:23 write: ghi 120, lỗi 0, cảnh báo 8; lô 35
+- 2026-11-13 14:23 write: ghi 1, lỗi 0, cảnh báo 1; lô 35
+- 2026-11-13 14:26 write: ghi 97, lỗi 0, cảnh báo 8; lô 33, 34, 35
+- 2026-11-13 14:26 write: ghi 1, lỗi 0, cảnh báo 1; lô 33
+- 2026-11-13 14:29 write: ghi 120, lỗi 0, cảnh báo 11; lô 36
+- 2026-11-13 14:29 write: ghi 5, lỗi 0, cảnh báo 1; lô 36
+- 2026-11-13 14:29 write: ghi 1, lỗi 0, cảnh báo 0; lô 36
+- 2026-11-13 14:30 write: ghi 93, lỗi 0, cảnh báo 2; lô 37
+- 2026-11-13 14:31 write: ghi 122, lỗi 0, cảnh báo 10; lô 37, 38
+- 2026-11-13 14:32 write: ghi 122, lỗi 0, cảnh báo 11; lô 38, 39
+- 2026-11-13 14:32 write: ghi 7, lỗi 0, cảnh báo 1; lô 39
+- 2026-11-13 14:37 write: ghi 111, lỗi 6, cảnh báo 11; lô 36, 37, 38, 39
+- 2026-11-13 14:37 write: ghi 7, lỗi 0, cảnh báo 0; lô 36, 37, 38
+- 2026-11-13 14:41 write: ghi 20, lỗi 0, cảnh báo 1; lô 3, 13, 14, 15, 18, 19, 20, 23, 25, 26, 28, 29, 30, 33, 39
+- 2026-11-13 14:43 write: ghi 19, lỗi 0, cảnh báo 3; lô 2, 3, 4, 5, 6, 11, 14, 15, 16, 18
+- 2026-11-13 14:43 write: ghi 17, lỗi 0, cảnh báo 1; lô 18, 19, 22, 26, 28, 29, 30, 35, 36, 37, 39
+- 2026-11-13 14:43 write: ghi 1, lỗi 0, cảnh báo 0; lô 37
+- 2026-11-13 14:45 write: ghi 6, lỗi 0, cảnh báo 2; lô 3, 5, 20, 30, 31

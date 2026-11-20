@@ -1,0 +1,26 @@
+# Nhật ký vgk
+- 2026-11-11 01:34 fill: ghi 38, lỗi 0, cảnh báo 0; lô 1
+- 2026-11-11 09:15 write: ghi 134, lỗi 0, cảnh báo 0; lô 1
+- 2026-11-11 09:16 write: ghi 90, lỗi 1, cảnh báo 2; lô 2
+- 2026-11-11 09:16 write: ghi 3, lỗi 0, cảnh báo 0; lô 2
+- 2026-11-11 09:17 write: ghi 120, lỗi 0, cảnh báo 1; lô 3
+- 2026-11-11 09:18 write: ghi 71, lỗi 9, cảnh báo 2; lô 4
+- 2026-11-11 09:18 write: ghi 1, lỗi 9, cảnh báo 0; lô 4
+- 2026-11-11 09:20 write: ghi 1, lỗi 0, cảnh báo 0; lô 1
+- 2026-11-11 09:20 write: ghi 9, lỗi 0, cảnh báo 1; lô 4
+- 2026-11-11 09:21 write: ghi 96 (+10 câu lặp tự chép), lỗi 0, cảnh báo 8; lô 5
+- 2026-11-11 09:22 write: ghi 100, lỗi 0, cảnh báo 5; lô 5, 6
+- 2026-11-11 09:23 write: ghi 78, lỗi 0, cảnh báo 10; lô 7
+- 2026-11-11 09:24 write: ghi 117 (+5 câu lặp tự chép), lỗi 0, cảnh báo 3; lô 8
+- 2026-11-11 09:26 write: ghi 119, lỗi 0, cảnh báo 2; lô 8, 9
+- 2026-11-11 09:27 write: ghi 118 (+10 câu lặp tự chép), lỗi 1, cảnh báo 78; lô 10
+- 2026-11-11 09:27 write: ghi 1, lỗi 0, cảnh báo 1; lô 10
+- 2026-11-11 09:27 write: ghi 117, lỗi 0, cảnh báo 151; lô 11
+- 2026-11-11 09:28 write: ghi 105, lỗi 0, cảnh báo 36; lô 12
+- 2026-11-11 09:29 write: ghi 102, lỗi 0, cảnh báo 5; lô 13
+- 2026-11-11 09:30 write: ghi 82, lỗi 1, cảnh báo 6; lô 14
+- 2026-11-11 09:30 write: ghi 1, lỗi 0, cảnh báo 0; lô 14
+- 2026-11-11 09:32 write: ghi 106 (+1 câu lặp tự chép), lỗi 0, cảnh báo 4; lô 15
+- 2026-11-11 09:32 write: ghi 1, lỗi 0, cảnh báo 0; lô 10
+- 2026-11-11 09:35 write: ghi 61, lỗi 0, cảnh báo 1; lô 2, 3, 5, 6, 9, 10, 12, 13
+- 2026-11-11 09:36 write: ghi 5, lỗi 0, cảnh báo 0; lô 2, 14

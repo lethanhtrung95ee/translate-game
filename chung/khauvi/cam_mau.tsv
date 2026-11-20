@@ -1,0 +1,38 @@
+regex	goi_y	pham_vi
+theo những gì tôi biết thì	"trong ký ức của tôi"	chung
+nói đúng ra thì	bỏ cụm này	chung
+^\s*Là con thì	"Con thì"	chung
+khiến tôi hoài niệm	viết lại câu	chung
+buông tay khỏi đầu	"rút tay lại"	chung
+gương mặt[^.!?…]{0,20}bật cười	"gương mặt giãn ra"	chung
+cũng là \S+ hơn	"X cũng hơn Y"	chung
+lẹ lên làm đi	"nhanh tay lên!"	chung
+xin hãy chiếu cố	"mong được giúp đỡ" / "nhờ cả vào anh"	nguon:ja
+ngài đã mệt rồi	"vất vả rồi"	nguon:ja
+tôi xin nhận	"ăn thôi" / "mời cả nhà" (いただきます)	nguon:ja
+đút chiêu	"luyện chiêu", "đấu tập"	nguon:zh
+đánh mặt	"vả mặt", "bẽ mặt"	nguon:zh
+ôi chúa của tôi	"trời ơi"	nguon:en
+⏎	dấu ⏎ là ký hiệu xuống dòng của lệnh show, không gõ vào bản dịch: dùng xuống dòng thật	chung
+việc (không nên|không thể|chẳng nên) chậm trễ	事不宜遲 → "không chần chừ được nữa" / "phải nhanh lên"	nguon:zh
+danh bất hư truyền	"đúng như lời đồn"	nguon:zh
+thân bất do kỷ	"chẳng tự quyết được", "bất đắc dĩ"	nguon:zh
+giao hậu môn	"giao hợp hậu môn" / "quan hệ đường hậu môn"	chung
+dâm thủy	淫水 → "nước dâm"	nguon:zh
+\b(ái dịch|dịch ái)\b	愛液 → "dâm dịch"	nguon:zh
+bộ giáp bị nguyền	tên riêng theo glossary (vd "Giáp Nguyền rủa"), không diễn giải	game:cursed-armor
+có giác ngộ|giác ngộ (chịu chết|xuống|đẩy)|chút giác ngộ	觉悟 (ý quyết) → "quyết tâm", "sẵn lòng", "đã quyết"; "giác ngộ" chỉ cho nghĩa nhà Phật	nguon:zh
+Trời người giao chiến	天人交战 → "trong lòng giằng xé"	nguon:zh
+^["“]?Là [^?\n]{1,40}[.!]["”]?$	câu cụt bám "It's…": viết câu trọn, có chủ ngữ ("Bọn mình đang bị phạt đấy.")	chung
+một cách (dễ dàng|nhanh chóng|chậm rãi|nhẹ nhàng|mạnh mẽ|lặng lẽ|vội vàng|cẩn thận)	đưa trạng từ lên trước động từ ("dễ dàng gỡ tay ra")	chung
+, người (đang|đã|vừa|từng) 	mệnh đề "who…" bám EN: tách câu hoặc đưa lên trước	chung
+^(Một|Có một) (cái |chiếc |con |tấm |bức |cây |chiếc )?\S+( \S+){0,2}\.$	lời nhận xét đồ vật: "Cái thang.", "À, ghế xếp."	chung
+(xóa|xoá) (bỏ )?(hoàn toàn )?sự hiện diện|đã biến mất hoàn toàn rồi	気配を消す / erase one's presence → "nấp kín", "nín thở trốn"	chung
+lâm nguy thụ mệnh	"nhận việc lúc nguy cấp"	nguon:zh
+tiện nhân	chỉ dùng khi chửi nữ lẳng lơ, giật chồng; chửi nam: "đồ hèn hạ", "đồ khốn"	chung
+bị gọi tới lo	"bị sai đi …"	chung
+trong họ ngoài họ	nói rõ: "đệ tử họ X với đệ tử khác họ"	game:legend-of-mortal
+đại mạc	"sa mạc"	chung
+đại trướng	"lều lớn"	chung
+khâm phạm	"tội phạm bị triều đình truy nã"	chung
+kéo \S+ xuống nước	拖下水: "kéo theo", "làm liên lụy"	chung

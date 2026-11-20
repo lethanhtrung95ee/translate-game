@@ -1,0 +1,42 @@
+{
+  "vgk_version": "2.3.0",
+  "name": "HOME",
+  "slug": "home",
+  "engine": "TyranoScript",
+  "kind": "18",
+  "source_lang": "en",
+  "the_loai": "vn",
+  "boi_canh": "hien_dai",
+  "en_mode": "",
+  "linebreaks": "free",
+  "batch_dialogue": 80,
+  "batch_short": 350,
+  "code_patterns": [
+    "\\[(?:舜|日高|[a-z_][a-z_0-9]*(?:\\s[^\\]]*)?)\\]",
+    "<br>"
+  ],
+  "skip_patterns": [],
+  "allow_chars": "",
+  "max_len": {},
+  "fit_auto": [
+    "kind:ui"
+  ],
+  "name_types": [
+    "nhan_vat",
+    "dia_danh",
+    "to_chuc",
+    "ten"
+  ],
+  "term_check_types": [
+    "vat_pham",
+    "ky_nang",
+    "trang_thai"
+  ],
+  "minor_fallback": "en",
+  "hoso_dir": "",
+  "gop_ok": false,
+  "qa_dinh_ky": false,
+  "doc_chuong_dau": 1500,
+  "doc_chuong_sau": 5000,
+  "phieu_toi_da": 15
+}

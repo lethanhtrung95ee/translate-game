@@ -1,0 +1,4 @@
+Seen.txt  # gói nén: đã bung bằng tools/clannad_rl.py unpack và quét thư mục bung (sạch)
+dat/dangopedia.dbs  # Dangopedia (từ điển thuật ngữ): định dạng nén/mã hóa chưa giải — VIỆC MỞ, xem HANDOFF
+dat/mode.cgm  # bảng CG
+dat/tcdata.tcc  # tone curve

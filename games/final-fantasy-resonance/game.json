@@ -1,0 +1,56 @@
+{
+  "vgk_version": "2.3.0",
+  "name": "FINAL FANTASY RESONANCE",
+  "slug": "final-fantasy-resonance",
+  "engine": "Unreal 5",
+  "kind": "thuong",
+  "source_lang": "ja",
+  "the_loai": "rpg",
+  "boi_canh": "fantasy",
+  "en_mode": "all",
+  "linebreaks": "free",
+  "batch_dialogue": 80,
+  "batch_short": 350,
+  "code_patterns": [
+    "<[^>]*>",
+    "\\{[^}]*\\}"
+  ],
+  "skip_patterns": [],
+  "allow_chars": "",
+  "max_len": {},
+  "fit_auto": [
+    "kind:dialogue",
+    "kind:system",
+    "file:ST_*Description*",
+    "file:ST_*Summary*",
+    "file:ST_*Progress*",
+    "file:ST_*Trait*",
+    "file:ST_Tutorial*",
+    "file:ST_UI_Guide*",
+    "file:ST_INN*",
+    "file:ST_*Dialog*",
+    "file:ST_UI_TitleMenu*",
+    "file:ST_UI_Option*",
+    "file:ST_Dummy*",
+    "file:ST_UI_SavePoint*",
+    "file:ST_UI_EquipMenu*"
+  ],
+  "name_types": [
+    "nhan_vat",
+    "dia_danh",
+    "to_chuc",
+    "ten"
+  ],
+  "term_check_types": [
+    "vat_pham",
+    "ky_nang",
+    "trang_thai"
+  ],
+  "minor_fallback": "en",
+  "hoso_dir": "",
+  "gop_ok": false,
+  "qa_dinh_ky": false,
+  "doc_chuong_dau": 1500,
+  "doc_chuong_sau": 5000,
+  "phieu_toi_da": 15
+}

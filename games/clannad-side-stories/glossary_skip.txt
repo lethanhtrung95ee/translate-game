@@ -1,0 +1,69 @@
+# Ứng viên tên/thuật ngữ đã quyết là không cần glossary. Mỗi dòng: '<gốc>  # lý do'.
+Girl  # nhãn người nói không tên (speakers.tsv), không xuất hiện trong câu
+Library girl  # nhãn người nói không tên (speakers.tsv), không xuất hiện trong câu
+Akio's classmate  # nhãn người nói không tên (speakers.tsv), không xuất hiện trong câu
+Boy  # nhãn người nói không tên (speakers.tsv), không xuất hiện trong câu
+Club president  # nhãn người nói không tên (speakers.tsv), không xuất hiện trong câu
+Ryou's classmate A  # nhãn người nói không tên (speakers.tsv), không xuất hiện trong câu
+Doctor  # nhãn người nói không tên (speakers.tsv), không xuất hiện trong câu
+Koumura's wife  # nhãn người nói không tên (speakers.tsv), không xuất hiện trong câu
+Teammate A  # nhãn người nói không tên (speakers.tsv), không xuất hiện trong câu
+Teammate B  # nhãn người nói không tên (speakers.tsv), không xuất hiện trong câu
+Friend  # nhãn người nói không tên (speakers.tsv), không xuất hiện trong câu
+Ryou's classmate B  # nhãn người nói không tên (speakers.tsv), không xuất hiện trong câu
+Opponent A  # nhãn người nói không tên (speakers.tsv), không xuất hiện trong câu
+Employee  # nhãn người nói không tên (speakers.tsv), không xuất hiện trong câu
+Council member A  # nhãn người nói không tên (speakers.tsv), không xuất hiện trong câu
+Opponent B  # nhãn người nói không tên (speakers.tsv), không xuất hiện trong câu
+Kyou's mother  # nhãn người nói không tên (speakers.tsv), không xuất hiện trong câu
+Vice president  # nhãn người nói không tên (speakers.tsv), không xuất hiện trong câu
+Nagisa's classmate A  # nhãn người nói không tên (speakers.tsv), không xuất hiện trong câu
+Kyou's male classmate  # nhãn người nói không tên (speakers.tsv), không xuất hiện trong câu
+Referee  # nhãn người nói không tên (speakers.tsv), không xuất hiện trong câu
+Student A  # nhãn người nói không tên (speakers.tsv), không xuất hiện trong câu
+Student B  # nhãn người nói không tên (speakers.tsv), không xuất hiện trong câu
+Council member  # nhãn người nói không tên (speakers.tsv), không xuất hiện trong câu
+Farmer  # nhãn người nói không tên (speakers.tsv), không xuất hiện trong câu
+Nagisa's classmate B  # nhãn người nói không tên (speakers.tsv), không xuất hiện trong câu
+Kyou's classmate  # nhãn người nói không tên (speakers.tsv), không xuất hiện trong câu
+Delinquent A  # nhãn người nói không tên (speakers.tsv), không xuất hiện trong câu
+Delinquent B  # nhãn người nói không tên (speakers.tsv), không xuất hiện trong câu
+Male student  # nhãn người nói không tên (speakers.tsv), không xuất hiện trong câu
+Announcer  # nhãn người nói không tên (speakers.tsv), không xuất hiện trong câu
+Teacher  # nhãn người nói không tên (speakers.tsv), không xuất hiện trong câu
+Club member  # nhãn người nói không tên (speakers.tsv), không xuất hiện trong câu
+Council member B  # nhãn người nói không tên (speakers.tsv), không xuất hiện trong câu
+Onee  # mảnh của mục đã có (Onee-chan, Onii-chan, Fu-chan, Dai-Ichi, Founder's Festival, student council president)
+Onii  # mảnh của mục đã có (Onee-chan, Onii-chan, Fu-chan, Dai-Ichi, Founder's Festival, student council president)
+Fu  # mảnh của mục đã có (Onee-chan, Onii-chan, Fu-chan, Dai-Ichi, Founder's Festival, student council president)
+Dai  # mảnh của mục đã có (Onee-chan, Onii-chan, Fu-chan, Dai-Ichi, Founder's Festival, student council president)
+Founder  # mảnh của mục đã có (Onee-chan, Onii-chan, Fu-chan, Dai-Ichi, Founder's Festival, student council president)
+Festival  # mảnh của mục đã có (Onee-chan, Onii-chan, Fu-chan, Dai-Ichi, Founder's Festival, student council president)
+President  # mảnh của mục đã có (Onee-chan, Onii-chan, Fu-chan, Dai-Ichi, Founder's Festival, student council president)
+Sigh  # từ thường/tượng thanh, không phải tên riêng
+It  # từ thường/tượng thanh, không phải tên riêng
+Don  # từ thường/tượng thanh, không phải tên riêng
+Yeah  # từ thường/tượng thanh, không phải tên riêng
+Hey  # từ thường/tượng thanh, không phải tên riêng
+Please  # từ thường/tượng thanh, không phải tên riêng
+Bo  # từ thường/tượng thanh, không phải tên riêng
+You  # từ thường/tượng thanh, không phải tên riêng
+Huh  # từ thường/tượng thanh, không phải tên riêng
+Bang  # từ thường/tượng thanh, không phải tên riêng
+She  # từ thường/tượng thanh, không phải tên riêng
+Even  # từ thường/tượng thanh, không phải tên riêng
+Let  # từ thường/tượng thanh, không phải tên riêng
+Wh  # từ thường/tượng thanh, không phải tên riêng
+English  # từ thường/tượng thanh, không phải tên riêng
+Quick  # từ thường/tượng thanh, không phải tên riêng
+Okay  # từ thường/tượng thanh, không phải tên riêng
+Slam  # từ thường/tượng thanh, không phải tên riêng
+He  # từ thường/tượng thanh, không phải tên riêng
+Go  # từ thường/tượng thanh, không phải tên riêng
+Splash  # từ thường/tượng thanh, không phải tên riêng
+Trot  # từ thường/tượng thanh, không phải tên riêng
+My  # từ thường/tượng thanh, không phải tên riêng
+Class  # từ thường/tượng thanh, không phải tên riêng
+Hold  # từ thường/tượng thanh, không phải tên riêng
+Rattle  # từ thường/tượng thanh, không phải tên riêng
+Roll  # từ thường/tượng thanh, không phải tên riêng

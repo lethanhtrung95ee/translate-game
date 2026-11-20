@@ -1,0 +1,3 @@
+*.code  # script AutoGen/Scripts: chỉ chứa nhãn nội bộ, cờ, mã nhân vật; chữ hiện ra lấy theo khóa từ Text/ (đã quét bản bung ở /home/claude/bung/code: chỉ còn 5 câu của UIViewer.code là trình xem thử, không hiện trong game)
+shortmov*  # chỉ có ở bản JA (không có Text/en/shortmov): bản English của game không dùng tệp này
+*.bundle  # aa/*.bundle cảnh UI: chỉ có chữ giữ chỗ của trình soạn (New Text, chữ JA mẫu); lúc chạy game lấy chữ từ Text/<ngôn ngữ>. Kiểm lại ở lượt test trong game

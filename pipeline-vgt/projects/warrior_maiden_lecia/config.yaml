@@ -1,0 +1,7 @@
+# Ghi de cau hinh cho rieng game nay (xem config.default.yaml)
+patch:
+  dir: "../Warrior Maiden Lecia"
+# Ban phat hanh tieng Anh chinh thuc (goc Nhat). Chu hien tren man hinh la tieng Anh.
+source_lang: en
+linguagacha:
+  source_language: EN

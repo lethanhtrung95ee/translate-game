@@ -1,0 +1,511 @@
+# Nhật ký vgk
+- 2026-11-13 02:09 fill: ghi 182, lỗi 0, cảnh báo 7; lô 1, 2
+- 2026-11-13 02:10 bulk: ghi 6, lỗi 0, cảnh báo 0; lô 1
+- 2026-11-13 02:10 bulk: ghi 5, lỗi 0, cảnh báo 0; lô 1
+- 2026-11-13 02:10 bulk: ghi 4, lỗi 0, cảnh báo 0; lô 1
+- 2026-11-13 02:10 bulk: ghi 3, lỗi 0, cảnh báo 0; lô 1
+- 2026-11-13 02:10 bulk: ghi 6, lỗi 0, cảnh báo 0; lô 1
+- 2026-11-13 02:10 bulk: ghi 3, lỗi 0, cảnh báo 0; lô 1
+- 2026-11-13 02:10 bulk: ghi 3, lỗi 0, cảnh báo 0; lô 1
+- 2026-11-13 02:10 bulk: ghi 5, lỗi 0, cảnh báo 0; lô 1
+- 2026-11-13 02:10 bulk: ghi 6, lỗi 0, cảnh báo 0; lô 1
+- 2026-11-13 02:10 bulk: ghi 5, lỗi 0, cảnh báo 0; lô 1
+- 2026-11-13 02:10 bulk: ghi 6, lỗi 0, cảnh báo 0; lô 1
+- 2026-11-13 02:10 bulk: ghi 5, lỗi 0, cảnh báo 0; lô 1
+- 2026-11-13 02:10 bulk: ghi 5, lỗi 0, cảnh báo 0; lô 1
+- 2026-11-13 02:10 bulk: ghi 5, lỗi 0, cảnh báo 0; lô 1
+- 2026-11-13 02:11 bulk: ghi 1, lỗi 0, cảnh báo 0; lô 1
+- 2026-11-13 02:11 bulk: ghi 1, lỗi 0, cảnh báo 0; lô 1
+- 2026-11-13 02:11 bulk: ghi 1, lỗi 0, cảnh báo 0; lô 1
+- 2026-11-13 02:11 bulk: ghi 1, lỗi 0, cảnh báo 0; lô 1
+- 2026-11-13 02:11 bulk: ghi 1, lỗi 0, cảnh báo 0; lô 1
+- 2026-11-13 02:11 bulk: ghi 1, lỗi 0, cảnh báo 1; lô 1
+- 2026-11-13 02:11 bulk: ghi 1, lỗi 0, cảnh báo 0; lô 1
+- 2026-11-13 02:18 write: ghi 216, lỗi 0, cảnh báo 29; lô 1
+- 2026-11-13 02:19 write: ghi 34, lỗi 0, cảnh báo 35; lô 2
+- 2026-11-13 02:20 write: ghi 120 (+1 câu lặp tự chép), lỗi 0, cảnh báo 2; lô 3
+- 2026-11-13 02:21 write: ghi 78, lỗi 42, cảnh báo 6; lô 4
+- 2026-11-13 02:21 write: ghi 72, lỗi 0, cảnh báo 5; lô 4
+- 2026-11-13 02:23 write: ghi 120, lỗi 0, cảnh báo 2; lô 5
+- 2026-11-13 02:23 write: ghi 120, lỗi 0, cảnh báo 1; lô 6
+- 2026-11-13 02:25 write: ghi 120 (+1 câu lặp tự chép), lỗi 0, cảnh báo 6; lô 7
+- 2026-11-13 09:25 write: ghi 118, lỗi 2, cảnh báo 2; lô 8
+- 2026-11-13 09:25 write: ghi 3, lỗi 0, cảnh báo 1; lô 8
+- 2026-11-13 09:26 write: ghi 110, lỗi 10, cảnh báo 3; lô 9
+- 2026-11-13 09:27 write: ghi 10, lỗi 0, cảnh báo 0; lô 9
+- 2026-11-13 09:28 write: ghi 120, lỗi 0, cảnh báo 1; lô 10
+- 2026-11-13 09:28 write: ghi 100, lỗi 0, cảnh báo 2; lô 11
+- 2026-11-13 09:29 write: ghi 120 (+3 câu lặp tự chép), lỗi 0, cảnh báo 5; lô 12
+- 2026-11-13 09:30 write: ghi 120 (+3 câu lặp tự chép), lỗi 0, cảnh báo 3; lô 13
+- 2026-11-13 09:31 write: ghi 120 (+1 câu lặp tự chép), lỗi 0, cảnh báo 4; lô 14
+- 2026-11-13 09:37 write: ghi 34, lỗi 0, cảnh báo 12; lô 3, 4, 5, 6, 7, 8, 9, 12, 13, 14
+- 2026-11-13 09:38 write: ghi 120 (+2 câu lặp tự chép), lỗi 0, cảnh báo 4; lô 15
+- 2026-11-13 09:53 đọc chương lần 1: tới câu thoại thứ 1551 · Lô 1–15 (0414–0416): bản Việt trôi, giọng Tomoya khô mỉa đúng, hài Sunohara giữ nhịp; lỗi chính: vài câu kể dịch máy, Sunohara với đàn em lệch xưng hô, một mảnh Dangopedia treo chữ. Bible: sotay thêm 5 điều tránh + 8 câu mẫu; pair Sunohara→Male Student anh–em, Tomoya→Girl ghi mốc đổi mình–cậu từ 0415.d659, Tomoya→Rugby club; thuật ngữ thống nhất Yusuke Yoshino, thêm Pornohara, siêu cyber, J-Bít-tết, Skiratch; chỉ đạo cảnh 0419–0422. 4 phiếu đóng; 13 câu vào hàng sửa.
+- 2026-11-13 09:57 write: ghi 13, lỗi 0, cảnh báo 2; lô 4, 7, 9, 12, 15
+- 2026-11-13 09:58 write: ghi 119, lỗi 1, cảnh báo 13; lô 16
+- 2026-11-13 09:58 write: ghi 6, lỗi 0, cảnh báo 0; lô 16
+- 2026-11-13 09:59 write: ghi 120 (+2 câu lặp tự chép), lỗi 0, cảnh báo 5; lô 17
+- 2026-11-13 10:00 write: ghi 118, lỗi 1, cảnh báo 5; lô 18
+- 2026-11-13 10:01 write: ghi 3, lỗi 1, cảnh báo 0; lô 18
+- 2026-11-13 10:01 write: ghi 1, lỗi 0, cảnh báo 0; lô 18
+- 2026-11-13 10:02 write: ghi 120 (+7 câu lặp tự chép), lỗi 0, cảnh báo 11; lô 19
+- 2026-11-13 10:02 write: ghi 4, lỗi 0, cảnh báo 0; lô 19
+- 2026-11-13 10:03 write: ghi 119 (+5 câu lặp tự chép), lỗi 1, cảnh báo 4; lô 20
+- 2026-11-13 10:03 write: ghi 1, lỗi 0, cảnh báo 0; lô 20
+- 2026-11-13 10:04 write: ghi 110 (+2 câu lặp tự chép), lỗi 2, cảnh báo 5; lô 21
+- 2026-11-13 10:04 write: ghi 3, lỗi 0, cảnh báo 0; lô 21
+- 2026-11-13 10:05 write: ghi 120 (+1 câu lặp tự chép), lỗi 0, cảnh báo 4; lô 22
+- 2026-11-13 10:08 write: ghi 114 (+10 câu lặp tự chép), lỗi 3, cảnh báo 5; lô 23
+- 2026-11-13 10:08 write: ghi 4, lỗi 0, cảnh báo 1; lô 23
+- 2026-11-13 10:09 write: ghi 119 (+3 câu lặp tự chép), lỗi 1, cảnh báo 5; lô 24
+- 2026-11-13 10:09 write: ghi 1, lỗi 0, cảnh báo 0; lô 24
+- 2026-11-13 10:10 write: ghi 117 (+4 câu lặp tự chép), lỗi 2, cảnh báo 8; lô 23, 25
+- 2026-11-13 10:10 write: ghi 2, lỗi 0, cảnh báo 0; lô 25
+- 2026-11-13 10:11 write: ghi 97, lỗi 0, cảnh báo 3; lô 26
+- 2026-11-13 10:12 write: ghi 117, lỗi 1, cảnh báo 4; lô 27
+- 2026-11-13 10:12 write: ghi 1, lỗi 0, cảnh báo 0; lô 27
+- 2026-11-13 10:13 write: ghi 117 (+14 câu lặp tự chép), lỗi 2, cảnh báo 13; lô 28
+- 2026-11-13 10:13 write: ghi 2, lỗi 0, cảnh báo 0; lô 28
+- 2026-11-13 10:26 đọc chương lần 2: tới câu thoại thứ 3117 · Lần 2 (câu 1552–3117): số đo ổn định (từ/câu 8.9, nén 1.0, thiếu dấu kết 0.4); văn đều, hài giữ nhịp, chơi chữ Phi-lấp ổn. Lỗi lặt vặt: lời kể lẫn 'mình', ngoặc nghĩ lẫn 'tôi', vài cụm dịch chữ (ăn như điên, ngớ người), Giant Swing lệch thuật ngữ, Tomoya xưng em với đám bóng bầu dục. 18 câu vào hàng sửa; sotay thêm quy tắc tôi/mình, mẫu chơi chữ, tránh dịch chữ khẩu ngữ; 4 thuật ngữ mới; chỉ đạo 0422 (bổ sung), 0423–0426.
+- 2026-11-13 10:34 write: ghi 16, lỗi 2, cảnh báo 3; lô 14, 16, 17, 18, 20, 25, 28
+- 2026-11-13 10:34 write: ghi 2, lỗi 0, cảnh báo 0; lô 28
+- 2026-11-13 10:35 write: ghi 119 (+4 câu lặp tự chép), lỗi 0, cảnh báo 7; lô 29
+- 2026-11-13 10:36 write: ghi 106, lỗi 0, cảnh báo 11; lô 30
+- 2026-11-13 10:37 write: ghi 113 (+20 câu lặp tự chép), lỗi 2, cảnh báo 10; lô 31
+- 2026-11-13 10:38 write: ghi 3, lỗi 0, cảnh báo 0; lô 31
+- 2026-11-13 10:38 write: ghi 119 (+12 câu lặp tự chép), lỗi 0, cảnh báo 8; lô 32
+- 2026-11-13 10:39 write: ghi 5, lỗi 0, cảnh báo 0; lô 32
+- 2026-11-13 10:40 write: ghi 119 (+8 câu lặp tự chép), lỗi 0, cảnh báo 4; lô 33
+- 2026-11-13 10:41 write: ghi 119, lỗi 1, cảnh báo 3; lô 34
+- 2026-11-13 10:41 write: ghi 4, lỗi 0, cảnh báo 0; lô 34
+- 2026-11-13 10:42 write: ghi 104 (+2 câu lặp tự chép), lỗi 3, cảnh báo 2; lô 35
+- 2026-11-13 10:43 write: ghi 7, lỗi 0, cảnh báo 0; lô 35
+- 2026-11-13 10:44 write: ghi 10, lỗi 0, cảnh báo 1; lô 3
+- 2026-11-13 10:45 write: ghi 21, lỗi 0, cảnh báo 5; lô 4
+- 2026-11-13 10:46 write: ghi 13, lỗi 0, cảnh báo 2; lô 5
+- 2026-11-13 10:46 write: ghi 6, lỗi 0, cảnh báo 1; lô 6
+- 2026-11-13 10:46 write: ghi 13, lỗi 0, cảnh báo 1; lô 7
+- 2026-11-13 10:47 write: ghi 10, lỗi 0, cảnh báo 3; lô 8
+- 2026-11-13 10:48 write: ghi 17, lỗi 0, cảnh báo 1; lô 9
+- 2026-11-13 10:48 write: ghi 15, lỗi 0, cảnh báo 0; lô 10
+- 2026-11-13 10:48 write: ghi 6, lỗi 0, cảnh báo 1; lô 11
+- 2026-11-13 10:49 write: ghi 6, lỗi 0, cảnh báo 1; lô 12
+- 2026-11-13 10:49 write: ghi 7, lỗi 0, cảnh báo 1; lô 13
+- 2026-11-13 10:49 write: ghi 5, lỗi 0, cảnh báo 2; lô 14
+- 2026-11-13 10:50 write: ghi 13, lỗi 0, cảnh báo 0; lô 9, 10, 15
+- 2026-11-13 10:55 write: ghi 77 (+7 câu lặp tự chép), lỗi 40, cảnh báo 4; lô 36
+- 2026-11-13 10:56 write: ghi 40, lỗi 0, cảnh báo 1; lô 36
+- 2026-11-13 10:57 write: ghi 119, lỗi 0, cảnh báo 8; lô 37
+- 2026-11-13 10:58 write: ghi 119, lỗi 1, cảnh báo 2; lô 38
+- 2026-11-13 10:58 write: ghi 1, lỗi 0, cảnh báo 0; lô 38
+- 2026-11-13 10:59 write: ghi 120, lỗi 0, cảnh báo 4; lô 39
+- 2026-11-13 11:00 write: ghi 119, lỗi 2, cảnh báo 8; lô 40
+- 2026-11-13 11:00 write: ghi 1, lỗi 0, cảnh báo 0; lô 40
+- 2026-11-13 11:01 write: ghi 120, lỗi 0, cảnh báo 7; lô 41
+- 2026-11-13 11:21 đọc chương lần 3: tới câu thoại thứ 4691 · Lần 3 (câu 3118–4691, 0422–0425): giọng vững, hài Sunohara–Tomoya giữ nhịp (Trai Điên, súng nhựa bắn kíp); từ/câu 8.3 (9.0), câu nén 1.5 (1.0) do rút gọn mất ý (0423.d84/89/99), vài từ phương ngữ (dữ, hoài), 0425.d97 'đi' sai nghĩa 'về'. Sửa: sotay (3 điều tránh mới, gộp 1, 2 câu mẫu mới, ghi chú Fuko); hồ sơ Fuko/Kotomi tách mốc tránh lộ (1423, 1426, 4508); 24 cặp xưng hô mới (Akio/Misae/Yoshino/Mei/Ibuki…); 21 thuật ngữ bóng chày + bánh mì Cầu Vồng; chỉ đạo 19 cảnh lô 42–85 (ưu tiên 0429, 1417, 1426); 12 câu vào hàng sửa; đóng phiếu #5 (giữ tôi – cậu khi Sunohara đóng vai).
+- 2026-11-13 11:25 write: ghi 12, lỗi 0, cảnh báo 1; lô 29, 31, 32, 33, 40
+- 2026-11-13 11:27 write: ghi 120, lỗi 0, cảnh báo 9; lô 42
+- 2026-11-13 11:28 write: ghi 120, lỗi 0, cảnh báo 12; lô 43
+- 2026-11-13 11:29 write: ghi 120, lỗi 0, cảnh báo 6; lô 44
+- 2026-11-13 11:30 write: ghi 120 (+1 câu lặp tự chép), lỗi 0, cảnh báo 7; lô 45
+- 2026-11-13 11:30 write: ghi 85, lỗi 0, cảnh báo 5; lô 46
+- 2026-11-13 11:31 write: ghi 119 (+3 câu lặp tự chép), lỗi 1, cảnh báo 11; lô 47
+- 2026-11-13 11:32 write: ghi 1, lỗi 0, cảnh báo 0; lô 47
+- 2026-11-13 11:32 write: ghi 120 (+3 câu lặp tự chép), lỗi 0, cảnh báo 5; lô 48
+- 2026-11-13 11:37 write: ghi 118 (+1 câu lặp tự chép), lỗi 2, cảnh báo 5; lô 49
+- 2026-11-13 11:37 write: ghi 2, lỗi 0, cảnh báo 0; lô 49
+- 2026-11-13 11:38 write: ghi 109 (+1 câu lặp tự chép), lỗi 6, cảnh báo 7; lô 50
+- 2026-11-13 11:38 write: ghi 7, lỗi 0, cảnh báo 0; lô 50
+- 2026-11-13 11:39 write: ghi 120, lỗi 0, cảnh báo 9; lô 51
+- 2026-11-13 11:40 write: ghi 122, lỗi 0, cảnh báo 5; lô 51, 52
+- 2026-11-13 11:41 write: ghi 121 (+1 câu lặp tự chép), lỗi 0, cảnh báo 3; lô 52, 53
+- 2026-11-13 11:42 write: ghi 120, lỗi 0, cảnh báo 11; lô 54
+- 2026-11-13 11:43 write: ghi 120, lỗi 0, cảnh báo 16; lô 55
+- 2026-11-13 11:43 write: ghi 4, lỗi 0, cảnh báo 0; lô 55
+- 2026-11-13 11:48 write: ghi 120, lỗi 0, cảnh báo 11; lô 56
+- 2026-11-13 11:49 write: ghi 120, lỗi 0, cảnh báo 10; lô 57
+- 2026-11-13 11:50 write: ghi 123, lỗi 0, cảnh báo 13; lô 57, 58
+- 2026-11-13 11:51 write: ghi 121, lỗi 0, cảnh báo 4; lô 58, 59
+- 2026-11-13 11:53 write: ghi 120 (+1 câu lặp tự chép), lỗi 0, cảnh báo 8; lô 60
+- 2026-11-13 11:54 write: ghi 120, lỗi 0, cảnh báo 8; lô 61
+- 2026-11-13 11:54 write: ghi 111, lỗi 0, cảnh báo 7; lô 62
+- 2026-11-13 11:57 write: ghi 120 (+4 câu lặp tự chép), lỗi 0, cảnh báo 6; lô 63
+- 2026-11-13 11:58 write: ghi 112, lỗi 1, cảnh báo 4; lô 64
+- 2026-11-13 11:59 write: ghi 1, lỗi 0, cảnh báo 0; lô 64
+- 2026-11-13 12:00 write: ghi 88, lỗi 0, cảnh báo 3; lô 65
+- 2026-11-13 12:00 write: ghi 99 (+42 câu lặp tự chép), lỗi 0, cảnh báo 8; lô 66
+- 2026-11-13 12:01 write: ghi 110 (+36 câu lặp tự chép), lỗi 0, cảnh báo 12; lô 67
+- 2026-11-13 12:02 write: ghi 120 (+28 câu lặp tự chép), lỗi 0, cảnh báo 7; lô 68
+- 2026-11-13 12:03 write: ghi 105 (+1 câu lặp tự chép), lỗi 0, cảnh báo 9; lô 66, 67, 69
+- 2026-11-13 12:08 write: ghi 100 (+7 câu lặp tự chép), lỗi 0, cảnh báo 8; lô 70
+- 2026-11-13 12:09 write: ghi 110 (+5 câu lặp tự chép), lỗi 0, cảnh báo 8; lô 71
+- 2026-11-13 12:09 write: ghi 94 (+2 câu lặp tự chép), lỗi 0, cảnh báo 7; lô 72
+- 2026-11-13 12:09 write: ghi 77 (+1 câu lặp tự chép), lỗi 0, cảnh báo 5; lô 73
+- 2026-11-13 12:10 write: ghi 99 (+2 câu lặp tự chép), lỗi 0, cảnh báo 7; lô 74
+- 2026-11-13 12:11 write: ghi 106 (+2 câu lặp tự chép), lỗi 1, cảnh báo 3; lô 75
+- 2026-11-13 12:11 write: ghi 1, lỗi 0, cảnh báo 0; lô 75
+- 2026-11-13 12:12 write: ghi 119 (+1 câu lặp tự chép), lỗi 0, cảnh báo 1; lô 76
+- 2026-11-13 12:18 write: ghi 120, lỗi 0, cảnh báo 2; lô 77
+- 2026-11-13 12:19 write: ghi 120, lỗi 0, cảnh báo 2; lô 78
+- 2026-11-13 12:20 write: ghi 99, lỗi 0, cảnh báo 0; lô 79
+- 2026-11-13 12:21 write: ghi 113 (+6 câu lặp tự chép), lỗi 0, cảnh báo 6; lô 80
+- 2026-11-13 12:22 write: ghi 119 (+7 câu lặp tự chép), lỗi 0, cảnh báo 6; lô 81
+- 2026-11-13 12:23 write: ghi 119, lỗi 0, cảnh báo 7; lô 82
+- 2026-11-13 12:24 write: ghi 122 (+1 câu lặp tự chép), lỗi 0, cảnh báo 3; lô 82, 83
+- 2026-11-13 12:24 write: ghi 1, lỗi 0, cảnh báo 0; lô 83
+- 2026-11-13 12:28 write: ghi 120 (+2 câu lặp tự chép), lỗi 0, cảnh báo 8; lô 84
+- 2026-11-13 12:54 đọc chương lần 4: tới câu thoại thứ 9709 · Lần 4 (câu 4692–9709, 0425–0429, 0666, 10xx, 1417–1426): chất lượng giữ như lần 3, văn trôi, hài đúng nhịp, đoạn đầu 1426 lặng tốt; câu nén giảm 1.2→0.9, dài bất thường tăng 2.3→3.5 (phần lớn là thêm chủ ngữ/trợ từ, chấp nhận). Lỗi chính: Tomoya gọi Fuko 'em' ở 0426/0428 (19 câu, đưa vào hàng sửa), Yoshino nổi giận tao–mày (cho phép, mốc 0428.d355–d362), Kyou/Ryou gọi Akio 'ông'. Bible: sotay +2 điều (anh–nhóc với Fuko; lời khóc méo chữ), thay 1 câu mẫu; Fuko bỏ 'sao biển' khỏi hồ sơ gốc (lộ ở 1427.d86), thêm mốc 1427.d86, 1511.d456; Kouko 1511.d530; 17 dòng xưng hô có mốc; 9 thuật ngữ; chỉ đạo 15 cảnh 1427–1513 (ưu tiên 1427, 1504, 1511, 1513). anh-huong: 758 câu chỉ do sửa chữ hồ sơ Fuko (không cần dịch lại) nên không đưa vào; 6 câu xưng hô đã xét tay. Phiếu 6–9 đã đóng. 'xưng hô cấm' trong check phần lớn do đoán sai người nghe khi Tomoya/Sunohara nói chen trong cảnh nhiều người.
+- 2026-11-13 12:58 write: ghi 26, lỗi 0, cảnh báo 1; lô 45, 48, 49, 51, 84
+- 2026-11-13 12:59 write: ghi 120 (+1 câu lặp tự chép), lỗi 0, cảnh báo 15; lô 85
+- 2026-11-13 13:01 write: ghi 119, lỗi 0, cảnh báo 10; lô 86
+- 2026-11-13 13:02 write: ghi 119, lỗi 1, cảnh báo 5; lô 87
+- 2026-11-13 13:02 write: ghi 1, lỗi 0, cảnh báo 0; lô 87
+- 2026-11-13 13:03 write: ghi 120, lỗi 0, cảnh báo 8; lô 88
+- 2026-11-13 13:04 write: ghi 120, lỗi 1, cảnh báo 3; lô 89
+- 2026-11-13 13:05 write: ghi 119 (+6 câu lặp tự chép), lỗi 0, cảnh báo 5; lô 90
+- 2026-11-13 13:06 write: ghi 120, lỗi 0, cảnh báo 4; lô 91
+- 2026-11-13 13:09 write: ghi 120, lỗi 0, cảnh báo 6; lô 92
+- 2026-11-13 13:10 write: ghi 116 (+1 câu lặp tự chép), lỗi 4, cảnh báo 6; lô 93
+- 2026-11-13 13:11 write: ghi 9, lỗi 1, cảnh báo 0; lô 93
+- 2026-11-13 13:11 write: ghi 1, lỗi 0, cảnh báo 0; lô 93
+- 2026-11-13 13:13 write: ghi 120 (+3 câu lặp tự chép), lỗi 0, cảnh báo 10; lô 94
+- 2026-11-13 13:14 write: ghi 120 (+5 câu lặp tự chép), lỗi 0, cảnh báo 4; lô 95
+- 2026-11-13 13:15 write: ghi 120, lỗi 0, cảnh báo 9; lô 96
+- 2026-11-13 13:16 write: ghi 1, lỗi 0, cảnh báo 0; lô 96
+- 2026-11-13 13:16 write: ghi 120, lỗi 0, cảnh báo 11; lô 97
+- 2026-11-13 13:18 write: ghi 120, lỗi 0, cảnh báo 12; lô 98
+- 2026-11-13 13:24 write: ghi 120, lỗi 0, cảnh báo 9; lô 99
+- 2026-11-13 13:25 write: ghi 121, lỗi 0, cảnh báo 13; lô 99, 100
+- 2026-11-13 13:26 write: ghi 99, lỗi 0, cảnh báo 6; lô 101
+- 2026-11-13 13:27 write: ghi 120 (+2 câu lặp tự chép), lỗi 0, cảnh báo 8; lô 102
+- 2026-11-13 13:28 write: ghi 124, lỗi 0, cảnh báo 6; lô 102, 103
+- 2026-11-13 13:29 write: ghi 94, lỗi 0, cảnh báo 7; lô 103, 104
+- 2026-11-13 13:30 write: ghi 121, lỗi 0, cảnh báo 3; lô 104, 105
+- 2026-11-13 13:34 write: ghi 120, lỗi 0, cảnh báo 8; lô 106
+- 2026-11-13 13:35 write: ghi 120 (+6 câu lặp tự chép), lỗi 0, cảnh báo 2; lô 107
+- 2026-11-13 13:37 write: ghi 121, lỗi 0, cảnh báo 1; lô 107, 108
+- 2026-11-13 13:38 write: ghi 88, lỗi 0, cảnh báo 2; lô 109
+- 2026-11-13 13:38 write: ghi 120, lỗi 0, cảnh báo 7; lô 110
+- 2026-11-13 13:40 write: ghi 123, lỗi 0, cảnh báo 3; lô 110, 111
+- 2026-11-13 13:41 write: ghi 119 (+4 câu lặp tự chép), lỗi 1, cảnh báo 9; lô 112
+- 2026-11-13 13:41 write: ghi 1, lỗi 0, cảnh báo 0; lô 112
+- 2026-11-13 13:46 write: ghi 40, lỗi 0, cảnh báo 5; lô 74, 75, 84, 86, 87, 88, 89, 91, 92, 94, 95, 96, 97, 98, 99, 100, 101, 102
+- 2026-11-13 13:47 write: ghi 120, lỗi 0, cảnh báo 8; lô 113
+- 2026-11-13 13:49 write: ghi 120, lỗi 0, cảnh báo 13; lô 114
+- 2026-11-13 13:51 write: ghi 120 (+1 câu lặp tự chép), lỗi 0, cảnh báo 5; lô 114, 115
+- 2026-11-13 13:52 write: ghi 123, lỗi 0, cảnh báo 6; lô 115, 116
+- 2026-11-13 13:53 write: ghi 120, lỗi 0, cảnh báo 3; lô 117
+- 2026-11-13 13:54 write: ghi 120, lỗi 1, cảnh báo 3; lô 117, 118
+- 2026-11-13 13:54 write: ghi 1, lỗi 0, cảnh báo 0; lô 118
+- 2026-11-13 13:56 write: ghi 120 (+1 câu lặp tự chép), lỗi 0, cảnh báo 1; lô 119
+- 2026-11-13 14:00 write: ghi 10, lỗi 0, cảnh báo 0; lô 102, 103, 104, 106, 107, 108
+- 2026-11-13 14:02 write: ghi 119, lỗi 0, cảnh báo 7; lô 120
+- 2026-11-13 14:03 write: ghi 123, lỗi 0, cảnh báo 9; lô 120, 121
+- 2026-11-13 14:05 write: ghi 121, lỗi 0, cảnh báo 11; lô 121, 122
+- 2026-11-13 14:06 write: ghi 116, lỗi 0, cảnh báo 4; lô 122, 123
+- 2026-11-13 14:07 write: ghi 120 (+2 câu lặp tự chép), lỗi 0, cảnh báo 8; lô 124
+- 2026-11-13 14:09 write: ghi 122 (+2 câu lặp tự chép), lỗi 1, cảnh báo 7; lô 124, 125
+- 2026-11-13 14:09 write: ghi 4, lỗi 0, cảnh báo 0; lô 125
+- 2026-11-13 14:10 write: ghi 120, lỗi 0, cảnh báo 7; lô 126
+- 2026-11-13 14:15 write: ghi 119 (+1 câu lặp tự chép), lỗi 1, cảnh báo 10; lô 127
+- 2026-11-13 14:15 write: ghi 2, lỗi 0, cảnh báo 0; lô 127
+- 2026-11-13 14:43 đọc chương lần 5: tới câu thoại thứ 14813 · Lần 5 (câu 9.710–14.813, tuyến Fuko 1426–1511 + vài 64xx): chất lượng giữ như lần 4, số đo ổn (câu nén 0,7↓, thiếu dấu hỏi 0,1↓; thiếu dấu kết 0,7↑ chủ yếu do mảnh ghép quanh biến tên). Đỉnh cảnh 1511 cổng trường dịch lặng, đúng nhịp. Lỗi lặp: mảnh sau biến tên mất ', ' (1511.d104, d209); lời kể gọi Fuko 'em ấy'; '─' kéo dài còn sót; 'Haizz' trong cảnh đau. Sửa: sotay (+3 điều tránh, 2 câu mẫu mới), mốc người yêu Tomoyo dời về 2424.d402/d403 (2426 đã hẹn hò), Tomoyo gọi 'Okazaki' tới 2422.d597 rồi 'Tomoya'; cặp Miyazawa↔Fuko; term 'chủ tịch hội học sinh', 'Hoshino Yusuke'→Yusuke Yoshino, 'hơi tệ nhất', 'Lễ hội Sao biển', 'sên biển'. Chỉ đạo 16 cảnh 1514–1518, 2415–2426 (1515–1518, 2424 ưu tiên). 27 câu vào hàng sửa; 6 phiếu đóng; anh-huong 106 câu xét: không câu nào phải đổi.
+- 2026-11-13 14:54 write: ghi 26, lỗi 1, cảnh báo 4; lô 86, 87, 93, 94, 95, 100, 107, 108, 117, 118, 124, 125, 127
+- 2026-11-13 14:54 write: ghi 1, lỗi 0, cảnh báo 0; lô 126
+- 2026-11-13 14:55 write: ghi 120, lỗi 0, cảnh báo 5; lô 128
+- 2026-11-13 14:56 write: ghi 87 (+4 câu lặp tự chép), lỗi 0, cảnh báo 3; lô 129
+- 2026-11-13 14:57 write: ghi 121, lỗi 0, cảnh báo 9; lô 129, 130
+- 2026-11-13 14:58 write: ghi 108, lỗi 0, cảnh báo 7; lô 131
+- 2026-11-13 15:00 write: ghi 114 (+1 câu lặp tự chép), lỗi 7, cảnh báo 9; lô 131, 132
+- 2026-11-13 15:00 write: ghi 7, lỗi 0, cảnh báo 1; lô 132
+- 2026-11-13 15:01 write: ghi 113, lỗi 0, cảnh báo 5; lô 133
+- 2026-11-13 15:02 write: ghi 119, lỗi 0, cảnh báo 4; lô 134
+- 2026-11-13 15:04 write: ghi 108, lỗi 0, cảnh báo 3; lô 135
+- 2026-11-13 15:05 write: ghi 120, lỗi 0, cảnh báo 5; lô 136
+- 2026-11-13 15:06 write: ghi 120, lỗi 0, cảnh báo 6; lô 137
+- 2026-11-13 15:07 write: ghi 120, lỗi 0, cảnh báo 5; lô 138
+- 2026-11-13 15:08 write: ghi 1, lỗi 0, cảnh báo 0; lô 138
+- 2026-11-13 15:08 write: ghi 120 (+1 câu lặp tự chép), lỗi 0, cảnh báo 8; lô 139
+- 2026-11-13 15:09 write: ghi 2, lỗi 0, cảnh báo 0; lô 139
+- 2026-11-13 15:09 write: ghi 119, lỗi 0, cảnh báo 2; lô 140
+- 2026-11-13 15:10 write: ghi 120, lỗi 0, cảnh báo 6; lô 141
+- 2026-11-13 15:14 write: ghi 120, lỗi 0, cảnh báo 8; lô 142
+- 2026-11-13 15:16 write: ghi 120, lỗi 0, cảnh báo 7; lô 143
+- 2026-11-13 15:17 write: ghi 121, lỗi 0, cảnh báo 4; lô 143, 144
+- 2026-11-13 15:18 write: ghi 119, lỗi 1, cảnh báo 1; lô 145
+- 2026-11-13 15:18 write: ghi 2, lỗi 0, cảnh báo 0; lô 145
+- 2026-11-13 15:19 write: ghi 120, lỗi 0, cảnh báo 8; lô 146
+- 2026-11-13 15:20 write: ghi 124, lỗi 0, cảnh báo 3; lô 146, 147
+- 2026-11-13 15:21 write: ghi 119 (+1 câu lặp tự chép), lỗi 0, cảnh báo 10; lô 148
+- 2026-11-13 15:22 write: ghi 2, lỗi 0, cảnh báo 1; lô 148
+- 2026-11-13 15:25 write: ghi 120 (+2 câu lặp tự chép), lỗi 0, cảnh báo 10; lô 149
+- 2026-11-13 15:26 write: ghi 113 (+7 câu lặp tự chép), lỗi 0, cảnh báo 5; lô 150
+- 2026-11-13 15:27 write: ghi 114, lỗi 6, cảnh báo 9; lô 151
+- 2026-11-13 15:28 write: ghi 9, lỗi 0, cảnh báo 0; lô 151
+- 2026-11-13 15:29 write: ghi 119, lỗi 0, cảnh báo 9; lô 152
+- 2026-11-13 15:30 write: ghi 114, lỗi 5, cảnh báo 4; lô 153
+- 2026-11-13 15:30 write: ghi 19, lỗi 0, cảnh báo 3; lô 153
+- 2026-11-13 15:31 write: ghi 120 (+2 câu lặp tự chép), lỗi 0, cảnh báo 4; lô 154
+- 2026-11-13 15:32 write: ghi 120, lỗi 0, cảnh báo 2; lô 155
+- 2026-11-13 15:32 write: ghi 1, lỗi 0, cảnh báo 0; lô 155
+- 2026-11-13 15:35 write: ghi 120, lỗi 0, cảnh báo 8; lô 156
+- 2026-11-13 15:36 write: ghi 99, lỗi 0, cảnh báo 7; lô 156, 157
+- 2026-11-13 15:37 write: ghi 121, lỗi 0, cảnh báo 4; lô 157, 158
+- 2026-11-13 15:38 write: ghi 118, lỗi 1, cảnh báo 1; lô 159
+- 2026-11-13 15:39 write: ghi 2, lỗi 0, cảnh báo 1; lô 159
+- 2026-11-13 15:40 write: ghi 119, lỗi 1, cảnh báo 8; lô 160
+- 2026-11-13 15:41 write: ghi 7, lỗi 0, cảnh báo 2; lô 160
+- 2026-11-13 15:42 write: ghi 112, lỗi 0, cảnh báo 7; lô 161
+- 2026-11-13 15:43 write: ghi 120 (+1 câu lặp tự chép), lỗi 0, cảnh báo 6; lô 162
+- 2026-11-13 15:46 write: ghi 120, lỗi 0, cảnh báo 9; lô 163
+- 2026-11-13 15:47 write: ghi 121 (+1 câu lặp tự chép), lỗi 0, cảnh báo 5; lô 163, 164
+- 2026-11-13 15:48 write: ghi 120, lỗi 0, cảnh báo 6; lô 165
+- 2026-11-13 15:49 write: ghi 121, lỗi 0, cảnh báo 6; lô 165, 166
+- 2026-11-13 15:50 write: ghi 116 (+1 câu lặp tự chép), lỗi 3, cảnh báo 5; lô 167
+- 2026-11-13 15:50 write: ghi 2, lỗi 1, cảnh báo 0; lô 167
+- 2026-11-13 15:50 write: ghi 1, lỗi 0, cảnh báo 0; lô 167
+- 2026-11-13 15:51 write: ghi 120, lỗi 0, cảnh báo 6; lô 168
+- 2026-11-13 15:53 write: ghi 120 (+1 câu lặp tự chép), lỗi 0, cảnh báo 4; lô 169
+- 2026-11-13 15:56 write: ghi 120, lỗi 0, cảnh báo 5; lô 170
+- 2026-11-13 15:56 write: ghi 1, lỗi 0, cảnh báo 1; lô 170
+- 2026-11-13 16:25 đọc chương lần 6: tới câu thoại thứ 19887 · Lần 6 (câu 14.814–19.887): bản dịch đều tay, cảnh Fuko/Sanae xúc động giản dị, hài giữ nhịp; số đo ổn (câu nén 1,0/100 tăng nhẹ, thiếu dấu giảm). Sửa tận gốc mâu thuẫn tao–mày: thêm cặp Tomoya → bọn du côn (tao – bọn mày), sửa chỉ đạo 1514, 1518, 2421, 2422, 2425 theo bảng; sổ tay ghi quy tắc Sunohara xưng tôi khi có Tomoyo/người ngoài. Viết chỉ đạo 18 cảnh lô 171–215 (2428–3416), 10 cảnh ưu tiên; thêm cặp có mốc (Male Student 2502/2514, Bear 2511, Female Student A/B 2511, Kyou↔Tomoyo, Captain, Takafumi), hồ sơ có mốc 3001/3415 (Tomoya, Kyou, Ushio), thuật ngữ bóng chày. Đóng 6 phiếu, 4 câu vào hàng sửa.
+- 2026-11-13 16:36 write: ghi 3, lỗi 1, cảnh báo 2; lô 159, 165, 167
+- 2026-11-13 16:36 write: ghi 1, lỗi 0, cảnh báo 0; lô 167
+- 2026-11-13 16:36 write: ghi 1, lỗi 0, cảnh báo 0; lô 167
+- 2026-11-13 16:36 write: ghi 1, lỗi 0, cảnh báo 0; lô 167
+- 2026-11-13 16:37 write: ghi 98 (+1 câu lặp tự chép), lỗi 0, cảnh báo 3; lô 171
+- 2026-11-13 16:38 write: ghi 120 (+6 câu lặp tự chép), lỗi 0, cảnh báo 9; lô 171, 172
+- 2026-11-13 16:39 write: ghi 122, lỗi 1, cảnh báo 7; lô 172, 173
+- 2026-11-13 16:39 write: ghi 6, lỗi 0, cảnh báo 0; lô 173
+- 2026-11-13 16:40 write: ghi 118, lỗi 2, cảnh báo 5; lô 174
+- 2026-11-13 16:40 write: ghi 4, lỗi 0, cảnh báo 0; lô 174
+- 2026-11-13 16:41 write: ghi 120, lỗi 0, cảnh báo 5; lô 175
+- 2026-11-13 16:43 write: ghi 95, lỗi 0, cảnh báo 1; lô 175, 176
+- 2026-11-13 16:44 write: ghi 119, lỗi 1, cảnh báo 9; lô 177
+- 2026-11-13 16:44 write: ghi 8, lỗi 0, cảnh báo 0; lô 177
+- 2026-11-13 16:47 write: ghi 119 (+2 câu lặp tự chép), lỗi 0, cảnh báo 6; lô 178
+- 2026-11-13 16:48 write: ghi 122 (+1 câu lặp tự chép), lỗi 0, cảnh báo 6; lô 178, 179
+- 2026-11-13 16:49 write: ghi 118, lỗi 0, cảnh báo 9; lô 180
+- 2026-11-13 16:50 write: ghi 124, lỗi 0, cảnh báo 9; lô 180, 181
+- 2026-11-13 16:51 write: ghi 120 (+1 câu lặp tự chép), lỗi 0, cảnh báo 2; lô 182
+- 2026-11-13 16:52 write: ghi 120, lỗi 0, cảnh báo 9; lô 183
+- 2026-11-13 16:53 write: ghi 121, lỗi 0, cảnh báo 7; lô 183, 184
+- 2026-11-13 16:57 write: ghi 119, lỗi 0, cảnh báo 3; lô 185
+- 2026-11-13 16:58 write: ghi 121 (+3 câu lặp tự chép), lỗi 0, cảnh báo 8; lô 185, 186
+- 2026-11-13 16:59 write: ghi 119, lỗi 0, cảnh báo 5; lô 187
+- 2026-11-13 17:00 write: ghi 114, lỗi 5, cảnh báo 4; lô 188
+- 2026-11-13 17:00 write: ghi 5, lỗi 0, cảnh báo 0; lô 188
+- 2026-11-13 17:01 write: ghi 120 (+1 câu lặp tự chép), lỗi 0, cảnh báo 3; lô 189
+- 2026-11-13 17:02 write: ghi 120, lỗi 0, cảnh báo 9; lô 190
+- 2026-11-13 17:03 write: ghi 121 (+4 câu lặp tự chép), lỗi 0, cảnh báo 7; lô 190, 191
+- 2026-11-13 17:07 write: ghi 120 (+1 câu lặp tự chép), lỗi 0, cảnh báo 3; lô 192
+- 2026-11-13 17:08 write: ghi 119 (+1 câu lặp tự chép), lỗi 0, cảnh báo 9; lô 193
+- 2026-11-13 17:09 write: ghi 90, lỗi 0, cảnh báo 8; lô 194
+- 2026-11-13 17:10 write: ghi 116, lỗi 1, cảnh báo 7; lô 194, 195
+- 2026-11-13 17:10 write: ghi 3, lỗi 0, cảnh báo 0; lô 195
+- 2026-11-13 17:11 write: ghi 82, lỗi 1, cảnh báo 8; lô 196
+- 2026-11-13 17:12 write: ghi 4, lỗi 1, cảnh báo 0; lô 196
+- 2026-11-13 17:12 write: ghi 1, lỗi 0, cảnh báo 0; lô 196
+- 2026-11-13 17:12 write: ghi 120, lỗi 0, cảnh báo 7; lô 197
+- 2026-11-13 17:13 write: ghi 120 (+2 câu lặp tự chép), lỗi 0, cảnh báo 8; lô 198
+- 2026-11-13 17:14 write: ghi 1, lỗi 0, cảnh báo 1; lô 198
+- 2026-11-13 17:18 write: ghi 120, lỗi 0, cảnh báo 5; lô 199
+- 2026-11-13 17:19 write: ghi 120, lỗi 0, cảnh báo 5; lô 200
+- 2026-11-13 17:20 write: ghi 121, lỗi 0, cảnh báo 3; lô 200, 201
+- 2026-11-13 17:21 write: ghi 121, lỗi 0, cảnh báo 6; lô 201, 202
+- 2026-11-13 17:23 write: ghi 120, lỗi 0, cảnh báo 7; lô 203
+- 2026-11-13 17:24 write: ghi 123, lỗi 0, cảnh báo 3; lô 203, 204
+- 2026-11-13 17:25 write: ghi 120, lỗi 0, cảnh báo 9; lô 205
+- 2026-11-13 17:25 write: ghi 2, lỗi 0, cảnh báo 0; lô 205
+- 2026-11-13 17:27 write: ghi 119, lỗi 0, cảnh báo 3; lô 206
+- 2026-11-13 17:28 write: ghi 121 (+1 câu lặp tự chép), lỗi 0, cảnh báo 6; lô 206, 207
+- 2026-11-13 17:29 write: ghi 122, lỗi 2, cảnh báo 8; lô 207, 208
+- 2026-11-13 17:30 write: ghi 5, lỗi 0, cảnh báo 1; lô 208
+- 2026-11-13 17:30 write: ghi 1, lỗi 0, cảnh báo 0; lô 208
+- 2026-11-13 17:31 write: ghi 119, lỗi 0, cảnh báo 5; lô 209
+- 2026-11-13 17:32 write: ghi 121, lỗi 0, cảnh báo 9; lô 209, 210
+- 2026-11-13 17:33 write: ghi 120, lỗi 0, cảnh báo 5; lô 211
+- 2026-11-13 17:34 write: ghi 112, lỗi 0, cảnh báo 3; lô 212
+- 2026-11-13 17:37 write: ghi 120 (+2 câu lặp tự chép), lỗi 0, cảnh báo 6; lô 213
+- 2026-11-13 18:04 đọc chương lần 7: tới câu thoại thứ 24925 · Lần 7 (câu 19.888–24.925, tuyến Tomoyo 2425–2514 + mở 3001): chất lượng ổn định như lần 6, kết tuyến Tomoyo giữ nhịp, giản dị; số đo gần như cũ (câu nén 1.3 so 1.1). Sửa: sotay (quy tắc Sunohara xưng tôi với Kyou/nhóm, tránh dịch sát 'I can only imagine', 'chói chang'; câu mẫu 2514.d1007–d1008); glossary +cafeteria=căng tin (cấm 'căng-tin'), +class president=lớp trưởng; pair Ryou↔Tomoya mốc 3426.d438 anh–em, nhánh từ chối 3426.d536 mình–cậu, 3428 anh–em; Ryou vẫn gọi 'Okazaki-kun'; Tomoya→Student tao–mày 3417.d136; Kyou/Ryou→Teacher, Child A/B, Kyou→Sunohara 'Youhei'; chỉ đạo 2506/2509 Sunohara→Tomoyo tôi–cô rõ ràng. Chỉ đạo cảnh 14 cảnh 3417–3502 (ưu tiên 3425, 3426, 3430, 3502). Hàng sửa 38 (10 câu đọc + 28 căng-tin).
+- 2026-11-13 18:07 write: ghi 38, lỗi 0, cảnh báo 0; lô 7, 9, 10, 13, 15, 16, 19, 27, 28, 31, 36, 37, 42, 155, 174, 176, 178, 182, 187, 210
+- 2026-11-13 18:08 write: ghi 120 (+5 câu lặp tự chép), lỗi 0, cảnh báo 8; lô 214
+- 2026-11-13 18:10 write: ghi 123 (+1 câu lặp tự chép), lỗi 0, cảnh báo 7; lô 214, 215
+- 2026-11-13 18:11 write: ghi 119, lỗi 0, cảnh báo 4; lô 215, 216
+- 2026-11-13 18:11 write: ghi 80 (+1 câu lặp tự chép), lỗi 0, cảnh báo 4; lô 217
+- 2026-11-13 18:12 write: ghi 120, lỗi 0, cảnh báo 13; lô 218
+- 2026-11-13 18:14 write: ghi 120 (+1 câu lặp tự chép), lỗi 0, cảnh báo 6; lô 219
+- 2026-11-13 18:15 write: ghi 121 (+1 câu lặp tự chép), lỗi 0, cảnh báo 7; lô 219, 220
+- 2026-11-13 18:15 write: ghi 1, lỗi 0, cảnh báo 0; lô 220
+- 2026-11-13 18:18 write: ghi 119, lỗi 0, cảnh báo 8; lô 221
+- 2026-11-13 18:19 write: ghi 99 (+6 câu lặp tự chép), lỗi 0, cảnh báo 10; lô 222
+- 2026-11-13 18:20 write: ghi 119 (+1 câu lặp tự chép), lỗi 1, cảnh báo 12; lô 223
+- 2026-11-13 18:20 write: ghi 1, lỗi 0, cảnh báo 0; lô 223
+- 2026-11-13 18:21 write: ghi 120, lỗi 0, cảnh báo 2; lô 224
+- 2026-11-13 18:22 write: ghi 120, lỗi 0, cảnh báo 8; lô 225
+- 2026-11-13 18:22 write: ghi 6, lỗi 0, cảnh báo 1; lô 225
+- 2026-11-13 18:23 write: ghi 115 (+2 câu lặp tự chép), lỗi 5, cảnh báo 7; lô 226
+- 2026-11-13 18:23 write: ghi 5, lỗi 0, cảnh báo 2; lô 226
+- 2026-11-13 18:24 write: ghi 119 (+3 câu lặp tự chép), lỗi 0, cảnh báo 7; lô 227
+- 2026-11-13 18:24 write: ghi 1, lỗi 0, cảnh báo 0; lô 227
+- 2026-11-13 18:28 write: ghi 120, lỗi 0, cảnh báo 10; lô 228
+- 2026-11-13 18:29 write: ghi 118, lỗi 0, cảnh báo 9; lô 229
+- 2026-11-13 18:30 write: ghi 120 (+4 câu lặp tự chép), lỗi 0, cảnh báo 9; lô 230
+- 2026-11-13 18:31 write: ghi 119 (+4 câu lặp tự chép), lỗi 0, cảnh báo 8; lô 231
+- 2026-11-13 18:32 write: ghi 119 (+2 câu lặp tự chép), lỗi 0, cảnh báo 11; lô 232
+- 2026-11-13 18:33 write: ghi 117 (+1 câu lặp tự chép), lỗi 0, cảnh báo 4; lô 233
+- 2026-11-13 18:34 write: ghi 120 (+3 câu lặp tự chép), lỗi 0, cảnh báo 1; lô 234
+- 2026-11-13 18:34 write: ghi 3, lỗi 0, cảnh báo 0; lô 234
+- 2026-11-13 18:38 write: ghi 93 (+1 câu lặp tự chép), lỗi 0, cảnh báo 6; lô 235
+- 2026-11-13 18:39 write: ghi 118, lỗi 0, cảnh báo 13; lô 236
+- 2026-11-13 18:40 write: ghi 118, lỗi 0, cảnh báo 5; lô 237
+- 2026-11-13 18:41 write: ghi 118, lỗi 0, cảnh báo 8; lô 238
+- 2026-11-13 18:42 write: ghi 123 (+4 câu lặp tự chép), lỗi 0, cảnh báo 6; lô 237, 238, 239
+- 2026-11-13 18:42 write: ghi 119 (+1 câu lặp tự chép), lỗi 0, cảnh báo 4; lô 240
+- 2026-11-13 18:43 write: ghi 120, lỗi 0, cảnh báo 6; lô 241
+- 2026-11-13 18:49 write: ghi 119 (+1 câu lặp tự chép), lỗi 0, cảnh báo 8; lô 242
+- 2026-11-13 18:50 write: ghi 122 (+1 câu lặp tự chép), lỗi 0, cảnh báo 6; lô 242, 243
+- 2026-11-13 18:51 write: ghi 120, lỗi 0, cảnh báo 4; lô 244
+- 2026-11-13 18:52 write: ghi 120, lỗi 0, cảnh báo 8; lô 245
+- 2026-11-13 18:53 write: ghi 104 (+1 câu lặp tự chép), lỗi 16, cảnh báo 3; lô 246
+- 2026-11-13 18:53 write: ghi 17, lỗi 0, cảnh báo 1; lô 246
+- 2026-11-13 18:55 write: ghi 120, lỗi 0, cảnh báo 2; lô 247
+- 2026-11-13 18:56 write: ghi 120, lỗi 0, cảnh báo 8; lô 248
+- 2026-11-13 18:59 write: ghi 120, lỗi 0, cảnh báo 5; lô 249
+- 2026-11-13 19:00 write: ghi 120 (+1 câu lặp tự chép), lỗi 0, cảnh báo 4; lô 250
+- 2026-11-13 19:01 write: ghi 120, lỗi 0, cảnh báo 7; lô 251
+- 2026-11-13 19:02 write: ghi 120 (+2 câu lặp tự chép), lỗi 0, cảnh báo 7; lô 252
+- 2026-11-13 19:03 write: ghi 119 (+1 câu lặp tự chép), lỗi 1, cảnh báo 9; lô 253
+- 2026-11-13 19:03 write: ghi 1, lỗi 0, cảnh báo 0; lô 253
+- 2026-11-13 19:04 write: ghi 120, lỗi 0, cảnh báo 7; lô 254
+- 2026-11-13 19:05 write: ghi 120, lỗi 0, cảnh báo 8; lô 255
+- 2026-11-13 19:09 write: ghi 120, lỗi 0, cảnh báo 6; lô 256
+- 2026-11-13 19:20 term change Pairing You Up With Ryou Plan: ghi 1, lỗi 0, cảnh báo 0; lô 41
+- 2026-11-13 19:38 đọc chương lần 8: tới câu thoại thứ 30026 · Lần 8 (3415–3502): chất lượng ổn, hài nhịp tốt, cảnh tình cảm Ryou giản dị; số đo nhích xấu nhẹ (câu nén 1.7, xưng khác bảng 0.6 do né đại từ với Botan). Lỗi: 'cô ta' lẫn 'cô ấy' cho Kyou trong lời kể, câu dịch máy 3426.d406, diễn giải 3424.d455, tiếng động sai 3425.d38. Bible: Tomoya → Botan tao – mày; tên kế hoạch thống nhất 'Kế hoạch Ghép đôi cậu với Ryou'; Female Student tớ – cậu (3416, từ 3501); hồ sơ Ryou 3505.d528, Kyou 3507.d259; glossary tên lá tarot; sotay thêm luật tuyến Kyou/Ryou. Chỉ đạo 12 cảnh 3503–3514 (ưu tiên 11). Hàng sửa 17 câu. Đóng phiếu 22–24.
+- 2026-11-13 19:45 write: ghi 17 (+1 câu lặp tự chép), lỗi 0, cảnh báo 1; lô 215, 227, 234, 236, 244, 246
+- 2026-11-13 19:47 write: ghi 120, lỗi 0, cảnh báo 9; lô 227, 257
+- 2026-11-13 19:48 write: ghi 121 (+1 câu lặp tự chép), lỗi 0, cảnh báo 10; lô 257, 258
+- 2026-11-13 19:49 write: ghi 124, lỗi 0, cảnh báo 6; lô 258, 259
+- 2026-11-13 19:50 write: ghi 122, lỗi 0, cảnh báo 8; lô 259, 260
+- 2026-11-13 19:51 write: ghi 120 (+2 câu lặp tự chép), lỗi 0, cảnh báo 16; lô 261
+- 2026-11-13 19:52 write: ghi 119 (+1 câu lặp tự chép), lỗi 0, cảnh báo 8; lô 262
+- 2026-11-13 19:53 write: ghi 120, lỗi 0, cảnh báo 7; lô 263
+- 2026-11-13 19:53 write: ghi 3, lỗi 0, cảnh báo 0; lô 263
+- 2026-11-13 19:56 write: ghi 102, lỗi 0, cảnh báo 4; lô 264
+- 2026-11-13 19:57 write: ghi 86, lỗi 0, cảnh báo 5; lô 265
+- 2026-11-13 19:58 write: ghi 118, lỗi 0, cảnh báo 5; lô 266
+- 2026-11-13 19:58 write: ghi 118, lỗi 0, cảnh báo 10; lô 267
+- 2026-11-13 19:59 write: ghi 120, lỗi 0, cảnh báo 9; lô 267, 268
+- 2026-11-13 20:00 write: ghi 120 (+1 câu lặp tự chép), lỗi 0, cảnh báo 13; lô 269
+- 2026-11-13 20:01 write: ghi 118, lỗi 0, cảnh báo 7; lô 269, 270
+- 2026-11-13 20:06 write: ghi 73, lỗi 47, cảnh báo 5; lô 271
+- 2026-11-13 20:07 write: ghi 54, lỗi 3, cảnh báo 4; lô 271
+- 2026-11-13 20:07 write: ghi 4, lỗi 0, cảnh báo 1; lô 271
+- 2026-11-13 20:07 write: ghi 1, lỗi 0, cảnh báo 0; lô 271
+- 2026-11-13 20:08 write: ghi 120, lỗi 0, cảnh báo 4; lô 272
+- 2026-11-13 20:09 write: ghi 117, lỗi 0, cảnh báo 9; lô 273
+- 2026-11-13 20:10 write: ghi 119, lỗi 0, cảnh báo 8; lô 274
+- 2026-11-13 20:11 write: ghi 120, lỗi 0, cảnh báo 3; lô 275
+- 2026-11-13 20:12 write: ghi 120, lỗi 0, cảnh báo 3; lô 276
+- 2026-11-13 20:13 write: ghi 120, lỗi 0, cảnh báo 8; lô 276, 277
+- 2026-11-13 20:16 write: ghi 112, lỗi 0, cảnh báo 6; lô 278
+- 2026-11-13 20:17 write: ghi 120, lỗi 0, cảnh báo 2; lô 279
+- 2026-11-13 20:18 write: ghi 114, lỗi 5, cảnh báo 10; lô 280
+- 2026-11-13 20:18 write: ghi 5, lỗi 0, cảnh báo 0; lô 280
+- 2026-11-13 20:19 write: ghi 120, lỗi 0, cảnh báo 7; lô 281
+- 2026-11-13 20:20 write: ghi 120 (+1 câu lặp tự chép), lỗi 0, cảnh báo 6; lô 281, 282
+- 2026-11-13 20:21 write: ghi 120, lỗi 0, cảnh báo 8; lô 283
+- 2026-11-13 20:22 write: ghi 121, lỗi 0, cảnh báo 7; lô 283, 284
+- 2026-11-13 20:22 write: ghi 2, lỗi 0, cảnh báo 0; lô 284
+- 2026-11-13 20:27 write: ghi 115, lỗi 0, cảnh báo 6; lô 285
+- 2026-11-13 20:27 write: ghi 119, lỗi 0, cảnh báo 5; lô 286
+- 2026-11-13 20:28 write: ghi 120, lỗi 0, cảnh báo 8; lô 287
+- 2026-11-13 20:29 write: ghi 120, lỗi 0, cảnh báo 8; lô 288
+- 2026-11-13 20:30 write: ghi 120, lỗi 0, cảnh báo 8; lô 289
+- 2026-11-13 20:30 write: ghi 2, lỗi 0, cảnh báo 0; lô 289
+- 2026-11-13 20:31 write: ghi 120, lỗi 0, cảnh báo 10; lô 290
+- 2026-11-13 20:32 write: ghi 120, lỗi 0, cảnh báo 6; lô 291
+- 2026-11-13 20:36 write: ghi 87, lỗi 0, cảnh báo 7; lô 292
+- 2026-11-13 20:37 write: ghi 119, lỗi 0, cảnh báo 9; lô 293
+- 2026-11-13 20:38 write: ghi 121, lỗi 0, cảnh báo 6; lô 293, 294
+- 2026-11-13 20:39 write: ghi 121, lỗi 1, cảnh báo 11; lô 294, 295
+- 2026-11-13 20:40 write: ghi 3, lỗi 0, cảnh báo 0; lô 295
+- 2026-11-13 20:41 write: ghi 120, lỗi 0, cảnh báo 6; lô 296
+- 2026-11-13 20:42 write: ghi 120, lỗi 0, cảnh báo 7; lô 297
+- 2026-11-13 20:43 write: ghi 120, lỗi 0, cảnh báo 3; lô 298
+- 2026-11-13 20:43 write: ghi 1, lỗi 0, cảnh báo 0; lô 298
+- 2026-11-13 20:47 write: ghi 119, lỗi 0, cảnh báo 5; lô 299
+- 2026-11-13 21:14 đọc chương lần 9: tới câu thoại thứ 35071 · Lần 9 (3502–3514, cao trào Kyou/Ryou): chất lượng tốt, giữ nhịp và cảm xúc; câu nén tăng 1,8→3,0 nhưng đa số là câu gọn hợp lệ. Lỗi lặt vặt: khuôn EN 'nói với nụ cười', 'sạch sẽ' cho 'clean' nghĩa đạo đức, lặp chữ, 'mình' trong lời kể — 15 câu vào hàng sửa. Bible: sotay gộp 3 dòng, thêm luật chống khuôn EN và dòng tuyến Kotomi; hồ sơ Kotomi thêm câu cửa miệng; 5 thuật ngữ mới; 9 dòng xưng hô (Ryou→nữ sinh, đàn em CLB hợp xướng, bà bán hàng, cô CN lớp A, người đàn ông 4430); chỉ đạo 15 cảnh 4415–4430 (ưu tiên 4417, 4418, 4425, 4430) + sửa 3514. Phiếu 25, 26 đóng.
+- 2026-11-13 21:17 write: ghi 15, lỗi 0, cảnh báo 0; lô 213, 231, 234, 245, 252, 258, 292, 297, 298
+- 2026-11-13 21:19 write: ghi 120, lỗi 1, cảnh báo 11; lô 300
+- 2026-11-13 21:20 write: ghi 118, lỗi 2, cảnh báo 12; lô 301
+- 2026-11-13 21:20 write: ghi 2, lỗi 0, cảnh báo 0; lô 301
+- 2026-11-13 21:21 write: ghi 120, lỗi 0, cảnh báo 10; lô 302
+- 2026-11-13 21:22 write: ghi 120, lỗi 0, cảnh báo 8; lô 303
+- 2026-11-13 21:23 write: ghi 120, lỗi 0, cảnh báo 10; lô 304
+- 2026-11-13 21:24 write: ghi 120, lỗi 0, cảnh báo 7; lô 305
+- 2026-11-13 21:24 write: ghi 107, lỗi 0, cảnh báo 2; lô 306
+- 2026-11-13 21:28 write: ghi 120, lỗi 0, cảnh báo 6; lô 307
+- 2026-11-13 21:29 write: ghi 120, lỗi 0, cảnh báo 8; lô 308
+- 2026-11-13 21:30 write: ghi 99, lỗi 0, cảnh báo 7; lô 309
+- 2026-11-13 21:31 write: ghi 118, lỗi 2, cảnh báo 4; lô 310
+- 2026-11-13 21:31 write: ghi 2, lỗi 0, cảnh báo 1; lô 310
+- 2026-11-13 21:32 write: ghi 120 (+2 câu lặp tự chép), lỗi 0, cảnh báo 7; lô 311
+- 2026-11-13 21:32 write: ghi 120, lỗi 0, cảnh báo 9; lô 312
+- 2026-11-13 21:33 write: ghi 120, lỗi 0, cảnh báo 9; lô 313
+- 2026-11-13 21:38 write: ghi 120, lỗi 0, cảnh báo 10; lô 314
+- 2026-11-13 21:39 write: ghi 119, lỗi 0, cảnh báo 7; lô 315
+- 2026-11-13 21:40 write: ghi 120, lỗi 0, cảnh báo 11; lô 316
+- 2026-11-13 21:41 write: ghi 120, lỗi 0, cảnh báo 9; lô 317
+- 2026-11-13 21:41 write: ghi 120 (+1 câu lặp tự chép), lỗi 0, cảnh báo 9; lô 318
+- 2026-11-13 21:42 write: ghi 119, lỗi 0, cảnh báo 6; lô 319
+- 2026-11-13 21:43 write: ghi 119, lỗi 0, cảnh báo 7; lô 320
+- 2026-11-13 21:49 write: ghi 120 (+2 câu lặp tự chép), lỗi 0, cảnh báo 11; lô 321
+- 2026-11-13 21:50 write: ghi 122, lỗi 0, cảnh báo 7; lô 321, 322
+- 2026-11-13 21:51 write: ghi 122 (+2 câu lặp tự chép), lỗi 0, cảnh báo 12; lô 322, 323
+- 2026-11-13 21:52 write: ghi 120 (+1 câu lặp tự chép), lỗi 0, cảnh báo 9; lô 324
+- 2026-11-13 21:53 write: ghi 121 (+1 câu lặp tự chép), lỗi 0, cảnh báo 8; lô 324, 325
+- 2026-11-13 21:54 write: ghi 120 (+2 câu lặp tự chép), lỗi 0, cảnh báo 10; lô 326
+- 2026-11-13 21:55 write: ghi 121 (+3 câu lặp tự chép), lỗi 0, cảnh báo 5; lô 326, 327
+- 2026-11-13 21:59 write: ghi 83 (+1 câu lặp tự chép), lỗi 0, cảnh báo 9; lô 328
+- 2026-11-13 22:00 write: ghi 127 (+1 câu lặp tự chép), lỗi 0, cảnh báo 5; lô 328, 329
+- 2026-11-13 22:01 write: ghi 116 (+2 câu lặp tự chép), lỗi 1, cảnh báo 10; lô 329, 330
+- 2026-11-13 22:01 write: ghi 1, lỗi 0, cảnh báo 0; lô 330
+- 2026-11-13 22:02 write: ghi 120 (+3 câu lặp tự chép), lỗi 0, cảnh báo 5; lô 331
+- 2026-11-13 22:03 write: ghi 120 (+1 câu lặp tự chép), lỗi 0, cảnh báo 2; lô 332
+- 2026-11-13 22:04 write: ghi 118 (+1 câu lặp tự chép), lỗi 1, cảnh báo 8; lô 333
+- 2026-11-13 22:04 write: ghi 1, lỗi 0, cảnh báo 0; lô 333
+- 2026-11-13 22:05 write: ghi 120, lỗi 0, cảnh báo 10; lô 334
+- 2026-11-13 22:07 write: ghi 120, lỗi 0, cảnh báo 8; lô 335
+- 2026-11-13 22:08 write: ghi 121, lỗi 0, cảnh báo 7; lô 335, 336
+- 2026-11-13 22:09 write: ghi 122, lỗi 0, cảnh báo 7; lô 336, 337
+- 2026-11-13 22:10 write: ghi 106 (+1 câu lặp tự chép), lỗi 0, cảnh báo 4; lô 338
+- 2026-11-13 22:11 write: ghi 119, lỗi 0, cảnh báo 10; lô 339
+- 2026-11-13 22:12 write: ghi 119, lỗi 0, cảnh báo 12; lô 340
+- 2026-11-13 22:13 write: ghi 127 (+1 câu lặp tự chép), lỗi 0, cảnh báo 8; lô 340, 341
+- 2026-11-13 22:15 write: ghi 120, lỗi 0, cảnh báo 8; lô 342
+- 2026-11-13 22:18 write: ghi 11, lỗi 0, cảnh báo 1; lô 339, 340, 341
+- 2026-11-13 22:19 write: ghi 4, lỗi 0, cảnh báo 1; lô 301
+- 2026-11-13 22:19 write: ghi 1, lỗi 0, cảnh báo 0; lô 304
+- 2026-11-13 22:38 đọc chương lần 10: tới câu thoại thứ 40161 · Lần 10 (35.072–40.161): đọc 3514 kết Kyou + 4420–4430 Kotomi; dài bất thường 4,2 (do lời kể cảm xúc 3514 + vài câu khuôn EN 'một cách', 'không phiền' — đã sửa, thêm vào Tránh). Đóng #27–#32: Kyou→Kotomi giữ mình–cậu, Voice→Sunohara tao–mày 3514.d1181–d1186, sửa người nghe ~340.49–51, ~341.34/37/39, ~341.113–116, sửa 4428.d16; chỉ đạo cảnh 3514/4422/4428 khớp bảng. Gentleman→Kotomi đổi chú–cháu (khớp 4430 Man). Chỉ đạo cảnh mới 4501–4513 (lô 347–393, hết tuyến Kotomi trước 4800).
+- 2026-11-13 22:40 write: ghi 118, lỗi 0, cảnh báo 10; lô 343
+- 2026-11-13 22:42 write: ghi 123, lỗi 0, cảnh báo 9; lô 343, 344
+- 2026-11-13 22:43 write: ghi 119, lỗi 0, cảnh báo 7; lô 345
+- 2026-11-13 22:44 write: ghi 93, lỗi 0, cảnh báo 9; lô 346
+- 2026-11-13 22:45 write: ghi 120, lỗi 0, cảnh báo 10; lô 347
+- 2026-11-13 22:46 write: ghi 120, lỗi 0, cảnh báo 15; lô 348
+- 2026-11-13 22:47 write: ghi 123, lỗi 0, cảnh báo 4; lô 348, 349
+- 2026-11-13 22:49 write: ghi 120, lỗi 0, cảnh báo 6; lô 350
+- 2026-11-13 22:50 write: ghi 118 (+1 câu lặp tự chép), lỗi 0, cảnh báo 8; lô 351
+- 2026-11-13 22:51 write: ghi 118, lỗi 0, cảnh báo 5; lô 352
+- 2026-11-13 22:52 write: ghi 119, lỗi 0, cảnh báo 9; lô 353
+- 2026-11-13 22:53 write: ghi 120, lỗi 0, cảnh báo 9; lô 354
+- 2026-11-13 22:54 write: ghi 120, lỗi 0, cảnh báo 11; lô 355
+- 2026-11-13 22:55 write: ghi 120 (+3 câu lặp tự chép), lỗi 0, cảnh báo 9; lô 356
+- 2026-11-13 22:57 write: ghi 118 (+1 câu lặp tự chép), lỗi 0, cảnh báo 12; lô 357
+- 2026-11-13 22:58 write: ghi 119, lỗi 0, cảnh báo 8; lô 358
+- 2026-11-13 22:59 write: ghi 120, lỗi 0, cảnh báo 9; lô 359
+- 2026-11-13 23:00 write: ghi 120, lỗi 0, cảnh báo 12; lô 360
+- 2026-11-13 23:01 write: ghi 121 (+1 câu lặp tự chép), lỗi 0, cảnh báo 12; lô 360, 361
+- 2026-11-13 23:02 write: ghi 119, lỗi 0, cảnh báo 4; lô 362
+- 2026-11-13 23:03 write: ghi 120, lỗi 0, cảnh báo 5; lô 363

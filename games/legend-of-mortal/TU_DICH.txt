@@ -1,0 +1,405 @@
+# Cách dùng: dưới mỗi dòng "@@ <mã câu>" hãy gõ bản dịch của bạn (thay cho dòng trống). Dòng bắt đầu bằng # là ghi chú, sẽ bị bỏ qua khi nạp. Câu nào để trống thì giữ bản hiện tại.
+
+# người nói: 叶云裳
+# gốc: 反正我没打算跟你好了，便多几个大嫂又有什么关系呢？
+# hiện tại: Dù sao muội cũng chẳng định chơi thân với huynh nữa, huynh có thêm mấy chị dâu thì liên quan gì tới muội chứ?
+@@ Story/D_8_2_1_176
+
+
+# người nói: 虞小梅
+# gốc: 唔哇恶心，我不过是嘲笑他，你居然是真爱。 ⏎ 这丑八怪觊觎你不奇怪，你这一脸对他崇拜爱慕的表情是怎么回事？ ⏎ 你才是不对劲的那个！
+# hiện tại: Ối, ghê quá. Ta chỉ đang chế giễu hắn thôi, vậy mà muội lại coi là thật à. ⏎ Tên xấu xí này quấn lấy muội thì chẳng lạ, nhưng mặt muội nhìn hắn đầy ngưỡng mộ như thế là sao? ⏎ Người không bình thường là muội mới đúng!
+@@ Story/D_8_2_5_6_1_012
+
+
+# người nói: 虞小梅
+# gốc: 唔哇恶心，我不过是嘲笑他，你居然是真爱。 ⏎ 这丑八怪觊觎你小娘子不奇怪，你这打翻醋坛子的反应又是怎么回事？ ⏎ 你不对劲！
+# hiện tại: Ối, ghê quá. Ta chỉ đang chế giễu hắn thôi, vậy mà muội lại coi là thật à. ⏎ Tên xấu xí này quấn lấy cô bé như muội thì chẳng lạ, nhưng cái kiểu nổi cơn ganh tị của muội là sao? ⏎ Muội không bình thường rồi!
+@@ Story/D_8_2_5_6_1_017
+
+
+# người nói: 虞小梅
+# gốc: 唔哇恶心，居然是真爱。 ⏎ 这丑八怪觊觎你不奇怪，你这一脸对他崇拜爱慕的表情是怎么回事？ ⏎ 你才是不对劲的那个！
+# hiện tại: Ối, ghê quá, hóa ra muội coi là thật. ⏎ Tên xấu xí này quấn lấy muội thì chẳng lạ, nhưng mặt muội nhìn hắn đầy ngưỡng mộ như thế là sao? ⏎ Người không bình thường là muội mới đúng!
+@@ Story/D_8_2_5_6_1_051
+
+
+# người nói: 叶云裳
+# gốc: 他肯为我而死！他爱我爱得要命！ ⏎ 就算你得到他的肉体也得不到他的心！
+# hiện tại: Huynh ấy chịu chết vì muội! Huynh ấy cưng muội muốn chết! ⏎ Tỷ có giành được cái thân huynh ấy thì cũng không giành được lòng huynh ấy đâu!
+@@ Story/D_8_2_5_6_1_108
+
+
+# người nói: 虞小梅
+# gốc: 啊哈哈，说笑罢了，小妹子喜欢，便自己留着用吧。 ⏎ 我还是喜欢俊俏一点的。
+# hiện tại: A ha ha, nói đùa thôi mà. Muội muốn thì cứ giữ lấy mà dùng. ⏎ Ta vẫn thích người đẹp trai hơn một chút.
+@@ Story/D_8_2_5_6_1_024
+
+
+# người nói: 叶云裳
+# gốc: 然后帮我把其他狐狸精通通赶走。 ⏎ 裳兒除了默铃以外，没打算跟其他女子共事一夫的说。
+# hiện tại: Rồi giúp cháu đuổi hết mấy hồ ly tinh khác đi. ⏎ Ngoài Mặc Linh ra, Thường nhi không định chia ca ca cho cô gái nào khác đâu nha.
+@@ Story/D_8_2_5_9_025
+
+
+# người nói: 叶云裳
+# gốc: 倒也不是可以，不过我太～喜欢默铃了。 ⏎ 要想真当一家人，唯有出此下策。 ⏎ 只要成了亲，我哥哥就没有利用价值了，可以杀掉。
+# hiện tại: Cũng không hẳn là được, nhưng cháu quý~ Mặc Linh lắm. ⏎ Muốn thật sự thành người một nhà thì chỉ còn cách hạ sách này thôi. ⏎ Chỉ cần thành thân xong, ca ca hết giá trị lợi dụng rồi, giết đi cũng được.
+@@ Story/D_8_2_5_9_027
+
+
+# người nói: 赵活
+# gốc: 放心，家有如花似玉的你，我才舍不得死。
+# hiện tại: Yên tâm, ở nhà còn có tiểu sư muội xinh xắn thế này, huynh đâu nỡ chết.
+@@ Story/D_8_2_6_1_025
+
+
+# người nói: (lời kể)
+# gốc: 小师妹情人眼里出西施，完全无法当玩笑。 ⏎ 深怕别人看上了你，将你抢去作新郎，心情七上八下，又气苦，又紧张。
+# hiện tại: Trong mắt tiểu sư muội, sư huynh là người tốt nhất trên đời, nên muội ấy hoàn toàn không coi đó là chuyện đùa được. ⏎ Muội ấy rất sợ người khác để mắt tới bạn rồi cướp bạn đi làm chú rể, nên trong lòng thấp thỏm không yên, vừa tủi vừa lo.
+@@ Story/N_8_2_6_2_6_001
+
+# ===== Phần trước lô 391 (rà lại): 57 câu. "chắc" = chắc chắn đã đổi nghĩa; "chưa chắc" = bạn xem rồi quyết. =====
+
+# mức: chắc · người nói: (lời kể) · cảnh: ch6_4_2
+# gốc: 小师妹心思单纯，但是怀春少女，特别敏感。 ⏎ 隐约感觉到你对她的态度似乎与从前不大一样， ⏎ 不再事事以她为先，不禁感到怅然若失。
+# hiện tại: Tiểu sư muội tâm tư đơn thuần, nhưng thiếu nữ đang tuổi lớn thì đặc biệt nhạy cảm. ⏎ Nàng mơ hồ cảm thấy thái độ của bạn với mình hình như không còn giống trước, ⏎ không còn chuyện gì cũng đặt nàng lên trước, nên không khỏi thấy hụt hẫng.
+@@ Story/N_6_4_2_001
+
+
+# mức: chắc · người nói: 赵活 · cảnh: ch6_4_2
+# gốc: 这……这怎么行，就算两情相悦，我们还没成亲呢。
+# hiện tại: Thế… thế này sao được, dù hai ta thân nhau đến mấy, cũng đâu đã thành thân.
+@@ Story/D_6_4_2_028
+
+
+# mức: chắc · người nói: 叶云裳 · cảnh: ch6_4_2
+# gốc: 那不是当然的吗？又不是我求你，是你追求我耶。 ⏎ 你就长这样了，要是还不专情，到底还有什么可取之处！
+# hiện tại: Chẳng phải đương nhiên sao? Đâu phải muội cầu xin huynh, là huynh cứ bám theo muội đó. ⏎ Huynh đã trông thế này rồi, nếu còn hay đổi ý nữa thì rốt cuộc còn được cái gì!
+@@ Story/D_6_4_2_102
+
+
+# mức: chưa chắc · người nói: 叶云裳 · cảnh: ch6_4_2
+# gốc: 嗯～当然，哥哥那么花心，见一个爱一个，近乎淫荡。 ⏎ 真的变心，裳儿留不住，也不想留就是了，我不喜欢脏东西。
+# hiện tại: Ừm~ đương nhiên rồi, ca ca lăng nhăng như thế, gặp ai mê nấy, gần như là phóng đãng. ⏎ Nếu huynh thật sự đổi ý thì Thường nhi không giữ được, mà cũng chẳng muốn giữ, muội không thích đồ bẩn.
+@@ Story/D_6_4_2_125
+
+
+# mức: chắc · người nói: 叶云裳 · cảnh: ch6_4_2
+# gốc: 我至多只能接受你以前单恋默铃。 ⏎ 因为她集世间一半的美好，你会被吸引也是情有可原。 ⏎ 但是有我以后，可就不许你再到处张望了。
+# hiện tại: Muội chỉ chấp nhận được nhiều nhất là chuyện trước đây huynh một lòng quý Mặc Linh. ⏎ Vì Mặc Linh có được một nửa những điều tốt đẹp nhất trên đời, huynh bị cuốn hút cũng là chuyện dễ hiểu. ⏎ Nhưng từ khi có muội rồi thì huynh không được nhìn ngang ngó dọc nữa.
+@@ Story/D_6_4_2_135
+
+
+# mức: chắc · người nói: 叶云裳 · cảnh: ch7_5_6_2
+# gốc: 哪有？我是瞄准了你才扑的。 ⏎ 我爱怎么摔就怎么摔，而你要负责接住我。接不住我，哼哼～ ⏎ 跌在我身，疼在你心。反正摔坏了我，你就孤寡终生。
+# hiện tại: Làm gì có? Muội nhắm đúng huynh rồi mới nhào đó. ⏎ Muội muốn ngã kiểu gì thì ngã, còn huynh phải có trách nhiệm đỡ lấy muội. Không đỡ được thì, hừ hừ~ ⏎ Muội ngã đau thân, huynh đau lòng. Dù sao làm muội ngã hỏng rồi thì cả đời huynh chẳng còn ai bám theo nữa đâu.
+@@ Story/D_7_5_6_2_019
+
+
+# mức: chưa chắc · người nói: 赵活 · cảnh: ch4_3_6_2
+# gốc: 小师妹，你心境失常，五成功力也使不出来，非我敌手。 ⏎ 事已至此，还是……还是从了我吧。 ⏎ 今日欠你的，来日方长，慢慢偿还便是，我会像从前那样疼爱你。
+# hiện tại: Tiểu sư muội, lòng muội đang rối loạn, đến năm phần công lực cũng không dùng ra được, muội không phải đối thủ của huynh đâu. ⏎ Sự đã đến nước này, muội… muội cứ nghe theo huynh đi. ⏎ Những gì hôm nay huynh nợ muội, ngày tháng còn dài, huynh sẽ từ từ trả, huynh sẽ thương muội như trước đây.
+@@ Story/D_4_3_6_2_001
+
+
+# mức: chưa chắc · người nói: 叶云裳 · cảnh: ch4_9_3_5
+# gốc: 我就像珠宝一样珍贵又易碎，你可得看紧我、带好我， ⏎ 无时无刻不着急我、时常拿出来欣赏一下，喜欢得不能自已。 ⏎ 明明没甚么用处，却令你爱不释手才行。
+# hiện tại: Muội giống như châu báu vậy, vừa quý vừa dễ vỡ. Huynh phải trông chừng muội thật kỹ, mang muội theo cẩn thận, ⏎ lúc nào cũng phải lo cho muội, thường xuyên lấy ra ngắm nghía một chút, quý đến không kìm được. ⏎ Rõ ràng chẳng có ích gì, vậy mà huynh vẫn quý đến không nỡ rời tay thì mới được.
+@@ Story/D_4_9_3_5_013
+
+
+# mức: chắc · người nói: 温夫人 · cảnh: ch6_4_3_2_01_503
+# gốc: 此曲是本宫所创，暗含内功心法，以内力驱使可操人心律脉息。 ⏎ 你习之不单裨益自己，亦能助你情郎归元养气，调顺五行。 ⏎ 这样他一生也离不开你。
+# hiện tại: Khúc nhạc này do bổn cung sáng tác, trong đó ẩn chứa tâm pháp nội công, dùng nội lực điều khiển thì có thể chi phối nhịp tim, mạch đập và hơi thở của người khác. ⏎ Ngươi học nó không chỉ có ích cho bản thân, mà còn có thể giúp người ngươi quý quy nguyên dưỡng khí, điều hòa ngũ hành. ⏎ Như vậy cả đời hắn cũng không rời xa ngươi được.
+@@ Story/D_6_4_3_2_01_503_028
+
+
+# mức: chắc · người nói: 叶云裳 · cảnh: ch6_4_4_1
+# gốc: 我这招是自创的武功，取名为『裳心钻』，专门对付哥哥你。 ⏎ 提醒你别忘了永远要为我心动不已。
+# hiện tại: Chiêu này là võ công muội tự sáng tạo đấy, tên là “Thường Tâm Toản”, chuyên dùng để đối phó với ca ca. ⏎ Để nhắc huynh đừng quên, lúc nào cũng phải thấy muội đáng yêu nhất.
+@@ Story/D_6_4_4_1_085
+
+
+# mức: chắc · người nói: 叶云裳 · cảnh: ch6_4_4_1
+# gốc: 哎耶恶……哥哥你动情的脸真的好可怕，我哥哥知道你会这样吗？
+# hiện tại: Ơ eo ơi… mặt huynh lúc cảm động trông đáng sợ thật đó, ca ca của muội có biết huynh như vậy không?
+@@ Story/D_6_4_4_1_088
+
+
+# mức: chắc · người nói: 赵活 · cảnh: ch5_4_8_5_3
+# gốc: 我心慕有之，却又怎么配得上呢？小师妹又不是瞎的。
+# hiện tại: Lòng quý mến thì ta có, nhưng làm sao ta xứng với muội ấy được? Tiểu sư muội đâu có mù.
+@@ Story/D_5_4_8_5_3_017
+
+
+# mức: chắc · người nói: 赵活 · cảnh: ch5_4_8_5_3
+# gốc: 瑞兄，你想多了，我至多单相思而已。 ⏎ 你擦亮眼睛再看看我这副德性，能配得上小师妹吗？ ⏎ 小师妹又不是瞎的，怎会看上我。
+# hiện tại: Thụy huynh, huynh nghĩ nhiều rồi, cùng lắm chỉ có mình ta quý muội ấy thôi. ⏎ Huynh dụi mắt nhìn lại bộ dạng này của ta xem, có xứng với tiểu sư muội không? ⏎ Tiểu sư muội đâu có mù, sao lại để mắt tới ta được.
+@@ Story/D_5_4_8_5_3_018
+
+
+# mức: chắc · người nói: 路人侠 · cảnh: ch4_8_9_3
+# gốc: 省省吧你，那位活侠风流倜傥，红颜知己无数。 ⏎ 唐门小师妹、点苍叶云裳、锦香宫龙女侠夜夜都争宠。 ⏎ 连上官世家都不惜和南宫世家翻脸，要把千金嫁给他，你这姿色凭什么？
+# hiện tại: Thôi bỏ đi, vị Hoạt hiệp đó phong lưu phóng khoáng, hồng nhan tri kỷ nhiều vô số. ⏎ Tiểu sư muội Đường Môn và Diệp Vân Thường của Điểm Thương lúc nào cũng quấn quýt bên hắn, còn Long nữ hiệp của Cẩm Hương Cung thì đêm nào cũng tranh sủng. ⏎ Ngay cả Thượng Quan thế gia cũng không tiếc trở mặt với Nam Cung thế gia để gả thiên kim cho hắn, cái nhan sắc của ngươi thì lấy gì mà mơ?
+@@ Story/D_4_8_9_3_057
+
+
+# mức: chắc · người nói: (lời kể) · cảnh: ch3_1_2_3_break_start_01
+# gốc: 我只贪图你美色。
+# hiện tại: Huynh chỉ tham được muội nũng nịu gọi một tiếng ca ca thôi.
+@@ Story/T_3_1_2_3_Break_01_005
+
+
+# mức: chắc · người nói: 赵活 · cảnh: ch5_5_1
+# gốc: 唉唷我的小师妹……为何悲伤那么久…… ⏎ 阿哥怎生舍得你……把泪恣意流…… ⏎ 再哭就把你……拿来作老婆……作老婆……。
+# hiện tại: Ối chao tiểu sư muội của anh… vì sao buồn lâu đến thế… ⏎ Anh nỡ lòng nào… để em cứ khóc hoài… ⏎ Khóc nữa là… anh bắt về làm em út nhà anh… làm em út nhà anh…
+@@ Story/D_5_5_1_014
+
+
+# mức: chắc · người nói: 叶云裳 · cảnh: ch5_5_1
+# gốc: 默铃，你要是改变心意不想嫁也好， ⏎ 那我们就可以双宿双飞……永远……。
+# hiện tại: Mặc Linh, nếu ngươi đổi ý không muốn gả đi thì cũng tốt, ⏎ vậy là hai ta có thể ở bên nhau mãi… mãi mãi…
+@@ Story/D_5_5_1_036
+
+
+# mức: chắc · người nói: (lời kể) · cảnh: ch5_5_1
+# gốc: 那就这样吧。谁让我命不长久，谁让默铃喜欢呢。
+# hiện tại: Vậy thì thôi vậy. Ai bảo muội không sống được lâu, ai bảo Mặc Linh lại quý huynh.
+@@ Story/T_5_5_1_004
+
+
+# mức: chưa chắc · người nói: (lời kể) · cảnh: ch4_5_1
+# gốc: 看来小师妹对大师兄，果真半分情愫也无，如此我亦不应过于强求。
+# hiện tại: Xem ra tiểu sư muội thật sự không hề muốn thành thân với đại sư huynh, vậy ta cũng không nên ép quá.
+@@ Story/T_4_5_1_001
+
+
+# mức: chưa chắc · người nói: 唐升 · cảnh: ch5_5_3
+# gốc: ……我还道你诚恳老实，能够发乎情，止乎礼。 ⏎ 没想到你终究还是对小师妹伸出魔爪。
+# hiện tại: …Huynh còn tưởng đệ thật thà chất phác, biết giữ tình cảm trong khuôn phép. ⏎ Không ngờ cuối cùng đệ vẫn không giữ được lễ với tiểu sư muội.
+@@ Story/D_5_5_3_046
+
+
+# mức: chắc · người nói: 唐惟元 · cảnh: ch5_5_3
+# gốc: 师弟……你以后可得管管你媳妇的嘴。
+# hiện tại: Sư đệ… sau này đệ phải quản cái miệng của tiểu sư muội nhà đệ đấy.
+@@ Story/D_5_5_3_057
+
+
+# mức: chắc · người nói: 唐升 · cảnh: ch5_5_3
+# gốc: 你和小师妹既然两情相悦，都有觉悟，那我也不便拆散鸳鸯。 ⏎ 只是兹事体大，要顾念小师妹的名声，你俩的婚事必须推迟一些， ⏎ 另择吉日举办，以绝世人悠悠之口。
+# hiện tại: Đệ với tiểu sư muội đã cùng một lòng, cũng đều đã nghĩ kỹ rồi, vậy huynh cũng không tiện chia rẽ hai đứa. ⏎ Có điều chuyện này hệ trọng, phải giữ thanh danh cho tiểu sư muội, nên hôn sự của hai đứa phải hoãn lại một thời gian, ⏎ chọn ngày lành khác mà tổ chức, để thiên hạ khỏi đồn đại.
+@@ Story/D_5_5_3_059
+
+
+# mức: chưa chắc · người nói: 赵活 · cảnh: ch5_4_8_9
+# gốc: 别听她乱讲，你肥成球儿，也是顶尖惹人怜爱的球。 ⏎ 谁都稀罕，就算别人眼瞎不稀罕，我也稀罕得很。
+# hiện tại: Đừng nghe tỷ ấy nói bậy. Muội có mập thành quả bóng thì cũng là quả bóng đáng yêu nhất đời. ⏎ Ai cũng sẽ quý muội, mà dù người khác mù mắt không biết quý, thì huynh vẫn quý muội lắm.
+@@ Story/D_5_4_8_9_028
+
+
+# mức: chắc · người nói: 赵活 · cảnh: ch5_4_8_9
+# gốc: 我希望你能照三餐爆，吃爆，睡爆，玩爆。 ⏎ 放火烧你夫君的枕头，表示你拒绝同房的决心。
+# hiện tại: Huynh mong ngày ba bữa muội đều hư hết cỡ: ăn hết cỡ, ngủ hết cỡ, chơi hết cỡ. ⏎ Còn đốt gối của chồng muội, cho hắn biết muội không dễ bắt nạt.
+@@ Story/D_5_4_8_9_039
+
+
+# mức: chắc · người nói: 赵活 · cảnh: ch5_4_8_9
+# gốc: 我若要将小师妹强抢入怀。 ⏎ 此刻唐门还有谁能拦我？
+# hiện tại: Nếu ta muốn cướp tiểu sư muội đi, ⏎ thì lúc này ở Đường Môn còn ai cản được ta?
+@@ Story/D_5_4_8_9_058
+
+
+# mức: chắc · người nói: (lời kể) · cảnh: ch5_2_7_1
+# gốc: 其实我更喜欢你这样这般恬静温柔的女子。
+# hiện tại: Thật ra huynh lại quý cái nết hiền, ít nói của muội hơn.
+@@ Story/T_5_2_7_1_003
+
+
+# mức: chắc · người nói: 赵活 · cảnh: ch5_2_7_1
+# gốc: 唉唷我的小师妹～为何悲伤那么久～ ⏎ 阿哥怎生舍得你～把泪恣意流～再哭就把你～拿来作老婆～
+# hiện tại: Ui da tiểu sư muội của anh~ sao mà buồn mãi chẳng thôi~ ⏎ Anh nào nỡ để em~ nước mắt cứ tuôn rơi~ còn khóc nữa là anh~ bắt về làm em út nhà anh~
+@@ Story/D_5_2_7_1_094
+
+
+# mức: chắc · người nói: (lời kể) · cảnh: ch7_5_6_4
+# gốc: 小师妹解下发带，默默把爱用的梳子塞你掌心，你心领神会，乐意效劳。 ⏎ 她只默默地不说话，对你的依恋已非言语所能言喻， ⏎ 以此不染尘埃的无垢之心为嫁妆，愿能与你执手偕老。
+# hiện tại: Tiểu sư muội tháo dây buộc tóc, lặng lẽ nhét chiếc lược muội ấy hay dùng vào lòng bàn tay bạn. Bạn hiểu ngay, vui vẻ chải tóc cho muội ấy. ⏎ Muội ấy chỉ lặng lẽ không nói gì, nỗi quấn quýt, ỷ lại vào sư huynh đã chẳng thể nói thành lời. ⏎ Muội ấy chỉ có tấm lòng trong trẻo không vướng chút bụi trần làm của hồi môn, mong được nương tựa vào bạn suốt đời.
+@@ Story/N_7_5_6_4_001
+
+
+# mức: chắc · người nói: 赵活 · cảnh: ch5_5_2_break_start_01
+# gốc: 你说不定是千面人魔，知道我爱小师妹爱到无法自拔， ⏎ 所以易容成她，想骗取唐门秘辛！我告诉你，你这是白费力气！ ⏎ 我不是不肯透露，而是我啥也不知道！
+# hiện tại: Biết đâu ngươi là Thiên Diện Nhân Ma, biết ta quý tiểu sư muội đến mê muội, ⏎ nên cải trang thành muội ấy để lừa lấy bí mật của Đường Môn! Ta nói cho ngươi biết, ngươi chỉ phí công vô ích thôi! ⏎ Không phải ta không chịu khai, mà là ta chẳng biết cái gì hết!
+@@ Story/D_5_5_2_Break_01_034
+
+
+# mức: chắc · người nói: 赵活 · cảnh: ch5_5_2_break_start_01
+# gốc: 我小师妹生得闭月羞花，所以我心慕小师妹乃是天经地义， ⏎ 这事唐门上下人尽皆知。
+# hiện tại: Tiểu sư muội của huynh xinh đẹp tuyệt trần, nên huynh quý tiểu sư muội là chuyện hiển nhiên, ⏎ cả Đường Môn trên dưới ai cũng biết.
+@@ Story/D_5_5_2_Break_01_060
+
+
+# mức: chưa chắc · người nói: 赵活 · cảnh: ch5_5_2_break_start_01
+# gốc: 可是小师妹居然对我抱有好感，你不觉得事情很可疑吗？
+# hiện tại: Vậy mà tiểu sư muội lại quý huynh, muội không thấy chuyện này rất đáng ngờ sao?
+@@ Story/D_5_5_2_Break_01_061
+
+
+# mức: chưa chắc · người nói: 叶云裳 · cảnh: ch6_6_2_break_start_01
+# gốc: 何况打是情骂是爱，我打你是提醒你：我情你。 ⏎ 这位乞帮英雄骂你蓝色混蛋，显然是爱你。
+# hiện tại: Huống hồ đánh là thương, mắng là quý, muội đánh huynh là để nhắc huynh: muội thương huynh. ⏎ Vị anh hùng Cái Bang này mắng huynh là đồ khốn áo xanh, rõ ràng là quý huynh lắm.
+@@ Story/D_6_6_2_Break_01_193
+
+
+# mức: chắc · người nói: 赵活 · cảnh: ch6_6_2_break_start_01
+# gốc: 呃，可我心仪的是小娘子。
+# hiện tại: Ơ, nhưng ta chỉ quý cô nương này thôi.
+@@ Story/D_6_6_2_Break_01_195
+
+
+# mức: chắc · người nói: 赵活 · cảnh: ch1_1_1
+# gốc: 但我知道，即便可以结婚，我去了青城派娶的一定不会是小师妹。 ⏎ 所以我拒绝了。
+# hiện tại: Nhưng đệ biết, dù có được lấy vợ, một khi đã sang phái Thanh Thành thì đệ cũng chẳng còn được ở gần tiểu sư muội nữa. ⏎ Nên đệ từ chối.
+@@ LUA/ch1_1_1:774.0
+
+
+# mức: chắc · người nói: (lời kể) · cảnh: ch1_1_1
+# gốc: 就算你说得这样慷慨凛然……。 ⏎ 可是你即使不去青城派也同样娶不到小师妹啊。
+# hiện tại: Bạn nói nghe khảng khái lắm… ⏎ nhưng dù không sang phái Thanh Thành thì bạn cũng đâu giữ được tiểu sư muội ở bên mình.
+@@ LUA/ch1_1_1:785.0
+
+
+# mức: chắc · người nói: (lời kể) · cảnh: ch1_1_1
+# gốc: 就算你说得这样慷慨凛然……。 ⏎ 可是你即使不去青城派也同样娶不到小师妹啊。
+# hiện tại: Bạn nói nghe khảng khái lắm… ⏎ nhưng dù không sang phái Thanh Thành thì bạn cũng đâu giữ được tiểu sư muội ở bên mình.
+@@ Story/T_1_1_1_001
+
+
+# mức: chưa chắc · người nói: 唐升 · cảnh: ch5_2_5
+# gốc: 我想你对小师妹一往情深，本门亏待了你， ⏎ 几度你气不过，都说要走，最终都为小师妹留了下来。 ⏎ 如斯赤诚，委实可敬。不问过你，似乎说不过去。
+# hiện tại: Huynh nghĩ đệ một lòng thương tiểu sư muội. Bổn môn đã bạc đãi đệ, ⏎ mấy lần đệ tức không chịu nổi, đều nói muốn đi, nhưng cuối cùng đều vì tiểu sư muội mà ở lại. ⏎ Tấm lòng chân thành như vậy thật đáng kính. Không hỏi qua đệ thì có vẻ không phải lẽ.
+@@ Story/D_5_2_5_067
+
+
+# mức: chắc · người nói: 叶云裳 · cảnh: ch5_2_5
+# gốc: 因为要娶默铃的是本姑娘才对！ ⏎ 他们抢我老婆，我打杀他们有错吗？
+# hiện tại: Vì người rước Mặc Linh phải là bản cô nương mới đúng! ⏎ Bọn chúng cướp Mặc Linh của muội, muội đánh chết bọn chúng thì có gì sai?
+@@ Story/D_5_2_5_079
+
+
+# mức: chắc · người nói: 少侠 · cảnh: ch5_3_1
+# gốc: 实不相瞒，我一见唐小娘子的花容月貌，就……就情根深种， ⏎ 无法自拔，我若有幸得唐小娘子垂青，终生不敢有负。 ⏎ 我会敬你、爱你，把你当菩萨供奉，你叫往东，我绝不敢往西。
+# hiện tại: Không giấu gì cô, vừa thấy dung nhan như hoa của Đường cô nương, ta đã… đã đem lòng ngưỡng mộ, ⏎ không sao dứt ra được, nếu ta may mắn được Đường cô nương để mắt tới, cả đời này tuyệt không dám phụ. ⏎ Ta sẽ kính trọng cô, hết lòng đối tốt với cô, thờ cô như thờ Bồ Tát, cô bảo đi hướng đông, ta tuyệt không dám đi hướng tây.
+@@ Story/D_5_3_1_005
+
+
+# mức: chắc · người nói: 少侠 · cảnh: ch5_3_1
+# gốc: 我没带媒人，因为两情相悦，是重心灵相通。 ⏎ 爱一个人，不须别人置喙。 ⏎ 而我，看上了你，这就足够了。
+# hiện tại: Ta không mang theo bà mối, vì tâm ý tương thông là quý ở chỗ hai tấm lòng hiểu nhau. ⏎ Đã chọn một người thì chẳng cần ai khác xen vào. ⏎ Còn ta, ta đã chọn cô, vậy là đủ rồi.
+@@ Story/D_5_3_1_019
+
+
+# mức: chưa chắc · người nói: 女侠 · cảnh: ch6_8_4
+# gốc: 骚小狐狸，别对人家夫君动手动脚！
+# hiện tại: Con hồ ly nhỏ này, đừng có động tay động chân với chồng người ta!
+@@ Story/D_6_8_4_105
+
+
+# mức: chắc · người nói: 赵活 · cảnh: ch2_4_5_4_1
+# gốc: 嘿嘿嘿，我的新娘子，为夫来了……！
+# hiện tại: Hê hê hê, hai em, ta tới đây…!
+@@ Story/D_2_4_5_4_1_007
+
+
+# mức: chắc · người nói: (lời kể) · cảnh: ch2_4_5_4_1
+# gốc: 到这里就差不多了吧？ ⏎ 看我一通花言巧语，把小师妹骗入洞房。
+# hiện tại: Tới đây chắc được rồi nhỉ? ⏎ Xem ta dùng một tràng lời ngon ngọt lừa được tiểu sư muội đi theo ta.
+@@ Story/T_2_4_5_4_1_002
+
+
+# mức: chắc · người nói: 叶云裳 · cảnh: ch3_1_4_1
+# gốc: 色狼！你怎么睡我房里！
+# hiện tại: Đồ xấu xa! Sao huynh lại ngủ trong phòng muội!
+@@ Story/D_3_1_4_1_027
+
+
+# mức: chắc · người nói: 赵活 · cảnh: ch6_9_2_break_start_01
+# gốc: 当山贼如何？你就是我压寨夫人。
+# hiện tại: Làm sơn tặc thì sao? Huynh làm trại chủ, muội làm nhị trại chủ.
+@@ Story/D_6_9_2_Break_01_077
+
+
+# mức: chưa chắc · người nói: 叶云裳 · cảnh: ch6_9_2_break_start_01
+# gốc: 那你不用谢天谢地，因为祂们是无法阻止我的。 ⏎ 裳儿我一生一世专门蹂躏你，定要让你又爱又恨。 ⏎ 捧在掌心怕化，捉紧了又溜开，八十岁了你还得讨好我。
+# hiện tại: Vậy huynh khỏi cần cảm tạ trời đất, vì các ngài ấy cũng chẳng cản nổi muội đâu. ⏎ Thường nhi cả đời này chuyên hành hạ huynh, nhất định khiến huynh vừa thương vừa giận. ⏎ Nâng trong lòng bàn tay thì sợ tan, nắm chặt thì lại tuột mất, tới tám mươi tuổi huynh vẫn phải dỗ dành muội.
+@@ Story/D_6_9_2_Break_01_114
+
+
+# mức: chắc · người nói: 叶云裳 · cảnh: ch6_3_5_break_start_01
+# gốc: 还是说你光是背着我，就会情不自禁动坏心思吗？
+# hiện tại: Hay là cõng muội thôi mà huynh cũng sợ mình ngứa tay, lại bày trò bắt nạt muội?
+@@ Story/D_6_3_5_Break_01_068
+
+
+# mức: chắc · người nói: 赵活 · cảnh: ch6_3_5_break_start_01
+# gốc: 就是这么回事。 ⏎ 你是温香软玉，有闭月羞花之容，谁不想一亲芳泽呢？ ⏎ 我却不是柳下惠，可没把握心如古井不波。
+# hiện tại: Đúng là vậy đấy. ⏎ Muội đáng yêu thế này, ai thấy mà chẳng muốn véo má trêu một cái? ⏎ Huynh đâu phải thánh nhân, chẳng dám chắc mình nhịn được.
+@@ Story/D_6_3_5_Break_01_069
+
+
+# mức: chắc · người nói: 赵活 · cảnh: ch6_10_4
+# gốc: 阿哥怎生舍得你～把泪恣意流～再哭就把你～拿来作老婆～
+# hiện tại: Anh nào nỡ để em~ nước mắt cứ tuôn rơi~ còn khóc nữa là anh~ bắt về làm em út nhà anh~
+@@ Story/D_6_10_4_138
+
+
+# mức: chưa chắc · người nói: 唐默铃 · cảnh: ch6_10_4
+# gốc: {size=24}已经，已经要作你老婆了啊……？{/size}
+# hiện tại: {size=24}Muội… muội đã sắp về nhà huynh rồi mà…?{/size}
+@@ Story/D_6_10_4_139
+
+
+# mức: chắc · người nói: 唐门弟子 · cảnh: ch6_10_4
+# gốc: 师兄觊觎小师妹不奇怪，但小师妹对师兄深情款款， ⏎ 这件事本身就比武林盟还要不可理喻。
+# hiện tại: Sư huynh quý tiểu sư muội thì chẳng lạ, nhưng tiểu sư muội lại một lòng một dạ với sư huynh, ⏎ chuyện đó còn vô lý hơn cả Liên minh Võ lâm.
+@@ Story/D_6_10_4_141
+
+
+# mức: chắc · người nói: 唐门女弟子 · cảnh: ch7_5_2_6
+# gốc: 别跟我们说什么他没啥不好，那是你情人眼里出西施，不嫌弃。 ⏎ 你喜欢不代表我们乐意，尊重一下我们行不行？ ⏎ 你要不戳瞎他，要不就把身子挨上去蒙蔽他双眼，别让他在外边痴望了。
+# hiện tại: Đừng nói với bọn ta là huynh ấy chẳng có gì không tốt, đó là vì trong mắt muội huynh ấy cái gì cũng tốt, nên muội không chê. ⏎ Muội quý huynh ấy không có nghĩa là bọn ta cũng vui lòng, tôn trọng bọn ta một chút được không? ⏎ Muội hoặc là chọc mù mắt huynh ấy, hoặc là đứng sát lại che mắt huynh ấy đi, đừng để huynh ấy đứng ngoài nhìn chằm chằm nữa.
+@@ Story/D_7_5_2_6_007
+
+
+# mức: chưa chắc · người nói: 叶云裳 · cảnh: ch3_1_2_1
+# gốc: 我若平时安分一点，你现在哪有温香软玉在怀的福份。 ⏎ 趁我少不更事，能抱一把是一把，别等我长大了，报官告你非礼。
+# hiện tại: Nếu bình thường muội chịu yên phận một chút, thì giờ huynh đâu có phúc được ôm muội vừa thơm vừa mềm trong lòng thế này. ⏎ Nhân lúc muội còn nhỏ dại, ôm được lúc nào hay lúc ấy, đợi muội lớn rồi thì muội lên quan kiện huynh tội vô lễ đấy.
+@@ Story/D_3_1_2_1_010
+
+
+# mức: chắc · người nói: 赵活 · cảnh: ch3_1_2_1
+# gốc: 妹子你闭月羞花，原来是我老婆啊。
+# hiện tại: Muội trông thì xinh như hoa, hóa ra lại là em gái nuôi nhà huynh à.
+@@ Story/D_3_1_2_1_104
+
+
+# mức: chắc · người nói: 叶云裳 · cảnh: ch3_1_2_1
+# gốc: 呸呸呸，好不知羞！谁是你老婆！从哪儿学的油嘴滑舌？ ⏎ 连你这臭哥哥，都敢打我的歪主意，禽兽的说。
+# hiện tại: Phì phì phì, không biết xấu hổ! Ai là em gái nuôi nhà huynh! Học đâu ra cái thói dẻo miệng đó? ⏎ Đến cái tên ca ca thối như huynh mà cũng dám tính kế với muội, đúng là đồ mặt dày.
+@@ Story/D_3_1_2_1_105
+
+
+# mức: chắc · người nói: (lời kể) · cảnh: ch4_6_7_break_start_01
+# gốc: 这份感情之中，又有几分是男女之情呢？ ⏎ 要是我能替大师兄躺这儿受苦就好了，反正我无足轻重， ⏎ 就算最后死了，本门也不受动摇，起码还能被小师妹关心。
+# hiện tại: Tình cảm ấy rốt cuộc là thứ tình cảm gì đây? ⏎ Giá mà ta có thể nằm đây chịu khổ thay đại sư huynh thì tốt biết mấy, dù sao ta cũng chẳng quan trọng gì, ⏎ có chết thì bổn môn cũng không lung lay, ít ra còn được tiểu sư muội lo lắng cho.
+@@ Story/T_4_6_7_Break_016
+
+
+# mức: chắc · người nói: (lời kể) · cảnh: ch4_6_7_break_start_01
+# gốc: 这份感情之中，又有几分是男女之情呢？ ⏎ 这么想着，我就不禁冒出恶毒的想法。 ⏎ 大师兄要是死了，小师妹便没有归宿了，那时我……。
+# hiện tại: Tình cảm ấy rốt cuộc là thứ tình cảm gì đây? ⏎ Nghĩ vậy, ta không kìm được mà nảy ra một ý nghĩ độc ác. ⏎ Nếu đại sư huynh chết, tiểu sư muội sẽ không còn chỗ nương tựa, khi đó ta…
+@@ Story/T_4_6_7_Break_017
+
+

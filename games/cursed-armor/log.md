@@ -1,0 +1,534 @@
+# Nhật ký vgk
+- 2026-11-11 01:38 fill: ghi 1444, lỗi 0, cảnh báo 172; lô 1, 2, 3, 4, 5, 6, 7, 8
+- 2026-11-11 01:40 term change 忠犬: ghi 1, lỗi 0, cảnh báo 0; lô 1
+- 2026-11-11 01:40 term change 魔眼之女: ghi 1, lỗi 0, cảnh báo 0; lô 1
+- 2026-11-11 01:40 term change 漆黑的魔女: ghi 1, lỗi 0, cảnh báo 0; lô 1
+- 2026-11-11 01:40 term change 風之劍圣（蜂之劍圣）: ghi 1, lỗi 0, cảnh báo 0; lô 1
+- 2026-11-11 01:40 term change 室友: ghi 1, lỗi 0, cảnh báo 0; lô 1
+- 2026-11-11 01:40 term change 神之音: ghi 1, lỗi 0, cảnh báo 0; lô 1
+- 2026-11-11 01:40 term change 魔戰士: ghi 1, lỗi 0, cảnh báo 0; lô 2
+- 2026-11-11 01:40 term change 黑魔女: ghi 1, lỗi 0, cảnh báo 0; lô 2
+- 2026-11-11 01:40 term change 被詛咒的魔女: ghi 1, lỗi 0, cảnh báo 0; lô 2
+- 2026-11-11 01:40 term change 戰斗修女: ghi 1, lỗi 0, cảnh báo 0; lô 2
+- 2026-11-11 01:40 term change 高級次元傳送: ghi 1, lỗi 0, cảnh báo 0; lô 2
+- 2026-11-11 01:40 term change 寒冰之怒: ghi 1, lỗi 0, cảnh báo 0; lô 2
+- 2026-11-11 01:40 term change 次元傳送: ghi 1, lỗi 0, cảnh báo 0; lô 2
+- 2026-11-11 01:40 term change 神獸之怒: ghi 1, lỗi 0, cảnh báo 0; lô 2
+- 2026-11-11 01:40 term change 雷神之怒: ghi 1, lỗi 0, cảnh báo 0; lô 2
+- 2026-11-11 01:40 term change 水天日光天照八野鎮石: ghi 1, lỗi 0, cảnh báo 0; lô 2
+- 2026-11-11 01:40 term change 女王的宿愿: ghi 1, lỗi 0, cảnh báo 0; lô 2
+- 2026-11-11 01:40 term change 一之彈（Aleph）: ghi 1, lỗi 0, cảnh báo 0; lô 2
+- 2026-11-11 01:40 term change 安維爾教堂鑰匙: ghi 1, lỗi 0, cảnh báo 0; lô 2
+- 2026-11-11 01:40 term change 公會任務書: ghi 1, lỗi 0, cảnh báo 0; lô 2
+- 2026-11-11 01:41 term change 神牛的斷角: ghi 1, lỗi 0, cảnh báo 0; lô 2
+- 2026-11-11 01:41 term change 殺人蜂的精液: ghi 1, lỗi 0, cảnh báo 0; lô 2
+- 2026-11-11 01:41 term change 章魚怪的精液: ghi 1, lỗi 0, cảnh báo 0; lô 2
+- 2026-11-11 01:41 term change 看守所特赦令: ghi 1, lỗi 0, cảnh báo 0; lô 2
+- 2026-11-11 01:41 term change 魔法學院學生證: ghi 1, lỗi 0, cảnh báo 0; lô 2
+- 2026-11-11 01:41 term change 廢棄水井鑰匙: ghi 1, lỗi 0, cảnh báo 0; lô 2
+- 2026-11-11 01:41 term change 立繪狀態控制器: ghi 1, lỗi 0, cảnh báo 0; lô 2
+- 2026-11-11 01:41 term change 惡魔的禁錮: ghi 1, lỗi 0, cảnh báo 0; lô 2
+- 2026-11-11 01:41 term change 特訓室鑰匙: ghi 1, lỗi 0, cảnh báo 0; lô 2
+- 2026-11-11 01:41 term change 冒險者公會任務記錄: ghi 1, lỗi 0, cảnh báo 0; lô 2
+- 2026-11-11 01:41 term change 歐文別墅的鑰匙: ghi 1, lỗi 0, cảnh báo 0; lô 2
+- 2026-11-11 01:41 term change 傭兵任務書: ghi 1, lỗi 0, cảnh báo 0; lô 2
+- 2026-11-11 01:41 term change 神器－狼神的祝福: ghi 1, lỗi 0, cảnh báo 0; lô 2
+- 2026-11-11 01:41 term change 手抄任務書: ghi 1, lỗi 0, cảnh báo 0; lô 2
+- 2026-11-11 01:41 term change 公會重要物資: ghi 1, lỗi 0, cảnh báo 0; lô 2
+- 2026-11-11 01:41 term change 城堡地牢鑰匙: ghi 1, lỗi 0, cảnh báo 0; lô 2
+- 2026-11-11 01:41 term change 托雷斯城通行證: ghi 1, lỗi 0, cảnh báo 0; lô 2
+- 2026-11-11 01:41 term change 全職女仆合約書: ghi 1, lỗi 0, cảnh báo 0; lô 3
+- 2026-11-11 01:41 term change 神器－時間逆流: ghi 1, lỗi 0, cảnh báo 0; lô 3
+- 2026-11-11 01:41 term change 神器－繁殖無效: ghi 1, lỗi 0, cảnh báo 0; lô 3
+- 2026-11-11 01:41 term change 神器－蠶食無效: ghi 1, lỗi 0, cảnh báo 0; lô 3
+- 2026-11-11 01:41 term change 神器－毒癮無效: ghi 1, lỗi 0, cảnh báo 0; lô 3
+- 2026-11-11 01:41 term change 神器－稱號固定: ghi 1, lỗi 0, cảnh báo 0; lô 3
+- 2026-11-11 01:41 term change 神器－消耗儲備: ghi 1, lỗi 0, cảnh báo 0; lô 3
+- 2026-11-11 01:41 term change 神器－烙印無效: ghi 1, lỗi 0, cảnh báo 0; lô 3
+- 2026-11-11 01:41 term change 神器－虛無之眼: ghi 1, lỗi 0, cảnh báo 0; lô 3
+- 2026-11-11 01:41 term change 神器－怠惰之心: ghi 1, lỗi 0, cảnh báo 0; lô 3
+- 2026-11-11 01:41 term change 殺人蜂的精華: ghi 1, lỗi 0, cảnh báo 0; lô 3
+- 2026-11-11 01:41 term change 章魚怪的精華: ghi 1, lỗi 0, cảnh báo 0; lô 3
+- 2026-11-11 01:41 term change 手機按鍵控制: ghi 1, lỗi 0, cảnh báo 0; lô 3
+- 2026-11-11 01:41 term change 貞操帶鑰匙: ghi 1, lỗi 0, cảnh báo 0; lô 3
+- 2026-11-11 01:41 term change 魔鋼貞操帶鑰匙: ghi 1, lỗi 0, cảnh báo 0; lô 3
+- 2026-11-11 01:41 term change 魔鋼鐐銬（頸）鑰匙: ghi 1, lỗi 0, cảnh báo 0; lô 3
+- 2026-11-11 01:41 term change 拘束器鑰匙: ghi 1, lỗi 0, cảnh báo 0; lô 3
+- 2026-11-11 01:41 term change 玉藻前的鏡子: ghi 1, lỗi 0, cảnh báo 0; lô 3
+- 2026-11-11 01:41 term change 亞巴頓控制器: ghi 1, lỗi 0, cảnh báo 0; lô 3
+- 2026-11-11 01:41 term change 圣誕權杖: ghi 1, lỗi 0, cảnh báo 0; lô 3
+- 2026-11-11 01:41 term change 叛亂姬騎士盾: ghi 1, lỗi 0, cảnh báo 0; lô 3
+- 2026-11-11 01:41 term change 叛亂姬騎士配劍: ghi 1, lỗi 0, cảnh báo 0; lô 3
+- 2026-11-11 01:41 term change 狂亂姬騎士盾: ghi 1, lỗi 0, cảnh báo 0; lô 3
+- 2026-11-11 01:41 term change 狂亂姬騎士配劍: ghi 1, lỗi 0, cảnh báo 0; lô 3
+- 2026-11-11 01:41 term change 女武神之刃(真): ghi 1, lỗi 0, cảnh báo 0; lô 3
+- 2026-11-11 01:41 term change 女王之刃（真）: ghi 1, lỗi 0, cảnh báo 0; lô 3
+- 2026-11-11 01:41 term change 學姐利刃: ghi 1, lỗi 0, cảnh báo 0; lô 3
+- 2026-11-11 01:41 term change 狼神裝束（風刺）: ghi 1, lỗi 0, cảnh báo 0; lô 3
+- 2026-11-11 01:41 term change 利維坦的玩具: ghi 1, lỗi 0, cảnh báo 0; lô 3
+- 2026-11-11 01:41 term change 狼神裝束（利爪）: ghi 1, lỗi 0, cảnh báo 0; lô 3
+- 2026-11-11 01:41 term change 詛咒的頭冠: ghi 1, lỗi 0, cảnh báo 0; lô 3
+- 2026-11-11 01:41 term change 詛咒的貞操守護: ghi 1, lỗi 0, cảnh báo 0; lô 3
+- 2026-11-11 01:41 term change 魔鋼貞操帶: ghi 1, lỗi 0, cảnh báo 0; lô 3
+- 2026-11-11 01:41 term change 鐵球（魔鋼加重）: ghi 1, lỗi 0, cảnh báo 0; lô 3
+- 2026-11-11 01:41 term change 暴露手套 （黑）: ghi 1, lỗi 0, cảnh báo 0; lô 3
+- 2026-11-11 01:41 term change 暴露褲襪（黑）: ghi 1, lỗi 0, cảnh báo 0; lô 3
+- 2026-11-11 01:41 term change 伊賀忍者護腕: ghi 1, lỗi 0, cảnh báo 0; lô 3
+- 2026-11-11 01:41 term change 伊賀忍者護腿: ghi 1, lỗi 0, cảnh báo 0; lô 3
+- 2026-11-11 01:41 term change 兔女臂環（真）: ghi 1, lỗi 0, cảnh báo 0; lô 3
+- 2026-11-11 01:41 term change 兔女高跟鞋（真）: ghi 1, lỗi 0, cảnh báo 0; lô 3
+- 2026-11-11 01:41 term change 緋月的性畜裝: ghi 1, lỗi 0, cảnh báo 0; lô 3
+- 2026-11-11 01:41 term change 時崎狂三的戰斗服: ghi 1, lỗi 0, cảnh báo 0; lô 3
+- 2026-11-11 01:41 term change 時崎狂三的手套: ghi 1, lỗi 0, cảnh báo 0; lô 4
+- 2026-11-11 01:41 term change 時崎狂三的高跟鞋: ghi 1, lỗi 0, cảnh báo 0; lô 4
+- 2026-11-11 01:41 term change 時崎狂三的頭飾: ghi 1, lỗi 0, cảnh báo 0; lô 4
+- 2026-11-11 01:41 term change 時崎狂三的內衣: ghi 1, lỗi 0, cảnh báo 0; lô 4
+- 2026-11-11 01:41 term change 婚紗高跟鞋: ghi 1, lỗi 0, cảnh báo 0; lô 4
+- 2026-11-11 01:41 term change 莊嚴的婚紗: ghi 1, lỗi 0, cảnh báo 0; lô 4
+- 2026-11-11 01:41 term change 奴隸女王內衣: ghi 1, lỗi 0, cảnh báo 0; lô 4
+- 2026-11-11 01:41 term change 性奴隸內衣: ghi 1, lỗi 0, cảnh báo 0; lô 4
+- 2026-11-11 01:41 term change 淫魔的新娘禮服: ghi 1, lỗi 0, cảnh báo 0; lô 4
+- 2026-11-11 01:41 term change 肉便器透明內衣: ghi 1, lỗi 0, cảnh báo 0; lô 4
+- 2026-11-11 01:41 term change 肉便器高跟鞋: ghi 1, lỗi 0, cảnh báo 0; lô 4
+- 2026-11-11 01:41 term change 口球（全包）: ghi 1, lỗi 0, cảnh báo 0; lô 4
+- 2026-11-11 01:41 term change 肉便器標志: ghi 1, lỗi 0, cảnh báo 0; lô 4
+- 2026-11-11 01:41 term change 胸飾（針）: ghi 1, lỗi 0, cảnh báo 0; lô 4
+- 2026-11-11 01:41 term change 胸飾（貫穿）: ghi 1, lỗi 0, cảnh báo 0; lô 4
+- 2026-11-11 01:41 term change 叛亂姬騎士內衣: ghi 1, lỗi 0, cảnh báo 0; lô 4
+- 2026-11-11 01:41 term change 叛亂姬騎士護手: ghi 1, lỗi 0, cảnh báo 0; lô 4
+- 2026-11-11 01:41 term change 叛亂姬騎士長靴: ghi 1, lỗi 0, cảnh báo 0; lô 4
+- 2026-11-11 01:41 term change 叛亂姬騎士鎧甲: ghi 1, lỗi 0, cảnh báo 0; lô 4
+- 2026-11-11 01:41 term change 叛亂姬騎士項圈: ghi 1, lỗi 0, cảnh báo 0; lô 4
+- 2026-11-11 01:41 term change 叛亂姬騎士頭冠: ghi 1, lỗi 0, cảnh báo 0; lô 4
+- 2026-11-11 01:41 term change 狂亂姬騎士內衣: ghi 1, lỗi 0, cảnh báo 0; lô 4
+- 2026-11-11 01:41 term change 狂亂姬騎士護手: ghi 1, lỗi 0, cảnh báo 0; lô 4
+- 2026-11-11 01:41 term change 狂亂姬騎士長靴: ghi 1, lỗi 0, cảnh báo 0; lô 4
+- 2026-11-11 01:41 term change 狂亂姬騎士鎧甲: ghi 1, lỗi 0, cảnh báo 0; lô 4
+- 2026-11-11 01:41 term change 狂亂姬騎士項圈: ghi 1, lỗi 0, cảnh báo 0; lô 4
+- 2026-11-11 01:41 term change 狂亂姬騎士頭冠: ghi 1, lỗi 0, cảnh báo 0; lô 4
+- 2026-11-11 01:41 term change 叛亂姬騎士鎧甲（無裙）: ghi 1, lỗi 0, cảnh báo 0; lô 4
+- 2026-11-11 01:41 term change 狂亂姬騎士鎧甲（無裙）: ghi 1, lỗi 0, cảnh báo 0; lô 4
+- 2026-11-11 01:42 term change 淫斗士高跟鞋: ghi 1, lỗi 0, cảnh báo 0; lô 4
+- 2026-11-11 01:42 term change 振動棒（紫）: ghi 1, lỗi 0, cảnh báo 0; lô 4
+- 2026-11-11 01:42 term change 振動棒（配套）: ghi 1, lỗi 0, cảnh báo 0; lô 4
+- 2026-11-11 01:42 term change 魔動陽具內褲: ghi 1, lỗi 0, cảnh báo 0; lô 4
+- 2026-11-11 01:42 term change 肛門振動棒（蘭）: ghi 1, lỗi 0, cảnh báo 0; lô 4
+- 2026-11-11 01:42 term change 奴隸女王高跟鞋: ghi 1, lỗi 0, cảnh báo 0; lô 4
+- 2026-11-11 01:42 term change 龍吟的懷表: ghi 1, lỗi 0, cảnh báo 0; lô 4
+- 2026-11-11 01:42 term change 女王裝（外穿）: ghi 1, lỗi 0, cảnh báo 0; lô 4
+- 2026-11-11 01:42 term change 女王裝（內穿）: ghi 1, lỗi 0, cảnh báo 0; lô 4
+- 2026-11-11 01:42 term change 女王的精液袋: ghi 1, lỗi 0, cảnh báo 0; lô 4
+- 2026-11-11 01:42 term change 玉藻前的外衣: ghi 1, lỗi 0, cảnh báo 0; lô 4
+- 2026-11-11 01:42 term change 狐嫁的頭飾: ghi 1, lỗi 0, cảnh báo 0; lô 4
+- 2026-11-11 01:42 term change 法神官手套: ghi 1, lỗi 0, cảnh báo 0; lô 4
+- 2026-11-11 01:42 term change 法神官軟靴: ghi 1, lỗi 0, cảnh báo 0; lô 4
+- 2026-11-11 01:42 term change 法神官裹胸&絲襪: ghi 1, lỗi 0, cảnh báo 0; lô 4
+- 2026-11-11 01:42 term change 冬之公主手套: ghi 1, lỗi 0, cảnh báo 0; lô 4
+- 2026-11-11 01:42 term change 冬之公主褲襪: ghi 1, lỗi 0, cảnh báo 0; lô 4
+- 2026-11-11 01:42 term change 冬之公主舞裙: ghi 1, lỗi 0, cảnh báo 0; lô 4
+- 2026-11-11 01:42 term change 冬之公主皇冠: ghi 1, lỗi 0, cảnh báo 0; lô 4
+- 2026-11-11 01:42 term change 冬之公主寂寞: ghi 1, lỗi 0, cảnh báo 0; lô 4
+- 2026-11-11 01:42 term change 冬之公主禁言: ghi 1, lỗi 0, cảnh báo 0; lô 4
+- 2026-11-11 01:42 term change 魔性拉球: ghi 1, lỗi 0, cảnh báo 0; lô 4
+- 2026-11-11 01:42 term change 針刺內飾: ghi 1, lỗi 0, cảnh báo 0; lô 4
+- 2026-11-11 01:42 term change 黑精靈手套: ghi 1, lỗi 0, cảnh báo 0; lô 4
+- 2026-11-11 01:42 term change 黑精靈連衣裙: ghi 1, lỗi 0, cảnh báo 0; lô 4
+- 2026-11-11 01:42 term change 黑精靈內衣: ghi 1, lỗi 0, cảnh báo 0; lô 4
+- 2026-11-11 01:42 term change 鈴鐺內飾: ghi 1, lỗi 0, cảnh báo 0; lô 4
+- 2026-11-11 01:42 term change 振動棒（黑精靈）: ghi 1, lỗi 0, cảnh báo 0; lô 4
+- 2026-11-11 01:42 term change 黑精靈頭巾: ghi 1, lỗi 0, cảnh báo 0; lô 4
+- 2026-11-11 01:42 term change 性奴隸外衣: ghi 1, lỗi 0, cảnh báo 0; lô 4
+- 2026-11-11 01:42 term change 性奴隸手套: ghi 1, lỗi 0, cảnh báo 0; lô 4
+- 2026-11-11 01:42 term change 貞德的內衣（簡）: ghi 1, lỗi 0, cảnh báo 0; lô 4
+- 2026-11-11 01:42 term change 貞德的內衣（燃）: ghi 1, lỗi 0, cảnh báo 0; lô 4
+- 2026-11-11 01:42 term change 江之島盾子校服: ghi 1, lỗi 0, cảnh báo 0; lô 4
+- 2026-11-11 01:42 term change 江之島盾子內衣: ghi 1, lỗi 0, cảnh báo 0; lô 4
+- 2026-11-11 01:42 term change 江之島盾子項圈: ghi 1, lỗi 0, cảnh báo 0; lô 4
+- 2026-11-11 01:42 term change 江之島盾子皇冠: ghi 1, lỗi 0, cảnh báo 0; lô 4
+- 2026-11-11 01:42 term change 玉藻前的真尾: ghi 1, lỗi 0, cảnh báo 0; lô 4
+- 2026-11-11 01:42 term change 狐嫁的項圈: ghi 1, lỗi 0, cảnh báo 0; lô 4
+- 2026-11-11 01:42 term change 玉藻前的圍領: ghi 1, lỗi 0, cảnh báo 0; lô 4
+- 2026-11-11 01:42 term change 魔女飾物: ghi 1, lỗi 0, cảnh báo 0; lô 4
+- 2026-11-11 01:42 term change 狼神裝束（手）: ghi 1, lỗi 0, cảnh báo 0; lô 4
+- 2026-11-11 01:42 term change 狼神裝束（腳）: ghi 1, lỗi 0, cảnh báo 0; lô 4
+- 2026-11-11 01:42 term change 狼神裝束（旗袍）: ghi 1, lỗi 0, cảnh báo 0; lô 4
+- 2026-11-11 01:42 term change 狼神裝束（皮衣）: ghi 1, lỗi 0, cảnh báo 0; lô 4
+- 2026-11-11 01:42 term change 狼神裝束（尾）: ghi 1, lỗi 0, cảnh báo 0; lô 4
+- 2026-11-11 01:42 term change 狼神裝束（腳爪）: ghi 1, lỗi 0, cảnh báo 0; lô 4
+- 2026-11-11 01:42 term change 真.狼神裝束（手）: ghi 1, lỗi 0, cảnh báo 0; lô 4
+- 2026-11-11 01:42 term change 真.狼神裝束（腳）: ghi 1, lỗi 0, cảnh báo 0; lô 4
+- 2026-11-11 01:42 term change 真.狼神裝束（旗袍）: ghi 1, lỗi 0, cảnh báo 0; lô 4
+- 2026-11-11 01:42 term change 真.狼神裝束（皮衣）: ghi 1, lỗi 0, cảnh báo 0; lô 4
+- 2026-11-11 01:42 term change 真.狼神裝束（尾）: ghi 1, lỗi 0, cảnh báo 0; lô 4
+- 2026-11-11 01:42 term change 巨乳（外套）: ghi 1, lỗi 0, cảnh báo 0; lô 4
+- 2026-11-11 01:42 term change 千年樹精: ghi 1, lỗi 0, cảnh báo 0; lô 5
+- 2026-11-11 01:42 term change 精英雇傭兵: ghi 1, lỗi 0, cảnh báo 0; lô 5
+- 2026-11-11 01:42 term change 獄霸口便器: ghi 1, lỗi 0, cảnh báo 0; lô 7
+- 2026-11-11 01:42 term change 性奴雇傭兵: ghi 1, lỗi 0, cảnh báo 0; lô 7
+- 2026-11-11 01:42 term change 城主性奴: ghi 1, lỗi 0, cảnh báo 0; lô 7
+- 2026-11-11 01:42 term change 遺跡線: ghi 1, lỗi 0, cảnh báo 0; lô 7
+- 2026-11-11 01:42 term change 監獄線: ghi 1, lỗi 0, cảnh báo 0; lô 7
+- 2026-11-11 01:42 term change 催眠線: ghi 1, lỗi 0, cảnh báo 0; lô 7
+- 2026-11-11 01:42 term change 地下水脈線: ghi 1, lỗi 0, cảnh báo 0; lô 7
+- 2026-11-11 01:42 term change 寄生蟲線: ghi 1, lỗi 0, cảnh báo 0; lô 7
+- 2026-11-11 01:42 term change 圣獸線: ghi 1, lỗi 0, cảnh báo 0; lô 7
+- 2026-11-11 01:42 term change 公會線: ghi 1, lỗi 0, cảnh báo 0; lô 7
+- 2026-11-11 01:42 term change 奴隸線: ghi 1, lỗi 0, cảnh báo 0; lô 7
+- 2026-11-11 01:42 term change 魔蟲線: ghi 1, lỗi 0, cảnh báo 0; lô 7
+- 2026-11-11 02:01 fill: ghi 6, lỗi 0, cảnh báo 0; lô 1, 5, 6, 7
+- 2026-11-11 02:02 write: ghi 53, lỗi 0, cảnh báo 1; lô 1
+- 2026-11-11 02:04 write: ghi 152, lỗi 0, cảnh báo 10; lô 1, 2
+- 2026-11-11 02:06 write: ghi 148, lỗi 0, cảnh báo 1; lô 2, 3
+- 2026-11-11 02:06 write: ghi 23, lỗi 0, cảnh báo 0; lô 3, 4
+- 2026-11-11 02:07 write: ghi 60, lỗi 0, cảnh báo 0; lô 5
+- 2026-11-11 02:09 write: ghi 247, lỗi 1, cảnh báo 10; lô 7
+- 2026-11-11 02:10 write: ghi 10, lỗi 0, cảnh báo 0; lô 7
+- 2026-11-11 02:11 write: ghi 102, lỗi 0, cảnh báo 0; lô 8
+- 2026-11-11 02:12 write: ghi 103 (+15 câu lặp tự chép), lỗi 1, cảnh báo 14; lô 9
+- 2026-11-11 02:13 write: ghi 6, lỗi 0, cảnh báo 0; lô 9
+- 2026-11-11 02:14 write: ghi 120 (+8 câu lặp tự chép), lỗi 0, cảnh báo 8; lô 2, 10
+- 2026-11-11 02:16 write: ghi 106 (+5 câu lặp tự chép), lỗi 0, cảnh báo 5; lô 11
+- 2026-11-11 02:16 write: ghi 120, lỗi 0, cảnh báo 84; lô 12
+- 2026-11-11 02:17 write: ghi 120, lỗi 0, cảnh báo 61; lô 13
+- 2026-11-11 02:17 write: ghi 120, lỗi 0, cảnh báo 71; lô 14
+- 2026-11-11 02:18 write: ghi 107, lỗi 0, cảnh báo 47; lô 14, 15
+- 2026-11-11 02:19 write: ghi 91, lỗi 0, cảnh báo 28; lô 16
+- 2026-11-11 02:20 write: ghi 120, lỗi 0, cảnh báo 6; lô 17
+- 2026-11-11 02:21 write: ghi 120, lỗi 0, cảnh báo 17; lô 18
+- 2026-11-11 02:23 write: ghi 118 (+3 câu lặp tự chép), lỗi 2, cảnh báo 12; lô 19
+- 2026-11-11 02:23 write: ghi 2, lỗi 0, cảnh báo 1; lô 19
+- 2026-11-11 02:24 write: ghi 119, lỗi 1, cảnh báo 11; lô 20
+- 2026-11-11 02:24 write: ghi 4, lỗi 0, cảnh báo 0; lô 20
+- 2026-11-11 09:12 write: ghi 2, lỗi 0, cảnh báo 0; lô 5
+- 2026-11-11 09:14 write: ghi 120, lỗi 0, cảnh báo 36; lô 21
+- 2026-11-11 09:20 term change 勇者: ghi 1, lỗi 0, cảnh báo 1; lô 21
+- 2026-11-11 09:24 write: ghi 79, lỗi 0, cảnh báo 27; lô 9, 10, 11, 12, 13, 14, 15, 16, 18, 19, 21
+- 2026-11-11 09:24 đọc chương lần 1: tới câu thoại thứ 1514 · Lần 1 (câu 1–1.514): thêm 6 câu mẫu, 5 điều tránh (dấu kết, 'có chút', Hán Việt nặng, menu ký ức, mày–tao với NPC lịch sự), Lilina nghĩ thầm xưng mình; 勇者→dũng sĩ, +秘寶 báu vật; 11 cặp xưng hô mới (James/Lilina mốc Map184, Locken tao–mày từ Map087, Beryl từ Map040, Mary ở Hội, Ram/Rem, con bạc tôi–cô); 20 tóm tắt cảnh cho lô 22–45; sửa 79 câu (dấu kết, viết hoa menu, câu dịch sát).
+- 2026-11-11 09:25 write: ghi 1, lỗi 0, cảnh báo 0; lô 21
+- 2026-11-11 09:28 write: ghi 115 (+20 câu lặp tự chép), lỗi 2, cảnh báo 8; lô 22
+- 2026-11-11 09:28 write: ghi 2, lỗi 0, cảnh báo 1; lô 22
+- 2026-11-11 09:30 write: ghi 120 (+86 câu lặp tự chép), lỗi 0, cảnh báo 8; lô 23
+- 2026-11-11 09:32 write: ghi 118 (+6 câu lặp tự chép), lỗi 2, cảnh báo 10; lô 24
+- 2026-11-11 09:32 write: ghi 4, lỗi 0, cảnh báo 0; lô 24
+- 2026-11-11 09:33 write: ghi 83, lỗi 0, cảnh báo 5; lô 25
+- 2026-11-11 09:35 write: ghi 116 (+1 câu lặp tự chép), lỗi 0, cảnh báo 6; lô 26
+- 2026-11-11 09:36 write: ghi 121 (+11 câu lặp tự chép), lỗi 0, cảnh báo 12; lô 26, 27
+- 2026-11-11 09:38 write: ghi 120, lỗi 0, cảnh báo 6; lô 28
+- 2026-11-11 09:40 write: ghi 120, lỗi 0, cảnh báo 5; lô 26, 29
+- 2026-11-11 09:41 write: ghi 119, lỗi 0, cảnh báo 10; lô 30
+- 2026-11-11 09:43 write: ghi 123 (+1 câu lặp tự chép), lỗi 1, cảnh báo 11; lô 30, 31
+- 2026-11-11 09:43 write: ghi 5, lỗi 0, cảnh báo 1; lô 31
+- 2026-11-11 09:44 write: ghi 111 (+2 câu lặp tự chép), lỗi 0, cảnh báo 5; lô 32
+- 2026-11-11 09:45 write: ghi 98, lỗi 0, cảnh báo 7; lô 33
+- 2026-11-11 09:47 write: ghi 115, lỗi 4, cảnh báo 14; lô 34
+- 2026-11-11 09:47 write: ghi 7, lỗi 0, cảnh báo 5; lô 34
+- 2026-11-11 09:54 write: ghi 96, lỗi 1, cảnh báo 6; lô 10, 22, 23, 25, 26, 29, 30
+- 2026-11-11 09:54 write: ghi 1, lỗi 0, cảnh báo 0; lô 23
+- 2026-11-11 09:54 đọc chương lần 2: tới câu thoại thứ 3122 · Lần 2 (câu 1.515–3.122): câu nén 1.4→4.4 do nhiều lời kể/hệ thống có mã và '……'→'…' (đo theo EN), không phải mất ý; thiếu dấu kết 18→1.2, xưng hô lệch về 0. Sửa: 巨物 → cái của to/vật to lớn, 后庭 → cửa sau, bỏ lửng như gốc, luật mã hỏng; mốc Lilina→Owen (e29.p2.8), Lilina→Sax/Shirley/Dell, hồ sơ Lydis, Nữ hoàng Slime, Người bí ẩn; chỉ đạo 20 cảnh lô 35–60; 97 câu rà, 9 câu sửa; đóng 3 phiếu.
+- 2026-11-11 09:56 write: ghi 17, lỗi 1, cảnh báo 2; lô 9
+- 2026-11-11 09:56 write: ghi 1, lỗi 0, cảnh báo 0; lô 9
+- 2026-11-11 09:57 write: ghi 18, lỗi 0, cảnh báo 1; lô 10
+- 2026-11-11 09:57 write: ghi 120, lỗi 0, cảnh báo 24; lô 35
+- 2026-11-11 09:58 write: ghi 23, lỗi 0, cảnh báo 3; lô 11
+- 2026-11-11 09:58 write: ghi 12, lỗi 0, cảnh báo 8; lô 12
+- 2026-11-11 09:58 write: ghi 5, lỗi 0, cảnh báo 5; lô 13
+- 2026-11-11 09:59 write: ghi 8, lỗi 0, cảnh báo 6; lô 14
+- 2026-11-11 09:59 write: ghi 5, lỗi 0, cảnh báo 4; lô 15
+- 2026-11-11 09:59 write: ghi 11, lỗi 0, cảnh báo 6; lô 16
+- 2026-11-11 10:00 write: ghi 14, lỗi 0, cảnh báo 2; lô 17
+- 2026-11-11 10:00 write: ghi 120, lỗi 15, cảnh báo 36; lô 36
+- 2026-11-11 10:00 write: ghi 4, lỗi 0, cảnh báo 0; lô 18
+- 2026-11-11 10:01 write: ghi 15, lỗi 0, cảnh báo 0; lô 35
+- 2026-11-11 10:01 write: ghi 19, lỗi 0, cảnh báo 2; lô 19
+- 2026-11-11 10:02 write: ghi 15, lỗi 0, cảnh báo 3; lô 20
+- 2026-11-11 10:02 write: ghi 119, lỗi 0, cảnh báo 7; lô 37
+- 2026-11-11 10:02 write: ghi 12, lỗi 0, cảnh báo 2; lô 21
+- 2026-11-11 10:03 write: ghi 7, lỗi 1, cảnh báo 0; lô 22
+- 2026-11-11 10:03 write: ghi 1, lỗi 0, cảnh báo 0; lô 22
+- 2026-11-11 10:04 write: ghi 15, lỗi 0, cảnh báo 1; lô 23
+- 2026-11-11 10:04 write: ghi 109 (+6 câu lặp tự chép), lỗi 0, cảnh báo 25; lô 37, 38
+- 2026-11-11 10:04 write: ghi 2, lỗi 1, cảnh báo 0; lô 24
+- 2026-11-11 10:04 write: ghi 1, lỗi 0, cảnh báo 0; lô 24
+- 2026-11-11 10:04 write: ghi 2, lỗi 0, cảnh báo 0; lô 25
+- 2026-11-11 10:05 write: ghi 13, lỗi 1, cảnh báo 6; lô 26
+- 2026-11-11 10:05 write: ghi 1, lỗi 0, cảnh báo 0; lô 26
+- 2026-11-11 10:06 write: ghi 10, lỗi 0, cảnh báo 0; lô 27
+- 2026-11-11 10:06 write: ghi 119 (+3 câu lặp tự chép), lỗi 3, cảnh báo 12; lô 39
+- 2026-11-11 10:06 write: ghi 4, lỗi 0, cảnh báo 1; lô 38, 39
+- 2026-11-11 10:06 write: ghi 13, lỗi 0, cảnh báo 0; lô 28
+- 2026-11-11 10:07 write: ghi 14, lỗi 0, cảnh báo 2; lô 29
+- 2026-11-11 10:07 write: ghi 11, lỗi 0, cảnh báo 0; lô 30
+- 2026-11-11 10:08 write: ghi 16, lỗi 0, cảnh báo 1; lô 31
+- 2026-11-11 10:08 write: ghi 120, lỗi 0, cảnh báo 7; lô 40
+- 2026-11-11 10:08 write: ghi 22, lỗi 0, cảnh báo 3; lô 32
+- 2026-11-11 10:09 write: ghi 7, lỗi 0, cảnh báo 0; lô 33
+- 2026-11-11 10:09 write: ghi 120, lỗi 0, cảnh báo 8; lô 41
+- 2026-11-11 10:09 write: ghi 13, lỗi 0, cảnh báo 0; lô 34
+- 2026-11-11 10:10 write: ghi 10, lỗi 0, cảnh báo 14; lô 3, 17, 22
+- 2026-11-11 10:10 write: ghi 1, lỗi 0, cảnh báo 0; lô 3
+- 2026-11-11 10:11 write: ghi 108 (+1 câu lặp tự chép), lỗi 0, cảnh báo 21; lô 42
+- 2026-11-11 10:12 write: ghi 57, lỗi 0, cảnh báo 4; lô 42, 43
+- 2026-11-11 10:13 write: ghi 79 (+1 câu lặp tự chép), lỗi 1, cảnh báo 8; lô 44
+- 2026-11-11 10:13 write: ghi 2, lỗi 0, cảnh báo 0; lô 44
+- 2026-11-11 10:15 write: ghi 119 (+1 câu lặp tự chép), lỗi 0, cảnh báo 17; lô 45
+- 2026-11-11 10:16 write: ghi 120 (+2 câu lặp tự chép), lỗi 0, cảnh báo 31; lô 45, 46
+- 2026-11-11 10:17 write: ghi 116, lỗi 0, cảnh báo 30; lô 47
+- 2026-11-11 10:18 write: ghi 118, lỗi 0, cảnh báo 23; lô 48
+- 2026-11-11 10:22 write: ghi 121, lỗi 0, cảnh báo 2; lô 17, 18, 36, 37, 38, 45, 46, 47, 48
+- 2026-11-11 10:22 write: ghi 1, lỗi 0, cảnh báo 0; lô 35
+- 2026-11-11 10:23 write: ghi 2, lỗi 0, cảnh báo 0; lô 44, 45
+- 2026-11-11 10:24 term change 烈焰的寶珠: ghi 5, lỗi 0, cảnh báo 0; lô 2, 7, 20
+- 2026-11-11 10:25 term change 魔神根: ghi 1, lỗi 0, cảnh báo 0; lô 39
+- 2026-11-11 10:27 write: ghi 45, lỗi 0, cảnh báo 0; lô 45, 46, 47, 48
+- 2026-11-11 10:27 write: ghi 1, lỗi 0, cảnh báo 0; lô 38
+- 2026-11-11 10:28 write: ghi 24, lỗi 0, cảnh báo 1; lô 17, 18, 19, 35, 37, 38, 42, 47, 48
+- 2026-11-11 10:28 write: ghi 1, lỗi 0, cảnh báo 1; lô 42
+- 2026-11-11 10:28 write: ghi 40, lỗi 0, cảnh báo 1; lô 17, 18, 19, 20, 26, 35
+- 2026-11-11 10:28 write: ghi 12, lỗi 0, cảnh báo 0; lô 26, 35, 42, 48, 91
+- 2026-11-11 10:29 đọc chương lần 3: tới câu thoại thứ 4670 · Lần 3 (câu 3.123–4.670): tự xưng lệch 6.5→0 do thiếu người nghe ở cảnh ≥3 người (Map040/061/062/190): gắn >người nghe ~145 câu, thêm cặp 強奸魔↔貝莉卡, 莉莉娜→狼神 từ Map190.e6, Garon/Sophia, tinh linh, thủ hộ đất; làm rõ dòng * của Lilina/Beryl. 嘖 của dâm ma → Chụt~ (sửa 45 câu). Thuật ngữ: 烈焰的寶珠 → Viên Ngọc Lửa Rực, 魔神根 → dương vật ma thần, thêm 食人魔 = quỷ khổng lồ. Chỉ đạo 28 cảnh lô 49–80. Sửa nghĩa 87.598 (白給). Đóng phiếu 4–7. Câu nén tăng nhẹ chủ yếu do mã \N, tiếng rên (báo giả).
+- 2026-11-11 10:32 write: ghi 119, lỗi 0, cảnh báo 17; lô 49
+- 2026-11-11 10:34 write: ghi 120, lỗi 0, cảnh báo 13; lô 49, 50
+- 2026-11-11 10:35 write: ghi 90, lỗi 0, cảnh báo 2; lô 49, 50, 51
+- 2026-11-11 10:36 write: ghi 106, lỗi 12, cảnh báo 5; lô 52
+- 2026-11-11 10:36 write: ghi 12, lỗi 0, cảnh báo 0; lô 52
+- 2026-11-11 10:38 write: ghi 118, lỗi 0, cảnh báo 33; lô 53
+- 2026-11-11 10:39 write: ghi 95 (+3 câu lặp tự chép), lỗi 0, cảnh báo 6; lô 54
+- 2026-11-11 10:40 write: ghi 121, lỗi 0, cảnh báo 29; lô 54, 55
+- 2026-11-11 10:42 write: ghi 118 (+10 câu lặp tự chép), lỗi 0, cảnh báo 6; lô 56
+- 2026-11-11 10:43 write: ghi 86, lỗi 0, cảnh báo 6; lô 57
+- 2026-11-11 10:45 write: ghi 116 (+2 câu lặp tự chép), lỗi 0, cảnh báo 7; lô 58
+- 2026-11-11 10:46 write: ghi 96, lỗi 0, cảnh báo 6; lô 59
+- 2026-11-11 10:48 write: ghi 120, lỗi 0, cảnh báo 3; lô 60
+- 2026-11-11 10:49 write: ghi 120, lỗi 0, cảnh báo 16; lô 61
+- 2026-11-11 10:51 write: ghi 117, lỗi 0, cảnh báo 16; lô 62
+- 2026-11-11 10:52 write: ghi 53, lỗi 0, cảnh báo 3; lô 62
+- 2026-11-11 10:53 write: ghi 116, lỗi 0, cảnh báo 11; lô 63
+- 2026-11-11 10:53 write: ghi 69, lỗi 0, cảnh báo 3; lô 63, 64
+- 2026-11-11 10:54 write: ghi 113, lỗi 0, cảnh báo 5; lô 66
+- 2026-11-11 10:56 write: ghi 119, lỗi 1, cảnh báo 6; lô 67
+- 2026-11-11 10:56 write: ghi 1, lỗi 0, cảnh báo 0; lô 67
+- 2026-11-11 10:57 write: ghi 120, lỗi 0, cảnh báo 12; lô 68
+- 2026-11-11 10:58 write: ghi 121, lỗi 0, cảnh báo 3; lô 68, 69
+- 2026-11-11 10:59 write: ghi 119 (+4 câu lặp tự chép), lỗi 0, cảnh báo 2; lô 70
+- 2026-11-11 11:00 write: ghi 119, lỗi 0, cảnh báo 12; lô 71
+- 2026-11-11 11:01 write: ghi 117 (+1 câu lặp tự chép), lỗi 0, cảnh báo 6; lô 71, 72
+- 2026-11-11 11:03 write: ghi 116 (+1 câu lặp tự chép), lỗi 3, cảnh báo 8; lô 73
+- 2026-11-11 11:03 write: ghi 3, lỗi 0, cảnh báo 0; lô 73
+- 2026-11-11 11:04 write: ghi 119, lỗi 0, cảnh báo 11; lô 74
+- 2026-11-11 11:05 write: ghi 79, lỗi 1, cảnh báo 8; lô 74, 75
+- 2026-11-11 11:05 write: ghi 2, lỗi 0, cảnh báo 0; lô 75
+- 2026-11-11 11:06 write: ghi 118, lỗi 0, cảnh báo 5; lô 76
+- 2026-11-11 11:08 write: ghi 119, lỗi 1, cảnh báo 23; lô 76, 77
+- 2026-11-11 20:56 write: ghi 1, lỗi 0, cảnh báo 0; lô 77
+- 2026-11-11 20:57 write: ghi 117, lỗi 0, cảnh báo 38; lô 78
+- 2026-11-11 20:58 write: ghi 119, lỗi 0, cảnh báo 24; lô 79
+- 2026-11-11 21:00 write: ghi 89, lỗi 0, cảnh báo 10; lô 79, 80
+- 2026-11-11 21:01 write: ghi 91, lỗi 0, cảnh báo 8; lô 80, 81
+- 2026-11-11 21:02 write: ghi 120 (+1 câu lặp tự chép), lỗi 0, cảnh báo 18; lô 82
+- 2026-11-11 21:03 write: ghi 106 (+2 câu lặp tự chép), lỗi 1, cảnh báo 15; lô 82, 83
+- 2026-11-11 21:03 write: ghi 2, lỗi 0, cảnh báo 2; lô 83
+- 2026-11-11 21:04 write: ghi 119, lỗi 0, cảnh báo 18; lô 84
+- 2026-11-11 21:05 write: ghi 94, lỗi 0, cảnh báo 12; lô 85
+- 2026-11-11 21:06 write: ghi 75, lỗi 1, cảnh báo 11; lô 86
+- 2026-11-11 21:06 write: ghi 1, lỗi 0, cảnh báo 0; lô 86
+- 2026-11-11 21:07 write: ghi 118, lỗi 0, cảnh báo 11; lô 87
+- 2026-11-11 21:08 write: ghi 120, lỗi 0, cảnh báo 27; lô 88
+- 2026-11-11 21:09 write: ghi 120, lỗi 0, cảnh báo 4; lô 88, 89
+- 2026-11-11 21:10 write: ghi 120, lỗi 0, cảnh báo 3; lô 90
+- 2026-11-11 21:10 write: ghi 86, lỗi 0, cảnh báo 21; lô 91
+- 2026-11-11 21:11 write: ghi 89 (+1 câu lặp tự chép), lỗi 0, cảnh báo 10; lô 91, 92
+- 2026-11-11 21:12 write: ghi 90, lỗi 0, cảnh báo 9; lô 93
+- 2026-11-11 21:14 write: ghi 120 (+1 câu lặp tự chép), lỗi 0, cảnh báo 38; lô 93, 94
+- 2026-11-11 21:15 write: ghi 105, lỗi 15, cảnh báo 7; lô 95
+- 2026-11-11 21:16 write: ghi 15, lỗi 0, cảnh báo 4; lô 95
+- 2026-11-11 21:24 term change 黑白熊: ghi 1, lỗi 0, cảnh báo 0; lô 3
+- 2026-11-11 21:24 term change 貫穿死翔之槍: ghi 1, lỗi 0, cảnh báo 0; lô 3
+- 2026-11-11 21:28 write: ghi 183, lỗi 0, cảnh báo 26; lô 6, 21, 24, 34, 46, 47, 48, 52, 54, 58, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86
+- 2026-11-11 21:29 write: ghi 17, lỗi 0, cảnh báo 1; lô 23, 24, 26
+- 2026-11-11 21:29 write: ghi 383, lỗi 0, cảnh báo 24; lô 23, 24, 26, 39, 49, 50, 52, 53, 55, 66, 67, 72, 75, 77, 78, 94, 95
+- 2026-11-11 21:30 đọc chương lần 4: tới câu thoại thứ 9689 · Lần 4 (câu 4671–9690): xưng hô chốt theo vai (người lạ gọi Lilina 'cô', 'ngươi' chỉ cho quái/thần/bề trên ra oai; quý tộc xởi lởi Map114 tôi; khách Map023 tôi; Roger tôi – cô; Mhairi ta – cô, không mày); thêm ~20 dòng bảng (學者, 波特, Hentai/ZERO, 男人A–F, 囚犯/獄霸→泰勒, 比爾→達倫, 魅魔→加隆, 獨角獸, 大地守衛); sửa 166 câu thiếu dấu kết, 17 câu xưng hô/nghĩa, nhãn tên Map037 e53.p0.688nl → Lilina; Monokuma, Gáe Bolg giữ Latin; 24 chỉ đạo cảnh cho lô 96–130; 6 phiếu đóng; minor +1 (Map075 e23.p0.84c1).
+- 2026-11-11 21:33 write: ghi 114, lỗi 0, cảnh báo 7; lô 96
+- 2026-11-11 21:34 write: ghi 120, lỗi 0, cảnh báo 13; lô 96, 97
+- 2026-11-11 21:36 write: ghi 112, lỗi 0, cảnh báo 3; lô 97, 98
+- 2026-11-11 21:38 write: ghi 119, lỗi 0, cảnh báo 6; lô 99
+- 2026-11-11 21:39 write: ghi 116, lỗi 0, cảnh báo 13; lô 100
+- 2026-11-11 21:41 write: ghi 113, lỗi 0, cảnh báo 8; lô 100, 101
+- 2026-11-11 21:43 write: ghi 121, lỗi 0, cảnh báo 9; lô 101, 102
+- 2026-11-11 21:44 write: ghi 85, lỗi 0, cảnh báo 2; lô 102, 103
+- 2026-11-11 21:45 write: ghi 117, lỗi 0, cảnh báo 8; lô 104
+- 2026-11-11 21:47 write: ghi 121, lỗi 0, cảnh báo 12; lô 104, 105
+- 2026-11-11 21:49 write: ghi 115, lỗi 1, cảnh báo 3; lô 105, 106
+- 2026-11-11 21:49 write: ghi 1, lỗi 0, cảnh báo 0; lô 106
+- 2026-11-11 21:50 write: ghi 118, lỗi 1, cảnh báo 5; lô 107
+- 2026-11-11 21:51 write: ghi 1, lỗi 0, cảnh báo 0; lô 107
+- 2026-11-11 21:52 write: ghi 120, lỗi 0, cảnh báo 6; lô 108
+- 2026-11-11 21:54 write: ghi 120, lỗi 0, cảnh báo 10; lô 109
+- 2026-11-11 21:55 write: ghi 103 (+1 câu lặp tự chép), lỗi 19, cảnh báo 9; lô 109, 110
+- 2026-11-11 21:56 write: ghi 33, lỗi 0, cảnh báo 0; lô 110
+- 2026-11-11 21:57 write: ghi 117, lỗi 0, cảnh báo 11; lô 111
+- 2026-11-11 21:58 write: ghi 120, lỗi 0, cảnh báo 5; lô 112
+- 2026-11-11 21:59 write: ghi 106 (+1 câu lặp tự chép), lỗi 0, cảnh báo 11; lô 113
+- 2026-11-11 22:01 write: ghi 123, lỗi 0, cảnh báo 14; lô 113, 114
+- 2026-11-11 22:02 write: ghi 123, lỗi 0, cảnh báo 10; lô 114, 115
+- 2026-11-11 22:03 write: ghi 119, lỗi 0, cảnh báo 20; lô 116
+- 2026-11-11 22:04 write: ghi 125, lỗi 2, cảnh báo 7; lô 116, 117
+- 2026-11-11 22:04 write: ghi 2, lỗi 0, cảnh báo 1; lô 117
+- 2026-11-11 22:05 write: ghi 119, lỗi 0, cảnh báo 14; lô 118
+- 2026-11-11 22:06 write: ghi 119, lỗi 0, cảnh báo 17; lô 118, 119
+- 2026-11-11 22:08 write: ghi 135, lỗi 0, cảnh báo 17; lô 119, 120
+- 2026-11-11 22:09 write: ghi 120, lỗi 0, cảnh báo 6; lô 121
+- 2026-11-11 22:10 write: ghi 121, lỗi 0, cảnh báo 8; lô 121, 122
+- 2026-11-11 22:11 write: ghi 120, lỗi 0, cảnh báo 15; lô 123
+- 2026-11-11 22:12 write: ghi 120, lỗi 0, cảnh báo 8; lô 124
+- 2026-11-11 22:12 write: ghi 123 (+1 câu lặp tự chép), lỗi 0, cảnh báo 21; lô 124, 125
+- 2026-11-11 22:13 write: ghi 123, lỗi 0, cảnh báo 13; lô 125, 126
+- 2026-11-11 22:14 write: ghi 119, lỗi 1, cảnh báo 10; lô 127
+- 2026-11-11 22:14 write: ghi 3, lỗi 0, cảnh báo 0; lô 127
+- 2026-11-11 22:15 write: ghi 118, lỗi 0, cảnh báo 8; lô 128
+- 2026-11-11 22:16 write: ghi 120, lỗi 0, cảnh báo 16; lô 129
+- 2026-11-11 22:17 write: ghi 125, lỗi 0, cảnh báo 10; lô 129, 130
+- 2026-11-11 22:17 write: ghi 120, lỗi 0, cảnh báo 7; lô 131
+- 2026-11-11 22:18 write: ghi 119, lỗi 1, cảnh báo 9; lô 132
+- 2026-11-11 22:18 write: ghi 2, lỗi 0, cảnh báo 1; lô 132
+- 2026-11-11 22:20 write: ghi 120, lỗi 0, cảnh báo 25; lô 133
+- 2026-11-11 22:21 write: ghi 120, lỗi 0, cảnh báo 26; lô 134
+- 2026-11-11 22:22 write: ghi 142, lỗi 0, cảnh báo 24; lô 134, 135
+- 2026-11-11 22:23 write: ghi 85, lỗi 0, cảnh báo 15; lô 136
+- 2026-11-11 22:24 write: ghi 120, lỗi 0, cảnh báo 7; lô 137
+- 2026-11-11 22:25 write: ghi 124, lỗi 0, cảnh báo 22; lô 137, 138
+- 2026-11-11 22:26 write: ghi 3, lỗi 0, cảnh báo 2; lô 138
+- 2026-11-11 22:33 term change 常識: ghi 66, lỗi 0, cảnh báo 12; lô 35, 108, 109, 111, 114, 116, 117, 123, 125, 126, 127, 128, 129, 130, 131, 132, 134, 135, 136
+- 2026-11-11 22:43 write: ghi 105, lỗi 0, cảnh báo 11; lô 1, 14, 75, 90, 94, 98, 107, 109, 110, 112, 114, 119, 122, 123, 125, 126, 127, 128, 129, 130
+- 2026-11-11 22:43 write: ghi 40, lỗi 0, cảnh báo 6; lô 94, 97
+- 2026-11-11 22:43 write: ghi 40, lỗi 0, cảnh báo 3; lô 97, 98
+- 2026-11-11 22:43 write: ghi 40, lỗi 0, cảnh báo 5; lô 98, 99, 100
+- 2026-11-11 22:43 write: ghi 40, lỗi 0, cảnh báo 2; lô 100, 111, 133
+- 2026-11-11 22:43 write: ghi 40, lỗi 0, cảnh báo 2; lô 100, 111, 133
+- 2026-11-11 22:43 write: ghi 40, lỗi 0, cảnh báo 2; lô 100, 111, 133
+- 2026-11-11 22:43 write: ghi 40, lỗi 0, cảnh báo 2; lô 100, 111, 133
+- 2026-11-11 22:43 write: ghi 40, lỗi 0, cảnh báo 3; lô 136, 138
+- 2026-11-11 22:43 write: ghi 6, lỗi 0, cảnh báo 1; lô 138
+- 2026-11-11 22:45 write: ghi 5, lỗi 0, cảnh báo 0; lô 134
+- 2026-11-11 22:45 write: ghi 1, lỗi 0, cảnh báo 0; lô 134
+- 2026-11-11 22:45 write: ghi 40, lỗi 0, cảnh báo 6; lô 94, 97
+- 2026-11-11 22:45 write: ghi 40, lỗi 0, cảnh báo 3; lô 97, 98
+- 2026-11-11 22:45 write: ghi 40, lỗi 0, cảnh báo 5; lô 98, 99, 100
+- 2026-11-11 22:45 write: ghi 40, lỗi 0, cảnh báo 2; lô 100, 111, 133
+- 2026-11-11 22:45 write: ghi 40, lỗi 0, cảnh báo 4; lô 132, 133, 134
+- 2026-11-11 22:45 write: ghi 40, lỗi 0, cảnh báo 2; lô 134, 135
+- 2026-11-11 22:45 write: ghi 40, lỗi 0, cảnh báo 1; lô 135, 136
+- 2026-11-11 22:45 write: ghi 30, lỗi 0, cảnh báo 4; lô 136, 138
+- 2026-11-11 22:46 đọc chương lần 5: tới câu thoại thứ 14710 · Lần 5 (câu 9.690–14.710): \N[51]=老師 hiện 'Thầy' (đặt Actors 51 = Thầy), bỏ 'thầy' thừa trước mã ở ~60 câu; 常識 → lẽ thường (66 câu); 高潮 'cao trào' → lên đỉnh; Map161 Cecelia ta – cô (không ngươi/bà); mốc Ross ta–em (1142) / thầy–em (1493) / ta (Map046 p5); 校長 = Beryl giả ở Map046 p0–p4 (ta – cô), Hiệu trưởng thật từ p5.329; Kospino mốc Map123 e29 / Map127 / Map128; Matt tôi–cô trước Map119; Snowy, kỳ lân, Beryl→Ross. Chỉ đạo cảnh đủ cho lô 139–198. Dài bất thường tăng chủ yếu do EN Map114–119 viết tắt, không phải thêm ý.
+- 2026-11-11 22:48 write: ghi 98, lỗi 0, cảnh báo 10; lô 139
+- 2026-11-11 22:50 write: ghi 110, lỗi 1, cảnh báo 18; lô 140
+- 2026-11-11 22:50 write: ghi 4, lỗi 0, cảnh báo 1; lô 140
+- 2026-11-11 22:52 write: ghi 118 (+1 câu lặp tự chép), lỗi 1, cảnh báo 12; lô 141
+- 2026-11-11 22:52 write: ghi 2, lỗi 0, cảnh báo 0; lô 141
+- 2026-11-11 22:53 write: ghi 94, lỗi 0, cảnh báo 21; lô 142
+- 2026-11-11 22:55 write: ghi 110, lỗi 0, cảnh báo 15; lô 143
+- 2026-11-11 22:56 write: ghi 96, lỗi 0, cảnh báo 2; lô 144
+- 2026-11-11 22:57 write: ghi 120, lỗi 0, cảnh báo 17; lô 145
+- 2026-11-11 22:59 write: ghi 118 (+2 câu lặp tự chép), lỗi 0, cảnh báo 7; lô 146
+- 2026-11-11 23:00 write: ghi 120, lỗi 0, cảnh báo 12; lô 147
+- 2026-11-11 23:02 write: ghi 121, lỗi 0, cảnh báo 14; lô 147, 148
+- 2026-11-11 23:03 write: ghi 83, lỗi 2, cảnh báo 3; lô 149
+- 2026-11-11 23:03 write: ghi 2, lỗi 0, cảnh báo 1; lô 149
+- 2026-11-11 23:04 write: ghi 119, lỗi 0, cảnh báo 3; lô 150
+- 2026-11-11 23:06 write: ghi 119, lỗi 1, cảnh báo 10; lô 151
+- 2026-11-11 23:07 write: ghi 1, lỗi 0, cảnh báo 0; lô 151
+- 2026-11-11 23:08 write: ghi 119, lỗi 1, cảnh báo 12; lô 152
+- 2026-11-11 23:09 write: ghi 5, lỗi 0, cảnh báo 2; lô 152
+- 2026-11-11 23:10 write: ghi 120, lỗi 0, cảnh báo 18; lô 153
+- 2026-11-11 23:12 write: ghi 119, lỗi 1, cảnh báo 10; lô 153, 154
+- 2026-11-11 23:12 write: ghi 7, lỗi 0, cảnh báo 0; lô 154
+- 2026-11-11 23:14 write: ghi 120, lỗi 0, cảnh báo 9; lô 155
+- 2026-11-11 23:15 write: ghi 119, lỗi 1, cảnh báo 13; lô 155, 156
+- 2026-11-11 23:15 write: ghi 2, lỗi 0, cảnh báo 0; lô 156
+- 2026-11-11 23:16 write: ghi 93 (+1 câu lặp tự chép), lỗi 0, cảnh báo 9; lô 157
+- 2026-11-11 23:17 write: ghi 117, lỗi 2, cảnh báo 17; lô 158
+- 2026-11-11 23:18 write: ghi 5, lỗi 0, cảnh báo 0; lô 158
+- 2026-11-11 23:19 write: ghi 118, lỗi 0, cảnh báo 10; lô 159
+- 2026-11-11 23:20 write: ghi 119, lỗi 1, cảnh báo 6; lô 160
+- 2026-11-11 23:20 write: ghi 1, lỗi 0, cảnh báo 0; lô 160
+- 2026-11-11 23:21 write: ghi 118, lỗi 2, cảnh báo 16; lô 161
+- 2026-11-11 23:21 write: ghi 2, lỗi 0, cảnh báo 0; lô 161
+- 2026-11-11 23:23 write: ghi 119, lỗi 0, cảnh báo 18; lô 162
+- 2026-11-11 23:24 write: ghi 119, lỗi 1, cảnh báo 14; lô 163
+- 2026-11-12 13:03 write: ghi 1, lỗi 0, cảnh báo 0; lô 163
+- 2026-11-12 13:04 write: ghi 120, lỗi 0, cảnh báo 9; lô 164
+- 2026-11-12 13:05 write: ghi 118, lỗi 1, cảnh báo 14; lô 165
+- 2026-11-12 13:06 write: ghi 1, lỗi 0, cảnh báo 0; lô 165
+- 2026-11-12 13:07 write: ghi 119, lỗi 1, cảnh báo 6; lô 166
+- 2026-11-12 13:08 write: ghi 1, lỗi 0, cảnh báo 0; lô 166
+- 2026-11-12 13:09 write: ghi 119, lỗi 1, cảnh báo 11; lô 167
+- 2026-11-12 13:09 write: ghi 1, lỗi 0, cảnh báo 0; lô 167
+- 2026-11-12 13:10 write: ghi 119, lỗi 1, cảnh báo 13; lô 168
+- 2026-11-12 13:10 write: ghi 1, lỗi 0, cảnh báo 0; lô 168
+- 2026-11-12 13:12 write: ghi 120 (+1 câu lặp tự chép), lỗi 0, cảnh báo 4; lô 169
+- 2026-11-12 13:13 write: ghi 119 (+1 câu lặp tự chép), lỗi 1, cảnh báo 33; lô 170
+- 2026-11-12 13:13 write: ghi 1, lỗi 0, cảnh báo 1; lô 170
+- 2026-11-12 13:14 write: ghi 117, lỗi 0, cảnh báo 16; lô 171
+- 2026-11-12 13:15 write: ghi 120, lỗi 0, cảnh báo 8; lô 172
+- 2026-11-12 13:16 write: ghi 116, lỗi 0, cảnh báo 14; lô 173
+- 2026-11-12 13:17 write: ghi 101 (+2 câu lặp tự chép), lỗi 2, cảnh báo 35; lô 174
+- 2026-11-12 13:17 write: ghi 2, lỗi 0, cảnh báo 1; lô 174
+- 2026-11-12 13:18 write: ghi 104, lỗi 0, cảnh báo 9; lô 175
+- 2026-11-12 13:19 write: ghi 117, lỗi 0, cảnh báo 7; lô 176
+- 2026-11-12 13:20 write: ghi 99, lỗi 0, cảnh báo 6; lô 177
+- 2026-11-12 13:21 write: ghi 119, lỗi 0, cảnh báo 21; lô 178
+- 2026-11-12 13:22 write: ghi 119, lỗi 0, cảnh báo 37; lô 179
+- 2026-11-12 13:24 write: ghi 93, lỗi 0, cảnh báo 30; lô 180
+- 2026-11-12 13:25 write: ghi 100 (+10 câu lặp tự chép), lỗi 1, cảnh báo 39; lô 181
+- 2026-11-12 13:25 write: ghi 1, lỗi 0, cảnh báo 1; lô 181
+- 2026-11-12 13:26 write: ghi 81 (+27 câu lặp tự chép), lỗi 0, cảnh báo 19; lô 182
+- 2026-11-12 13:36 write: ghi 136, lỗi 0, cảnh báo 25; lô 2, 7, 29, 66, 67, 68, 69, 73, 77, 79, 80, 134, 135, 137, 138, 140, 141, 153, 159, 160
+- 2026-11-12 13:37 write: ghi 1, lỗi 0, cảnh báo 1; lô 138
+- 2026-11-12 13:37 đọc chương lần 6: tới câu thoại thứ 19719 · Lần 6: 調教 chốt huấn luyện (cấm 'điều giáo', sửa ~110 câu), thêm 口技/口活 kỹ thuật miệng, 催淫 kích dục, cấm Skuma; Cecelia ta/tôi (tôi chỉ với người chơi Map120), Mhairi ta – cô (sửa CE9), Beryl ta – ngươi với Cecelia/Ma Nhãn từ Map047, Ilse tôi – cô/Hội trưởng, Sandra/Gloria/chủ nô nới theo vai; chỉ đạo cảnh cụ thể cho CE lô 183–198; sổ tay: luật \N[59] không chèn ta/tôi, không trộn tôi–tao trong một câu.
+- 2026-11-12 13:39 write: ghi 60 (+8 câu lặp tự chép), lỗi 0, cảnh báo 5; lô 183
+- 2026-11-12 13:39 write: ghi 77, lỗi 0, cảnh báo 7; lô 184
+- 2026-11-12 13:40 write: ghi 74 (+3 câu lặp tự chép), lỗi 0, cảnh báo 19; lô 185
+- 2026-11-12 13:41 write: ghi 77, lỗi 0, cảnh báo 6; lô 186
+- 2026-11-12 13:42 write: ghi 79, lỗi 0, cảnh báo 5; lô 187
+- 2026-11-12 13:42 write: ghi 112 (+2 câu lặp tự chép), lỗi 0, cảnh báo 9; lô 188
+- 2026-11-12 13:43 write: ghi 94, lỗi 0, cảnh báo 6; lô 189
+- 2026-11-12 13:44 write: ghi 83, lỗi 0, cảnh báo 21; lô 190
+- 2026-11-12 13:44 write: ghi 76, lỗi 0, cảnh báo 4; lô 191
+- 2026-11-12 13:46 write: ghi 101 (+1 câu lặp tự chép), lỗi 7, cảnh báo 8; lô 192
+- 2026-11-12 13:46 write: ghi 7, lỗi 0, cảnh báo 1; lô 192
+- 2026-11-12 13:46 write: ghi 94 (+19 câu lặp tự chép), lỗi 0, cảnh báo 17; lô 193
+- 2026-11-12 13:47 write: ghi 60, lỗi 1, cảnh báo 13; lô 194
+- 2026-11-12 13:47 write: ghi 1, lỗi 0, cảnh báo 1; lô 194
+- 2026-11-12 13:48 write: ghi 83, lỗi 0, cảnh báo 26; lô 195
+- 2026-11-12 13:48 write: ghi 73, lỗi 5, cảnh báo 6; lô 196
+- 2026-11-12 13:48 write: ghi 5, lỗi 0, cảnh báo 1; lô 196
+- 2026-11-12 13:50 write: ghi 99, lỗi 0, cảnh báo 21; lô 197
+- 2026-11-12 13:50 write: ghi 13, lỗi 0, cảnh báo 5; lô 197, 198
+- 2026-11-12 13:54 write: ghi 19, lỗi 0, cảnh báo 4; lô 64, 86, 88, 89, 158, 188, 190, 192, 196
+- 2026-11-12 13:54 write: ghi 1, lỗi 0, cảnh báo 0; lô 192
+- 2026-11-12 13:55 write: ghi 9, lỗi 0, cảnh báo 1; lô 192, 198
+- 2026-11-12 13:59 write: ghi 28, lỗi 2, cảnh báo 3; lô 76, 77, 78, 79, 81, 145, 153, 155, 156, 158, 165, 173, 178, 179, 180
+- 2026-11-12 13:59 write: ghi 1, lỗi 0, cảnh báo 0; lô 167
+- 2026-11-12 14:00 write: ghi 66, lỗi 0, cảnh báo 4; lô 104, 105, 106, 163, 168, 174, 178, 179, 180, 181, 182, 183, 184, 185, 186, 187, 188, 192, 193, 194
+- 2026-11-12 14:01 write: ghi 1, lỗi 0, cảnh báo 1; lô 170
+- 2026-11-12 14:01 write: ghi 4, lỗi 0, cảnh báo 1; lô 134, 158, 178
+- 2026-11-12 14:02 write: ghi 25, lỗi 0, cảnh báo 2; lô 10, 19, 22, 28, 29, 31, 32, 33, 35
+- 2026-11-12 14:12 term change 肛交次數: ghi 3, lỗi 0, cảnh báo 2; lô 8
+- 2026-11-12 14:13 term change 執行者: ghi 2, lỗi 0, cảnh báo 0; lô 6, 155
+- 2026-11-12 14:13 term change 肛交癖: ghi 1, lỗi 0, cảnh báo 0; lô 8
+- 2026-11-12 14:13 term change 肛交狂: ghi 1, lỗi 0, cảnh báo 0; lô 8
+- 2026-11-12 14:13 term change 肛交姬: ghi 1, lỗi 0, cảnh báo 0; lô 8
+- 2026-11-12 14:15 write: ghi 132, lỗi 0, cảnh báo 8; lô 2, 3, 7, 8, 9, 10, 11, 16, 17, 20, 22, 34, 41, 47, 49, 54, 55, 60, 62, 73
+- 2026-11-12 14:17 write: ghi 12, lỗi 0, cảnh báo 1; lô 26, 35, 42, 48, 91
+- 2026-11-12 14:17 write: ghi 373, lỗi 0, cảnh báo 31; lô 17, 35, 79, 80, 81, 84, 85, 94, 97, 98, 99, 100, 102, 103, 134, 135, 136, 145, 146, 147
+- 2026-11-12 14:23 term change 冒險者公會任務記錄: ghi 1, lỗi 0, cảnh báo 0; lô 2
+- 2026-11-12 14:23 write: ghi 2, lỗi 0, cảnh báo 0; lô 11, 156
+- 2026-11-12 14:25 write: ghi 50, lỗi 0, cảnh báo 8; lô 7, 9, 11, 16, 17, 18, 21, 35, 40, 42, 45, 48, 56, 57, 58, 67, 76, 78, 88, 90
+- 2026-11-12 14:38 term change 城主性奴: ghi 1, lỗi 0, cảnh báo 0; lô 7
+- 2026-11-12 14:40 write: ghi 114, lỗi 0, cảnh báo 8; lô 2, 9, 11, 18, 20, 21, 22, 23, 50, 60, 74, 79, 80, 89, 95, 124, 133, 134, 135, 137
+- 2026-11-12 14:40 write: ghi 1, lỗi 0, cảnh báo 0; lô 34
+- 2026-11-12 14:43 write: ghi 1, lỗi 0, cảnh báo 0; lô 158
+- 2026-11-12 14:57 term change 收集物資: ghi 1, lỗi 0, cảnh báo 0; lô 7
+- 2026-11-12 14:57 term change 出產&流產: ghi 2, lỗi 0, cảnh báo 0; lô 2, 196
+- 2026-11-12 14:57 write: ghi 173, lỗi 0, cảnh báo 9; lô 1, 2, 7, 9, 10, 11, 17, 18, 19, 20, 31, 35, 36, 46, 50, 53, 74, 75, 76, 82
+- 2026-11-12 14:58 write: ghi 1, lỗi 0, cảnh báo 0; lô 20
+- 2026-11-12 15:02 write: ghi 19, lỗi 0, cảnh báo 2; lô 2, 4, 7, 9, 11, 16, 17, 19, 20, 120, 124, 143, 156, 170, 182

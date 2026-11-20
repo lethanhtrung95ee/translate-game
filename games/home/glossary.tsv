@@ -1,0 +1,103 @@
+src	vi	type	note	forbid	lo_tu
+Shun	Shun	nhan_vat	nhân vật chính; trong câu tên hiện bằng thẻ [舜] (người chơi tự đặt), giữ nguyên thẻ; tên người nói giữ Shun		
+Nagi	Nagi	nhan_vat	Tsukishiro Nagi, bạn thời thơ ấu của Shun, hộ lý/y tá ở bệnh viện		
+Tsukishiro	Tsukishiro	ten	họ của Nagi		
+Tsukishiro Nagi	Tsukishiro Nagi	nhan_vat	họ trước tên như bản EN		
+Rinko	Rinko	nhan_vat	Naruse Rinko, chủ tiệm massage, mẹ Hayato và Tsubomi		
+Tsubomi	Tsubomi	nhan_vat	Naruse Tsubomi, em gái Hayato, làm ở tiệm massage hầu gái		
+Hayato	Hayato	nhan_vat	Naruse Hayato, người yêu (sắp cưới) của Nagi		
+Naruse	Naruse	ten	họ nhà Rinko		
+Naruse Hayato	Naruse Hayato	nhan_vat			
+Naruse Rinko	Naruse Rinko	nhan_vat			
+Amelia	Amelia	nhan_vat	nghệ danh của Tsubomi ở tiệm massage hầu gái; giữ nguyên		
+Nurse	Y tá	nguoi_noi	tên người nói phụ (spk:Nurse); trong câu: y tá		
+Man	Người đàn ông	nguoi_noi	tên người nói phụ (spk:Man)		
+Male customer	Khách nam	nguoi_noi	tên người nói phụ		
+Girl	Cô gái	nguoi_noi	tên người nói phụ		
+Customer	Khách	nguoi_noi	tên người nói phụ		
+Another girl	Cô gái khác	nguoi_noi	tên người nói phụ		
+???	???	nguoi_noi	người nói chưa lộ tên; giữ nguyên		
+Kaminami Station	ga Kaminami	dia_danh			
+Kaminami General Hospital	Bệnh viện Đa khoa Kaminami	dia_danh			
+Kaminami	Kaminami	dia_danh			
+Maid Reflexology	Massage Hầu Gái	to_chuc	tiệm massage tay/chân do nhân viên mặc đồ hầu gái làm, nơi Tsubomi làm; nói chung: tiệm massage hầu gái	bấm huyệt	
+maid reflexology shop	tiệm massage hầu gái	to_chuc			
+reflexology salon	tiệm massage hầu gái	to_chuc	cùng nơi với maid reflexology shop		
+massage parlor	tiệm massage	to_chuc	tiệm của Rinko		
+family restaurant	quán ăn gia đình	dia_danh	famiresu		
+apartment complex	khu chung cư	dia_danh			
+Stamina	Thể lực	chi_so	chỉ số		
+Stress	Căng thẳng	chi_so	chỉ số		
+Tension	Hứng khởi	chi_so	chỉ số tâm trạng (テンション)		
+Courage	Can đảm	chi_so	chỉ số		
+Strength	Sức mạnh	chi_so	chỉ số (tập gym)		
+Consideration	Chu đáo	chi_so	chỉ số		
+Communication	Giao tiếp	chi_so	chỉ số; EN gọi lẫn Social skill		
+Social skill	Giao tiếp	chi_so	cùng chỉ số với Communication		
+Intelligence	Trí tuệ	chi_so	chỉ số; EN gọi lẫn Smarts		
+Smarts	Trí tuệ	chi_so	cùng chỉ số với Intelligence		
+Purity	Độ trong sáng	chi_so	chỉ số (màn gỡ lỗi)		
+Like	Thiện cảm	chi_so	chỉ số (màn gỡ lỗi)		
+affection	thiện cảm	chi_so	vd 'Both of their affection went up' → thiện cảm của cả hai tăng		
+Comm. P	Điểm GT	chi_so	điểm giao tiếp, nút ngắn		
+Comm. rating	Mức giao tiếp	chi_so			
+RNG	Ngẫu nhiên	giao_dien	nút gỡ lỗi		
+Distant	Xa cách	trang_thai	mức thiện cảm		
+Neutral	Bình thường	trang_thai	mức thiện cảm		
+Friendly	Thân thiết	trang_thai	mức thiện cảm		
+Smitten	Mê mẩn	trang_thai	mức thiện cảm		
+In love	Đang yêu	trang_thai	mức thiện cảm		
+Fail	Thất bại	giao_dien			
+Success	Thành công	giao_dien			
+Failure	Thất bại	giao_dien			
+main girl	người yêu chính	trang_thai	本命: người được chọn làm chân ái		
+Sneak in	Đột nhập	giao_dien	lệnh trong game		
+Voyeur CG	CG quay lén	giao_dien			
+hidden mini camera	camera mini giấu kín	vat_pham			
+hidden waterproof mini camera	camera mini chống nước giấu kín	vat_pham			
+wristwatch camera	đồng hồ gắn camera	vat_pham			
+Sleeping pills	Thuốc ngủ	vat_pham			
+sleeping pills	thuốc ngủ	vat_pham			
+Aphrodisiac	Thuốc kích dục	vat_pham			
+aphrodisiac	thuốc kích dục	vat_pham			
+Premium aphrodisiac	Thuốc kích dục cao cấp	vat_pham			
+Aphrodisiac cream	Kem kích dục	vat_pham			
+Spirytus capsule	viên nang Spirytus	vat_pham	Spirytus: rượu vodka Ba Lan rất mạnh; EN có chỗ viết Spiritus		
+Spiritus capsules	viên nang Spirytus	vat_pham	cùng món với Spirytus capsule		
+Spirytus	Spirytus	vat_pham			
+engagement ring	nhẫn đính hôn	vat_pham			
+time capsule	hộp thời gian	vat_pham	hộp chôn kỷ niệm thời thơ ấu		
+luxury body oil	dầu massage cao cấp	vat_pham			
+SM gear	đồ chơi SM	vat_pham			
+toy ring	nhẫn đồ chơi	vat_pham			
+The Path of Vitality: Habits for Mind and Body	Con đường sinh lực: Thói quen cho thân và tâm	vat_pham	tên sách (Vol. 1/2 → Tập 1/2)		
+The Secrets of Social Skills! What Trusted People Have in Common	Bí quyết giao tiếp! Điểm chung của người được tin tưởng	vat_pham	tên sách		
+hikikomori	hikikomori	trang_thai	người ru rú trong phòng, không ra ngoài; giữ nguyên từ này khi gốc dùng nó		
+nursing assistant	hộ lý	trang_thai			
+head nurse	y tá trưởng	trang_thai			
+mixer	buổi hẹn hò nhóm	trang_thai	gokon		
+Master	Chủ nhân	trang_thai	cách nhân viên hầu gái gọi khách		
+Onii-chan	anh	trang_thai	Tsubomi gọi Hayato; gọi 'anh', khi kể về: anh trai	anh hai	
+Mama	mẹ	trang_thai	Tsubomi gọi Rinko		
+Mom	mẹ	trang_thai			
+Yes	Có	giao_dien	nút		
+No	Không	giao_dien	nút		
+Skip	Bỏ qua	giao_dien	nút		
+Back	Quay lại	giao_dien	nút		
+Cancel	Hủy	giao_dien	nút		
+Leave	Rời đi	giao_dien	nút		
+Use	Dùng	giao_dien	nút		
+Don't use	Không dùng	giao_dien	nút		
+Install	Lắp đặt	giao_dien	nút		
+Owned:	Đang có:	giao_dien	nút		
+Accept	Đồng ý	giao_dien	nút		
+Refuse	Từ chối	giao_dien	nút		
+Shop	Cửa hàng	giao_dien	nút		
+Explore	Khám phá	giao_dien	nút		
+Gift	Tặng quà	giao_dien	nút		
+Small talk	Nói chuyện phiếm	giao_dien	nút		
+Wrap it up	Kết thúc	giao_dien	nút		
+Go out	Ra ngoài	giao_dien	nút		
+Ignore	Phớt lờ	giao_dien	nút		
+Push	Bấm	giao_dien	nút		
+Unlock All	Mở khóa tất cả	giao_dien	nút		

@@ -1,0 +1,121 @@
+# Nhật ký vgk
+- 2026-11-11 00:57 fill: ghi 75, lỗi 0, cảnh báo 0; lô 1, 2, 3, 5, 6
+- 2026-11-11 00:57 write: ghi 12, lỗi 0, cảnh báo 0; lô 1, 3
+- 2026-11-11 00:57 bulk: ghi 516, lỗi 0, cảnh báo 0; lô 3, 4, 5
+- 2026-11-11 00:57 bulk: ghi 11, lỗi 0, cảnh báo 0; lô 5
+- 2026-11-11 00:57 bulk: ghi 10, lỗi 0, cảnh báo 0; lô 1
+- 2026-11-11 00:58 bulk: ghi 15, lỗi 0, cảnh báo 0; lô 1
+- 2026-11-11 00:58 bulk: ghi 9, lỗi 0, cảnh báo 0; lô 1
+- 2026-11-11 00:58 write: ghi 5, lỗi 0, cảnh báo 0; lô 1
+- 2026-11-11 01:04 write: ghi 274, lỗi 0, cảnh báo 10; lô 1
+- 2026-11-11 01:07 write: ghi 310, lỗi 37, cảnh báo 2; lô 1, 2
+- 2026-11-11 01:07 write: ghi 38, lỗi 0, cảnh báo 2; lô 2
+- 2026-11-11 01:09 write: ghi 229, lỗi 0, cảnh báo 3; lô 2, 3
+- 2026-11-11 01:10 write: ghi 205, lỗi 0, cảnh báo 1; lô 5
+- 2026-11-11 01:10 write: ghi 12, lỗi 0, cảnh báo 0; lô 5, 6
+- 2026-11-11 01:11 write: ghi 93, lỗi 0, cảnh báo 5; lô 7
+- 2026-11-11 01:12 write: ghi 70 (+4 câu lặp tự chép), lỗi 24, cảnh báo 2; lô 7, 8
+- 2026-11-11 01:13 write: ghi 6, lỗi 24, cảnh báo 2; lô 7, 8
+- 2026-11-11 01:14 write: ghi 24, lỗi 0, cảnh báo 0; lô 8
+- 2026-11-11 01:14 write: ghi 58 (+7 câu lặp tự chép), lỗi 47, cảnh báo 6; lô 9
+- 2026-11-11 01:15 write: ghi 48, lỗi 0, cảnh báo 6; lô 9
+- 2026-11-11 01:15 write: ghi 90, lỗi 0, cảnh báo 14; lô 10
+- 2026-11-11 01:16 write: ghi 102, lỗi 0, cảnh báo 13; lô 11
+- 2026-11-11 01:19 write: ghi 98, lỗi 0, cảnh báo 5; lô 12
+- 2026-11-11 01:20 write: ghi 91, lỗi 0, cảnh báo 3; lô 12, 13
+- 2026-11-11 01:21 write: ghi 105 (+6 câu lặp tự chép), lỗi 0, cảnh báo 7; lô 13, 14
+- 2026-11-11 01:22 write: ghi 117 (+1 câu lặp tự chép), lỗi 0, cảnh báo 21; lô 14, 15
+- 2026-11-11 01:23 write: ghi 99, lỗi 0, cảnh báo 13; lô 15, 16
+- 2026-11-11 01:23 write: ghi 3, lỗi 0, cảnh báo 1; lô 16
+- 2026-11-11 01:24 write: ghi 80, lỗi 0, cảnh báo 16; lô 17
+- 2026-11-11 01:25 write: ghi 89 (+12 câu lặp tự chép), lỗi 0, cảnh báo 20; lô 18
+- 2026-11-11 01:26 write: ghi 86, lỗi 0, cảnh báo 11; lô 19
+- 2026-11-11 01:27 write: ghi 87, lỗi 0, cảnh báo 17; lô 19, 20
+- 2026-11-11 01:31 write: ghi 31, lỗi 0, cảnh báo 5; lô 9, 10, 12, 14, 15, 18, 19, 20
+- 2026-11-11 01:34 write: ghi 14, lỗi 0, cảnh báo 2; lô 2, 5, 19
+- 2026-11-11 01:35 write: ghi 3, lỗi 0, cảnh báo 0; lô 2, 19
+- 2026-11-11 01:40 đọc chương lần 1: tới câu thoại thứ 1331 · Đọc chương 1 (câu 1–1331, lô 1–20): sửa trực tiếp 48 câu (sai giới tính/người nghe 1084–1094: Trần Thức và Quý bị gọi 'cô'; câu hỏi thiếu '?'; chơi chữ 1052; viết hoa lựa chọn; 2 tên kết cục). Sotay viết lại (Xưng hô chính mở rộng, câu mẫu, Tránh; bỏ mốc anh – em lộ trước). Chỉ đạo 50 cảnh 1103–1159 kèm xưng hô; sửa tóm tắt sai 1084/1085; 11 cặp xưng hô mới; hồ sơ tiến sĩ Chu tách bí mật sang mốc 1296. 15/15 phiếu đóng; anh-huong 0.
+- 2026-11-11 01:41 write: ghi 100, lỗi 0, cảnh báo 9; lô 21
+- 2026-11-11 01:42 write: ghi 95, lỗi 0, cảnh báo 9; lô 21, 22
+- 2026-11-11 01:43 write: ghi 105 (+2 câu lặp tự chép), lỗi 0, cảnh báo 7; lô 21, 22, 23
+- 2026-11-11 01:43 write: ghi 92, lỗi 0, cảnh báo 8; lô 23, 24
+- 2026-11-11 01:44 write: ghi 89, lỗi 0, cảnh báo 2; lô 24, 25
+- 2026-11-11 01:44 write: ghi 1, lỗi 0, cảnh báo 0; lô 25
+- 2026-11-11 01:45 write: ghi 120 (+5 câu lặp tự chép), lỗi 0, cảnh báo 3; lô 26
+- 2026-11-11 01:46 write: ghi 76, lỗi 0, cảnh báo 0; lô 26, 27
+- 2026-11-11 01:46 write: ghi 107 (+1 câu lặp tự chép), lỗi 0, cảnh báo 0; lô 28
+- 2026-11-11 01:47 write: ghi 81, lỗi 0, cảnh báo 1; lô 29
+- 2026-11-11 01:49 write: ghi 8, lỗi 0, cảnh báo 0; lô 28, 29
+- 2026-11-11 02:01 write: ghi 120 (+6 câu lặp tự chép), lỗi 0, cảnh báo 9; lô 30
+- 2026-11-11 02:02 write: ghi 97 (+15 câu lặp tự chép), lỗi 0, cảnh báo 6; lô 31
+- 2026-11-11 02:02 write: ghi 107, lỗi 0, cảnh báo 10; lô 32
+- 2026-11-11 02:03 write: ghi 111, lỗi 0, cảnh báo 10; lô 33
+- 2026-11-11 02:03 write: ghi 120, lỗi 0, cảnh báo 15; lô 34
+- 2026-11-11 02:04 write: ghi 92, lỗi 0, cảnh báo 7; lô 35
+- 2026-11-11 02:09 write: ghi 86, lỗi 0, cảnh báo 10; lô 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35
+- 2026-11-11 02:12 write: ghi 1, lỗi 0, cảnh báo 0; lô 23
+- 2026-11-11 02:12 đọc chương lần 2: tới câu thoại thứ 2847 · Đọc chương 2 (câu 1332–2847, lô 21–35, cảnh 1103–1184): xưng hô/giới tính ổn hơn lần 1 (không còn đoán 'cô'); sửa trực tiếp 87 câu: dòng phụ đề nối viết hoa giữa câu, từ nối lặp ('Cho nên, / Vậy…'), câu dịch chữ (1180 trạm trưởng, 1174 lão Hồng), thêm ý ở thông báo 1106, Quý gọi Củ Cải lẫn 'cô'/'em' (1171), Thẩm Đạc gọi nhóm 'các người' (1130), 爹爹 → 'bố'. Sotay: câu mẫu mới (1123, 1134, 1155, 1164, 1171, 1183), Tránh thêm ngắt dòng, từ cứng; xưng hô trạm phế liệu, Củ Cải làm nũng xưng 'em'. Chỉ đạo 1171 sửa; pair 萝卜→季星川 thêm ghi chú. 3/3 phiếu đóng; anh-huong 0.
+- 2026-11-11 02:13 write: ghi 9, lỗi 0, cảnh báo 2; lô 7
+- 2026-11-11 02:13 write: ghi 60, lỗi 26, cảnh báo 6; lô 36
+- 2026-11-11 02:13 write: ghi 26, lỗi 0, cảnh báo 5; lô 36
+- 2026-11-11 02:13 write: ghi 7, lỗi 0, cảnh báo 0; lô 8
+- 2026-11-11 02:14 write: ghi 7, lỗi 0, cảnh báo 2; lô 9
+- 2026-11-11 02:14 write: ghi 81, lỗi 0, cảnh báo 11; lô 37
+- 2026-11-11 02:14 write: ghi 11, lỗi 0, cảnh báo 5; lô 9, 10
+- 2026-11-11 02:14 write: ghi 96, lỗi 0, cảnh báo 9; lô 38
+- 2026-11-11 02:15 write: ghi 15, lỗi 0, cảnh báo 2; lô 10, 11
+- 2026-11-11 02:15 write: ghi 117 (+5 câu lặp tự chép), lỗi 0, cảnh báo 23; lô 39
+- 2026-11-11 02:15 write: ghi 12, lỗi 0, cảnh báo 1; lô 11, 12
+- 2026-11-11 02:15 write: ghi 1, lỗi 0, cảnh báo 0; lô 13
+- 2026-11-11 02:16 write: ghi 102, lỗi 0, cảnh báo 18; lô 40
+- 2026-11-11 02:16 write: ghi 9, lỗi 0, cảnh báo 0; lô 14
+- 2026-11-11 02:16 write: ghi 7, lỗi 0, cảnh báo 2; lô 15
+- 2026-11-11 02:16 write: ghi 7, lỗi 0, cảnh báo 2; lô 16
+- 2026-11-11 02:17 write: ghi 7, lỗi 0, cảnh báo 3; lô 17
+- 2026-11-11 02:17 write: ghi 4, lỗi 0, cảnh báo 0; lô 18
+- 2026-11-11 02:17 write: ghi 7, lỗi 0, cảnh báo 3; lô 19
+- 2026-11-11 02:17 write: ghi 101, lỗi 0, cảnh báo 27; lô 41
+- 2026-11-11 02:18 write: ghi 12, lỗi 0, cảnh báo 4; lô 19, 20
+- 2026-11-11 02:18 write: ghi 103, lỗi 0, cảnh báo 15; lô 42
+- 2026-11-11 02:19 write: ghi 120 (+1 câu lặp tự chép), lỗi 0, cảnh báo 18; lô 43
+- 2026-11-11 02:20 write: ghi 113, lỗi 0, cảnh báo 9; lô 44
+- 2026-11-11 02:20 write: ghi 86 (+2 câu lặp tự chép), lỗi 0, cảnh báo 0; lô 45
+- 2026-11-11 02:22 write: ghi 29 (+4 câu lặp tự chép), lỗi 67, cảnh báo 8; lô 46
+- 2026-11-11 02:22 write: ghi 67, lỗi 0, cảnh báo 9; lô 46
+- 2026-11-11 02:22 write: ghi 85, lỗi 0, cảnh báo 13; lô 46, 47
+- 2026-11-11 02:23 write: ghi 121 (+22 câu lặp tự chép), lỗi 0, cảnh báo 19; lô 47, 48
+- 2026-11-11 02:24 write: ghi 39 (+13 câu lặp tự chép), lỗi 70, cảnh báo 8; lô 49
+- 2026-11-11 09:12 write: ghi 70 (+1 câu lặp tự chép), lỗi 0, cảnh báo 8; lô 49
+- 2026-11-11 09:12 write: ghi 87, lỗi 1, cảnh báo 17; lô 50
+- 2026-11-11 09:12 write: ghi 1, lỗi 0, cảnh báo 0; lô 50
+- 2026-11-11 09:21 write: ghi 86, lỗi 0, cảnh báo 19; lô 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 47, 48, 49, 50
+- 2026-11-11 09:23 đọc chương lần 3: tới câu thoại thứ 4388 · Lần 3 (1185–1285): giọng ổn, Bạch Nguyên lạnh cụt đúng, Quý tếu tự nhiên, cảnh bến cảng 1282–1285 anh – em đúng mốc. Sửa 86 câu: nhầm người nói/nghe ở cảnh chỉ đạo ngắn (1195 'Cô muốn nói' → 'Ông muốn nghe', 1185:0 BN gọi Thẩm Đạc 'ông', 1225/1228 Quý nói 'bọn em', 1212 'bạn'), câu chen 'Ừm.' cắt ngang, dòng lặp ý ở bản nhánh 1284/1285, chữ hoa sau dấu phẩy, chơi chữ 1244 '不行' làm lại ('yếu'). Thiếu dấu kết 12.1 chủ yếu là dòng nối (hợp lệ). sotay: thêm mốc 1282, BN→Thẩm không 'ông', mục Tránh nhầm người nghe và câu chen; phiếu 19, 20 đóng.
+- 2026-11-11 09:25 write: ghi 120, lỗi 0, cảnh báo 11; lô 51
+- 2026-11-11 09:26 write: ghi 86, lỗi 0, cảnh báo 24; lô 52
+- 2026-11-11 09:26 write: ghi 96, lỗi 0, cảnh báo 23; lô 53
+- 2026-11-11 09:27 write: ghi 3, lỗi 0, cảnh báo 1; lô 53
+- 2026-11-11 09:27 write: ghi 120, lỗi 0, cảnh báo 28; lô 54
+- 2026-11-11 09:28 write: ghi 80, lỗi 0, cảnh báo 14; lô 55
+- 2026-11-11 09:29 write: ghi 119, lỗi 0, cảnh báo 27; lô 56
+- 2026-11-11 09:30 write: ghi 120 (+1 câu lặp tự chép), lỗi 0, cảnh báo 28; lô 57
+- 2026-11-11 09:31 write: ghi 90 (+1 câu lặp tự chép), lỗi 0, cảnh báo 9; lô 57, 58
+- 2026-11-11 09:31 write: ghi 85, lỗi 0, cảnh báo 1; lô 59
+- 2026-11-11 09:32 write: ghi 82, lỗi 0, cảnh báo 3; lô 60
+- 2026-11-11 09:32 write: ghi 112, lỗi 0, cảnh báo 18; lô 61
+- 2026-11-11 09:33 write: ghi 120, lỗi 0, cảnh báo 40; lô 62
+- 2026-11-11 09:34 write: ghi 80 (+1 câu lặp tự chép), lỗi 0, cảnh báo 10; lô 63
+- 2026-11-11 09:34 write: ghi 4, lỗi 0, cảnh báo 0; lô 63
+- 2026-11-11 09:35 write: ghi 119, lỗi 0, cảnh báo 23; lô 64
+- 2026-11-11 09:36 write: ghi 108, lỗi 0, cảnh báo 30; lô 64, 65
+- 2026-11-11 09:37 write: ghi 85 (+1 câu lặp tự chép), lỗi 0, cảnh báo 15; lô 66
+- 2026-11-11 09:37 write: ghi 88, lỗi 0, cảnh báo 7; lô 67
+- 2026-11-11 09:38 write: ghi 97 (+1 câu lặp tự chép), lỗi 0, cảnh báo 8; lô 68
+- 2026-11-11 09:38 write: ghi 79, lỗi 0, cảnh báo 12; lô 69
+- 2026-11-11 09:39 write: ghi 83, lỗi 0, cảnh báo 21; lô 70
+- 2026-11-11 09:39 write: ghi 36, lỗi 0, cảnh báo 3; lô 71
+- 2026-11-11 09:44 write: ghi 61, lỗi 0, cảnh báo 27; lô 51, 52, 54, 55, 56, 61, 62, 63, 64, 65, 66, 67, 68, 69, 71
+- 2026-11-11 09:45 write: ghi 7, lỗi 0, cảnh báo 0; lô 3
+- 2026-11-11 09:46 đọc chương lần 4: tới câu thoại thứ 6394 · Lần 4 (1287–hết, 2.006 câu + kết cục loc:20101–24912): sửa 68 câu. Lỗi chính: người nói/nghe (1289:2 Quý kể → 'anh'), Hán Việt nặng/dịch chữ (phản phệ, huyền mạch, một lúc nửa khắc, định hình→đóng băng), lời giảng khoa học cứng (1309 thiết bị thời gian, 1359 độc thoại Ngô Hy Hòa), dòng ngắt gãy (1359:76–80 'đúng… vào… khoảnh khắc ấy'), cao trào 1367/1368/credits ('Anh hãy thay em viết lại tương lai'), vài tiêu đề/tóm tắt kết cục. Giữ 'điểm kỳ dị' khớp tiêu đề loc:2110. Đóng phiếu #21–23. Xưng hô anh–em sau 1282, mốc lộ 1289/1291/1296/1355/1369/1375 đúng, 1377 người lạ tôi–anh đúng.
+- 2026-11-11 09:47 write: ghi 8, lỗi 0, cảnh báo 1; lô 1, 2, 3, 5, 52
+- 2026-11-11 09:52 write: ghi 23, lỗi 0, cảnh báo 4; lô 1, 2, 3, 7, 9, 11, 28, 29, 33, 34, 37, 45, 50, 53, 59, 61, 64, 65, 67
+- 2026-11-11 16:55 write: ghi 25, lỗi 0, cảnh báo 16; lô 1, 3

@@ -1,0 +1,326 @@
+src	vi	type	note	forbid	lo_tu
+Tomoya	Tomoya	nhan_vat	nhân vật chính, nam, năm ba lớp D		
+Okazaki	Okazaki	nhan_vat	họ Tomoya		
+Sunohara	Sunohara	nhan_vat	Youhei Sunohara, nam, bạn thân Tomoya		
+Youhei	Youhei	nhan_vat	tên Sunohara		
+YOUHEI	YOUHEI	nhan_vat	Sunohara trong trò nhại game trinh thám		
+Nagisa	Nagisa	nhan_vat	Nagisa Furukawa, nữ; trước 0415.d661 chỉ là 'cô gái'		0415.d661
+Furukawa	Furukawa	nhan_vat	họ Nagisa (người nói khi chưa là người yêu); cũng là họ Akio, Sanae		0415.d661
+Kyou	Kyou	nhan_vat	Kyou Fujibayashi, nữ, chị sinh đôi		
+Ryou	Ryou	nhan_vat	Ryou Fujibayashi, nữ, em sinh đôi, lớp trưởng lớp Tomoya		
+Fujibayashi	Fujibayashi	nhan_vat	họ Kyou/Ryou; Tomoya gọi Ryou là Fujibayashi		
+Tomoyo	Tomoyo	nhan_vat	Tomoyo Sakagami, nữ, năm hai		
+Sakagami	Sakagami	nhan_vat	họ Tomoyo		
+Kotomi	Kotomi	nhan_vat	Kotomi Ichinose, nữ		
+Ichinose	Ichinose	nhan_vat	họ Kotomi		
+Fuko	Fuko	nhan_vat	"Fuko Ibuki, nữ, tự xưng ""Fuko"""		
+Ibuki	Ibuki	nhan_vat	"họ Fuko/Kouko; người nói ""Ibuki"" là Kouko"		
+Kouko	Kouko	nhan_vat	Kouko Ibuki, nữ, chị Fuko		
+Akio	Akio	nhan_vat	Akio Furukawa, bố Nagisa; ở 0425 hiện ％Ｂ, 0426 hiện 'Man' trước khi xưng tên		0426.d189
+Sanae	Sanae	nhan_vat	Sanae Furukawa, mẹ Nagisa		
+Mei	Mei	nhan_vat	Mei Sunohara, em gái Sunohara		
+Misae	Misae	nhan_vat	Misae Sagara, quản lý ký túc		
+Sagara	Sagara	nhan_vat	họ Misae		
+Yoshino	Yoshino	nhan_vat	Yusuke Yoshino, nam		
+Yusuke	Yusuke	nhan_vat	tên Yoshino		
+Yuusuke	Yusuke	nhan_vat	tên Yoshino (cách viết khác trong EN)	Yuusuke	
+Miyazawa	Miyazawa	nhan_vat	Yukine Miyazawa, nữ, năm hai		
+Yukine	Yukine	nhan_vat	tên Miyazawa		
+Kappei	Kappei	nhan_vat	Kappei Hiiragi; trong 7600 hiện '??' tới khi tự giới thiệu		7600.d334
+Hiiragi	Hiiragi	nhan_vat	họ Kappei; trước đó Kappei hiện '??'		7600.d330
+Shima	Shima	nhan_vat	Katsuki Shima (7500)		
+Katsuki	Katsuki	nhan_vat	tên Shima		
+Ushio	Ushio	nhan_vat	con gái Tomoya (After Story, 3001)		
+Botan	Botan	nhan_vat	"heo rừng con của Kyou, chỉ kêu ""Puhi"""		
+Koumura	Koumura	nhan_vat	thầy Toshio Koumura		
+Toshio	Toshio	nhan_vat	tên thầy Koumura		
+Nishina	Nishina	nhan_vat	Rie Nishina, nữ, CLB hợp xướng		
+Rie	Rie	nhan_vat	tên Nishina		
+Sugisaka	Sugisaka	nhan_vat	bạn Nishina, nữ		
+Mitsui	Mitsui	nhan_vat	lớp trưởng biết Fuko, nữ		
+Takafumi	Takafumi	nhan_vat	em trai Tomoyo		
+Shino	Shino	nhan_vat	bà nội Tomoya (6802)		
+Naoyuki	Naoyuki	nhan_vat	bố Tomoya		
+Yuu	Yuu	nhan_vat	cậu bé trong tuyến Yukine		
+Kazuto	Kazuto	nhan_vat	anh trai Yukine		
+Saki	Saki	nhan_vat	nhân vật 7500		
+Yuki	Yuki	nhan_vat	nhân vật 7500		
+Igarashi	Igarashi	nhan_vat	nhân vật 7500		
+Tsujimoto	Tsujimoto	nhan_vat	nhân vật 7500		
+Tamura	Tamura	nhan_vat	nhân vật 7000		
+Yagi	Yagi	nhan_vat	bà đỡ (6801)		
+Taniguchi	Taniguchi	nhan_vat			
+Yanagimoto	Yanagimoto	nhan_vat			
+Kinoshita	Kinoshita	nhan_vat			
+Sekiguchi	Sekiguchi	nhan_vat			
+Oogami	Oogami	nhan_vat			
+Johny	Johny	nhan_vat			
+Nabe	Nabe	nhan_vat	tên Ushio đặt cho Botan (3001)		
+Teacher	Giáo viên	nguoi_noi	tên người nói chung		
+Voice	Giọng nói	nguoi_noi	tên người nói chung		
+Male Student	Nam sinh	nguoi_noi	tên người nói chung		
+Female Student	Nữ sinh	nguoi_noi	tên người nói chung		
+Girl	Cô gái	nguoi_noi	tên người nói chung		
+Man	Người đàn ông	nguoi_noi	tên người nói chung		
+Woman	Người phụ nữ	nguoi_noi	tên người nói chung		
+Father	Người cha	nguoi_noi	tên người nói chung (bố Tomoya; bố Kotomi ở 4508)		
+Mother	Người mẹ	nguoi_noi	tên người nói chung		
+Construction Worker	Công nhân	nguoi_noi	tên người nói chung		
+Gentleman	Quý ông	nguoi_noi	tên người nói chung (4503–4513)		
+??	??	ten	người chưa rõ tên		
+?	?	ten	người chưa rõ tên		
+Director	Huấn luyện viên	nguoi_noi	監督, đội bóng đá (7400)		
+Boss	Ông chủ	nguoi_noi	親方, chủ thầu của Tomoya (After Story)		
+Club President	Đội trưởng	nguoi_noi	部長, đội bóng đá (7400)		
+Boy A	Nam sinh A	nguoi_noi			
+Boy B	Nam sinh B	nguoi_noi			
+Boy C	Nam sinh C	nguoi_noi			
+Boy	Nam sinh	nguoi_noi	男子		
+Children	Bọn trẻ	nguoi_noi			
+Store Employee	Nhân viên	nguoi_noi	店員		
+Bear	Con gấu	nguoi_noi	người mặc đồ gấu (2511)		
+Soccer Club's Member	Thành viên đội bóng đá	nguoi_noi			
+Captain	Đội trưởng	nguoi_noi	主将		
+Female Captain	Đội trưởng nữ	nguoi_noi			
+Male Captain	Đội trưởng nam	nguoi_noi			
+Basketball Club's Member	Thành viên đội bóng rổ	nguoi_noi			
+Baseball Club's Member	Thành viên đội bóng chày	nguoi_noi			
+Chorus Club's Member	Thành viên CLB hợp xướng	nguoi_noi	nữ sinh năm hai (4428), chưa xưng tên		
+Chorus Club's Member 2	Thành viên CLB hợp xướng 2	nguoi_noi			
+Chorus Club's Member 3	Thành viên CLB hợp xướng 3	nguoi_noi			
+Chorus Club's Member 2 & 3	Thành viên CLB hợp xướng 2 & 3	nguoi_noi			
+All Chorus Club Members	Cả CLB hợp xướng	nguoi_noi			
+Housewife	Bà nội trợ	nguoi_noi			
+Rugby Player	Cầu thủ bóng bầu dục	nguoi_noi			
+Rugby club	Đội bóng bầu dục	nguoi_noi			
+Umpire	Trọng tài	nguoi_noi			
+Young Boy	Cậu bé	nguoi_noi	男の子		
+Brats	Lũ nhóc	nguoi_noi			
+Student	Học sinh	nguoi_noi			
+Student 1	Học sinh 1	nguoi_noi			
+Student 2	Học sinh 2	nguoi_noi			
+Student A	Học sinh A	nguoi_noi			
+Student B	Học sinh B	nguoi_noi			
+Customer	Khách	nguoi_noi			
+Furukawa - Dad	Bố Furukawa	nguoi_noi			
+Furukawa - Mom	Mẹ Furukawa	nguoi_noi			
+Female Student 1	Nữ sinh 1	nguoi_noi			
+Female Student 2	Nữ sinh 2	nguoi_noi			
+Female Student 3	Nữ sinh 3	nguoi_noi			
+Female Student A	Nữ sinh A	nguoi_noi			
+Female Student B	Nữ sinh B	nguoi_noi			
+Grandma	Bà cụ	nguoi_noi	おばちゃん, bà bán hàng		
+Club Member	Thành viên	nguoi_noi	部員		
+Female Teacher	Cô giáo	nguoi_noi			
+Doctor	Bác sĩ	nguoi_noi			
+Store Manager	Cửa hàng trưởng	nguoi_noi			
+Yuu's Mother	Mẹ Yuu	nguoi_noi			
+Everyone	Mọi người	nguoi_noi			
+Girl 1	Nữ sinh 1	nguoi_noi	女子１		
+Girl 2	Nữ sinh 2	nguoi_noi			
+Girl 3	Nữ sinh 3	nguoi_noi			
+Girl A	Nữ sinh A	nguoi_noi	女子Ａ		
+Girl B	Nữ sinh B	nguoi_noi			
+Store Owner	Chủ tiệm	nguoi_noi			
+Person	Đối phương	nguoi_noi	相手		
+Guy A	Gã A	nguoi_noi			
+Guy B	Gã B	nguoi_noi			
+Old Lady	Bà lão	nguoi_noi			
+Child A	Đứa trẻ A	nguoi_noi			
+Child B	Đứa trẻ B	nguoi_noi			
+Class A Homeroom Teacher	Giáo viên chủ nhiệm lớp A	nguoi_noi			
+Mysterious man	Người đàn ông bí ẩn	nguoi_noi			
+Mysterious Transfer Student	Học sinh chuyển trường bí ẩn	nguoi_noi			
+Team mate	Đồng đội	nguoi_noi			
+Punks	Bọn du côn	nguoi_noi			
+Batter	Người đánh bóng	nguoi_noi			
+Delinquents	Bọn du côn	nguoi_noi			
+Delinquent	Tên du côn	nguoi_noi			
+Delinquent A	Du côn A	nguoi_noi			
+Delinquent B	Du côn B	nguoi_noi			
+Delinquent C	Du côn C	nguoi_noi			
+Waitress	Nữ phục vụ	nguoi_noi			
+Conductor	Người soát vé	nguoi_noi			
+Opponent team	Đội bạn	nguoi_noi			
+Spectator 1	Khán giả 1	nguoi_noi			
+Spectator 2	Khán giả 2	nguoi_noi			
+Spectator 3	Khán giả 3	nguoi_noi			
+The Audience	Khán giả	nguoi_noi			
+Jet Guy	Gã phản lực	nguoi_noi	ジェット男 (Jet Saito)		
+TV	Tivi	nguoi_noi			
+Traveler	Lữ khách	nguoi_noi			
+Boar	Heo rừng	nguoi_noi			
+Male Student A	Nam sinh A	nguoi_noi			
+Male Student B	Nam sinh B	nguoi_noi			
+Male Student 1	Nam sinh 1	nguoi_noi			
+Male Student 2	Nam sinh 2	nguoi_noi			
+Male Student 3	Nam sinh 3	nguoi_noi			
+Ramen Store's Employee	Nhân viên quán ramen	nguoi_noi			
+Driver	Tài xế	nguoi_noi			
+Salesgirl	Cô bán hàng	nguoi_noi			
+Classmates	Các bạn cùng lớp	nguoi_noi			
+All Classmates	Cả lớp	nguoi_noi			
+The Whole Class	Cả lớp	nguoi_noi			
+Library Staff	Cán bộ thư viện	nguoi_noi	図書委員, học sinh trực thư viện		
+Young Girl	Cô gái trẻ	nguoi_noi			
+Another Guy	Gã khác	nguoi_noi			
+Midwife	Bà đỡ	nguoi_noi			
+Me	Tôi	nguoi_noi	僕		
+Fujibayashi Sisters	Chị em Fujibayashi	nguoi_noi			
+Furukawa Bakery	Tiệm bánh Furukawa	to_chuc			
+Furukawa Bakers	Furukawa Bakers	to_chuc	tên đội bóng chày		
+drama club	câu lạc bộ kịch	to_chuc			
+chorus club	câu lạc bộ hợp xướng	to_chuc			
+student council	hội học sinh	to_chuc			
+student council president	chủ tịch hội học sinh	to_chuc		hội trưởng hội học sinh	
+rugby team	đội bóng bầu dục	to_chuc			
+soccer team	đội bóng đá	to_chuc			
+reference room	phòng tư liệu	dia_danh			
+old school building	dãy nhà cũ	dia_danh			
+Illusionary World	Thế giới ảo ảnh	ten			
+light orb	quả cầu ánh sáng	vat_pham			
+Dangopedia	Dangopedia	ten			
+starfish	sao biển	vat_pham	tượng gỗ Fuko khắc		
+cutlet sandwich	bánh mì kẹp cốt lết	vat_pham			
+yakisoba-pan	bánh mì yakisoba	vat_pham			
+Big Dango Family	Đại gia đình Dango	ten			
+Fuko Master	Cao thủ Fuko	ten	danh hiệu trò Fuko	Fuko Master	
+Fuko User	Người điều khiển Fuko	ten	danh hiệu trò Fuko	Fuko User	
+Hikarizaka	Hikarizaka	dia_danh			
+Ryou&Nagisa	Ryou & Nagisa	ten	người nói ghép		
+Tomoya&Kyou	Tomoya & Kyou	ten	người nói ghép		
+Kotomi&Ryou&Nagisa	Kotomi & Ryou & Nagisa	ten	người nói ghép		
+Nagisa&Ryou&Kyou	Nagisa & Ryou & Kyou	ten	người nói ghép		
+Kyou&Ryou	Kyou & Ryou	ten	người nói ghép		
+Ryou&Nagisa&Kotomi	Ryou & Nagisa & Kotomi	ten	người nói ghép		
+Tomoya & Sunohara	Tomoya & Sunohara	ten	người nói ghép		
+Tomoya & Misae	Tomoya & Misae	ten	người nói ghép		
+Fu...	Fu...	ten	Fuko nói dở tên		
+Nagisa Furukawa	Nagisa Furukawa	nhan_vat			0415.d661
+Kotomi Ichinose	Kotomi Ichinose	nhan_vat			
+Kyou Fujibayashi	Kyou Fujibayashi	nhan_vat			
+Yoshino Yuusuke	Yusuke Yoshino	nhan_vat	thứ tự họ–tên như gốc	Yoshino Yuusuke	
+Furukawa Bread	Tiệm bánh Furukawa	to_chuc	cách EN gọi tiệm bánh		
+Founder's Festival	Lễ hội thành lập trường	ten			
+Mon.	Thứ Hai	ten	ngày trong tuần ở dòng ngày tháng		
+Tue.	Thứ Ba	ten			
+Wed.	Thứ Tư	ten			
+Thu.	Thứ Năm	ten			
+Fri.	Thứ Sáu	ten			
+Sat.	Thứ Bảy	ten			
+Sun.	Chủ Nhật	ten			
+Sunday	Chủ Nhật	ten			
+Saturday	Thứ Bảy	ten			
+Dad	bố	ten	Nagisa gọi Akio; người khác gọi bố mình		
+Mom	mẹ	ten			
+Daddy	bố	ten	Ushio gọi Tomoya		
+Onee-chan	chị	ten	gọi chị; không giữ chữ Onee-chan		
+Onii-chan	anh	ten	gọi anh; không giữ chữ Onii-chan		
+Ryou Fujibayashi	Ryou Fujibayashi	nhan_vat			
+Tomoya Okazaki	Tomoya Okazaki	nhan_vat			
+Yusuke Yoshino	Yusuke Yoshino	nhan_vat			
+Tomoyo Sakagami	Tomoyo Sakagami	nhan_vat			
+Monday	Thứ Hai	ten			
+New Year	năm mới	ten	Tết dương lịch kiểu Nhật		
+Mommy	mẹ	ten			
+Puhi	Puhi	ten	tiếng kêu của Botan, giữ nguyên		
+Ichinoses	nhà Ichinose	nhan_vat	gia đình Kotomi		
+Salisbury steak	bít tết thịt băm	vat_pham	món Nagisa thích (0415.d631)		
+Youhei Sunohara	Youhei Sunohara	nhan_vat			
+Kappei Hiiragi	Kappei Hiiragi	nhan_vat			7600.d334
+Fujibayashi Kyou	Fujibayashi Kyou	nhan_vat	thứ tự họ–tên như gốc		
+Yukinee	chị Yukine	nhan_vat	cách đám du côn gọi Yukine		
+Yukino	Yukino	nhan_vat	nhân vật sách trò chơi 0555		
+Isogai	Isogai	nhan_vat			
+Ooue	Ooue	nhan_vat			
+You Are Die	You Are Die	ten	tiếng Anh sai cố ý, giữ nguyên		
+Drama Club	Câu lạc bộ kịch	to_chuc			
+Epilogue	Vĩ thanh	ten	tiêu đề chương		
+Friday	Thứ Sáu	ten			
+Christmas	Giáng sinh	ten			
+Misae Sagara	Misae Sagara	nhan_vat			
+Kouko Ibuki	Kouko Ibuki	nhan_vat			
+Sanae Furukawa	Sanae Furukawa	nhan_vat			
+Katsuki Shima	Katsuki Shima	nhan_vat			
+Welcome to the Heartbeat☆Academy	Chào mừng đến Học viện Thình Thịch☆	ten	tên sách trò chơi 0555		
+Saito	Saito	nhan_vat	Jet Saito		
+Jet Saito	Jet Saito	nhan_vat			
+Wednesday	Thứ Tư	ten			
+Starfish	Sao biển	vat_pham			
+Akky	Akky	nhan_vat	biệt danh Akio bắt Ushio gọi mình (6801.d638), giữ nguyên		
+Ryou & Nagisa	Ryou & Nagisa	ten			
+Tomoya & Kyou	Tomoya & Kyou	ten			
+Kotomi & Ryou & Nagisa	Kotomi & Ryou & Nagisa	ten			
+Nagisa & Ryou & Kyou	Nagisa & Ryou & Kyou	ten			
+Kyou & Ryou	Kyou & Ryou	ten			
+Ryou & Nagisa & Kotomi	Ryou & Nagisa & Kotomi	ten			
+Bomb a Head!	Bomb a Head!	ten	tên bài hát Sunohara mê, giữ nguyên		
+Pornohara	Pornohara	ten	Tomoya chế tên Sunohara + porn (0422); giữ nguyên, người Việt hiểu chữ porn		
+super-cyber	siêu cyber	thuat_ngu	Sunohara khoe phòng 'siêu cyber' (0422), lặp nhiều nhánh: giữ y hệt		
+J-Beefer	J-Bít-tết	ten	chơi chữ J-Leaguer → J-Beefer (nghe như thịt bò, 'ngon hơn là ngầu') (0421.d123)		
+Skiratch	Skiratch	ten	Sunohara đọc sai 'scratch' (0421.d148, d153): giữ chữ sai tiếng Anh		
+Giant Swing	Cú quay khổng lồ	chieu	đòn vật của Misae (túm hai chân quay vòng); viết như tên chiêu	Giant Swing	
+Zolion	Zolion	do_vat	trò bắn súng hồng ngoại đồ chơi; giữ nguyên tên		
+weird person	người kỳ quặc	cach_goi	Fuko gọi Tomoya (変な人): 'À… người kỳ quặc.'		
+Pairing You Up With Ryou Plan	Kế hoạch Ghép đôi cậu với Ryou	ten_rieng	kế hoạch của Kyou ghép Ryou với Tomoya	Kế hoạch Gán Ghép Ryou	
+shortstop	chặn ngắn	thuat_ngu	bóng chày		
+first base	gôn một	thuat_ngu	bóng chày; 'first baseman' = người giữ gôn một		
+second base	gôn hai	thuat_ngu	bóng chày		
+third base	gôn ba	thuat_ngu	bóng chày		
+home plate	gôn nhà	thuat_ngu	bóng chày		
+left field	cánh trái	thuat_ngu	bóng chày; vị trí ngoài sân		
+center field	giữa sân	thuat_ngu	bóng chày; vị trí ngoài sân; 'center fielder' = người giữ giữa sân		
+right field	cánh phải	thuat_ngu	bóng chày; vị trí ngoài sân		
+pitcher's mound	ụ ném bóng	thuat_ngu	bóng chày		
+strike zone	vùng strike	thuat_ngu	bóng chày		
+home run	home run	thuat_ngu	bóng chày		
+grand slam	grand slam	thuat_ngu	bóng chày; home run khi đủ người ở ba gôn		
+double play	double play	thuat_ngu	bóng chày; loại hai người một lượt		
+triple play	triple play	thuat_ngu	bóng chày; loại ba người một lượt		
+sacrifice fly	bóng bay hy sinh	thuat_ngu	bóng chày		
+sacrifice bunt	bunt hy sinh	thuat_ngu	bóng chày		
+drag bunt	bunt chạy	thuat_ngu	bóng chày		
+Texas Leaguer	bóng rơi lửng	thuat_ngu	bóng chày; rơi giữa nội sân và ngoài sân		
+forkball	bóng fork	thuat_ngu	bóng chày		
+catcher's mitt	găng bắt bóng	thuat_ngu	bóng chày		
+Rainbow Bread	bánh mì Cầu Vồng	vat_pham	bánh bảy màu của Sanae (0425–0426 viết 'bánh mì cầu vồng')		
+Bodyguards	Đội cận vệ	ten	nhóm nam sinh năm nhất hâm mộ Fuko (1501+); hô 'All protect Fuko-chan!' → 'Toàn đội bảo vệ Fuko-chan!'		
+Okazaki Army	Đội quân Okazaki	ten	Fuko gọi Đội cận vệ (1501.d197)		
+The Dark Okazaki Society	Tổ chức ngầm Okazaki	ten	Fuko gọi Đội cận vệ (1501.d227)		
+class rep	lớp trưởng	cach_goi			
+ninja stars	phi tiêu ninja	vat_pham	Sunohara nhìn sao biển gỗ ra phi tiêu ninja		
+Moai	tượng Moai	vat_pham			
+Founder Festival	Lễ hội thành lập trường	ten			
+School Founder's Festival	Lễ hội thành lập trường	ten			
+tonto	đồ đần	cach_goi	Tomoya gọi Sunohara (1428.d55: 'mình là thằng ngốc, còn mày là đồ đần'); khác 'ngốc'		
+Hoshino Yusuke	Yusuke Yoshino	nhan_vat	EN 1518 viết nhầm 'Hoshino'; là Yusuke Yoshino	Hoshino	
+teensy worst	hơi tệ nhất	cau	câu cửa miệng Fuko (1511.d181): 'That's a teensy worst!' → 'Thế này hơi tệ nhất!'		
+Starfish Festival	Lễ hội Sao biển	ten			
+sea slug	sên biển	vat			
+strike	strike	thuat_ngu	bóng chày; trọng tài hô 'Strike!'; 'strike three/strike-out' = 'Strike ba! Loại!'		
+Walk	lên gôn	thuat_ngu	bóng chày (bóng bốn): trọng tài hô 'Lên gôn!'; 'give him a Walk' = 'cho cậu ta lên gôn'		
+catcher	người bắt bóng	thuat_ngu	bóng chày		
+pitcher	người ném bóng	thuat_ngu	bóng chày		
+Koshien	Koshien	ten	giải bóng chày trung học toàn quốc Nhật; giữ tên		
+foul	bóng lỗi	thuat_ngu	bóng chày		
+bases loaded	kín cả ba gôn	thuat_ngu	bóng chày		
+changeup	bóng đổi tốc	thuat_ngu	bóng chày; bóng chậm đánh lừa người đánh		
+employment bureau	phòng hướng nghiệp	dia_danh	phòng hỗ trợ tìm việc của trường		
+Akkii	Akky	nhan_vat	cách viết khác của Akky (3001.d25); viết 'Akky'		
+field day	ngày hội thể thao	thuat_ngu	hội thao của trường mẫu giáo/trường học		
+cafeteria	căng tin	thuat_ngu	nhà ăn trường; cả 'school store' (quầy bán bánh mì) cũng gọi căng tin	căng-tin	
+class president	lớp trưởng	thuat_ngu	Kyou lớp trưởng 3-E, Ryou lớp trưởng 3-D; khác 'student council president' = chủ tịch hội học sinh		
+The Fool	Kẻ Khờ	thuat_ngu	lá tarot số 0		
+The Lovers	Tình Nhân	thuat_ngu	lá tarot VI		
+Wheel of Fortune	Bánh Xe Số Phận	thuat_ngu	lá tarot		
+Major Arcana	bộ Ẩn chính	thuat_ngu	22 lá tarot chính		
+tarot	tarot	thuat_ngu	bài tarot; giữ chữ tarot		
+The Hanged Man	Người Treo Ngược	thuat_ngu	lá tarot		
+The Hierophant	Giáo Hoàng	thuat_ngu	lá tarot		
+The Chariot	Cỗ Xe	thuat_ngu	lá tarot		
+The Hermit	Ẩn Sĩ	thuat_ngu	lá tarot		
+mock exam	kỳ thi thử	thuat_ngu	national mock exams → kỳ thi thử toàn quốc (tuyến Kotomi)		
+honorary library assistant	thủ thư danh dự	thuat_ngu	Kotomi tự xưng (4420)		
+Prefectural Library	thư viện tỉnh	dia_danh	prefectural library; con dấu 'Property of Prefectural Library' → 'Tài sản của Thư viện tỉnh'		
+Halfsies	chia đôi	thuat_ngu	câu cửa miệng Kotomi khi chia đồ ăn (4417+): 'Chia đôi.'		
+Retort	vặn lại	thuat_ngu	tsukkomi trong trò diễn hài cặp đôi (4422+); 'retort function' → 'chức năng vặn lại'		

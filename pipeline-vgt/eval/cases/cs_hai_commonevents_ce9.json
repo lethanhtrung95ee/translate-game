@@ -1,0 +1,963 @@
+{
+ "id": "cs_hai_commonevents_ce9",
+ "loai": "hai",
+ "mo_ta": "Cảnh chuẩn (hai) để đo chất lượng chung, không gắn lỗi cụ thể",
+ "bang_chung": "bo de mo rong 01/11",
+ "game": "cursed_armor_v2",
+ "grp": "CommonEvents.json:ce9",
+ "src_lang": "zh",
+ "role": "dialogue",
+ "engine": [
+  "rpgmaker_mvmz"
+ ],
+ "facts": {
+  "engine": [
+   "rpgmaker_mvmz"
+  ],
+  "lang": [
+   "zh"
+  ],
+  "genre": [
+   "jrpg người lớn (eroge, adult only), dark fantasy phương tây, sandbox sa đọa nhiều nhánh, nhiều kết (good/bad/normal/true end, hậu truyện), có thay trang phục và các chỉ số"
+  ]
+ },
+ "lesson_codes": [
+  "G-001",
+  "G-002",
+  "G-004",
+  "G-005",
+  "G-017",
+  "G-018",
+  "G-019",
+  "G-020",
+  "G-021",
+  "G-022",
+  "G-023",
+  "G-024",
+  "E-rpgmaker_mvmz-002",
+  "E-rpgmaker_mvmz-006",
+  "E-rpgmaker_mvmz-008",
+  "G-003",
+  "G-006",
+  "G-007",
+  "G-008",
+  "G-009",
+  "G-010",
+  "G-011",
+  "G-012",
+  "G-013",
+  "G-014",
+  "G-015",
+  "G-016",
+  "E-rpgmaker_mvmz-001",
+  "E-rpgmaker_mvmz-003",
+  "E-rpgmaker_mvmz-004",
+  "E-rpgmaker_mvmz-005",
+  "E-rpgmaker_mvmz-007"
+ ],
+ "project_rules": [],
+ "fixed": {
+  "style": {
+   "genre": "JRPG người lớn (eroge, Adult Only), dark fantasy phương Tây, sandbox sa đọa nhiều nhánh, nhiều kết (Good/Bad/Normal/True End, Hậu truyện), có thay trang phục và các chỉ số",
+   "tone": "Dâm tục thẳng thắn, cưỡng ép, nhưng nhiều tiếng cười: Lilina tự vả và cà khịa trong đầu, Succubus đỏng đảnh, ác nhân ngọt (Chloria), phản diện lố (Ross, Hentai ZERO), giọng ban ơn (Thành chủ), giọng giảng đường vô lý (thầy phòng y tế cô học viện), meta phá tường thứ tư (Giọng của Thần, Thần Sói). Xen giữa là những đoạn bi kịch thật (Học viện, Di tích, Tinh linh Lửa, Galon, Torres, hậu truyện Thần Sói) cần giọng trầm, không đùa thêm, không làm nhẹ đi. Thế giới và tên người theo kiểu phương Tây; văn gốc là tiếng Trung khẩu ngữ mạng.",
+   "notes": "1) MÃ ĐIỀU KHIỂN: giữ nguyên tuyệt đối \\N[n] \\C[n] \\W[n] \\V[n] \\G \\{ \\} \\. \\| \\^ \\!, kể cả mã lỗi gốc ('\\C[2]\\N[12]', '\\C[3]\\C[18]\\C[0]', ký tự \\u001e). Riêng dấu '\\' lạc đứng trước chữ Hán ('\\安維爾', '\\千年樹精C') thì BỎ dấu '\\' khi dịch: MV không hiển thị nó, còn '\\' đặt trước chữ Latin sẽ nuốt chữ ('\\Chìa'). Kiểm định viên không bắt lỗi việc bỏ dấu này. \\. và \\^ đặt giữa từng âm để ngắt nhịp: giữ đúng số lượng, phân bố theo âm tiết tiếng Việt.\n2) TÊN ĐỘNG \\N[n] là tên Actor, được dịch một lần trong Actors.json. Có actor là danh từ chung: \\N[50]=Giọng của Thần, \\N[51]=Giáo viên, \\N[52]=Học viên, \\N[53]=Lính gác, \\N[54]=Tù nhân, \\N[55]=Dân làng, \\N[59]=Con Nô Hèn. Tiếng Việt đặt định ngữ SAU danh từ nên phải đảo vị trí mã: '帝國\\N[53]' → '\\N[53] Đế quốc', '\\N[53]們' → 'đám \\N[53]', '\\N[64]妹妹' → 'em \\N[64]', '\\N[13]大人' → '\\N[13] đại nhân'. Câu chứa \\N[1] phải đọc được cả khi \\N[1] bị đổi thành danh hiệu (tuyến nhà ngục). Câu chứa \\N[59] phải đọc trôi khi biến hiện thành 'Con Nô Hèn' ở mọi vị trí (chủ ngữ, tân ngữ, '…của \\N[59]').\n3) DẤU: '～' của gốc viết thành '~' đúng vị trí (font không có ～, hệ thống tự đổi; chữ ký giọng của Lilina, Succubus, Chloria, Trosi); '……'; ngoặc () cho độc thoại; 【】, 「」 nếu có. Chữ kéo dài từng âm ('Long~Ngâm~') thì đặt ~ sau mỗi tiếng.\n4) ĐỘC THOẠI （） là lòng thật của Lilina: giọng tự nhiên, sắc, hay chửi thầm, tương phản rõ với câu ngoài miệng.\n5) HAI BIẾN THỂ: cùng một cảnh có câu trong trắng và câu sa đọa thay nhau. Dịch song song, cùng cấu trúc.\n6) ĐỘ TUỔI: mọi nhân vật trong cảnh tình dục được trình bày là người trưởng thành. 少女 → 'cô gái/thiếu nữ'; không dùng 'bé gái, em bé, nhóc' trong cảnh tình dục; không thêm chi tiết gợi tuổi nhỏ. 學生/學院 → 'học viên'. Nếu gặp cảnh có dấu hiệu nhân vật vị thành niên (xem can_xac_nhan: Map186 少年, Seth) thì DỪNG, không dịch phần tình dục, báo chủ dự án.\n7) THANG TỪ TỤC (thống nhất, không nhẹ hơn, không tục hơn gốc): 肏 → 'đụ'; 干/做 → 'làm/chơi'; 肉棒 → 'cây gậy thịt' (Lilina e thẹn thì 'cái ấy'); 雞巴 → 'con cặc'; 淫穴 → 'lỗ dâm'; 小穴 → 'khe thịt/lỗ nhỏ' (KHÔNG 'cô bé'); 屁眼/菊穴 → 'lỗ đít/hoa cúc'; 精液 → 'tinh dịch/tinh'; 高潮 → 'lên đỉnh'; 丟了/要丟了 → 'ra… ra mất rồi'/'sắp ra rồi'; 母狗 → 'chó cái'; 母豬 → 'lợn nái'; 騷貨 → 'đồ dâm đãng'; 婊子 → 'con điếm'; 蕩婦 → 'con đĩ'; 癡女 → 'gái dâm'; 調教 → 'thuần hóa'.\n8) Tiếng rên, tượng thanh: Việt hóa ('A～', 'Ưm～', 'Hự'), độ dài tương đương. Lời bị bịt viết tắt bằng chữ Latin (Y/Z/D/S…) thì đổi sang lối đứt chữ tiếng Việt.\n9) Câu kích hoạt ám thị, tên ám thị, câu 'lẽ thường', câu niệm nô lệ: giống từng chữ ở mọi chỗ. Thuật ngữ UI (chỉ số, trạng thái, vật phẩm) khớp từng chữ với thoại có nhắc tới. Cảnh lặp và lựa chọn lặp dịch y hệt.\n10) Không lộ trước bí mật: Hiller là Tướng quỷ, Berika là thủ phạm, Owen chủ mưu, Cospiro là lính đánh thuê, tên thật Succubus, Long Ngâm chết, '？？？' là cái bóng của Thành chủ, Jude hai mặt, ý đồ của Luna.\n11) Lỗi gõ trong gốc thì dịch theo nghĩa đúng: 期約→契約, 不馬→不是馬, 別看玩笑→別開玩笑, 把持住→沒把持住, 繞/求繞→饒, 差不過→差不多, 難倒→難道, 無亂→無論, 踐習→實踐, 堵住→賭注, 亦然→依然, 試者→試著, 正視→正式, 識實物→識時務, 好想→好像, 會去→回去, 不削→不屑, 我先在→我現在, 在來→再來, 遍離開→便離開, 大副→大幅, 窮北→窮唄, 處于→出于, 再司機→再伺機. 'Nromal End' → 'Normal End' (chờ duyệt).\n12) Meta và quảng cáo (Giọng của Thần, Patreon, Tamamo, 'phần sau sẽ làm', 'các quý ông') dịch đủ, giữ giọng tác giả. '(未完成)' → '(Chưa hoàn thành)'.\n13) Nhãn người nói có thể bị gán nhầm (xem can_xac_nhan): dịch theo ngữ cảnh, không sửa nhãn trong dữ liệu.",
+   "strategy": {
+    "han_viet": "Mức VỪA PHẢI. Thoại đời thường, cà khịa, chửi bới và cảnh H dùng tiếng Việt khẩu ngữ, thuần Việt, gần lối nói người trẻ. Hán-Việt dành cho tên thánh vật, chiêu thức, danh hiệu, chức vị, thuật ngữ huyền huyễn (Tinh thể Thần Nước, Ngọc Lửa Rực, Cuồng Nộ Của Đất, Mắt Quỷ, Dấu ấn linh hồn, Vua Succubus, Kiếm Thánh Gió, Cánh Đen, Thành chủ, thần lực, phép cấm, kết giới, dị loài, lẽ thường, thuần hóa). Xưng hô Hán-Việt chỉ dùng cho nhân vật được chỉ định, để tạo giọng hoặc nhại: Eros (吾/汝 → 'bổn vương/ta – ngươi/nàng/ái phi'), Thành chủ Jon ('bổn vương'), Sax ('lão phu'), lính đánh thuê ('bổn đại gia'), tên lính đánh thuê sến kiểu kiếm hiệp, Hentai ZERO hô chiêu. Không dùng 'tại hạ', 'nô gia', 'bổn cô nương' cho Lilina hay nô lệ. Thành ngữ Hán đổi sang thành ngữ Việt tương đương; câu tao nhã dùng mỉa ('Một khắc đêm xuân đáng ngàn vàng') thì giữ câu Hán-Việt quen thuộc.",
+    "wordplay": "Giữ TÁC DỤNG, không giữ chữ, và không thêm câu đùa mới. 性福/幸福 → 'hạnh phịch'/'hạnh phúc', thống nhất cả game (xem handbook). 出來賣/外賣 → 'gái ra đường bán'/'gái giao hàng tận nơi'. 菊花 → 'hoa cúc'. Mật mã hoa giữ tên hoa và giá. 骯臟的屁眼交易 → 'phi vụ đi cửa sau dơ bẩn'. 風之劍圣/蜂之劍圣 → 'Kiếm Thánh Gió'/'Kiếm Thánh Ong'. 出色 tách 色 → 'xuất \"sắc\"'. 回籠昏 → 'ngất nướng'. Câu lỡ miệng, vấp chữ ('賤……\\N[59]', chữ tục lọt giữa câu) phải dựng lại cú vấp bằng tiếng Việt. Lóng mạng: 泰迪 → 'Teddy' (để giọng mỉa tự gánh nghĩa), 抖S → 'S chính hiệu/máu S', 黑暗料理 → 'món hắc ám'. Meme dùng bản Việt quen thuộc (Đại thoại Tây du theo bản lồng tiếng; 'đầu gối trúng tên' bám sát Skyrim). Nhịp hài: giữ '……' đúng chỗ bị cắt ('cảm ơ… Á!'); cặp mắng nhau giữ nhịp ngắn ('Đồ óc heo!', 'Đồ lợn ngu!'). Chơi chữ không có đối ứng thì viết câu Việt có cùng tác dụng, ngắn bằng hoặc ngắn hơn gốc, không chú thích.",
+    "poetry": "Hầu như không có thơ vần. Văn nghi thức cần dịch cố định: (a) công thức ám thị 'Học ma pháp hệ X thì…, đó là lẽ thường' / 'Dùng phép hệ X nghĩa là phải…'; (b) câu kích hoạt 'Có việc gì muốn làm không?' / 'Nói thật đi'; (c) câu niệm nô lệ Torres và '(\\N[59] là một con chó cái x N)'; (d) khẩu quyết bốn bước 'Cảm nhận nó, khống chế nó, hội tụ nó, giải phóng nó!' và châm ngôn giả của các hệ; (e) lời thề hôn lễ (Map119 với \\N[11]; Map135 bản nhại bẻ vế cuối thành 'mãi mãi phục tùng') theo văn lời thề cưới Công giáo quen thuộc; (f) màn xưng danh Hentai ZERO theo kiểu tokusatsu; (g) đoạn nhại Đại thoại Tây du ở Good End A; (h) lời chào chung của tinh linh giữ đền 'Nhân loại kia～ Đây không phải nơi ngươi nên đến!'; (i) câu kiếm hiệp và bài 'ca' rượu của tên lính đánh thuê; (j) lời kết sử thi của các bad end: giọng biên niên trang trọng, nhịp chậm; (k) tên chiêu Latin Zapfkiel / Aleph giữ nguyên.",
+    "names": "Chưa có bản Việt chính thức; tên tiếng Anh chính thức mới xác nhận Lilina, Aisha (tên DLC) và tên game Cursed Armor. Bản EN có tồn tại nên ưu tiên đối chiếu Steam EN trước khi khóa. Tạm dùng tên phương Tây viết Latin theo phiên âm hợp lý: Hiller, Simelia, Meili, Roger, Melissa, Lucia, Berika, Owen, Cospiro, Jon, Chloria, Trosi, Jude, Sanga, Resk, Sax, Shirley, Ross, Roster, Bigas, Charlo, Rant, Miller, Hart, Wendy, Jack, Darren, Nell, Lydis, Robert, Luna, Nicole, Lilith, Lisa, Lorin, James, Loki, Loken, Fitch, Matt, Galen, Galon, Sophia, Eros, Shuria, Dale, Seth, Nestra. Tên gốc Á dùng Hán-Việt: 龍吟 → Long Ngâm, 白雪 → Bạch Tuyết. Biệt danh mang nghĩa thì dịch nghĩa: 黑泰迪 → Teddy Đen, 金絲雀 → Hoàng Yến, 紅松鼠 → Sóc Đỏ, 白銀狐 → Cáo Bạc, 賤奴 → Con Nô Hèn. Khách mời giữ tên fandom quen dùng (Tamamo-no-Mae, Asuna, Ram, Rem, Tokisaki Kurumi, Nero, Okita Souji…). Nhãn người nói là danh từ chung thì dịch nghĩa (守衛 → Lính gác, 村民1 → Dân làng 1, 男人A → Gã A, 傭兵B → Lính đánh thuê B), riêng ？？？ giữ nguyên. Nhãn phải khớp tên actor tương ứng. Đặt tên một lần trong glossary và không đổi giữa chừng."
+   }
+  },
+  "work": {
+   "premise": "JRPG người lớn của wolfzq. Lilina, pháp sư hệ Hỏa ngây thơ, mơ thành mạo hiểm giả vĩ đại. Cô bị ép đội Vương miện Nguyền Rủa của Chúa tể Succubus Eros, trong giáp có Succubus trú ngụ, vừa giúp vừa xúi cô sa ngã. Muốn cởi giáp, cô phải tìm sáu thánh vật qua hàng chục tuyến rẽ nhánh: Hội mạo hiểm, nhà ngục, học viện, thành nô lệ Torres, trường đua kỳ lân, hang bọ. Cái hay: mỗi cảnh có hai giọng (trong trắng/sa đọa); độc thoại trong ngoặc tỉnh táo, cà khịa, trái hẳn lời phục tùng ngoài miệng; hài tự vả, meta; và những cú phản bội từ chính người cô tin."
+  }
+ },
+ "adult": true,
+ "payload": {
+  "lang": "Ngôn ngữ nguồn: tiếng Trung → tiếng Việt.",
+  "characters": [
+   {
+    "id": "lilina",
+    "names": [
+     "莉莉娜",
+     "\\N[1]",
+     "Lilina",
+     "\\N[59] (tự xưng khi làm nô lệ)",
+     "\\N[61] (Teddy Đen, tên chó Thành chủ ban)",
+     "\\W[3]",
+     "獵天使",
+     "會長夫人",
+     "夫人",
+     "火的魔女",
+     "水的魔女",
+     "烈焰的魔女",
+     "特等生",
+     "小綿羊",
+     "癡女幽靈",
+     "吸精魔女",
+     "圣女",
+     "王妃",
+     "苗床",
+     "活體人偶",
+     "附屬品",
+     "亞巴頓女王",
+     "亞巴頓女妖",
+     "萬物之母",
+     "性奴隸",
+     "\\N[1]（人偶）"
+    ],
+    "name_vi": "Lilina",
+    "gender": "nữ",
+    "age": "thiếu nữ trưởng thành (P15 ghi 20 tuổi); cựu học viên ưu tú Học viện Ma pháp",
+    "role": "Nữ chính. Pháp sư hệ Hỏa ('Phù thủy Lửa'), mạo hiểm giả bị Giáp Nguyền Rủa trói buộc, mang danh hiệu Thiên Sứ Săn Mồi",
+    "personality": "Hồn nhiên, mơ mộng, cứng đầu, có chính nghĩa, tốt bụng, mềm lòng, cả tin, dễ bị dỗ ngọt. Ham tiền ('Một triệu G～!'), lém lỉnh, tự đắc khi lừa được địch, tsundere với người mình thích. Rất sợ ma nhưng thích dọa người. Thông minh, biết suy luận. Bị lời nguyền, ám thị, thuốc chi phối thì buông thả, rồi lại tự trách và đổ cho giáp. Đặt vào thế 'chủ nhân' thì nổi máu S. Có tham vọng ngây ngô làm 'nữ vương'.",
+    "speech_style": "Giọng con gái trẻ, nhiều '～'. Lúc tỉnh táo thì gọn, đúng chất mạo hiểm giả. Độc thoại （） hay cãi lại chính lời vừa nói, mỉa mai, tham tiền, chửi thầm ('Cái logic chó má gì thế này?'). Khi sa đọa thì nũng nịu, kéo dài 'chủ～nhân～', xưng 'người ta' theo 人家. Trong vai nô lệ thì xưng \\N[59]; đóng vai chó thì chỉ 'Gâu～ gâu gâu～'. Khi sợ thì lắp bắp. Ở học viện ngây ngô '…lẽ thường sao…'. Làm búp bê: đều đều, xưng bằng tên. Đối đầu Thần Sói, Berika: đắc thắng, trêu chọc.",
+    "catchphrases": [
+     "要不是這該死的詛咒，我怎么會…… → Nếu không vì cái lời nguyền chết tiệt này, mình đâu có…",
+     "我在想什么呢！ → Mình đang nghĩ cái gì thế này!",
+     "精液～必須好好的收集起來～～ → Tinh dịch～ phải gom cho thật kỹ～～",
+     "我可是勵志要成為一個偉大的冒險家！ → Mình đã quyết chí thành một mạo hiểm giả vĩ đại cơ mà!",
+     "真是諷刺啊…… → Đúng là mỉa mai thật…",
+     "……沒有效果 → …Không có tác dụng",
+     "哼～\\N[13]，有我在，怎么可能讓你如愿！ → Hừ～ \\N[13], có tôi ở đây, đừng hòng được như ý!",
+     "是，主人 → Vâng, chủ nhân",
+     "常識……嗎…… → Thường thức… sao…",
+     "難道是喝多了嗎 → Chẳng lẽ lại say quá à?"
+    ],
+    "comedic_role": "Kẻ tự vả, tự sửa lời ('cảm ơ… Á!'); người tỉnh táo cà khịa trong đầu, trái với lời phục tùng ngoài miệng; tsukkomi tỉnh bơ trước các trò lố; con bạc ảo tưởng; bị lừa bằng 'lẽ thường'",
+    "arc": "Mỗi tuyến một kiểu sa ngã (nô lệ vĩnh viễn, phu nhân giả, búp bê sống, vợ trùng, vợ thú, nữ yêu, Nữ vương), nhánh thiện thì giữ được ước mơ. Niềm tin vào Cha xứ sụp ở Map100, vào Owen sụp ở Map133. Với Long Ngâm: yêu, rồi mất, hoặc dùng tình yêu phá phép cấm. Với Aisha: từ khinh miệt đến nhường ngôi. Cuối cùng chọn vị trí nữ vương.",
+    "self": "tôi (với người ngoài, khi tỉnh táo); mình (độc thoại trong （）); em/con/cháu tùy người nghe (xem relations); 'người ta' khi gốc dùng 人家; giữ \\N[59] khi gốc dùng \\N[59]; 'ta' khi ở tư thế nữ vương, đối đầu Thần Sói/Berika, ra lệnh cho Succubus hoặc Vua Côn Trùng",
+    "forbid": [
+     "bé, nhóc, em bé (cho cô)",
+     "tao",
+     "bổn cô nương",
+     "nô gia",
+     "ta (trừ khi bị nhập xác hoặc ở tư thế nữ vương như trên)",
+     "tự ý đổi \\N[59] thành 'tôi/em' hoặc ngược lại"
+    ],
+    "note": "\\N[1] có thể bị đổi thành danh hiệu ở tuyến nhà ngục. Câu sửa lời là điểm kịch: 'Tiện… \\N[59] hiểu rồi' (Map139), Sax cấm cô xưng \\N[59] (Map085). Câu 'là, tiện…' rồi chữa thành 'tôi' phải khớp chữ 'Con Nô Hèn'. Ở Map154 (đã tự do) cô xưng 'tôi'. \\N[61] là tên riêng nhưng chỉ chính Lilina."
+   },
+   {
+    "id": "meili",
+    "names": [
+     "梅莉",
+     "\\N[5]"
+    ],
+    "name_vi": "Meili (tạm)",
+    "gender": "nữ",
+    "role": "Trưởng nhóm lính đánh thuê ở Hội ('đại tỷ'); đòi trả công bằng một đêm làm nô lệ SM; chủ của Roger",
+    "personality": "Thực dụng, bá đạo, bạo dâm, thù dai, tin vào mắt nhìn người của mình; về sau hào phóng ỡm ờ",
+    "speech_style": "Cộc, hay ra điều kiện; cười 'Ừm hừm hừm～', 'A～ha ha ha!'; trong phòng SM gọi Lilina là 'con chó cái nhỏ biến thái'",
+    "catchphrases": [
+     "嗯哼哼哼～～～ → Ừm hừm hừm～～～",
+     "我果然沒看錯～ → Quả nhiên ta không nhìn lầm～"
+    ],
+    "self": "tôi (bình thường); ta (trong phòng SM, xưng 'chủ nhân')",
+    "note": "Map058 ev1p1 có câu gán cho 梅莉 nhưng giọng giống Succubus (xem can_xac_nhan)."
+   },
+   {
+    "id": "melissa",
+    "names": [
+     "梅麗莎",
+     "\\N[9]",
+     "黑魔女",
+     "黑魔法師"
+    ],
+    "name_vi": "Melissa",
+    "gender": "nữ",
+    "role": "Nhà nghiên cứu ở Hội, Phù thủy Hắc ám; chủ của Lucia; kẻ hủy hoại gia đình Robert; buôn tin về Bọ quỷ Abaddon; hợp tác thí nghiệm Futa với Ngôi Nhà Tình Yêu",
+    "personality": "Cuồng nghiên cứu, khôn, buôn bán, lạnh, chiếm hữu, coi người là 'vật liệu'",
+    "speech_style": "Nhẹ nhàng mà toan tính, bề trên, có '～', cười đầy ẩn ý; gọi Lilina 'đứa trẻ nóng vội'",
+    "catchphrases": [
+     "接下來就是試驗的時間了！ → Tiếp theo là giờ thí nghiệm!",
+     "真是非常稀有的素材！ → Đúng là vật liệu cực hiếm!"
+    ],
+    "comedic_role": "Nhà khoa học điên",
+    "arc": "Từ người 'giúp đỡ' lộ dần ý muốn sở hữu Lilina; đạt được ở Bad End B (tuyến Bọ quỷ)",
+    "self": "ta"
+   },
+   {
+    "id": "roger",
+    "names": [
+     "羅杰",
+     "\\N[6]",
+     "賤狗"
+    ],
+    "name_vi": "Roger",
+    "gender": "nam",
+    "role": "Đồng đội, đầy tớ, nô lệ của Meili",
+    "personality": "Ít lời, hoàn toàn phục tùng",
+    "speech_style": "Lặp 'Vâng! Chủ nhân!'",
+    "catchphrases": [
+     "是！主人！ → Vâng! Chủ nhân!"
+    ],
+    "comedic_role": "Kẻ hầu khúm núm, lỡ than thì bị mắng 'chó hèn'",
+    "self": "tôi"
+   },
+   {
+    "id": "unicorn11",
+    "names": [
+     "獨角獸",
+     "\\N[11]"
+    ],
+    "name_vi": "\\N[11] (kỳ lân; tên do người chơi đặt, mặc định 'Kỳ Lân')",
+    "gender": "đực ('chồng')",
+    "role": "Kỳ lân/thần thú Lilina yêu ở tuyến Thánh thú và trường đua",
+    "speech_style": "'Hí～'; khi hóa thành dáng người thì nói, gọi Lilina 'em yêu'",
+    "self": "anh (khi nói được)"
+   }
+  ],
+  "relations": [
+   {
+    "from": "meili",
+    "to": "lilina",
+    "self": "chị; trong phòng SM: ta (xưng chủ nhân khi gốc dùng)",
+    "call": "em / \\N[1]; trong phòng SM: mày / con chó cái nhỏ biến thái",
+    "changes": "Từ lúc đưa Lilina về phòng thực hiện giao ước (đêm làm nô lệ) đổi sang ta – mày; sáng hôm sau trở lại chị – em.",
+    "note": "Meili là 'đại tỷ' trưởng nhóm, cộc, bá đạo, thích ra điều kiện; ngoài đời chị – em, vào phòng SM thì chủ – nô. [biên tập trưởng độc lập, 02/11]"
+   },
+   {
+    "from": "lilina",
+    "to": "meili",
+    "self": "em",
+    "call": "chị \\N[5]; trong phòng SM: chủ nhân",
+    "changes": "Vào phòng phải gọi chủ nhân (vẫn xưng em), sáng hôm sau hết hạn thì gọi lại chị.",
+    "note": "Lilina nhỏ hơn và đang mang ơn/nợ nhóm của Meili; xưng em kiểu cãi cố ('Nhưng nhiệm vụ đâu có xong!') vẫn khớp với chị – em. [biên tập trưởng độc lập, 02/11]"
+   },
+   {
+    "from": "meili",
+    "to": "roger",
+    "self": "ta",
+    "call": "mày; khi gọi thẳng (賤狗): đồ chó hèn",
+    "note": "Roger là nô lệ, đầy tớ của Meili; cô ta ở vị thế 'chủ nhân' tuyệt đối, ra lệnh cộc. Sửa 'chó hèn / đồ chó' thành một cách gọi duy nhất. [biên tập trưởng độc lập, 02/11]"
+   },
+   {
+    "from": "roger",
+    "to": "meili",
+    "self": "tôi",
+    "call": "chủ nhân",
+    "note": "Roger ít lời, phục tùng hoàn toàn, chỉ đáp 'Vâng! Chủ nhân!'; 'tôi' là cách xưng của kẻ hầu. [biên tập trưởng độc lập, 02/11]"
+   },
+   {
+    "from": "roger",
+    "to": "lilina",
+    "self": "anh",
+    "call": "em",
+    "note": "Roger ít lời, tử tế ('Cứ để anh!', 'Em chạy mau đi'); sửa 'tôi – cô' trong hồ sơ cho khớp chiều ngược lại. [biên tập trưởng độc lập, 02/11]"
+   },
+   {
+    "from": "melissa",
+    "to": "lilina",
+    "self": "chị",
+    "call": "em; khi gốc gọi đứa trẻ nóng vội: cô bé nóng vội",
+    "note": "Đàn chị cùng Hội, nói ngọt mà toan tính, bề trên ('Chúc em may mắn!', 'nể tình cùng Hội, một triệu G, thế nào?'); giọng chị – em ngọt ngào làm tăng chất ác nhân ngọt hơn 'ta – cô'. [biên tập trưởng độc lập, 02/11]"
+   },
+   {
+    "from": "lilina",
+    "to": "melissa",
+    "self": "em",
+    "call": "chị; khi gốc gọi tên: chị \\N[9]",
+    "note": "Lilina là người nhỏ tuổi hơn trong Hội, đến hỏi chuyện, nhờ việc, nên em – chị; khi cãi chuyện vi phạm hợp đồng vẫn giữ em – chị, chỉ đổi giọng gắt. [biên tập trưởng độc lập, 02/11]"
+   },
+   {
+    "from": "unicorn11",
+    "to": "lilina",
+    "self": "(chỉ 'Hí～'); khi hóa người: anh",
+    "call": "(không có); khi hóa người: em yêu",
+    "note": "Dạng thú chỉ hí, không thêm đại từ. Dạng người thì như hồ sơ. [biên tập trưởng độc lập, 02/11]"
+   },
+   {
+    "from": "lilina",
+    "to": "unicorn11",
+    "self": "chị; khi đã coi là chồng: em",
+    "call": "mày; khi đã coi là chồng: anh; khi gốc gọi 老公: chồng",
+    "changes": "Lúc đầu cô coi nó như con thú cưng ('ngủ ngon', 'ở nhà trông nhà nha'), sau đó chuyển sang em/anh từ khi gốc bắt đầu coi nó là chồng (老公) hoặc khi nó hóa người nói chuyện.",
+    "note": "Samples đầu là kiểu cưng một con vật mà cô tự cười mình ngốc, nên 'chị/mày' nghe tự nhiên. Lên quan hệ vợ chồng thì khớp với 'anh/em yêu' của kỳ lân. [biên tập trưởng độc lập, 02/11]"
+   },
+   {
+    "from": "lilina",
+    "to": "roger",
+    "self": "em",
+    "call": "anh",
+    "note": "Cả hai cùng dưới trướng một 'chủ nhân' (Roger nhắc 'chủ nhân sẽ nổi giận'), Roger giúp đỡ như đàn anh hiền lành; anh – em thay cho 'tôi – anh'. [biên tập trưởng độc lập, 02/11]"
+   }
+  ],
+  "glossary": [
+   {
+    "src": "安維爾 / 安維爾城 / 安維爾港 / 安維爾空港",
+    "vi": "Anvil / thành Anvil / cảng Anvil / Cảng bay Anvil"
+   },
+   {
+    "src": "舊城區 / 平民區 / 舊城區看守所 / 看守所",
+    "vi": "Khu Phố Cũ / khu dân thường / Trại tạm giam Khu Phố Cũ / trại tạm giam"
+   },
+   {
+    "src": "地下水脈 / 水脈 / 進水口",
+    "vi": "Mạch nước ngầm / mạch nước / cửa dẫn nước"
+   },
+   {
+    "src": "寄生蟲的洞窟 / 蟲洞 / 母巢",
+    "vi": "Hang Ký sinh trùng / hang bọ / ổ mẹ"
+   },
+   {
+    "src": "獨角獸牧場 / 牧場入場券 / 秘密競賽場",
+    "vi": "Trang trại Kỳ Lân / vé vào trang trại / Trường đua Bí mật"
+   },
+   {
+    "src": "眾籌服裝店 / 眾籌專享美容 / 美容院 / 浴場",
+    "vi": "Tiệm Trang phục Gây quỹ / Làm đẹp cho người ủng hộ / tiệm làm đẹp / nhà tắm công cộng"
+   },
+   {
+    "src": "任務書 / 令牌",
+    "vi": "giấy nhiệm vụ / lệnh bài"
+   },
+   {
+    "src": "初級/中級/高級/特殊任務管理員",
+    "vi": "Quản lý nhiệm vụ sơ cấp/trung cấp/cao cấp/đặc biệt"
+   },
+   {
+    "src": "D級/C級/B級/A級/S級任務",
+    "vi": "nhiệm vụ hạng D/C/B/A/S"
+   },
+   {
+    "src": "初級/中級冒險者 / 資深冒險者憑證 / 公會經驗值",
+    "vi": "mạo hiểm giả sơ cấp/trung cấp / chứng chỉ Mạo hiểm giả Kỳ cựu / điểm kinh nghiệm hội"
+   },
+   {
+    "src": "蛇女三姐妹 / 蛇女A/B/C",
+    "vi": "ba chị em Người rắn / Nữ Rắn A/B/C"
+   },
+   {
+    "src": "史萊姆 / 史萊姆女王 / 殺人蜂 / 毒蝎 / 僵尸 / 骸骨戰士 / 幽靈 / 怨靈 / 亡靈守衛 / 獵鷹 / 魔牛 / 章魚怪 / 火龍 / 吸血蝙蝠",
+    "vi": "Slime / Nữ vương Slime / Ong sát thủ / Bọ cạp độc / Zombie / Chiến binh xương / Hồn ma / Oan hồn / Vệ binh Vong linh / Chim ưng / Bò quỷ / Quái bạch tuộc / Rồng lửa / Dơi hút máu"
+   },
+   {
+    "src": "墮落 / 欲望 / 魅力 / 理性 / 詛咒 / 羞恥 / 順從",
+    "vi": "Sa đọa / Dục vọng / Quyến rũ / Lý trí / Nguyền rủa / Xấu hổ / Phục tùng",
+    "note": "chỉ số"
+   },
+   {
+    "src": "輕便裝 / 內衣 / 內衣（僅胸罩） / 輕便手套 / 輕便鞋 / 布手套 / 布鞋",
+    "vi": "Đồ gọn nhẹ / Áo ngực / Áo ngực (chỉ áo ngực) / Găng gọn nhẹ / Giày gọn nhẹ / Găng vải / Giày vải"
+   },
+   {
+    "src": "緋月的緊身衣/護手/護腿/性畜裝 / 尼祿的內衣/盔甲/袖子 / 時崎狂三的戰斗服/手套/高跟鞋/頭飾/內衣",
+    "vi": "Đồ bó / Hộ thủ / Hộ chân / Đồ súc vật tình dục của Hizuki / Áo ngực / Giáp / Tay áo của Nero / Chiến phục / Găng / Cao gót / Trang sức đầu / Áo ngực của Tokisaki Kurumi",
+    "note": "緋月 = Hizuki chưa chắc"
+   },
+   {
+    "src": "錢好像不夠了！ / 不想回憶 / …的記憶",
+    "vi": "Hình như không đủ tiền rồi! / Không muốn nhớ lại / Ký ức về …"
+   }
+  ],
+  "dont_translate": [
+   "\\G"
+  ],
+  "scene": {
+   "effect": "rõ ràng; bật cười vì 'phải tự mang đồ lót'",
+   "mood": "hành chính, có chút hài châm biếm",
+   "summary": "Bảng nhiệm vụ của hội (hái thảo dược, nấm, diệt slime, giếng bỏ hoang, trộm ở trang trại kỳ lân, dọn nhà tắm, nằm vùng). Nếu bỏ nhiệm vụ đã thuê Meili/Melissa giúp thì cô vẫn phải trả công bằng thân xác hoặc làm thí nghiệm."
+  },
+  "lines": [
+   {
+    "id": "0",
+    "k": "dialogue",
+    "s": "任務內容：在安維爾城⟦0⟧西⟦1⟧側的森林中，收集10株草藥\n任務完成可獲得：100 ⟦2⟧G⟦3⟧  50⟦4⟧EXP⟦5⟧"
+   },
+   {
+    "id": "1",
+    "k": "dialogue",
+    "s": "任務內容：在安維爾城⟦0⟧西⟦1⟧側的森林深處，收集10個蘑菇\n任務完成可獲得：150 ⟦2⟧G⟦3⟧  100⟦4⟧EXP⟦5⟧"
+   },
+   {
+    "id": "2",
+    "k": "dialogue",
+    "s": "任務內容：在安維爾城⟦0⟧西⟦1⟧側的森林中，消滅15個藍色史萊姆，\n并將它們的體液帶回！\n任務完成可獲得：150 ⟦2⟧G⟦3⟧ 150⟦4⟧EXP⟦5⟧"
+   },
+   {
+    "id": "3",
+    "k": "dialogue",
+    "s": "任務內容：在安維爾城⟦0⟧西⟦1⟧側的森林深處，消滅15個粉色史萊姆，\n并將它們的體液帶回！\n任務完成可獲得：200 ⟦2⟧G⟦3⟧ 300⟦4⟧EXP⟦5⟧"
+   },
+   {
+    "id": "4",
+    "k": "dialogue",
+    "s": "任務內容：在安維爾城⟦0⟧西⟦1⟧側的森林最深處，消滅15個金色史萊姆，\n并將它們的體液帶回！\n任務完成可獲得：300 ⟦2⟧G⟦3⟧ 450⟦4⟧EXP⟦5⟧"
+   },
+   {
+    "id": "5",
+    "k": "dialogue",
+    "s": "任務內容：一名父親稱她的女兒獨自一人進入了廢棄的水井，尋找奇怪聲音的來源，之后便再無消息。搜索隊進入后稱：有不明生物棲息在地下水脈，尋求公會消滅未知生物并確認少女安危！\n⟦0⟧該任務已被完成！⟦1⟧"
+   },
+   {
+    "id": "6",
+    "k": "dialogue",
+    "s": "任務內容：一名父親稱她的女兒獨自一人進入了廢棄的水井，尋找奇怪聲音的來源，之后便再無消息。搜索隊進入后稱：有不明生物棲息在地下水脈，尋求公會消滅未知生物并確認少女安危！\n任務完成可獲得：500 ⟦0⟧G⟦1⟧  500⟦2⟧EXP⟦3⟧"
+   },
+   {
+    "id": "7",
+    "k": "dialogue",
+    "s": "任務內容：研究院長期需要寄生蟲的卵做為研究材料，能從安維爾城⟦0⟧東⟦1⟧側寄生蟲的洞窟中尋找10枚蟲卵并帶回，可以得到豐厚報酬！\n任務完成可獲得：500 ⟦2⟧G⟦3⟧ 500⟦4⟧EXP⟦5⟧"
+   },
+   {
+    "id": "8",
+    "k": "dialogue",
+    "s": "任務內容：去酒館關于牧場入場券的情報，尋找獨角獸牧場搶劫犯的線索，抓住他并將其繩之于法！\n⟦0⟧該任務已被完成！⟦1⟧"
+   },
+   {
+    "id": "9",
+    "k": "dialogue",
+    "s": "任務內容：去酒館打聽牧場入場券的情報，尋找獨角獸牧場搶劫犯的線索，抓住他并將其繩之于法！\n任務完成可獲得：2000 ⟦0⟧G⟦1⟧ 1000⟦2⟧EXP⟦3⟧\n（公會借金⟦4⟧10,000⟦5⟧⟦6⟧⟦7⟧）\n特殊要求：必需單獨完成！"
+   },
+   {
+    "id": "10",
+    "k": "dialogue",
+    "s": "任務內容：去安維爾城⟦0⟧浴場⟦1⟧打掃浴室\n任務完成可獲得：300 ⟦2⟧G⟦3⟧ 50⟦4⟧EXP⟦5⟧\n特殊要求：需自備⟦6⟧內衣⟦7⟧！\n特殊要求：必需單獨完成！"
+   },
+   {
+    "id": "11",
+    "k": "dialogue",
+    "s": "任務內容：潛入某組織，收集犯罪證據\n⟦0⟧該任務已被完成！⟦1⟧"
+   },
+   {
+    "id": "12",
+    "k": "dialogue",
+    "s": "任務內容：潛入某組織，收集犯罪證據\n任務完成可獲得：10000 ⟦0⟧G⟦1⟧ 2000⟦2⟧EXP⟦3⟧\n特殊要求：必需單獨完成！"
+   },
+   {
+    "id": "13",
+    "k": "dialogue",
+    "s": "確定要接受任務嗎？"
+   },
+   {
+    "id": "14",
+    "k": "choice",
+    "s": "是"
+   },
+   {
+    "id": "15",
+    "k": "choice",
+    "s": "否"
+   },
+   {
+    "id": "16",
+    "k": "dialogue",
+    "s": "⟦0⟧高級任務管理員⟦1⟧：\n那么，這里是地下水脈的鑰匙，可以的話請順帶幫忙檢查下入水口狀況！",
+    "sp": "高級任務管理員"
+   },
+   {
+    "id": "17",
+    "k": "dialogue",
+    "s": "⟦0⟧高級任務管理員⟦1⟧：\n據說有黃牛在酒館倒賣牧場的入場券！價格在⟦2⟧5000⟦3⟧⟦4⟧以上！⟦5⟧這里有⟦6⟧10,000⟦7⟧⟦8⟧⟦9⟧你先拿去，成功了，這也是屬于獎金的一部分，失敗了則需要歸還！這也是該任務定位在A級任務的原因！",
+    "sp": "高級任務管理員"
+   },
+   {
+    "id": "18",
+    "k": "dialogue",
+    "s": "⟦0⟧初級任務管理員⟦1⟧：\n⟦2⟧內衣⟦3⟧有準備嗎？",
+    "sp": "初級任務管理員"
+   },
+   {
+    "id": "19",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n嗯",
+    "sp": "lilina"
+   },
+   {
+    "id": "20",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n不好意思，忘記了，我這就去買！",
+    "sp": "lilina"
+   },
+   {
+    "id": "21",
+    "k": "dialogue",
+    "s": "⟦0⟧高級任務管理員⟦1⟧：\n接頭人是舊城區的乞丐，他看到任務書，就會協助你",
+    "sp": "高級任務管理員"
+   },
+   {
+    "id": "22",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n嗯",
+    "sp": "lilina"
+   },
+   {
+    "id": "23",
+    "k": "dialogue",
+    "s": "放棄任務需要支付⟦0⟧100 ⟦1⟧G⟦2⟧的違約金，確定要放棄嗎？"
+   },
+   {
+    "id": "24",
+    "k": "choice",
+    "s": "是"
+   },
+   {
+    "id": "25",
+    "k": "choice",
+    "s": "否"
+   },
+   {
+    "id": "26",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n對了，放棄任務的話，公會借金⟦3⟧10,000⟦4⟧⟦5⟧⟦6⟧也要還……",
+    "sp": "lilina"
+   },
+   {
+    "id": "27",
+    "k": "dialogue",
+    "s": "錢好像不夠了！"
+   },
+   {
+    "id": "28",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n要不是因為該死的詛咒，這種級別的任務我怎么可能會放棄……",
+    "sp": "lilina"
+   },
+   {
+    "id": "29",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n哼哼～就算如此，今晚，你的身體也都是屬于我的～",
+    "sp": "meili"
+   },
+   {
+    "id": "30",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n可任務并沒有完成啊！！",
+    "sp": "lilina"
+   },
+   {
+    "id": "31",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n那是你單方面放棄了任務～并不是我違約哦，⟦3⟧⟦4⟧⟦5⟧～把她給我帶回去！",
+    "sp": "meili"
+   },
+   {
+    "id": "32",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n好了，接下來就是試驗時間了！",
+    "sp": "melissa"
+   },
+   {
+    "id": "33",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n等等！任務并沒有完成啊？！",
+    "sp": "lilina"
+   },
+   {
+    "id": "34",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n你放棄任務是單方面違約行為，所以，必須按照約定幫我做完試驗！",
+    "sp": "melissa"
+   }
+  ]
+ },
+ "meta": [
+  {
+   "speaker": null,
+   "face": null,
+   "codes": [
+    "\\C[2]",
+    "\\C[0]",
+    "\\C[4]",
+    "\\C[0]",
+    "\\C[4]",
+    "\\C[0]"
+   ],
+   "source": "任務內容：在安維爾城\\C[2]西\\C[0]側的森林中，收集10株草藥\n任務完成可獲得：100 \\C[4]G\\C[0]  50\\C[4]EXP\\C[0]",
+   "ban_hien_tai": "Nội dung nhiệm vụ: Thu thập 10 cây thảo dược trong khu rừng phía \\C[2]tây\\C[0] thành Anvil\nPhần thưởng khi hoàn thành: 100 \\C[4]G\\C[0] 50\\C[4]EXP\\C[0]"
+  },
+  {
+   "speaker": null,
+   "face": null,
+   "codes": [
+    "\\C[2]",
+    "\\C[0]",
+    "\\C[4]",
+    "\\C[0]",
+    "\\C[4]",
+    "\\C[0]"
+   ],
+   "source": "任務內容：在安維爾城\\C[2]西\\C[0]側的森林深處，收集10個蘑菇\n任務完成可獲得：150 \\C[4]G\\C[0]  100\\C[4]EXP\\C[0]",
+   "ban_hien_tai": "Nội dung nhiệm vụ: Thu thập 10 cây nấm sâu trong khu rừng phía \\C[2]tây\\C[0] thành Anvil\nPhần thưởng khi hoàn thành: 150 \\C[4]G\\C[0] 100\\C[4]EXP\\C[0]"
+  },
+  {
+   "speaker": null,
+   "face": null,
+   "codes": [
+    "\\C[2]",
+    "\\C[0]",
+    "\\C[4]",
+    "\\C[0]",
+    "\\C[4]",
+    "\\C[0]"
+   ],
+   "source": "任務內容：在安維爾城\\C[2]西\\C[0]側的森林中，消滅15個藍色史萊姆，\n并將它們的體液帶回！\n任務完成可獲得：150 \\C[4]G\\C[0] 150\\C[4]EXP\\C[0]",
+   "ban_hien_tai": "Nội dung nhiệm vụ: Tiêu diệt 15 con Slime xanh trong khu rừng phía \\C[2]tây\\C[0] thành Anvil,\nvà mang chất dịch của chúng về!\nPhần thưởng khi hoàn thành: 150 \\C[4]G\\C[0] 150\\C[4]EXP\\C[0]"
+  },
+  {
+   "speaker": null,
+   "face": null,
+   "codes": [
+    "\\C[2]",
+    "\\C[0]",
+    "\\C[4]",
+    "\\C[0]",
+    "\\C[4]",
+    "\\C[0]"
+   ],
+   "source": "任務內容：在安維爾城\\C[2]西\\C[0]側的森林深處，消滅15個粉色史萊姆，\n并將它們的體液帶回！\n任務完成可獲得：200 \\C[4]G\\C[0] 300\\C[4]EXP\\C[0]",
+   "ban_hien_tai": "Nội dung nhiệm vụ: Tiêu diệt 15 con Slime hồng trong sâu khu rừng phía \\C[2]tây\\C[0] thành Anvil,\nvà mang chất dịch của chúng về!\nPhần thưởng khi hoàn thành: 200 \\C[4]G\\C[0] 300\\C[4]EXP\\C[0]"
+  },
+  {
+   "speaker": null,
+   "face": null,
+   "codes": [
+    "\\C[2]",
+    "\\C[0]",
+    "\\C[4]",
+    "\\C[0]",
+    "\\C[4]",
+    "\\C[0]"
+   ],
+   "source": "任務內容：在安維爾城\\C[2]西\\C[0]側的森林最深處，消滅15個金色史萊姆，\n并將它們的體液帶回！\n任務完成可獲得：300 \\C[4]G\\C[0] 450\\C[4]EXP\\C[0]",
+   "ban_hien_tai": "Nội dung nhiệm vụ: Tiêu diệt 15 con Slime vàng ở nơi sâu nhất khu rừng phía \\C[2]tây\\C[0] thành Anvil,\nvà mang chất dịch của chúng về!\nPhần thưởng khi hoàn thành: 300 \\C[4]G\\C[0] 450\\C[4]EXP\\C[0]"
+  },
+  {
+   "speaker": null,
+   "face": null,
+   "codes": [
+    "\\C[3]",
+    "\\C[0]"
+   ],
+   "source": "任務內容：一名父親稱她的女兒獨自一人進入了廢棄的水井，尋找奇怪聲音的來源，之后便再無消息。搜索隊進入后稱：有不明生物棲息在地下水脈，尋求公會消滅未知生物并確認少女安危！\n\\C[3]該任務已被完成！\\C[0]",
+   "ban_hien_tai": "Nội dung nhiệm vụ: Một người cha khai rằng con gái ông một mình chui vào cái giếng bỏ hoang để tìm nguồn gốc tiếng động lạ, rồi không còn tin tức gì nữa. Đội tìm kiếm sau khi vào đã báo: có sinh vật không rõ danh tính trú ngụ trong Mạch nước ngầm. Hội được nhờ tiêu diệt sinh vật lạ và xác nhận thiếu nữ có bình an không!\n\\C[3]Nhiệm vụ này đã hoàn thành!\\C[0]"
+  },
+  {
+   "speaker": null,
+   "face": null,
+   "codes": [
+    "\\C[4]",
+    "\\C[0]",
+    "\\C[4]",
+    "\\C[0]"
+   ],
+   "source": "任務內容：一名父親稱她的女兒獨自一人進入了廢棄的水井，尋找奇怪聲音的來源，之后便再無消息。搜索隊進入后稱：有不明生物棲息在地下水脈，尋求公會消滅未知生物并確認少女安危！\n任務完成可獲得：500 \\C[4]G\\C[0]  500\\C[4]EXP\\C[0]",
+   "ban_hien_tai": "Nội dung nhiệm vụ: Một người cha khai rằng con gái ông một mình chui vào cái giếng bỏ hoang để tìm nguồn gốc tiếng động lạ, rồi không còn tin tức gì nữa. Đội tìm kiếm sau khi vào đã báo: có sinh vật không rõ danh tính trú ngụ trong Mạch nước ngầm. Hội được nhờ tiêu diệt sinh vật lạ và xác nhận thiếu nữ có bình an không!\nPhần thưởng khi hoàn thành: 500 \\C[4]G\\C[0] 500\\C[4]EXP\\C[0]"
+  },
+  {
+   "speaker": null,
+   "face": null,
+   "codes": [
+    "\\C[2]",
+    "\\C[0]",
+    "\\C[4]",
+    "\\C[0]",
+    "\\C[4]",
+    "\\C[0]"
+   ],
+   "source": "任務內容：研究院長期需要寄生蟲的卵做為研究材料，能從安維爾城\\C[2]東\\C[0]側寄生蟲的洞窟中尋找10枚蟲卵并帶回，可以得到豐厚報酬！\n任務完成可獲得：500 \\C[4]G\\C[0] 500\\C[4]EXP\\C[0]",
+   "ban_hien_tai": "Nội dung nhiệm vụ: Viện nghiên cứu cần trứng ký sinh trùng làm vật liệu nghiên cứu lâu dài. Tìm 10 quả trứng trùng trong Hang Ký sinh trùng phía \\C[2]đông\\C[0] thành Anvil rồi mang về, sẽ được thưởng hậu hĩnh!\nPhần thưởng khi hoàn thành: 500 \\C[4]G\\C[0] 500\\C[4]EXP\\C[0]"
+  },
+  {
+   "speaker": null,
+   "face": null,
+   "codes": [
+    "\\C[3]",
+    "\\C[0]"
+   ],
+   "source": "任務內容：去酒館關于牧場入場券的情報，尋找獨角獸牧場搶劫犯的線索，抓住他并將其繩之于法！\n\\C[3]該任務已被完成！\\C[0]",
+   "ban_hien_tai": "Nội dung nhiệm vụ: Đến quán rượu hỏi tin về vé vào trang trại, lần theo manh mối tên cướp Trang trại Kỳ Lân, bắt hắn và giao cho pháp luật!\n\\C[3]Nhiệm vụ này đã hoàn thành!\\C[0]"
+  },
+  {
+   "speaker": null,
+   "face": null,
+   "codes": [
+    "\\C[4]",
+    "\\C[0]",
+    "\\C[4]",
+    "\\C[0]",
+    "\\C[6]",
+    "\\C[4]",
+    "\\G",
+    "\\C[0]"
+   ],
+   "source": "任務內容：去酒館打聽牧場入場券的情報，尋找獨角獸牧場搶劫犯的線索，抓住他并將其繩之于法！\n任務完成可獲得：2000 \\C[4]G\\C[0] 1000\\C[4]EXP\\C[0]\n（公會借金\\C[6]10,000\\C[4]\\G\\C[0]）\n特殊要求：必需單獨完成！",
+   "ban_hien_tai": "Nội dung nhiệm vụ: Đến quán rượu dò hỏi tin về vé vào trang trại, lần theo manh mối tên cướp Trang trại Kỳ Lân, bắt hắn và giao cho pháp luật!\nPhần thưởng khi hoàn thành: 2000 \\C[4]G\\C[0] 1000\\C[4]EXP\\C[0]\n(Khoản vay của hội \\C[6]10,000\\C[4]\\G\\C[0])\nYêu cầu đặc biệt: Phải tự mình hoàn thành!"
+  },
+  {
+   "speaker": null,
+   "face": null,
+   "codes": [
+    "\\C[2]",
+    "\\C[0]",
+    "\\C[4]",
+    "\\C[0]",
+    "\\C[4]",
+    "\\C[0]",
+    "\\C[4]",
+    "\\C[0]"
+   ],
+   "source": "任務內容：去安維爾城\\C[2]浴場\\C[0]打掃浴室\n任務完成可獲得：300 \\C[4]G\\C[0] 50\\C[4]EXP\\C[0]\n特殊要求：需自備\\C[4]內衣\\C[0]！\n特殊要求：必需單獨完成！",
+   "ban_hien_tai": "Nội dung nhiệm vụ: Đến \\C[2]nhà tắm công cộng\\C[0] thành Anvil dọn phòng tắm\nPhần thưởng khi hoàn thành: 300 \\C[4]G\\C[0] 50\\C[4]EXP\\C[0]\nYêu cầu đặc biệt: Phải tự mang \\C[4]Nội y\\C[0]!\nYêu cầu đặc biệt: Phải tự mình hoàn thành!"
+  },
+  {
+   "speaker": null,
+   "face": null,
+   "codes": [
+    "\\C[3]",
+    "\\C[0]"
+   ],
+   "source": "任務內容：潛入某組織，收集犯罪證據\n\\C[3]該任務已被完成！\\C[0]",
+   "ban_hien_tai": "Nội dung nhiệm vụ: Thâm nhập một tổ chức, thu thập bằng chứng phạm tội\n\\C[3]Nhiệm vụ này đã hoàn thành!\\C[0]"
+  },
+  {
+   "speaker": null,
+   "face": null,
+   "codes": [
+    "\\C[4]",
+    "\\C[0]",
+    "\\C[4]",
+    "\\C[0]"
+   ],
+   "source": "任務內容：潛入某組織，收集犯罪證據\n任務完成可獲得：10000 \\C[4]G\\C[0] 2000\\C[4]EXP\\C[0]\n特殊要求：必需單獨完成！",
+   "ban_hien_tai": "Nội dung nhiệm vụ: Thâm nhập một tổ chức, thu thập bằng chứng phạm tội\nPhần thưởng khi hoàn thành: 10000 \\C[4]G\\C[0] 2000\\C[4]EXP\\C[0]\nYêu cầu đặc biệt: Phải tự mình hoàn thành!"
+  },
+  {
+   "speaker": null,
+   "face": null,
+   "codes": [],
+   "source": "確定要接受任務嗎？",
+   "ban_hien_tai": "Chắc chắn muốn nhận nhiệm vụ chứ?"
+  },
+  {
+   "speaker": null,
+   "face": null,
+   "codes": [],
+   "source": "是",
+   "ban_hien_tai": "Có"
+  },
+  {
+   "speaker": null,
+   "face": null,
+   "codes": [],
+   "source": "否",
+   "ban_hien_tai": "Không"
+  },
+  {
+   "speaker": "高級任務管理員",
+   "face": null,
+   "codes": [
+    "\\C[3]",
+    "\\C[0]"
+   ],
+   "source": "\\C[3]高級任務管理員\\C[0]：\n那么，這里是地下水脈的鑰匙，可以的話請順帶幫忙檢查下入水口狀況！",
+   "ban_hien_tai": "\\C[3]Quản lý nhiệm vụ cao cấp\\C[0]:\nVậy, đây là chìa khóa Mạch nước ngầm. Nếu được thì tiện thể kiểm tra giúp tôi tình trạng cửa dẫn nước nhé!"
+  },
+  {
+   "speaker": "高級任務管理員",
+   "face": null,
+   "codes": [
+    "\\C[3]",
+    "\\C[0]",
+    "\\C[6]",
+    "\\C[4]",
+    "\\G",
+    "\\C[0]",
+    "\\C[6]",
+    "\\C[4]",
+    "\\G",
+    "\\C[0]"
+   ],
+   "source": "\\C[3]高級任務管理員\\C[0]：\n據說有黃牛在酒館倒賣牧場的入場券！價格在\\C[6]5000\\C[4]\\G以上！\\C[0]這里有\\C[6]10,000\\C[4]\\G\\C[0]你先拿去，成功了，這也是屬于獎金的一部分，失敗了則需要歸還！這也是該任務定位在A級任務的原因！",
+   "ban_hien_tai": "\\C[3]Quản lý nhiệm vụ cao cấp\\C[0]:\nNghe nói có phe vé chợ đen đang bán lại vé vào trang trại ở quán rượu! Giá từ \\C[6]5000\\C[4]\\G trở lên!\\C[0] Đây là \\C[6]10,000\\C[4]\\G\\C[0], cô cầm trước đi. Thành công thì coi như một phần tiền thưởng, thất bại thì phải trả lại! Đó cũng là lý do nhiệm vụ này được xếp hạng A!"
+  },
+  {
+   "speaker": "初級任務管理員",
+   "face": null,
+   "codes": [
+    "\\C[3]",
+    "\\C[0]",
+    "\\C[4]",
+    "\\C[0]"
+   ],
+   "source": "\\C[3]初級任務管理員\\C[0]：\n\\C[4]內衣\\C[0]有準備嗎？",
+   "ban_hien_tai": "\\C[3]Quản lý nhiệm vụ sơ cấp\\C[0]:\n\\C[4]Nội y\\C[0] cô đã chuẩn bị sẵn chưa?"
+  },
+  {
+   "speaker": "莉莉娜",
+   "face": "lilina1",
+   "codes": [
+    "\\C[6]",
+    "\\N[1]",
+    "\\C[0]"
+   ],
+   "source": "\\C[6]\\N[1]\\C[0]：\n嗯",
+   "ban_hien_tai": "\\C[6]\\N[1]\\C[0]:\nƯm"
+  },
+  {
+   "speaker": "莉莉娜",
+   "face": "lilina1",
+   "codes": [
+    "\\C[6]",
+    "\\N[1]",
+    "\\C[0]"
+   ],
+   "source": "\\C[6]\\N[1]\\C[0]：\n不好意思，忘記了，我這就去買！",
+   "ban_hien_tai": "\\C[6]\\N[1]\\C[0]:\nXin lỗi, tôi quên mất, tôi đi mua ngay đây!"
+  },
+  {
+   "speaker": "高級任務管理員",
+   "face": null,
+   "codes": [
+    "\\C[3]",
+    "\\C[0]"
+   ],
+   "source": "\\C[3]高級任務管理員\\C[0]：\n接頭人是舊城區的乞丐，他看到任務書，就會協助你",
+   "ban_hien_tai": "\\C[3]Quản lý nhiệm vụ cao cấp\\C[0]:\nNgười liên lạc là một gã ăn mày ở Khu Phố Cũ. Hễ thấy giấy nhiệm vụ là hắn sẽ giúp cô."
+  },
+  {
+   "speaker": "莉莉娜",
+   "face": "lilina1",
+   "codes": [
+    "\\C[6]",
+    "\\N[1]",
+    "\\C[0]"
+   ],
+   "source": "\\C[6]\\N[1]\\C[0]：\n嗯",
+   "ban_hien_tai": "\\C[6]\\N[1]\\C[0]:\nƯm"
+  },
+  {
+   "speaker": null,
+   "face": null,
+   "codes": [
+    "\\C[4]",
+    "\\C[6]",
+    "\\C[0]"
+   ],
+   "source": "放棄任務需要支付\\C[4]100 \\C[6]G\\C[0]的違約金，確定要放棄嗎？",
+   "ban_hien_tai": "Bỏ nhiệm vụ phải nộp \\C[4]100 \\C[6]G\\C[0] tiền phạt vi phạm, chắc chắn muốn bỏ chứ?"
+  },
+  {
+   "speaker": null,
+   "face": null,
+   "codes": [],
+   "source": "是",
+   "ban_hien_tai": "Có"
+  },
+  {
+   "speaker": null,
+   "face": null,
+   "codes": [],
+   "source": "否",
+   "ban_hien_tai": "Không"
+  },
+  {
+   "speaker": "莉莉娜",
+   "face": "lilina1",
+   "codes": [
+    "\\C[6]",
+    "\\N[1]",
+    "\\C[0]",
+    "\\C[6]",
+    "\\C[4]",
+    "\\G",
+    "\\C[0]"
+   ],
+   "source": "\\C[6]\\N[1]\\C[0]：\n對了，放棄任務的話，公會借金\\C[6]10,000\\C[4]\\G\\C[0]也要還……",
+   "ban_hien_tai": "\\C[6]\\N[1]\\C[0]:\nĐúng rồi, bỏ nhiệm vụ thì khoản vay của hội \\C[6]10,000\\C[4]\\G\\C[0] cũng phải trả……"
+  },
+  {
+   "speaker": null,
+   "face": null,
+   "codes": [],
+   "source": "錢好像不夠了！",
+   "ban_hien_tai": "Hình như không đủ tiền rồi!"
+  },
+  {
+   "speaker": "莉莉娜",
+   "face": "lilina1",
+   "codes": [
+    "\\C[6]",
+    "\\N[1]",
+    "\\C[0]"
+   ],
+   "source": "\\C[6]\\N[1]\\C[0]：\n要不是因為該死的詛咒，這種級別的任務我怎么可能會放棄……",
+   "ban_hien_tai": "\\C[6]\\N[1]\\C[0]:\nNếu không vì cái Nguyền rủa chết tiệt, nhiệm vụ cỡ này đời nào tôi chịu bỏ……"
+  },
+  {
+   "speaker": "梅莉",
+   "face": "Actor1",
+   "codes": [
+    "\\C[4]",
+    "\\N[5]",
+    "\\C[0]"
+   ],
+   "source": "\\C[4]\\N[5]\\C[0]：\n哼哼～就算如此，今晚，你的身體也都是屬于我的～",
+   "ban_hien_tai": "\\C[4]\\N[5]\\C[0]:\nHừm hừm~ dù vậy thì đêm nay, cả người cô vẫn là của tôi~"
+  },
+  {
+   "speaker": "莉莉娜",
+   "face": "lilina1",
+   "codes": [
+    "\\C[6]",
+    "\\N[1]",
+    "\\C[0]"
+   ],
+   "source": "\\C[6]\\N[1]\\C[0]：\n可任務并沒有完成啊！！",
+   "ban_hien_tai": "\\C[6]\\N[1]\\C[0]:\nNhưng nhiệm vụ đâu có hoàn thành!!"
+  },
+  {
+   "speaker": "梅莉",
+   "face": "Actor1",
+   "codes": [
+    "\\C[4]",
+    "\\N[5]",
+    "\\C[0]",
+    "\\C[4]",
+    "\\N[6]",
+    "\\C[0]"
+   ],
+   "source": "\\C[4]\\N[5]\\C[0]：\n那是你單方面放棄了任務～并不是我違約哦，\\C[4]\\N[6]\\C[0]～把她給我帶回去！",
+   "ban_hien_tai": "\\C[4]\\N[5]\\C[0]:\nLà cô đơn phương bỏ nhiệm vụ~ chứ tôi đâu có vi phạm nhé, \\C[4]\\N[6]\\C[0]~ lôi cô ta về cho ta!"
+  },
+  {
+   "speaker": "梅麗莎",
+   "face": "Actor1",
+   "codes": [
+    "\\C[4]",
+    "\\N[9]",
+    "\\C[0]"
+   ],
+   "source": "\\C[4]\\N[9]\\C[0]：\n好了，接下來就是試驗時間了！",
+   "ban_hien_tai": "\\C[4]\\N[9]\\C[0]:\nNào, tiếp theo là giờ thí nghiệm!"
+  },
+  {
+   "speaker": "莉莉娜",
+   "face": "lilina1",
+   "codes": [
+    "\\C[6]",
+    "\\N[1]",
+    "\\C[0]"
+   ],
+   "source": "\\C[6]\\N[1]\\C[0]：\n等等！任務并沒有完成啊？！",
+   "ban_hien_tai": "\\C[6]\\N[1]\\C[0]:\nKhoan đã! Nhiệm vụ đâu có hoàn thành?!"
+  },
+  {
+   "speaker": "梅麗莎",
+   "face": "Actor1",
+   "codes": [
+    "\\C[4]",
+    "\\N[9]",
+    "\\C[0]"
+   ],
+   "source": "\\C[4]\\N[9]\\C[0]：\n你放棄任務是單方面違約行為，所以，必須按照約定幫我做完試驗！",
+   "ban_hien_tai": "\\C[4]\\N[9]\\C[0]:\nCô bỏ nhiệm vụ là đơn phương vi phạm, nên phải làm xong thí nghiệm giúp ta đúng như giao ước!"
+  }
+ ],
+ "checks": [
+  {
+   "xung_ho_nhat_quan": true
+  }
+ ],
+ "tao_luc": "2026-11-02"
+}

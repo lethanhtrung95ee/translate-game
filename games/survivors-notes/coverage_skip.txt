@@ -1,0 +1,12 @@
+zh_hant  # locale tiếng Trung phồn thể: ô ngôn ngữ khác, không hiện khi chọn tiếng Việt (ô English)
+jp  # locale tiếng Nhật: ô ngôn ngữ khác
+fr  # locale tiếng Pháp: ô ngôn ngữ khác (chỉ có tên riêng chữ Hán sót của bản Pháp)
+kr  # locale tiếng Hàn: ô ngôn ngữ khác
+ru  # ô ngôn ngữ khác
+ge  # ô ngôn ngữ khác
+it  # ô ngôn ngữ khác
+sp  # ô ngôn ngữ khác
+sa  # ô ngôn ngữ khác
+tbmysterycrown.lua.txt  # tệp rời: chỉ trường zh_TW còn chữ nguồn (không hiện ở ô en); zh_CN đã trích đủ 24 chuỗi mc:*
+Assets/Lua/*  # mã Lua: chữ Hán chỉ ở chú thích và chuỗi debug/mạng (đã rà 166 chuỗi; chuỗi hiện ra như tên ngôn ngữ do adapter vá riêng)
+en  # ô EN bị thay toàn bộ bằng bản Việt; chữ Hán sót trong bản EN (id 30195) đã trích từ zh_hans

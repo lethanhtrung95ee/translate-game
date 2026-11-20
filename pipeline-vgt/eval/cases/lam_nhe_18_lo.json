@@ -1,0 +1,973 @@
+{
+ "id": "lam_nhe_18_lo",
+ "loai": "lam_nhe",
+ "mo_ta": "你的洞里 bị làm nhẹ thành 'bên trong em'",
+ "bang_chung": "kiểm định viên 01/11, G-022",
+ "game": "cursed_armor_v2",
+ "grp": "Map014.json:ev13p0",
+ "src_lang": "zh",
+ "role": "dialogue",
+ "engine": [
+  "rpgmaker_mvmz"
+ ],
+ "facts": {
+  "engine": [
+   "rpgmaker_mvmz"
+  ],
+  "lang": [
+   "zh"
+  ],
+  "genre": [
+   "jrpg người lớn (eroge, adult only), dark fantasy phương tây, sandbox sa đọa nhiều nhánh, nhiều kết (good/bad/normal/true end, hậu truyện), có thay trang phục và các chỉ số"
+  ]
+ },
+ "lesson_codes": [
+  "G-001",
+  "G-002",
+  "G-004",
+  "G-005",
+  "G-017",
+  "G-018",
+  "G-019",
+  "G-020",
+  "G-021",
+  "G-022",
+  "G-023",
+  "G-024",
+  "E-rpgmaker_mvmz-002",
+  "E-rpgmaker_mvmz-006",
+  "E-rpgmaker_mvmz-008",
+  "G-003",
+  "G-006",
+  "G-007",
+  "G-008",
+  "G-009",
+  "G-010",
+  "G-011",
+  "G-012",
+  "G-013",
+  "G-014",
+  "G-015",
+  "G-016",
+  "E-rpgmaker_mvmz-001",
+  "E-rpgmaker_mvmz-003",
+  "E-rpgmaker_mvmz-004",
+  "E-rpgmaker_mvmz-005",
+  "E-rpgmaker_mvmz-007"
+ ],
+ "project_rules": [],
+ "fixed": {
+  "style": {
+   "genre": "JRPG người lớn (eroge, Adult Only), dark fantasy phương Tây, sandbox sa đọa nhiều nhánh, nhiều kết (Good/Bad/Normal/True End, Hậu truyện), có thay trang phục và các chỉ số",
+   "tone": "Dâm tục thẳng thắn, cưỡng ép, nhưng nhiều tiếng cười: Lilina tự vả và cà khịa trong đầu, Succubus đỏng đảnh, ác nhân ngọt (Chloria), phản diện lố (Ross, Hentai ZERO), giọng ban ơn (Thành chủ), giọng giảng đường vô lý (thầy phòng y tế cô học viện), meta phá tường thứ tư (Giọng của Thần, Thần Sói). Xen giữa là những đoạn bi kịch thật (Học viện, Di tích, Tinh linh Lửa, Galon, Torres, hậu truyện Thần Sói) cần giọng trầm, không đùa thêm, không làm nhẹ đi. Thế giới và tên người theo kiểu phương Tây; văn gốc là tiếng Trung khẩu ngữ mạng.",
+   "notes": "1) MÃ ĐIỀU KHIỂN: giữ nguyên tuyệt đối \\N[n] \\C[n] \\W[n] \\V[n] \\G \\{ \\} \\. \\| \\^ \\!, kể cả mã lỗi gốc ('\\C[2]\\N[12]', '\\C[3]\\C[18]\\C[0]', ký tự \\u001e). Riêng dấu '\\' lạc đứng trước chữ Hán ('\\安維爾', '\\千年樹精C') thì BỎ dấu '\\' khi dịch: MV không hiển thị nó, còn '\\' đặt trước chữ Latin sẽ nuốt chữ ('\\Chìa'). Kiểm định viên không bắt lỗi việc bỏ dấu này. \\. và \\^ đặt giữa từng âm để ngắt nhịp: giữ đúng số lượng, phân bố theo âm tiết tiếng Việt.\n2) TÊN ĐỘNG \\N[n] là tên Actor, được dịch một lần trong Actors.json. Có actor là danh từ chung: \\N[50]=Giọng của Thần, \\N[51]=Giáo viên, \\N[52]=Học viên, \\N[53]=Lính gác, \\N[54]=Tù nhân, \\N[55]=Dân làng, \\N[59]=Con Nô Hèn. Tiếng Việt đặt định ngữ SAU danh từ nên phải đảo vị trí mã: '帝國\\N[53]' → '\\N[53] Đế quốc', '\\N[53]們' → 'đám \\N[53]', '\\N[64]妹妹' → 'em \\N[64]', '\\N[13]大人' → '\\N[13] đại nhân'. Câu chứa \\N[1] phải đọc được cả khi \\N[1] bị đổi thành danh hiệu (tuyến nhà ngục). Câu chứa \\N[59] phải đọc trôi khi biến hiện thành 'Con Nô Hèn' ở mọi vị trí (chủ ngữ, tân ngữ, '…của \\N[59]').\n3) DẤU: '～' của gốc viết thành '~' đúng vị trí (font không có ～, hệ thống tự đổi; chữ ký giọng của Lilina, Succubus, Chloria, Trosi); '……'; ngoặc () cho độc thoại; 【】, 「」 nếu có. Chữ kéo dài từng âm ('Long~Ngâm~') thì đặt ~ sau mỗi tiếng.\n4) ĐỘC THOẠI （） là lòng thật của Lilina: giọng tự nhiên, sắc, hay chửi thầm, tương phản rõ với câu ngoài miệng.\n5) HAI BIẾN THỂ: cùng một cảnh có câu trong trắng và câu sa đọa thay nhau. Dịch song song, cùng cấu trúc.\n6) ĐỘ TUỔI: mọi nhân vật trong cảnh tình dục được trình bày là người trưởng thành. 少女 → 'cô gái/thiếu nữ'; không dùng 'bé gái, em bé, nhóc' trong cảnh tình dục; không thêm chi tiết gợi tuổi nhỏ. 學生/學院 → 'học viên'. Nếu gặp cảnh có dấu hiệu nhân vật vị thành niên (xem can_xac_nhan: Map186 少年, Seth) thì DỪNG, không dịch phần tình dục, báo chủ dự án.\n7) THANG TỪ TỤC (thống nhất, không nhẹ hơn, không tục hơn gốc): 肏 → 'đụ'; 干/做 → 'làm/chơi'; 肉棒 → 'cây gậy thịt' (Lilina e thẹn thì 'cái ấy'); 雞巴 → 'con cặc'; 淫穴 → 'lỗ dâm'; 小穴 → 'khe thịt/lỗ nhỏ' (KHÔNG 'cô bé'); 屁眼/菊穴 → 'lỗ đít/hoa cúc'; 精液 → 'tinh dịch/tinh'; 高潮 → 'lên đỉnh'; 丟了/要丟了 → 'ra… ra mất rồi'/'sắp ra rồi'; 母狗 → 'chó cái'; 母豬 → 'lợn nái'; 騷貨 → 'đồ dâm đãng'; 婊子 → 'con điếm'; 蕩婦 → 'con đĩ'; 癡女 → 'gái dâm'; 調教 → 'thuần hóa'.\n8) Tiếng rên, tượng thanh: Việt hóa ('A～', 'Ưm～', 'Hự'), độ dài tương đương. Lời bị bịt viết tắt bằng chữ Latin (Y/Z/D/S…) thì đổi sang lối đứt chữ tiếng Việt.\n9) Câu kích hoạt ám thị, tên ám thị, câu 'lẽ thường', câu niệm nô lệ: giống từng chữ ở mọi chỗ. Thuật ngữ UI (chỉ số, trạng thái, vật phẩm) khớp từng chữ với thoại có nhắc tới. Cảnh lặp và lựa chọn lặp dịch y hệt.\n10) Không lộ trước bí mật: Hiller là Tướng quỷ, Berika là thủ phạm, Owen chủ mưu, Cospiro là lính đánh thuê, tên thật Succubus, Long Ngâm chết, '？？？' là cái bóng của Thành chủ, Jude hai mặt, ý đồ của Luna.\n11) Lỗi gõ trong gốc thì dịch theo nghĩa đúng: 期約→契約, 不馬→不是馬, 別看玩笑→別開玩笑, 把持住→沒把持住, 繞/求繞→饒, 差不過→差不多, 難倒→難道, 無亂→無論, 踐習→實踐, 堵住→賭注, 亦然→依然, 試者→試著, 正視→正式, 識實物→識時務, 好想→好像, 會去→回去, 不削→不屑, 我先在→我現在, 在來→再來, 遍離開→便離開, 大副→大幅, 窮北→窮唄, 處于→出于, 再司機→再伺機. 'Nromal End' → 'Normal End' (chờ duyệt).\n12) Meta và quảng cáo (Giọng của Thần, Patreon, Tamamo, 'phần sau sẽ làm', 'các quý ông') dịch đủ, giữ giọng tác giả. '(未完成)' → '(Chưa hoàn thành)'.\n13) Nhãn người nói có thể bị gán nhầm (xem can_xac_nhan): dịch theo ngữ cảnh, không sửa nhãn trong dữ liệu.",
+   "strategy": {
+    "han_viet": "Mức VỪA PHẢI. Thoại đời thường, cà khịa, chửi bới và cảnh H dùng tiếng Việt khẩu ngữ, thuần Việt, gần lối nói người trẻ. Hán-Việt dành cho tên thánh vật, chiêu thức, danh hiệu, chức vị, thuật ngữ huyền huyễn (Tinh thể Thần Nước, Ngọc Lửa Rực, Cuồng Nộ Của Đất, Mắt Quỷ, Dấu ấn linh hồn, Vua Succubus, Kiếm Thánh Gió, Cánh Đen, Thành chủ, thần lực, phép cấm, kết giới, dị loài, lẽ thường, thuần hóa). Xưng hô Hán-Việt chỉ dùng cho nhân vật được chỉ định, để tạo giọng hoặc nhại: Eros (吾/汝 → 'bổn vương/ta – ngươi/nàng/ái phi'), Thành chủ Jon ('bổn vương'), Sax ('lão phu'), lính đánh thuê ('bổn đại gia'), tên lính đánh thuê sến kiểu kiếm hiệp, Hentai ZERO hô chiêu. Không dùng 'tại hạ', 'nô gia', 'bổn cô nương' cho Lilina hay nô lệ. Thành ngữ Hán đổi sang thành ngữ Việt tương đương; câu tao nhã dùng mỉa ('Một khắc đêm xuân đáng ngàn vàng') thì giữ câu Hán-Việt quen thuộc.",
+    "wordplay": "Giữ TÁC DỤNG, không giữ chữ, và không thêm câu đùa mới. 性福/幸福 → 'hạnh phịch'/'hạnh phúc', thống nhất cả game (xem handbook). 出來賣/外賣 → 'gái ra đường bán'/'gái giao hàng tận nơi'. 菊花 → 'hoa cúc'. Mật mã hoa giữ tên hoa và giá. 骯臟的屁眼交易 → 'phi vụ đi cửa sau dơ bẩn'. 風之劍圣/蜂之劍圣 → 'Kiếm Thánh Gió'/'Kiếm Thánh Ong'. 出色 tách 色 → 'xuất \"sắc\"'. 回籠昏 → 'ngất nướng'. Câu lỡ miệng, vấp chữ ('賤……\\N[59]', chữ tục lọt giữa câu) phải dựng lại cú vấp bằng tiếng Việt. Lóng mạng: 泰迪 → 'Teddy' (để giọng mỉa tự gánh nghĩa), 抖S → 'S chính hiệu/máu S', 黑暗料理 → 'món hắc ám'. Meme dùng bản Việt quen thuộc (Đại thoại Tây du theo bản lồng tiếng; 'đầu gối trúng tên' bám sát Skyrim). Nhịp hài: giữ '……' đúng chỗ bị cắt ('cảm ơ… Á!'); cặp mắng nhau giữ nhịp ngắn ('Đồ óc heo!', 'Đồ lợn ngu!'). Chơi chữ không có đối ứng thì viết câu Việt có cùng tác dụng, ngắn bằng hoặc ngắn hơn gốc, không chú thích.",
+    "poetry": "Hầu như không có thơ vần. Văn nghi thức cần dịch cố định: (a) công thức ám thị 'Học ma pháp hệ X thì…, đó là lẽ thường' / 'Dùng phép hệ X nghĩa là phải…'; (b) câu kích hoạt 'Có việc gì muốn làm không?' / 'Nói thật đi'; (c) câu niệm nô lệ Torres và '(\\N[59] là một con chó cái x N)'; (d) khẩu quyết bốn bước 'Cảm nhận nó, khống chế nó, hội tụ nó, giải phóng nó!' và châm ngôn giả của các hệ; (e) lời thề hôn lễ (Map119 với \\N[11]; Map135 bản nhại bẻ vế cuối thành 'mãi mãi phục tùng') theo văn lời thề cưới Công giáo quen thuộc; (f) màn xưng danh Hentai ZERO theo kiểu tokusatsu; (g) đoạn nhại Đại thoại Tây du ở Good End A; (h) lời chào chung của tinh linh giữ đền 'Nhân loại kia～ Đây không phải nơi ngươi nên đến!'; (i) câu kiếm hiệp và bài 'ca' rượu của tên lính đánh thuê; (j) lời kết sử thi của các bad end: giọng biên niên trang trọng, nhịp chậm; (k) tên chiêu Latin Zapfkiel / Aleph giữ nguyên.",
+    "names": "Chưa có bản Việt chính thức; tên tiếng Anh chính thức mới xác nhận Lilina, Aisha (tên DLC) và tên game Cursed Armor. Bản EN có tồn tại nên ưu tiên đối chiếu Steam EN trước khi khóa. Tạm dùng tên phương Tây viết Latin theo phiên âm hợp lý: Hiller, Simelia, Meili, Roger, Melissa, Lucia, Berika, Owen, Cospiro, Jon, Chloria, Trosi, Jude, Sanga, Resk, Sax, Shirley, Ross, Roster, Bigas, Charlo, Rant, Miller, Hart, Wendy, Jack, Darren, Nell, Lydis, Robert, Luna, Nicole, Lilith, Lisa, Lorin, James, Loki, Loken, Fitch, Matt, Galen, Galon, Sophia, Eros, Shuria, Dale, Seth, Nestra. Tên gốc Á dùng Hán-Việt: 龍吟 → Long Ngâm, 白雪 → Bạch Tuyết. Biệt danh mang nghĩa thì dịch nghĩa: 黑泰迪 → Teddy Đen, 金絲雀 → Hoàng Yến, 紅松鼠 → Sóc Đỏ, 白銀狐 → Cáo Bạc, 賤奴 → Con Nô Hèn. Khách mời giữ tên fandom quen dùng (Tamamo-no-Mae, Asuna, Ram, Rem, Tokisaki Kurumi, Nero, Okita Souji…). Nhãn người nói là danh từ chung thì dịch nghĩa (守衛 → Lính gác, 村民1 → Dân làng 1, 男人A → Gã A, 傭兵B → Lính đánh thuê B), riêng ？？？ giữ nguyên. Nhãn phải khớp tên actor tương ứng. Đặt tên một lần trong glossary và không đổi giữa chừng."
+   }
+  },
+  "work": {
+   "premise": "JRPG người lớn của wolfzq. Lilina, pháp sư hệ Hỏa ngây thơ, mơ thành mạo hiểm giả vĩ đại. Cô bị ép đội Vương miện Nguyền Rủa của Chúa tể Succubus Eros, trong giáp có Succubus trú ngụ, vừa giúp vừa xúi cô sa ngã. Muốn cởi giáp, cô phải tìm sáu thánh vật qua hàng chục tuyến rẽ nhánh: Hội mạo hiểm, nhà ngục, học viện, thành nô lệ Torres, trường đua kỳ lân, hang bọ. Cái hay: mỗi cảnh có hai giọng (trong trắng/sa đọa); độc thoại trong ngoặc tỉnh táo, cà khịa, trái hẳn lời phục tùng ngoài miệng; hài tự vả, meta; và những cú phản bội từ chính người cô tin."
+  }
+ },
+ "adult": true,
+ "payload": {
+  "lang": "Ngôn ngữ nguồn: tiếng Trung → tiếng Việt.",
+  "characters": [
+   {
+    "id": "james",
+    "names": [
+     "詹姆士",
+     "\\N[47]"
+    ],
+    "name_vi": "James",
+    "gender": "nam",
+    "role": "Con trai độc nhất gia tộc William (thương gia giàu nhất thế giới), vị hôn phu, chủ lâu đài đặt ra 'Thử thách cô dâu'",
+    "personality": "Lịch thiệp, hào phóng, sến, chiếm hữu và kiểm soát, đa nghi về tình yêu, xuất sớm và liệt dương, dễ nổi khùng",
+    "speech_style": "Lịch sự 'cô \\N[1]', 'em yêu'; dùng lời đạo đức tình yêu để thao túng; khi giận thì la toáng",
+    "catchphrases": [
+     "你們女人都是騙子！我再也不相信女人了！ → Đàn bà các người toàn đồ dối trá! Tôi không bao giờ tin đàn bà nữa!",
+     "我就知道 → Anh biết ngay mà",
+     "但那都是謊言！\\{謊言！\\} → Nhưng tất cả đều là dối trá! \\{Dối trá!\\}"
+    ],
+    "comedic_role": "Công tử đáng thương, kẻ thao túng sến súa",
+    "self": "tôi → anh"
+   },
+   {
+    "id": "lilina",
+    "names": [
+     "莉莉娜",
+     "\\N[1]",
+     "Lilina",
+     "\\N[59] (tự xưng khi làm nô lệ)",
+     "\\N[61] (Teddy Đen, tên chó Thành chủ ban)",
+     "\\W[3]",
+     "獵天使",
+     "會長夫人",
+     "夫人",
+     "火的魔女",
+     "水的魔女",
+     "烈焰的魔女",
+     "特等生",
+     "小綿羊",
+     "癡女幽靈",
+     "吸精魔女",
+     "圣女",
+     "王妃",
+     "苗床",
+     "活體人偶",
+     "附屬品",
+     "亞巴頓女王",
+     "亞巴頓女妖",
+     "萬物之母",
+     "性奴隸",
+     "\\N[1]（人偶）"
+    ],
+    "name_vi": "Lilina",
+    "gender": "nữ",
+    "age": "thiếu nữ trưởng thành (P15 ghi 20 tuổi); cựu học viên ưu tú Học viện Ma pháp",
+    "role": "Nữ chính. Pháp sư hệ Hỏa ('Phù thủy Lửa'), mạo hiểm giả bị Giáp Nguyền Rủa trói buộc, mang danh hiệu Thiên Sứ Săn Mồi",
+    "personality": "Hồn nhiên, mơ mộng, cứng đầu, có chính nghĩa, tốt bụng, mềm lòng, cả tin, dễ bị dỗ ngọt. Ham tiền ('Một triệu G～!'), lém lỉnh, tự đắc khi lừa được địch, tsundere với người mình thích. Rất sợ ma nhưng thích dọa người. Thông minh, biết suy luận. Bị lời nguyền, ám thị, thuốc chi phối thì buông thả, rồi lại tự trách và đổ cho giáp. Đặt vào thế 'chủ nhân' thì nổi máu S. Có tham vọng ngây ngô làm 'nữ vương'.",
+    "speech_style": "Giọng con gái trẻ, nhiều '～'. Lúc tỉnh táo thì gọn, đúng chất mạo hiểm giả. Độc thoại （） hay cãi lại chính lời vừa nói, mỉa mai, tham tiền, chửi thầm ('Cái logic chó má gì thế này?'). Khi sa đọa thì nũng nịu, kéo dài 'chủ～nhân～', xưng 'người ta' theo 人家. Trong vai nô lệ thì xưng \\N[59]; đóng vai chó thì chỉ 'Gâu～ gâu gâu～'. Khi sợ thì lắp bắp. Ở học viện ngây ngô '…lẽ thường sao…'. Làm búp bê: đều đều, xưng bằng tên. Đối đầu Thần Sói, Berika: đắc thắng, trêu chọc.",
+    "catchphrases": [
+     "要不是這該死的詛咒，我怎么會…… → Nếu không vì cái lời nguyền chết tiệt này, mình đâu có…",
+     "我在想什么呢！ → Mình đang nghĩ cái gì thế này!",
+     "精液～必須好好的收集起來～～ → Tinh dịch～ phải gom cho thật kỹ～～",
+     "我可是勵志要成為一個偉大的冒險家！ → Mình đã quyết chí thành một mạo hiểm giả vĩ đại cơ mà!",
+     "真是諷刺啊…… → Đúng là mỉa mai thật…",
+     "……沒有效果 → …Không có tác dụng",
+     "哼～\\N[13]，有我在，怎么可能讓你如愿！ → Hừ～ \\N[13], có tôi ở đây, đừng hòng được như ý!",
+     "是，主人 → Vâng, chủ nhân",
+     "常識……嗎…… → Thường thức… sao…",
+     "難道是喝多了嗎 → Chẳng lẽ lại say quá à?"
+    ],
+    "comedic_role": "Kẻ tự vả, tự sửa lời ('cảm ơ… Á!'); người tỉnh táo cà khịa trong đầu, trái với lời phục tùng ngoài miệng; tsukkomi tỉnh bơ trước các trò lố; con bạc ảo tưởng; bị lừa bằng 'lẽ thường'",
+    "arc": "Mỗi tuyến một kiểu sa ngã (nô lệ vĩnh viễn, phu nhân giả, búp bê sống, vợ trùng, vợ thú, nữ yêu, Nữ vương), nhánh thiện thì giữ được ước mơ. Niềm tin vào Cha xứ sụp ở Map100, vào Owen sụp ở Map133. Với Long Ngâm: yêu, rồi mất, hoặc dùng tình yêu phá phép cấm. Với Aisha: từ khinh miệt đến nhường ngôi. Cuối cùng chọn vị trí nữ vương.",
+    "self": "tôi (với người ngoài, khi tỉnh táo); mình (độc thoại trong （）); em/con/cháu tùy người nghe (xem relations); 'người ta' khi gốc dùng 人家; giữ \\N[59] khi gốc dùng \\N[59]; 'ta' khi ở tư thế nữ vương, đối đầu Thần Sói/Berika, ra lệnh cho Succubus hoặc Vua Côn Trùng",
+    "forbid": [
+     "bé, nhóc, em bé (cho cô)",
+     "tao",
+     "bổn cô nương",
+     "nô gia",
+     "ta (trừ khi bị nhập xác hoặc ở tư thế nữ vương như trên)",
+     "tự ý đổi \\N[59] thành 'tôi/em' hoặc ngược lại"
+    ],
+    "note": "\\N[1] có thể bị đổi thành danh hiệu ở tuyến nhà ngục. Câu sửa lời là điểm kịch: 'Tiện… \\N[59] hiểu rồi' (Map139), Sax cấm cô xưng \\N[59] (Map085). Câu 'là, tiện…' rồi chữa thành 'tôi' phải khớp chữ 'Con Nô Hèn'. Ở Map154 (đã tự do) cô xưng 'tôi'. \\N[61] là tên riêng nhưng chỉ chính Lilina."
+   }
+  ],
+  "relations": [
+   {
+    "from": "james",
+    "to": "lilina",
+    "self": "tôi → anh",
+    "call": "cô \\N[1] → em (親愛的: em yêu)",
+    "changes": "Lúc mới quen thì lịch sự tôi–cô \\N[1]; từ khi thành vị hôn phu (bắt đầu gọi 親愛的) thì chuyển hẳn sang anh–em yêu/em, kể cả lúc nổi khùng.",
+    "note": "Cậu ấm lịch thiệp lúc đầu giữ phép, khi đã đính hôn thì xưng anh để thể hiện chiếm hữu ngọt ngào. [biên tập trưởng độc lập, 02/11]"
+   },
+   {
+    "from": "lilina",
+    "to": "james",
+    "self": "tôi → em",
+    "call": "ngài \\N[47] → anh \\N[47] (先生); lúc tình tứ: anh",
+    "changes": "Cùng mốc đính hôn với James: từ tôi–ngài \\N[47] chuyển sang em–anh; 先生 sau mốc này dịch là 'anh \\N[47]'.",
+    "note": "Lúc đầu là người lạ giàu có nên 'tôi' là hợp lý; sau khi thành hôn phu thê thì em–anh. [biên tập trưởng độc lập, 02/11]"
+   }
+  ],
+  "glossary": [
+   {
+    "src": "威廉家族",
+    "vi": "gia tộc William"
+   },
+   {
+    "src": "侍寢 / 侍奉",
+    "vi": "hầu ngủ / hầu hạ"
+   },
+   {
+    "src": "貞操帶 / 魔鋼貞操帶 / 軟化 / 硬化",
+    "vi": "đai trinh tiết / đai trinh tiết thép ma thuật / làm mềm / làm cứng"
+   },
+   {
+    "src": "蛇女三姐妹 / 蛇女A/B/C",
+    "vi": "ba chị em Người rắn / Nữ Rắn A/B/C"
+   }
+  ],
+  "handbook": [
+   {
+    "src": "早泄，并且陽痿……",
+    "type": "buột miệng",
+    "meaning": "Chẩn đoán James",
+    "vi": "Xuất sớm… mà còn liệt nữa… (lí nhí)"
+   }
+  ],
+  "scene": {
+   "effect": "cười",
+   "mood": "hài, đáng thương",
+   "summary": "Cảnh H với James: anh xuất sớm, không cương lại được. Anh tự xưng là con trai độc nhất nhà William và bắt cô mặc đai trinh tiết thề trung thành; cô có thể chấp nhận hoặc từ chối. Tỉnh rượu, cô không nhớ gì."
+  },
+  "lines": [
+   {
+    "id": "0",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n⟦3⟧⟦4⟧⟦5⟧，好舒服～",
+    "sp": "lilina"
+   },
+   {
+    "id": "1",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n⟦3⟧⟦4⟧⟦5⟧，你的洞里也讓我很舒服～",
+    "sp": "james"
+   },
+   {
+    "id": "2",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n啊～～啊～⟦3⟧⟦4⟧⟦5⟧，還要～再快～",
+    "sp": "lilina"
+   },
+   {
+    "id": "3",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n不行，我……我忍不住的！",
+    "sp": "james"
+   },
+   {
+    "id": "4",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n啊～～啊～～好舒服～～～",
+    "sp": "lilina"
+   },
+   {
+    "id": "5",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n怎……怎么停下了？結束了嗎？",
+    "sp": "lilina"
+   },
+   {
+    "id": "6",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n對不起……太舒服了，我有點把持住……",
+    "sp": "james"
+   },
+   {
+    "id": "7",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n沒關系，再來嘛～快～～讓我幫你……",
+    "sp": "lilina"
+   },
+   {
+    "id": "8",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n不！不行的！我做完一次后會難再硬的……",
+    "sp": "james"
+   },
+   {
+    "id": "9",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n⟦3⟧早泄，并且陽痿……⟦4⟧",
+    "sp": "lilina"
+   },
+   {
+    "id": "10",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n對不起……對不起……我……",
+    "sp": "james"
+   },
+   {
+    "id": "11",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n我不是那個意思，沒關系，讓我來試試幫你變硬吧～",
+    "sp": "lilina"
+   },
+   {
+    "id": "12",
+    "k": "dialogue",
+    "s": "之后，無論⟦0⟧⟦1⟧⟦2⟧怎么努力，都未能讓⟦3⟧⟦4⟧⟦5⟧重整雄風……"
+   },
+   {
+    "id": "13",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n這樣都硬不起來，真可憐……",
+    "sp": "lilina"
+   },
+   {
+    "id": "14",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n對不起……",
+    "sp": "james"
+   },
+   {
+    "id": "15",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n對了，⟦3⟧⟦4⟧⟦5⟧，你的性欲很強嗎？",
+    "sp": "james"
+   },
+   {
+    "id": "16",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n嗯，雖然有些特別的原因，但確實比較強",
+    "sp": "lilina"
+   },
+   {
+    "id": "17",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n我明白了，來，把這個穿上！",
+    "sp": "james"
+   },
+   {
+    "id": "18",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n這是……貞操帶？",
+    "sp": "lilina"
+   },
+   {
+    "id": "19",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n是的，我們家族的女人絕對不可以去侍奉其他男人，所以，為了我們的幸福，你必須穿上它",
+    "sp": "james"
+   },
+   {
+    "id": "20",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n那個……我……我只是一時……所以……對，對不起……",
+    "sp": "lilina"
+   },
+   {
+    "id": "21",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n一時？你不是說喜歡我嗎？難道你是在騙我？",
+    "sp": "james"
+   },
+   {
+    "id": "22",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n不，不是你想的那樣……我……",
+    "sp": "lilina"
+   },
+   {
+    "id": "23",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n酒后吐真言，我相信你是愛我的！我也就不瞞著你了，我是威廉家族的獨子……",
+    "sp": "james"
+   },
+   {
+    "id": "24",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n威廉家族？！那個世界最有錢的富商？",
+    "sp": "lilina"
+   },
+   {
+    "id": "25",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n是的，所以，如果你想要成為我們家族的一員，對我就必須絕對的忠誠",
+    "sp": "james"
+   },
+   {
+    "id": "26",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n可是，我的性欲……",
+    "sp": "lilina"
+   },
+   {
+    "id": "27",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n請相信我！為了你，我一定可以變強的！只要你能成為我的女人，就可以享盡榮華富貴！",
+    "sp": "james"
+   },
+   {
+    "id": "28",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n難……難以拒絕啊……",
+    "sp": "lilina"
+   },
+   {
+    "id": "29",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n我就知道你會考慮的！怎么樣～只要你穿上這條貞操帶，宣誓忠誠后就可以成為這個世界上最富有的女人！",
+    "sp": "james"
+   },
+   {
+    "id": "30",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n我……",
+    "sp": "lilina"
+   },
+   {
+    "id": "31",
+    "k": "choice",
+    "s": "⟦0⟧宣誓忠誠⟦1⟧"
+   },
+   {
+    "id": "32",
+    "k": "choice",
+    "s": "⟦0⟧放棄機會⟦1⟧"
+   },
+   {
+    "id": "33",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n我愿意～請為我穿上忠誠的證明吧～",
+    "sp": "lilina"
+   },
+   {
+    "id": "34",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n太好了，這下我就放心了！",
+    "sp": "james"
+   },
+   {
+    "id": "35",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n我還有點事要出門，你就在這好好睡一覺吧～",
+    "sp": "james"
+   },
+   {
+    "id": "36",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n嗯！",
+    "sp": "lilina"
+   },
+   {
+    "id": "37",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n呃，頭昏昏的……這是哪？我好像喝醉了……",
+    "sp": "lilina"
+   },
+   {
+    "id": "38",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n唉？！我怎么戴上了貞操帶？醉酒期間到底發生了什么……可惡，完全想不起來……",
+    "sp": "lilina"
+   },
+   {
+    "id": "39",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n頭真疼，再睡會吧……等好點了再去找⟦3⟧⟦4⟧⟦5⟧問問……",
+    "sp": "lilina"
+   },
+   {
+    "id": "40",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n對不起……",
+    "sp": "lilina"
+   },
+   {
+    "id": "41",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n好吧，我明白了……你走吧！這真是個讓我傷心的地方，明天就離開這里！",
+    "sp": "james"
+   },
+   {
+    "id": "42",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n對不起……",
+    "sp": "lilina"
+   }
+  ]
+ },
+ "meta": [
+  {
+   "speaker": "莉莉娜",
+   "face": "lilina2",
+   "codes": [
+    "\\C[6]",
+    "\\N[1]",
+    "\\C[0]",
+    "\\C[3]",
+    "\\N[47]",
+    "\\C[0]"
+   ],
+   "source": "\\C[6]\\N[1]\\C[0]：\n\\C[3]\\N[47]\\C[0]，好舒服～",
+   "ban_hien_tai": "\\C[6]\\N[1]\\C[0]:\n\\C[3]\\N[47]\\C[0], sướng quá~"
+  },
+  {
+   "speaker": "詹姆士",
+   "face": null,
+   "codes": [
+    "\\C[3]",
+    "\\N[47]",
+    "\\C[0]",
+    "\\C[6]",
+    "\\N[1]",
+    "\\C[0]"
+   ],
+   "source": "\\C[3]\\N[47]\\C[0]：\n\\C[6]\\N[1]\\C[0]，你的洞里也讓我很舒服～",
+   "ban_hien_tai": "\\C[3]\\N[47]\\C[0]:\n\\C[6]\\N[1]\\C[0], bên trong em cũng làm anh sướng lắm~"
+  },
+  {
+   "speaker": "莉莉娜",
+   "face": "lilina2",
+   "codes": [
+    "\\C[6]",
+    "\\N[1]",
+    "\\C[0]",
+    "\\C[3]",
+    "\\N[47]",
+    "\\C[0]"
+   ],
+   "source": "\\C[6]\\N[1]\\C[0]：\n啊～～啊～\\C[3]\\N[47]\\C[0]，還要～再快～",
+   "ban_hien_tai": "\\C[6]\\N[1]\\C[0]:\nA~~ A~ \\C[3]\\N[47]\\C[0], nữa~ nhanh nữa~"
+  },
+  {
+   "speaker": "詹姆士",
+   "face": null,
+   "codes": [
+    "\\C[3]",
+    "\\N[47]",
+    "\\C[0]"
+   ],
+   "source": "\\C[3]\\N[47]\\C[0]：\n不行，我……我忍不住的！",
+   "ban_hien_tai": "\\C[3]\\N[47]\\C[0]:\nKhông được, anh… anh không nhịn nổi!"
+  },
+  {
+   "speaker": "莉莉娜",
+   "face": "lilina2",
+   "codes": [
+    "\\C[6]",
+    "\\N[1]",
+    "\\C[0]"
+   ],
+   "source": "\\C[6]\\N[1]\\C[0]：\n啊～～啊～～好舒服～～～",
+   "ban_hien_tai": "\\C[6]\\N[1]\\C[0]:\nA~~ A~~ sướng quá~~~"
+  },
+  {
+   "speaker": "莉莉娜",
+   "face": "lilina2",
+   "codes": [
+    "\\C[6]",
+    "\\N[1]",
+    "\\C[0]"
+   ],
+   "source": "\\C[6]\\N[1]\\C[0]：\n怎……怎么停下了？結束了嗎？",
+   "ban_hien_tai": "\\C[6]\\N[1]\\C[0]:\nSao… sao lại dừng? Xong rồi à?"
+  },
+  {
+   "speaker": "詹姆士",
+   "face": null,
+   "codes": [
+    "\\C[3]",
+    "\\N[47]",
+    "\\C[0]"
+   ],
+   "source": "\\C[3]\\N[47]\\C[0]：\n對不起……太舒服了，我有點把持住……",
+   "ban_hien_tai": "\\C[3]\\N[47]\\C[0]:\nXin lỗi… sướng quá, anh hơi không kìm được…"
+  },
+  {
+   "speaker": "莉莉娜",
+   "face": "lilina2",
+   "codes": [
+    "\\C[6]",
+    "\\N[1]",
+    "\\C[0]"
+   ],
+   "source": "\\C[6]\\N[1]\\C[0]：\n沒關系，再來嘛～快～～讓我幫你……",
+   "ban_hien_tai": "\\C[6]\\N[1]\\C[0]:\nKhông sao mà, lại nữa đi~ nhanh~~ để em giúp anh…"
+  },
+  {
+   "speaker": "詹姆士",
+   "face": null,
+   "codes": [
+    "\\C[3]",
+    "\\N[47]",
+    "\\C[0]"
+   ],
+   "source": "\\C[3]\\N[47]\\C[0]：\n不！不行的！我做完一次后會難再硬的……",
+   "ban_hien_tai": "\\C[3]\\N[47]\\C[0]:\nKhông! Không được đâu! Anh làm xong một lần là rất khó cứng lại…"
+  },
+  {
+   "speaker": "莉莉娜",
+   "face": "lilina2",
+   "codes": [
+    "\\C[6]",
+    "\\N[1]",
+    "\\C[0]",
+    "\\}",
+    "\\{"
+   ],
+   "source": "\\C[6]\\N[1]\\C[0]：\n\\}早泄，并且陽痿……\\{",
+   "ban_hien_tai": "\\C[6]\\N[1]\\C[0]:\n\\}Xuất sớm… mà còn liệt nữa……\\{"
+  },
+  {
+   "speaker": "詹姆士",
+   "face": null,
+   "codes": [
+    "\\C[3]",
+    "\\N[47]",
+    "\\C[0]"
+   ],
+   "source": "\\C[3]\\N[47]\\C[0]：\n對不起……對不起……我……",
+   "ban_hien_tai": "\\C[3]\\N[47]\\C[0]:\nXin lỗi… xin lỗi… anh…"
+  },
+  {
+   "speaker": "莉莉娜",
+   "face": "lilina2",
+   "codes": [
+    "\\C[6]",
+    "\\N[1]",
+    "\\C[0]"
+   ],
+   "source": "\\C[6]\\N[1]\\C[0]：\n我不是那個意思，沒關系，讓我來試試幫你變硬吧～",
+   "ban_hien_tai": "\\C[6]\\N[1]\\C[0]:\nEm không có ý đó, không sao đâu, để em thử giúp anh cứng lại nhé~"
+  },
+  {
+   "speaker": null,
+   "face": null,
+   "codes": [
+    "\\C[6]",
+    "\\N[1]",
+    "\\C[0]",
+    "\\C[3]",
+    "\\N[47]",
+    "\\C[0]"
+   ],
+   "source": "之后，無論\\C[6]\\N[1]\\C[0]怎么努力，都未能讓\\C[3]\\N[47]\\C[0]重整雄風……",
+   "ban_hien_tai": "Sau đó, dù \\C[6]\\N[1]\\C[0] có cố gắng thế nào, cũng không thể giúp \\C[3]\\N[47]\\C[0] lấy lại hùng phong……"
+  },
+  {
+   "speaker": "莉莉娜",
+   "face": "lilina2",
+   "codes": [
+    "\\C[6]",
+    "\\N[1]",
+    "\\C[0]"
+   ],
+   "source": "\\C[6]\\N[1]\\C[0]：\n這樣都硬不起來，真可憐……",
+   "ban_hien_tai": "\\C[6]\\N[1]\\C[0]:\nThế này mà vẫn không cứng nổi, tội nghiệp thật……"
+  },
+  {
+   "speaker": "詹姆士",
+   "face": null,
+   "codes": [
+    "\\C[3]",
+    "\\N[47]",
+    "\\C[0]"
+   ],
+   "source": "\\C[3]\\N[47]\\C[0]：\n對不起……",
+   "ban_hien_tai": "\\C[3]\\N[47]\\C[0]:\nXin lỗi……"
+  },
+  {
+   "speaker": "詹姆士",
+   "face": null,
+   "codes": [
+    "\\C[3]",
+    "\\N[47]",
+    "\\C[0]",
+    "\\C[6]",
+    "\\N[1]",
+    "\\C[0]"
+   ],
+   "source": "\\C[3]\\N[47]\\C[0]：\n對了，\\C[6]\\N[1]\\C[0]，你的性欲很強嗎？",
+   "ban_hien_tai": "\\C[3]\\N[47]\\C[0]:\nÀ phải, \\C[6]\\N[1]\\C[0], ham muốn của em mạnh lắm hả?"
+  },
+  {
+   "speaker": "莉莉娜",
+   "face": "lilina2",
+   "codes": [
+    "\\C[6]",
+    "\\N[1]",
+    "\\C[0]"
+   ],
+   "source": "\\C[6]\\N[1]\\C[0]：\n嗯，雖然有些特別的原因，但確實比較強",
+   "ban_hien_tai": "\\C[6]\\N[1]\\C[0]:\nƯm, tuy có vài lý do đặc biệt, nhưng đúng là khá mạnh"
+  },
+  {
+   "speaker": "詹姆士",
+   "face": null,
+   "codes": [
+    "\\C[3]",
+    "\\N[47]",
+    "\\C[0]"
+   ],
+   "source": "\\C[3]\\N[47]\\C[0]：\n我明白了，來，把這個穿上！",
+   "ban_hien_tai": "\\C[3]\\N[47]\\C[0]:\nAnh hiểu rồi, nào, mặc cái này vào!"
+  },
+  {
+   "speaker": "莉莉娜",
+   "face": "lilina2",
+   "codes": [
+    "\\C[6]",
+    "\\N[1]",
+    "\\C[0]"
+   ],
+   "source": "\\C[6]\\N[1]\\C[0]：\n這是……貞操帶？",
+   "ban_hien_tai": "\\C[6]\\N[1]\\C[0]:\nĐây là… đai trinh tiết?"
+  },
+  {
+   "speaker": "詹姆士",
+   "face": null,
+   "codes": [
+    "\\C[3]",
+    "\\N[47]",
+    "\\C[0]"
+   ],
+   "source": "\\C[3]\\N[47]\\C[0]：\n是的，我們家族的女人絕對不可以去侍奉其他男人，所以，為了我們的幸福，你必須穿上它",
+   "ban_hien_tai": "\\C[3]\\N[47]\\C[0]:\nĐúng vậy, phụ nữ nhà anh tuyệt đối không được hầu hạ đàn ông khác, nên vì hạnh phúc của chúng ta, em phải mặc nó"
+  },
+  {
+   "speaker": "莉莉娜",
+   "face": "lilina2",
+   "codes": [
+    "\\C[6]",
+    "\\N[1]",
+    "\\C[0]"
+   ],
+   "source": "\\C[6]\\N[1]\\C[0]：\n那個……我……我只是一時……所以……對，對不起……",
+   "ban_hien_tai": "\\C[6]\\N[1]\\C[0]:\nCái đó… em… em chỉ là nhất thời thôi… nên… xin… xin lỗi anh……"
+  },
+  {
+   "speaker": "詹姆士",
+   "face": null,
+   "codes": [
+    "\\C[3]",
+    "\\N[47]",
+    "\\C[0]"
+   ],
+   "source": "\\C[3]\\N[47]\\C[0]：\n一時？你不是說喜歡我嗎？難道你是在騙我？",
+   "ban_hien_tai": "\\C[3]\\N[47]\\C[0]:\nNhất thời? Chẳng phải em nói thích anh sao? Chẳng lẽ em đang lừa anh?"
+  },
+  {
+   "speaker": "莉莉娜",
+   "face": "lilina2",
+   "codes": [
+    "\\C[6]",
+    "\\N[1]",
+    "\\C[0]"
+   ],
+   "source": "\\C[6]\\N[1]\\C[0]：\n不，不是你想的那樣……我……",
+   "ban_hien_tai": "\\C[6]\\N[1]\\C[0]:\nKhông, không phải như anh nghĩ đâu… em…"
+  },
+  {
+   "speaker": "詹姆士",
+   "face": null,
+   "codes": [
+    "\\C[3]",
+    "\\N[47]",
+    "\\C[0]"
+   ],
+   "source": "\\C[3]\\N[47]\\C[0]：\n酒后吐真言，我相信你是愛我的！我也就不瞞著你了，我是威廉家族的獨子……",
+   "ban_hien_tai": "\\C[3]\\N[47]\\C[0]:\nRượu vào lời ra, anh tin em yêu anh! Vậy anh cũng không giấu em nữa, anh là con trai độc nhất của gia tộc William……"
+  },
+  {
+   "speaker": "莉莉娜",
+   "face": "lilina2",
+   "codes": [
+    "\\C[6]",
+    "\\N[1]",
+    "\\C[0]"
+   ],
+   "source": "\\C[6]\\N[1]\\C[0]：\n威廉家族？！那個世界最有錢的富商？",
+   "ban_hien_tai": "\\C[6]\\N[1]\\C[0]:\nGia tộc William?! Nhà thương gia giàu nhất thế giới đó á?"
+  },
+  {
+   "speaker": "詹姆士",
+   "face": null,
+   "codes": [
+    "\\C[3]",
+    "\\N[47]",
+    "\\C[0]"
+   ],
+   "source": "\\C[3]\\N[47]\\C[0]：\n是的，所以，如果你想要成為我們家族的一員，對我就必須絕對的忠誠",
+   "ban_hien_tai": "\\C[3]\\N[47]\\C[0]:\nĐúng vậy, nên nếu em muốn trở thành người của gia tộc, thì với anh em phải tuyệt đối trung thành"
+  },
+  {
+   "speaker": "莉莉娜",
+   "face": "lilina2",
+   "codes": [
+    "\\C[6]",
+    "\\N[1]",
+    "\\C[0]"
+   ],
+   "source": "\\C[6]\\N[1]\\C[0]：\n可是，我的性欲……",
+   "ban_hien_tai": "\\C[6]\\N[1]\\C[0]:\nNhưng mà, ham muốn của em……"
+  },
+  {
+   "speaker": "詹姆士",
+   "face": null,
+   "codes": [
+    "\\C[3]",
+    "\\N[47]",
+    "\\C[0]"
+   ],
+   "source": "\\C[3]\\N[47]\\C[0]：\n請相信我！為了你，我一定可以變強的！只要你能成為我的女人，就可以享盡榮華富貴！",
+   "ban_hien_tai": "\\C[3]\\N[47]\\C[0]:\nHãy tin anh! Vì em, anh nhất định sẽ mạnh lên! Chỉ cần em trở thành người phụ nữ của anh, là được hưởng trọn vinh hoa phú quý!"
+  },
+  {
+   "speaker": "莉莉娜",
+   "face": "lilina2",
+   "codes": [
+    "\\C[6]",
+    "\\N[1]",
+    "\\C[0]"
+   ],
+   "source": "\\C[6]\\N[1]\\C[0]：\n難……難以拒絕啊……",
+   "ban_hien_tai": "\\C[6]\\N[1]\\C[0]:\nKhó… khó mà từ chối quá……"
+  },
+  {
+   "speaker": "詹姆士",
+   "face": null,
+   "codes": [
+    "\\C[3]",
+    "\\N[47]",
+    "\\C[0]"
+   ],
+   "source": "\\C[3]\\N[47]\\C[0]：\n我就知道你會考慮的！怎么樣～只要你穿上這條貞操帶，宣誓忠誠后就可以成為這個世界上最富有的女人！",
+   "ban_hien_tai": "\\C[3]\\N[47]\\C[0]:\nAnh biết em sẽ cân nhắc mà! Sao nào~ chỉ cần em mặc đai trinh tiết này, thề trung thành xong là thành người phụ nữ giàu nhất thế giới!"
+  },
+  {
+   "speaker": "莉莉娜",
+   "face": "lilina2",
+   "codes": [
+    "\\C[6]",
+    "\\N[1]",
+    "\\C[0]"
+   ],
+   "source": "\\C[6]\\N[1]\\C[0]：\n我……",
+   "ban_hien_tai": "\\C[6]\\N[1]\\C[0]:\nEm……"
+  },
+  {
+   "speaker": null,
+   "face": null,
+   "codes": [
+    "\\C[4]",
+    "\\C[0]"
+   ],
+   "source": "\\C[4]宣誓忠誠\\C[0]",
+   "ban_hien_tai": "\\C[4]Thề trung thành\\C[0]"
+  },
+  {
+   "speaker": null,
+   "face": null,
+   "codes": [
+    "\\C[3]",
+    "\\C[0]"
+   ],
+   "source": "\\C[3]放棄機會\\C[0]",
+   "ban_hien_tai": "\\C[3]Bỏ lỡ cơ hội\\C[0]"
+  },
+  {
+   "speaker": "莉莉娜",
+   "face": "lilina2",
+   "codes": [
+    "\\C[6]",
+    "\\N[1]",
+    "\\C[0]"
+   ],
+   "source": "\\C[6]\\N[1]\\C[0]：\n我愿意～請為我穿上忠誠的證明吧～",
+   "ban_hien_tai": "\\C[6]\\N[1]\\C[0]:\nEm đồng ý~ xin hãy đeo bằng chứng trung thành cho em đi~"
+  },
+  {
+   "speaker": "詹姆士",
+   "face": null,
+   "codes": [
+    "\\C[3]",
+    "\\N[47]",
+    "\\C[0]"
+   ],
+   "source": "\\C[3]\\N[47]\\C[0]：\n太好了，這下我就放心了！",
+   "ban_hien_tai": "\\C[3]\\N[47]\\C[0]:\nTuyệt quá, thế này anh yên tâm rồi!"
+  },
+  {
+   "speaker": "詹姆士",
+   "face": null,
+   "codes": [
+    "\\C[3]",
+    "\\N[47]",
+    "\\C[0]"
+   ],
+   "source": "\\C[3]\\N[47]\\C[0]：\n我還有點事要出門，你就在這好好睡一覺吧～",
+   "ban_hien_tai": "\\C[3]\\N[47]\\C[0]:\nAnh có chút việc phải ra ngoài, em cứ ở đây ngủ một giấc cho ngon nhé~"
+  },
+  {
+   "speaker": "莉莉娜",
+   "face": "lilina2",
+   "codes": [
+    "\\C[6]",
+    "\\N[1]",
+    "\\C[0]"
+   ],
+   "source": "\\C[6]\\N[1]\\C[0]：\n嗯！",
+   "ban_hien_tai": "\\C[6]\\N[1]\\C[0]:\nDạ!"
+  },
+  {
+   "speaker": "莉莉娜",
+   "face": "lilina1",
+   "codes": [
+    "\\C[6]",
+    "\\N[1]",
+    "\\C[0]"
+   ],
+   "source": "\\C[6]\\N[1]\\C[0]：\n呃，頭昏昏的……這是哪？我好像喝醉了……",
+   "ban_hien_tai": "\\C[6]\\N[1]\\C[0]:\nƯ, đầu choáng quá…… đây là đâu vậy? Hình như mình say rồi……"
+  },
+  {
+   "speaker": "莉莉娜",
+   "face": "lilina1",
+   "codes": [
+    "\\C[6]",
+    "\\N[1]",
+    "\\C[0]"
+   ],
+   "source": "\\C[6]\\N[1]\\C[0]：\n唉？！我怎么戴上了貞操帶？醉酒期間到底發生了什么……可惡，完全想不起來……",
+   "ban_hien_tai": "\\C[6]\\N[1]\\C[0]:\nHả?! Sao mình lại đeo đai trinh tiết? Lúc say rốt cuộc đã xảy ra chuyện gì…… khốn thật, hoàn toàn không nhớ ra……"
+  },
+  {
+   "speaker": "莉莉娜",
+   "face": "lilina1",
+   "codes": [
+    "\\C[6]",
+    "\\N[1]",
+    "\\C[0]",
+    "\\C[3]",
+    "\\N[47]",
+    "\\C[0]"
+   ],
+   "source": "\\C[6]\\N[1]\\C[0]：\n頭真疼，再睡會吧……等好點了再去找\\C[3]\\N[47]\\C[0]問問……",
+   "ban_hien_tai": "\\C[6]\\N[1]\\C[0]:\nĐau đầu quá, ngủ thêm chút nữa vậy…… đợi đỡ hơn rồi đi hỏi \\C[3]\\N[47]\\C[0] xem sao……"
+  },
+  {
+   "speaker": "莉莉娜",
+   "face": "lilina2",
+   "codes": [
+    "\\C[6]",
+    "\\N[1]",
+    "\\C[0]"
+   ],
+   "source": "\\C[6]\\N[1]\\C[0]：\n對不起……",
+   "ban_hien_tai": "\\C[6]\\N[1]\\C[0]:\nXin lỗi anh……"
+  },
+  {
+   "speaker": "詹姆士",
+   "face": null,
+   "codes": [
+    "\\C[3]",
+    "\\N[47]",
+    "\\C[0]"
+   ],
+   "source": "\\C[3]\\N[47]\\C[0]：\n好吧，我明白了……你走吧！這真是個讓我傷心的地方，明天就離開這里！",
+   "ban_hien_tai": "\\C[3]\\N[47]\\C[0]:\nĐược rồi, anh hiểu…… Em đi đi! Nơi này thật khiến anh đau lòng, mai rời khỏi đây đi!"
+  },
+  {
+   "speaker": "莉莉娜",
+   "face": "lilina2",
+   "codes": [
+    "\\C[6]",
+    "\\N[1]",
+    "\\C[0]"
+   ],
+   "source": "\\C[6]\\N[1]\\C[0]：\n對不起……",
+   "ban_hien_tai": "\\C[6]\\N[1]\\C[0]:\nXin lỗi anh……"
+  }
+ ],
+ "checks": [
+  {
+   "line": 1,
+   "phai": [
+    "lỗ"
+   ],
+   "ghi_chu": "giữ độ thô của 洞"
+  },
+  {
+   "thang_18": true
+  }
+ ],
+ "tao_luc": "2026-11-02"
+}

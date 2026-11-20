@@ -1,0 +1,272 @@
+# Ứng viên tên/thuật ngữ đã quyết là không cần glossary. Mỗi dòng: '<gốc>  # lý do'.
+％Ａ  # nhãn người nói là mã biến tên, giữ nguyên
+％Ｂ  # nhãn người nói là mã biến tên, giữ nguyên
+＊Ｂ・春原  # nhãn người nói là mã biến tên, giữ nguyên
+＊Ｂ" & Misae"  # nhãn người nói là mã biến tên, giữ nguyên
+It  # từ thường/mảnh của cụm khác, không phải tên
+You  # từ thường/mảnh của cụm khác, không phải tên
+That  # từ thường/mảnh của cụm khác, không phải tên
+Okay  # từ thường/mảnh của cụm khác, không phải tên
+Yeah  # từ thường/mảnh của cụm khác, không phải tên
+So  # từ thường/mảnh của cụm khác, không phải tên
+Well  # từ thường/mảnh của cụm khác, không phải tên
+This  # từ thường/mảnh của cụm khác, không phải tên
+She  # từ thường/mảnh của cụm khác, không phải tên
+Is  # từ thường/mảnh của cụm khác, không phải tên
+Big  # từ thường/mảnh của cụm khác, không phải tên
+Family  # từ thường/mảnh của cụm khác, không phải tên
+Huh  # từ thường/mảnh của cụm khác, không phải tên
+Hey  # từ thường/mảnh của cụm khác, không phải tên
+He  # từ thường/mảnh của cụm khác, không phải tên
+Just  # từ thường/mảnh của cụm khác, không phải tên
+Eh  # từ thường/mảnh của cụm khác, không phải tên
+Are  # từ thường/mảnh của cụm khác, không phải tên
+Um  # từ thường/mảnh của cụm khác, không phải tên
+If  # từ thường/mảnh của cụm khác, không phải tên
+Please  # từ thường/mảnh của cụm khác, không phải tên
+Wait  # từ thường/mảnh của cụm khác, không phải tên
+Ah  # từ thường/mảnh của cụm khác, không phải tên
+We  # từ thường/mảnh của cụm khác, không phải tên
+Don  # từ thường/mảnh của cụm khác, không phải tên
+Do  # từ thường/mảnh của cụm khác, không phải tên
+My  # từ thường/mảnh của cụm khác, không phải tên
+Hm  # từ thường/mảnh của cụm khác, không phải tên
+Thank  # từ thường/mảnh của cụm khác, không phải tên
+Guess  # từ thường/mảnh của cụm khác, không phải tên
+There  # từ thường/mảnh của cụm khác, không phải tên
+Then  # từ thường/mảnh của cụm khác, không phải tên
+Sup  # từ thường/mảnh của cụm khác, không phải tên
+Let  # từ thường/mảnh của cụm khác, không phải tên
+God  # từ thường/mảnh của cụm khác, không phải tên
+Morning  # từ thường/mảnh của cụm khác, không phải tên
+Even  # từ thường/mảnh của cụm khác, không phải tên
+Maybe  # từ thường/mảnh của cụm khác, không phải tên
+In  # từ thường/mảnh của cụm khác, không phải tên
+Really  # từ thường/mảnh của cụm khác, không phải tên
+Japanese  # từ thường/mảnh của cụm khác, không phải tên
+English  # từ thường/mảnh của cụm khác, không phải tên
+Class  # từ thường/mảnh của cụm khác, không phải tên
+Founder  # từ thường/mảnh của cụm khác, không phải tên
+Onii  # từ thường/mảnh của cụm khác, không phải tên
+Onee  # từ thường/mảnh của cụm khác, không phải tên
+Fu  # từ thường/mảnh của cụm khác, không phải tên
+Tue  # từ thường/mảnh của cụm khác, không phải tên
+Wed  # từ thường/mảnh của cụm khác, không phải tên
+Sigh  # tượng thanh: theo sổ tay (sotay.md)
+Tap  # tượng thanh: theo sổ tay (sotay.md)
+Munch  # tượng thanh: theo sổ tay (sotay.md)
+Bam  # tượng thanh: theo sổ tay (sotay.md)
+Knock  # tượng thanh: theo sổ tay (sotay.md)
+Pant  # tượng thanh: theo sổ tay (sotay.md)
+Thud  # tượng thanh: theo sổ tay (sotay.md)
+Rattle  # tượng thanh: theo sổ tay (sotay.md)
+Clatter  # tượng thanh: theo sổ tay (sotay.md)
+Mon  # mảnh dòng ngày tháng / từ thường; ngày theo mục Mon. Tue.… trong glossary
+Thu  # mảnh dòng ngày tháng / từ thường; ngày theo mục Mon. Tue.… trong glossary
+Fri  # mảnh dòng ngày tháng / từ thường; ngày theo mục Mon. Tue.… trong glossary
+Sat  # mảnh dòng ngày tháng / từ thường; ngày theo mục Mon. Tue.… trong glossary
+Sun  # mảnh dòng ngày tháng / từ thường; ngày theo mục Mon. Tue.… trong glossary
+May  # mảnh dòng ngày tháng / từ thường; ngày theo mục Mon. Tue.… trong glossary
+Festival  # từ thường/mảnh của cụm khác, không phải tên
+All  # từ thường/mảnh của cụm khác, không phải tên
+Am  # từ thường/mảnh của cụm khác, không phải tên
+Can  # từ thường/mảnh của cụm khác, không phải tên
+Did  # từ thường/mảnh của cụm khác, không phải tên
+Now  # từ thường/mảnh của cụm khác, không phải tên
+Where  # từ thường/mảnh của cụm khác, không phải tên
+Who  # từ thường/mảnh của cụm khác, không phải tên
+Here  # từ thường/mảnh của cụm khác, không phải tên
+Agh  # từ thường/mảnh của cụm khác, không phải tên
+Good  # từ thường/mảnh của cụm khác, không phải tên
+Your  # từ thường/mảnh của cụm khác, không phải tên
+Does  # từ thường/mảnh của cụm khác, không phải tên
+As  # từ thường/mảnh của cụm khác, không phải tên
+Because  # từ thường/mảnh của cụm khác, không phải tên
+They  # từ thường/mảnh của cụm khác, không phải tên
+Nah  # từ thường/mảnh của cụm khác, không phải tên
+Of  # từ thường/mảnh của cụm khác, không phải tên
+Something  # từ thường/mảnh của cụm khác, không phải tên
+Could  # từ thường/mảnh của cụm khác, không phải tên
+Wha  # từ thường/mảnh của cụm khác, không phải tên
+Sorry  # từ thường/mảnh của cụm khác, không phải tên
+Nothing  # từ thường/mảnh của cụm khác, không phải tên
+World  # từ thường/mảnh của cụm khác, không phải tên
+Seriously  # từ thường/mảnh của cụm khác, không phải tên
+Thanks  # từ thường/mảnh của cụm khác, không phải tên
+Actually  # từ thường/mảnh của cụm khác, không phải tên
+Or  # từ thường/mảnh của cụm khác, không phải tên
+Like  # từ thường/mảnh của cụm khác, không phải tên
+Fine  # từ thường/mảnh của cụm khác, không phải tên
+For  # từ thường/mảnh của cụm khác, không phải tên
+Ugh  # từ thường/mảnh của cụm khác, không phải tên
+Hmm  # từ thường/mảnh của cụm khác, không phải tên
+Fish  # từ thường/mảnh của cụm khác, không phải tên
+Ga  # từ thường/mảnh của cụm khác, không phải tên
+Isn  # từ thường/mảnh của cụm khác, không phải tên
+Not  # từ thường/mảnh của cụm khác, không phải tên
+Apparently  # từ thường/mảnh của cụm khác, không phải tên
+Japan  # từ thường/mảnh của cụm khác, không phải tên
+Gah  # từ thường/mảnh của cụm khác, không phải tên
+Excuse  # từ thường/mảnh của cụm khác, không phải tên
+Didn  # từ thường/mảnh của cụm khác, không phải tên
+Phew  # từ thường/mảnh của cụm khác, không phải tên
+Right  # từ thường/mảnh của cụm khác, không phải tên
+When  # từ thường/mảnh của cụm khác, không phải tên
+Ding  # tượng thanh/cử chỉ: theo sổ tay (sotay.md)
+Yawn  # tượng thanh/cử chỉ: theo sổ tay (sotay.md)
+Click  # tượng thanh/cử chỉ: theo sổ tay (sotay.md)
+Nod  # tượng thanh/cử chỉ: theo sổ tay (sotay.md)
+Bang  # tượng thanh/cử chỉ: theo sổ tay (sotay.md)
+Whack  # tượng thanh/cử chỉ: theo sổ tay (sotay.md)
+Ppfffff  # tượng thanh/cử chỉ: theo sổ tay (sotay.md)
+Slide  # tượng thanh/cử chỉ: theo sổ tay (sotay.md)
+Ehehe  # tượng thanh/cử chỉ: theo sổ tay (sotay.md)
+Thunk  # tượng thanh/cử chỉ: theo sổ tay (sotay.md)
+Ka  # tượng thanh/cử chỉ: theo sổ tay (sotay.md)
+Flip  # tượng thanh/cử chỉ: theo sổ tay (sotay.md)
+Gulp  # tượng thanh/cử chỉ: theo sổ tay (sotay.md)
+Poke  # tượng thanh/cử chỉ: theo sổ tay (sotay.md)
+Skritch  # tượng thanh/cử chỉ: theo sổ tay (sotay.md)
+Pop  # tượng thanh/cử chỉ: theo sổ tay (sotay.md)
+Sniff  # tượng thanh/cử chỉ: theo sổ tay (sotay.md)
+Swoosh  # tượng thanh/cử chỉ: theo sổ tay (sotay.md)
+Plop  # tượng thanh/cử chỉ: theo sổ tay (sotay.md)
+Clap  # tượng thanh/cử chỉ: theo sổ tay (sotay.md)
+Shake  # tượng thanh/cử chỉ: theo sổ tay (sotay.md)
+Fillit  # chơi chữ, xử lý theo notes.md (0417)
+Salisbury  # thuộc cụm Salisbury steak
+Take  # từ thường/mảnh của cụm khác, không phải tên
+By  # từ thường/mảnh của cụm khác, không phải tên
+After  # từ thường/mảnh của cụm khác, không phải tên
+Erm  # từ thường/mảnh của cụm khác, không phải tên
+Hello  # từ thường/mảnh của cụm khác, không phải tên
+Someone  # từ thường/mảnh của cụm khác, không phải tên
+To  # từ thường/mảnh của cụm khác, không phải tên
+Er  # từ thường/mảnh của cụm khác, không phải tên
+See  # từ thường/mảnh của cụm khác, không phải tên
+However  # từ thường/mảnh của cụm khác, không phải tên
+Hah  # từ thường/mảnh của cụm khác, không phải tên
+Was  # từ thường/mảnh của cụm khác, không phải tên
+President  # từ thường/mảnh của cụm khác, không phải tên
+With  # từ thường/mảnh của cụm khác, không phải tên
+Hold  # từ thường/mảnh của cụm khác, không phải tên
+Looks  # từ thường/mảnh của cụm khác, không phải tên
+Wow  # từ thường/mảnh của cụm khác, không phải tên
+Sure  # từ thường/mảnh của cụm khác, không phải tên
+Got  # từ thường/mảnh của cụm khác, không phải tên
+One  # từ thường/mảnh của cụm khác, không phải tên
+Her  # từ thường/mảnh của cụm khác, không phải tên
+Come  # từ thường/mảnh của cụm khác, không phải tên
+Bodyguards  # từ thường/mảnh của cụm khác, không phải tên
+Wh  # từ thường/mảnh của cụm khác, không phải tên
+Would  # từ thường/mảnh của cụm khác, không phải tên
+Member  # từ thường/mảnh của cụm khác, không phải tên
+Earth  # từ thường/mảnh của cụm khác, không phải tên
+Play  # từ thường/mảnh của cụm khác, không phải tên
+Make Fuko  # từ thường/mảnh của cụm khác, không phải tên
+Put Fuko  # từ thường/mảnh của cụm khác, không phải tên
+Making  # từ thường/mảnh của cụm khác, không phải tên
+Since  # từ thường/mảnh của cụm khác, không phải tên
+Th  # từ thường/mảnh của cụm khác, không phải tên
+Uh  # từ thường/mảnh của cụm khác, không phải tên
+Look  # từ thường/mảnh của cụm khác, không phải tên
+Whatcha  # từ thường/mảnh của cụm khác, không phải tên
+French  # từ thường/mảnh của cụm khác, không phải tên
+Congratulations  # từ thường/mảnh của cụm khác, không phải tên
+Dammit  # từ thường/mảnh của cụm khác, không phải tên
+Damn  # từ thường/mảnh của cụm khác, không phải tên
+Whoa  # từ thường/mảnh của cụm khác, không phải tên
+Tch  # từ thường/mảnh của cụm khác, không phải tên
+Rustle  # tượng thanh/cử chỉ: theo sổ tay (sotay.md)
+Fidget  # tượng thanh/cử chỉ: theo sổ tay (sotay.md)
+Grip  # tượng thanh/cử chỉ: theo sổ tay (sotay.md)
+Thump  # tượng thanh/cử chỉ: theo sổ tay (sotay.md)
+Wham  # tượng thanh/cử chỉ: theo sổ tay (sotay.md)
+Whish  # tượng thanh/cử chỉ: theo sổ tay (sotay.md)
+Trot  # tượng thanh/cử chỉ: theo sổ tay (sotay.md)
+Plomp  # tượng thanh/cử chỉ: theo sổ tay (sotay.md)
+Sip  # tượng thanh/cử chỉ: theo sổ tay (sotay.md)
+Sschlurp  # tượng thanh/cử chỉ: theo sổ tay (sotay.md)
+Cough  # tượng thanh/cử chỉ: theo sổ tay (sotay.md)
+Sob  # tượng thanh/cử chỉ: theo sổ tay (sotay.md)
+Slap  # tượng thanh/cử chỉ: theo sổ tay (sotay.md)
+Roll  # tượng thanh/cử chỉ: theo sổ tay (sotay.md)
+Waddle  # tượng thanh/cử chỉ: theo sổ tay (sotay.md)
+Psst  # tượng thanh/cử chỉ: theo sổ tay (sotay.md)
+Pew  # tượng thanh/cử chỉ: theo sổ tay (sotay.md)
+Kick  # tượng thanh/cử chỉ: theo sổ tay (sotay.md)
+Fwump  # tượng thanh/cử chỉ: theo sổ tay (sotay.md)
+Hug  # tượng thanh/cử chỉ: theo sổ tay (sotay.md)
+Cling  # tượng thanh/cử chỉ: theo sổ tay (sotay.md)
+Shuffle  # tượng thanh/cử chỉ: theo sổ tay (sotay.md)
+Tug  # tượng thanh/cử chỉ: theo sổ tay (sotay.md)
+Giggle  # tượng thanh/cử chỉ: theo sổ tay (sotay.md)
+Arc  # từ thường/mảnh của cụm khác, không phải tên
+Club  # từ thường/mảnh của cụm khác, không phải tên
+Mr  # từ thường/mảnh của cụm khác, không phải tên
+Head  # từ thường/mảnh của cụm khác, không phải tên
+Cause  # từ thường/mảnh của cụm khác, không phải tên
+Nice  # từ thường/mảnh của cụm khác, không phải tên
+Welcome  # từ thường/mảnh của cụm khác, không phải tên
+Heartbeat  # từ thường/mảnh của cụm khác, không phải tên
+Academy  # từ thường/mảnh của cụm khác, không phải tên
+Stop  # từ thường/mảnh của cụm khác, không phải tên
+Kong  # từ thường/mảnh của cụm khác, không phải tên
+Next  # từ thường/mảnh của cụm khác, không phải tên
+Be  # từ thường/mảnh của cụm khác, không phải tên
+Anyway  # từ thường/mảnh của cụm khác, không phải tên
+Shut  # từ thường/mảnh của cụm khác, không phải tên
+These  # từ thường/mảnh của cụm khác, không phải tên
+Love  # từ thường/mảnh của cụm khác, không phải tên
+Uhh  # từ thường/mảnh của cụm khác, không phải tên
+Which  # từ thường/mảnh của cụm khác, không phải tên
+Will  # từ thường/mảnh của cụm khác, không phải tên
+Aah  # từ thường/mảnh của cụm khác, không phải tên
+Argh  # từ thường/mảnh của cụm khác, không phải tên
+Mongolian  # từ thường/mảnh của cụm khác, không phải tên
+Bomb  # từ thường/mảnh của cụm khác, không phải tên
+Go  # từ thường/mảnh của cụm khác, không phải tên
+Give  # từ thường/mảnh của cụm khác, không phải tên
+Switch  # từ thường/mảnh của cụm khác, không phải tên
+Again  # từ thường/mảnh của cụm khác, không phải tên
+Geez  # từ thường/mảnh của cụm khác, không phải tên
+Ma  # từ thường/mảnh của cụm khác, không phải tên
+Everything  # từ thường/mảnh của cụm khác, không phải tên
+Haa  # từ thường/mảnh của cụm khác, không phải tên
+On  # từ thường/mảnh của cụm khác, không phải tên
+Mm  # từ thường/mảnh của cụm khác, không phải tên
+Make  # từ thường/mảnh của cụm khác, không phải tên
+Mass Destruction  # từ thường/mảnh của cụm khác, không phải tên
+Weapon  # từ thường/mảnh của cụm khác, không phải tên
+Somehow  # từ thường/mảnh của cụm khác, không phải tên
+Haah  # từ thường/mảnh của cụm khác, không phải tên
+Should  # từ thường/mảnh của cụm khác, không phải tên
+Waah  # từ thường/mảnh của cụm khác, không phải tên
+Huff  # từ thường/mảnh của cụm khác, không phải tên
+Closed  # từ thường/mảnh của cụm khác, không phải tên
+Turn  # từ thường/mảnh của cụm khác, không phải tên
+Layup  # từ thường/mảnh của cụm khác, không phải tên
+Fortune  # từ thường/mảnh của cụm khác, không phải tên
+Slam  # tượng thanh/cử chỉ: theo sổ tay (sotay.md)
+Beep  # tượng thanh/cử chỉ: theo sổ tay (sotay.md)
+Prrrrring  # tượng thanh/cử chỉ: theo sổ tay (sotay.md)
+Bap  # tượng thanh/cử chỉ: theo sổ tay (sotay.md)
+Squeeze  # tượng thanh/cử chỉ: theo sổ tay (sotay.md)
+Wah  # tượng thanh/cử chỉ: theo sổ tay (sotay.md)
+Grab  # tượng thanh/cử chỉ: theo sổ tay (sotay.md)
+Sniffle  # tượng thanh/cử chỉ: theo sổ tay (sotay.md)
+Whisper  # tượng thanh/cử chỉ: theo sổ tay (sotay.md)
+Rub  # tượng thanh/cử chỉ: theo sổ tay (sotay.md)
+Vroom  # tượng thanh/cử chỉ: theo sổ tay (sotay.md)
+Grumble  # tượng thanh/cử chỉ: theo sổ tay (sotay.md)
+Kachi  # tượng thanh/cử chỉ: theo sổ tay (sotay.md)
+Whoosh  # tượng thanh/cử chỉ: theo sổ tay (sotay.md)
+Clank  # tượng thanh/cử chỉ: theo sổ tay (sotay.md)
+Rumble  # tượng thanh/cử chỉ: theo sổ tay (sotay.md)
+Crash  # tượng thanh/cử chỉ: theo sổ tay (sotay.md)
+Vrroom  # tượng thanh/cử chỉ: theo sổ tay (sotay.md)
+Vrooom  # tượng thanh/cử chỉ: theo sổ tay (sotay.md)
+Baplomp  # tượng thanh/cử chỉ: theo sổ tay (sotay.md)
+Splutter  # tượng thanh/cử chỉ: theo sổ tay (sotay.md)
+Snip  # tượng thanh/cử chỉ: theo sổ tay (sotay.md)
+Clink  # tượng thanh/cử chỉ: theo sổ tay (sotay.md)

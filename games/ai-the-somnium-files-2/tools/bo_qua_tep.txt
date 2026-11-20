@@ -1,0 +1,7 @@
+Const	không có bản JA, EN là dữ liệu cũ không dùng
+Lyrics	lời bài hát (giữ EN)
+R11_somnium0	bản nháp cũ của R11_somnium (chỉ có EN); lúc apply chép bản dịch của R11_somnium theo khóa
+Search_Test	dữ liệu thử
+SituationRecorder	bản EN rỗng, game không hiện
+Somnium_Test	dữ liệu thử
+Test_01	dữ liệu thử

@@ -1,0 +1,1153 @@
+{
+ "id": "thang18_am_hanh",
+ "loai": "lam_nhe",
+ "mo_ta": "陰莖 (từ y học) bị dịch 'cái ấy' ở 5 dòng",
+ "bang_chung": "kiem_18 01/11",
+ "game": "cursed_armor_v2",
+ "grp": "CommonEvents.json:ce27",
+ "src_lang": "zh",
+ "role": "dialogue",
+ "engine": [
+  "rpgmaker_mvmz"
+ ],
+ "facts": {
+  "engine": [
+   "rpgmaker_mvmz"
+  ],
+  "lang": [
+   "zh"
+  ],
+  "genre": [
+   "jrpg người lớn (eroge, adult only), dark fantasy phương tây, sandbox sa đọa nhiều nhánh, nhiều kết (good/bad/normal/true end, hậu truyện), có thay trang phục và các chỉ số"
+  ]
+ },
+ "lesson_codes": [
+  "G-001",
+  "G-002",
+  "G-004",
+  "G-005",
+  "G-017",
+  "G-018",
+  "G-019",
+  "G-020",
+  "G-021",
+  "G-022",
+  "G-023",
+  "G-024",
+  "E-rpgmaker_mvmz-002",
+  "E-rpgmaker_mvmz-006",
+  "E-rpgmaker_mvmz-008",
+  "G-003",
+  "G-006",
+  "G-007",
+  "G-008",
+  "G-009",
+  "G-010",
+  "G-011",
+  "G-012",
+  "G-013",
+  "G-014",
+  "G-015",
+  "G-016",
+  "E-rpgmaker_mvmz-001",
+  "E-rpgmaker_mvmz-003",
+  "E-rpgmaker_mvmz-004",
+  "E-rpgmaker_mvmz-005",
+  "E-rpgmaker_mvmz-007"
+ ],
+ "project_rules": [],
+ "fixed": {
+  "style": {
+   "genre": "JRPG người lớn (eroge, Adult Only), dark fantasy phương Tây, sandbox sa đọa nhiều nhánh, nhiều kết (Good/Bad/Normal/True End, Hậu truyện), có thay trang phục và các chỉ số",
+   "tone": "Dâm tục thẳng thắn, cưỡng ép, nhưng nhiều tiếng cười: Lilina tự vả và cà khịa trong đầu, Succubus đỏng đảnh, ác nhân ngọt (Chloria), phản diện lố (Ross, Hentai ZERO), giọng ban ơn (Thành chủ), giọng giảng đường vô lý (thầy phòng y tế cô học viện), meta phá tường thứ tư (Giọng của Thần, Thần Sói). Xen giữa là những đoạn bi kịch thật (Học viện, Di tích, Tinh linh Lửa, Galon, Torres, hậu truyện Thần Sói) cần giọng trầm, không đùa thêm, không làm nhẹ đi. Thế giới và tên người theo kiểu phương Tây; văn gốc là tiếng Trung khẩu ngữ mạng.",
+   "notes": "1) MÃ ĐIỀU KHIỂN: giữ nguyên tuyệt đối \\N[n] \\C[n] \\W[n] \\V[n] \\G \\{ \\} \\. \\| \\^ \\!, kể cả mã lỗi gốc ('\\C[2]\\N[12]', '\\C[3]\\C[18]\\C[0]', ký tự \\u001e). Riêng dấu '\\' lạc đứng trước chữ Hán ('\\安維爾', '\\千年樹精C') thì BỎ dấu '\\' khi dịch: MV không hiển thị nó, còn '\\' đặt trước chữ Latin sẽ nuốt chữ ('\\Chìa'). Kiểm định viên không bắt lỗi việc bỏ dấu này. \\. và \\^ đặt giữa từng âm để ngắt nhịp: giữ đúng số lượng, phân bố theo âm tiết tiếng Việt.\n2) TÊN ĐỘNG \\N[n] là tên Actor, được dịch một lần trong Actors.json. Có actor là danh từ chung: \\N[50]=Giọng của Thần, \\N[51]=Giáo viên, \\N[52]=Học viên, \\N[53]=Lính gác, \\N[54]=Tù nhân, \\N[55]=Dân làng, \\N[59]=Con Nô Hèn. Tiếng Việt đặt định ngữ SAU danh từ nên phải đảo vị trí mã: '帝國\\N[53]' → '\\N[53] Đế quốc', '\\N[53]們' → 'đám \\N[53]', '\\N[64]妹妹' → 'em \\N[64]', '\\N[13]大人' → '\\N[13] đại nhân'. Câu chứa \\N[1] phải đọc được cả khi \\N[1] bị đổi thành danh hiệu (tuyến nhà ngục). Câu chứa \\N[59] phải đọc trôi khi biến hiện thành 'Con Nô Hèn' ở mọi vị trí (chủ ngữ, tân ngữ, '…của \\N[59]').\n3) DẤU: '～' của gốc viết thành '~' đúng vị trí (font không có ～, hệ thống tự đổi; chữ ký giọng của Lilina, Succubus, Chloria, Trosi); '……'; ngoặc () cho độc thoại; 【】, 「」 nếu có. Chữ kéo dài từng âm ('Long~Ngâm~') thì đặt ~ sau mỗi tiếng.\n4) ĐỘC THOẠI （） là lòng thật của Lilina: giọng tự nhiên, sắc, hay chửi thầm, tương phản rõ với câu ngoài miệng.\n5) HAI BIẾN THỂ: cùng một cảnh có câu trong trắng và câu sa đọa thay nhau. Dịch song song, cùng cấu trúc.\n6) ĐỘ TUỔI: mọi nhân vật trong cảnh tình dục được trình bày là người trưởng thành. 少女 → 'cô gái/thiếu nữ'; không dùng 'bé gái, em bé, nhóc' trong cảnh tình dục; không thêm chi tiết gợi tuổi nhỏ. 學生/學院 → 'học viên'. Nếu gặp cảnh có dấu hiệu nhân vật vị thành niên (xem can_xac_nhan: Map186 少年, Seth) thì DỪNG, không dịch phần tình dục, báo chủ dự án.\n7) THANG TỪ TỤC (thống nhất, không nhẹ hơn, không tục hơn gốc): 肏 → 'đụ'; 干/做 → 'làm/chơi'; 肉棒 → 'cây gậy thịt' (Lilina e thẹn thì 'cái ấy'); 雞巴 → 'con cặc'; 淫穴 → 'lỗ dâm'; 小穴 → 'khe thịt/lỗ nhỏ' (KHÔNG 'cô bé'); 屁眼/菊穴 → 'lỗ đít/hoa cúc'; 精液 → 'tinh dịch/tinh'; 高潮 → 'lên đỉnh'; 丟了/要丟了 → 'ra… ra mất rồi'/'sắp ra rồi'; 母狗 → 'chó cái'; 母豬 → 'lợn nái'; 騷貨 → 'đồ dâm đãng'; 婊子 → 'con điếm'; 蕩婦 → 'con đĩ'; 癡女 → 'gái dâm'; 調教 → 'thuần hóa'.\n8) Tiếng rên, tượng thanh: Việt hóa ('A～', 'Ưm～', 'Hự'), độ dài tương đương. Lời bị bịt viết tắt bằng chữ Latin (Y/Z/D/S…) thì đổi sang lối đứt chữ tiếng Việt.\n9) Câu kích hoạt ám thị, tên ám thị, câu 'lẽ thường', câu niệm nô lệ: giống từng chữ ở mọi chỗ. Thuật ngữ UI (chỉ số, trạng thái, vật phẩm) khớp từng chữ với thoại có nhắc tới. Cảnh lặp và lựa chọn lặp dịch y hệt.\n10) Không lộ trước bí mật: Hiller là Tướng quỷ, Berika là thủ phạm, Owen chủ mưu, Cospiro là lính đánh thuê, tên thật Succubus, Long Ngâm chết, '？？？' là cái bóng của Thành chủ, Jude hai mặt, ý đồ của Luna.\n11) Lỗi gõ trong gốc thì dịch theo nghĩa đúng: 期約→契約, 不馬→不是馬, 別看玩笑→別開玩笑, 把持住→沒把持住, 繞/求繞→饒, 差不過→差不多, 難倒→難道, 無亂→無論, 踐習→實踐, 堵住→賭注, 亦然→依然, 試者→試著, 正視→正式, 識實物→識時務, 好想→好像, 會去→回去, 不削→不屑, 我先在→我現在, 在來→再來, 遍離開→便離開, 大副→大幅, 窮北→窮唄, 處于→出于, 再司機→再伺機. 'Nromal End' → 'Normal End' (chờ duyệt).\n12) Meta và quảng cáo (Giọng của Thần, Patreon, Tamamo, 'phần sau sẽ làm', 'các quý ông') dịch đủ, giữ giọng tác giả. '(未完成)' → '(Chưa hoàn thành)'.\n13) Nhãn người nói có thể bị gán nhầm (xem can_xac_nhan): dịch theo ngữ cảnh, không sửa nhãn trong dữ liệu.",
+   "strategy": {
+    "han_viet": "Mức VỪA PHẢI. Thoại đời thường, cà khịa, chửi bới và cảnh H dùng tiếng Việt khẩu ngữ, thuần Việt, gần lối nói người trẻ. Hán-Việt dành cho tên thánh vật, chiêu thức, danh hiệu, chức vị, thuật ngữ huyền huyễn (Tinh thể Thần Nước, Ngọc Lửa Rực, Cuồng Nộ Của Đất, Mắt Quỷ, Dấu ấn linh hồn, Vua Succubus, Kiếm Thánh Gió, Cánh Đen, Thành chủ, thần lực, phép cấm, kết giới, dị loài, lẽ thường, thuần hóa). Xưng hô Hán-Việt chỉ dùng cho nhân vật được chỉ định, để tạo giọng hoặc nhại: Eros (吾/汝 → 'bổn vương/ta – ngươi/nàng/ái phi'), Thành chủ Jon ('bổn vương'), Sax ('lão phu'), lính đánh thuê ('bổn đại gia'), tên lính đánh thuê sến kiểu kiếm hiệp, Hentai ZERO hô chiêu. Không dùng 'tại hạ', 'nô gia', 'bổn cô nương' cho Lilina hay nô lệ. Thành ngữ Hán đổi sang thành ngữ Việt tương đương; câu tao nhã dùng mỉa ('Một khắc đêm xuân đáng ngàn vàng') thì giữ câu Hán-Việt quen thuộc.",
+    "wordplay": "Giữ TÁC DỤNG, không giữ chữ, và không thêm câu đùa mới. 性福/幸福 → 'hạnh phịch'/'hạnh phúc', thống nhất cả game (xem handbook). 出來賣/外賣 → 'gái ra đường bán'/'gái giao hàng tận nơi'. 菊花 → 'hoa cúc'. Mật mã hoa giữ tên hoa và giá. 骯臟的屁眼交易 → 'phi vụ đi cửa sau dơ bẩn'. 風之劍圣/蜂之劍圣 → 'Kiếm Thánh Gió'/'Kiếm Thánh Ong'. 出色 tách 色 → 'xuất \"sắc\"'. 回籠昏 → 'ngất nướng'. Câu lỡ miệng, vấp chữ ('賤……\\N[59]', chữ tục lọt giữa câu) phải dựng lại cú vấp bằng tiếng Việt. Lóng mạng: 泰迪 → 'Teddy' (để giọng mỉa tự gánh nghĩa), 抖S → 'S chính hiệu/máu S', 黑暗料理 → 'món hắc ám'. Meme dùng bản Việt quen thuộc (Đại thoại Tây du theo bản lồng tiếng; 'đầu gối trúng tên' bám sát Skyrim). Nhịp hài: giữ '……' đúng chỗ bị cắt ('cảm ơ… Á!'); cặp mắng nhau giữ nhịp ngắn ('Đồ óc heo!', 'Đồ lợn ngu!'). Chơi chữ không có đối ứng thì viết câu Việt có cùng tác dụng, ngắn bằng hoặc ngắn hơn gốc, không chú thích.",
+    "poetry": "Hầu như không có thơ vần. Văn nghi thức cần dịch cố định: (a) công thức ám thị 'Học ma pháp hệ X thì…, đó là lẽ thường' / 'Dùng phép hệ X nghĩa là phải…'; (b) câu kích hoạt 'Có việc gì muốn làm không?' / 'Nói thật đi'; (c) câu niệm nô lệ Torres và '(\\N[59] là một con chó cái x N)'; (d) khẩu quyết bốn bước 'Cảm nhận nó, khống chế nó, hội tụ nó, giải phóng nó!' và châm ngôn giả của các hệ; (e) lời thề hôn lễ (Map119 với \\N[11]; Map135 bản nhại bẻ vế cuối thành 'mãi mãi phục tùng') theo văn lời thề cưới Công giáo quen thuộc; (f) màn xưng danh Hentai ZERO theo kiểu tokusatsu; (g) đoạn nhại Đại thoại Tây du ở Good End A; (h) lời chào chung của tinh linh giữ đền 'Nhân loại kia～ Đây không phải nơi ngươi nên đến!'; (i) câu kiếm hiệp và bài 'ca' rượu của tên lính đánh thuê; (j) lời kết sử thi của các bad end: giọng biên niên trang trọng, nhịp chậm; (k) tên chiêu Latin Zapfkiel / Aleph giữ nguyên.",
+    "names": "Chưa có bản Việt chính thức; tên tiếng Anh chính thức mới xác nhận Lilina, Aisha (tên DLC) và tên game Cursed Armor. Bản EN có tồn tại nên ưu tiên đối chiếu Steam EN trước khi khóa. Tạm dùng tên phương Tây viết Latin theo phiên âm hợp lý: Hiller, Simelia, Meili, Roger, Melissa, Lucia, Berika, Owen, Cospiro, Jon, Chloria, Trosi, Jude, Sanga, Resk, Sax, Shirley, Ross, Roster, Bigas, Charlo, Rant, Miller, Hart, Wendy, Jack, Darren, Nell, Lydis, Robert, Luna, Nicole, Lilith, Lisa, Lorin, James, Loki, Loken, Fitch, Matt, Galen, Galon, Sophia, Eros, Shuria, Dale, Seth, Nestra. Tên gốc Á dùng Hán-Việt: 龍吟 → Long Ngâm, 白雪 → Bạch Tuyết. Biệt danh mang nghĩa thì dịch nghĩa: 黑泰迪 → Teddy Đen, 金絲雀 → Hoàng Yến, 紅松鼠 → Sóc Đỏ, 白銀狐 → Cáo Bạc, 賤奴 → Con Nô Hèn. Khách mời giữ tên fandom quen dùng (Tamamo-no-Mae, Asuna, Ram, Rem, Tokisaki Kurumi, Nero, Okita Souji…). Nhãn người nói là danh từ chung thì dịch nghĩa (守衛 → Lính gác, 村民1 → Dân làng 1, 男人A → Gã A, 傭兵B → Lính đánh thuê B), riêng ？？？ giữ nguyên. Nhãn phải khớp tên actor tương ứng. Đặt tên một lần trong glossary và không đổi giữa chừng."
+   }
+  },
+  "work": {
+   "premise": "JRPG người lớn của wolfzq. Lilina, pháp sư hệ Hỏa ngây thơ, mơ thành mạo hiểm giả vĩ đại. Cô bị ép đội Vương miện Nguyền Rủa của Chúa tể Succubus Eros, trong giáp có Succubus trú ngụ, vừa giúp vừa xúi cô sa ngã. Muốn cởi giáp, cô phải tìm sáu thánh vật qua hàng chục tuyến rẽ nhánh: Hội mạo hiểm, nhà ngục, học viện, thành nô lệ Torres, trường đua kỳ lân, hang bọ. Cái hay: mỗi cảnh có hai giọng (trong trắng/sa đọa); độc thoại trong ngoặc tỉnh táo, cà khịa, trái hẳn lời phục tùng ngoài miệng; hài tự vả, meta; và những cú phản bội từ chính người cô tin."
+  }
+ },
+ "adult": true,
+ "payload": {
+  "lang": "Ngôn ngữ nguồn: tiếng Trung → tiếng Việt.",
+  "characters": [
+   {
+    "id": "lilina",
+    "names": [
+     "莉莉娜",
+     "\\N[1]",
+     "Lilina",
+     "\\N[59] (tự xưng khi làm nô lệ)",
+     "\\N[61] (Teddy Đen, tên chó Thành chủ ban)",
+     "\\W[3]",
+     "獵天使",
+     "會長夫人",
+     "夫人",
+     "火的魔女",
+     "水的魔女",
+     "烈焰的魔女",
+     "特等生",
+     "小綿羊",
+     "癡女幽靈",
+     "吸精魔女",
+     "圣女",
+     "王妃",
+     "苗床",
+     "活體人偶",
+     "附屬品",
+     "亞巴頓女王",
+     "亞巴頓女妖",
+     "萬物之母",
+     "性奴隸",
+     "\\N[1]（人偶）"
+    ],
+    "name_vi": "Lilina",
+    "gender": "nữ",
+    "age": "thiếu nữ trưởng thành (P15 ghi 20 tuổi); cựu học viên ưu tú Học viện Ma pháp",
+    "role": "Nữ chính. Pháp sư hệ Hỏa ('Phù thủy Lửa'), mạo hiểm giả bị Giáp Nguyền Rủa trói buộc, mang danh hiệu Thiên Sứ Săn Mồi",
+    "personality": "Hồn nhiên, mơ mộng, cứng đầu, có chính nghĩa, tốt bụng, mềm lòng, cả tin, dễ bị dỗ ngọt. Ham tiền ('Một triệu G～!'), lém lỉnh, tự đắc khi lừa được địch, tsundere với người mình thích. Rất sợ ma nhưng thích dọa người. Thông minh, biết suy luận. Bị lời nguyền, ám thị, thuốc chi phối thì buông thả, rồi lại tự trách và đổ cho giáp. Đặt vào thế 'chủ nhân' thì nổi máu S. Có tham vọng ngây ngô làm 'nữ vương'.",
+    "speech_style": "Giọng con gái trẻ, nhiều '～'. Lúc tỉnh táo thì gọn, đúng chất mạo hiểm giả. Độc thoại （） hay cãi lại chính lời vừa nói, mỉa mai, tham tiền, chửi thầm ('Cái logic chó má gì thế này?'). Khi sa đọa thì nũng nịu, kéo dài 'chủ～nhân～', xưng 'người ta' theo 人家. Trong vai nô lệ thì xưng \\N[59]; đóng vai chó thì chỉ 'Gâu～ gâu gâu～'. Khi sợ thì lắp bắp. Ở học viện ngây ngô '…lẽ thường sao…'. Làm búp bê: đều đều, xưng bằng tên. Đối đầu Thần Sói, Berika: đắc thắng, trêu chọc.",
+    "catchphrases": [
+     "要不是這該死的詛咒，我怎么會…… → Nếu không vì cái lời nguyền chết tiệt này, mình đâu có…",
+     "我在想什么呢！ → Mình đang nghĩ cái gì thế này!",
+     "精液～必須好好的收集起來～～ → Tinh dịch～ phải gom cho thật kỹ～～",
+     "我可是勵志要成為一個偉大的冒險家！ → Mình đã quyết chí thành một mạo hiểm giả vĩ đại cơ mà!",
+     "真是諷刺啊…… → Đúng là mỉa mai thật…",
+     "……沒有效果 → …Không có tác dụng",
+     "哼～\\N[13]，有我在，怎么可能讓你如愿！ → Hừ～ \\N[13], có tôi ở đây, đừng hòng được như ý!",
+     "是，主人 → Vâng, chủ nhân",
+     "常識……嗎…… → Thường thức… sao…",
+     "難道是喝多了嗎 → Chẳng lẽ lại say quá à?"
+    ],
+    "comedic_role": "Kẻ tự vả, tự sửa lời ('cảm ơ… Á!'); người tỉnh táo cà khịa trong đầu, trái với lời phục tùng ngoài miệng; tsukkomi tỉnh bơ trước các trò lố; con bạc ảo tưởng; bị lừa bằng 'lẽ thường'",
+    "arc": "Mỗi tuyến một kiểu sa ngã (nô lệ vĩnh viễn, phu nhân giả, búp bê sống, vợ trùng, vợ thú, nữ yêu, Nữ vương), nhánh thiện thì giữ được ước mơ. Niềm tin vào Cha xứ sụp ở Map100, vào Owen sụp ở Map133. Với Long Ngâm: yêu, rồi mất, hoặc dùng tình yêu phá phép cấm. Với Aisha: từ khinh miệt đến nhường ngôi. Cuối cùng chọn vị trí nữ vương.",
+    "self": "tôi (với người ngoài, khi tỉnh táo); mình (độc thoại trong （）); em/con/cháu tùy người nghe (xem relations); 'người ta' khi gốc dùng 人家; giữ \\N[59] khi gốc dùng \\N[59]; 'ta' khi ở tư thế nữ vương, đối đầu Thần Sói/Berika, ra lệnh cho Succubus hoặc Vua Côn Trùng",
+    "forbid": [
+     "bé, nhóc, em bé (cho cô)",
+     "tao",
+     "bổn cô nương",
+     "nô gia",
+     "ta (trừ khi bị nhập xác hoặc ở tư thế nữ vương như trên)",
+     "tự ý đổi \\N[59] thành 'tôi/em' hoặc ngược lại"
+    ],
+    "note": "\\N[1] có thể bị đổi thành danh hiệu ở tuyến nhà ngục. Câu sửa lời là điểm kịch: 'Tiện… \\N[59] hiểu rồi' (Map139), Sax cấm cô xưng \\N[59] (Map085). Câu 'là, tiện…' rồi chữa thành 'tôi' phải khớp chữ 'Con Nô Hèn'. Ở Map154 (đã tự do) cô xưng 'tôi'. \\N[61] là tên riêng nhưng chỉ chính Lilina."
+   }
+  ],
+  "relations": [
+   {
+    "from": "lilina",
+    "to": "succubus",
+    "self": "chị; khi ra lệnh/ở tư thế nữ vương: ta",
+    "call": "\\N[4] / em; khi ra lệnh: ngươi",
+    "changes": "Normal End tuyến Di tích: đảo vai, Lilina xưng em, gọi Succubus 'chủ nhân'. Map183: coi Succubus là đồ của mình, xưng ta.",
+    "note": "Succubus đã xưng 'em' gọi 'chủ nhân' thì Lilina đáp 'chị' cho khớp và thân; bỏ 'tôi – cô' vì hai người dính nhau suốt game, cãi nhau như người nhà. [biên tập trưởng độc lập, 02/11]"
+   },
+   {
+    "from": "lilina",
+    "to": "hiller",
+    "self": "con",
+    "call": "Cha \\N[2] (神父); thưa Cha khi kính cẩn",
+    "changes": "Map008 ev7p3, khi ông nhận là cha ruột (父親): gọi 'cha'. Ở Map100, sau khi ông lộ mặt, vẫn giữ con–Cha để giữ nỗi đau.",
+    "note": "Con nuôi với cha xứ, quan hệ thân và kính trọng. [biên tập trưởng độc lập, 02/11]"
+   },
+   {
+    "from": "lilina",
+    "to": "simelia",
+    "self": "em",
+    "call": "chị; khi gọi kèm tên: chị \\N[3]",
+    "note": "Chị như ruột, gốc gọi 姐姐. [biên tập trưởng độc lập, 02/11]"
+   },
+   {
+    "from": "lilina",
+    "to": "longngam",
+    "self": "tôi → em (nũng: người ta)",
+    "call": "đại sư → anh / anh yêu (親愛的); trêu: Long～Ngâm～, đồ ngốc; đùa ở nhà ngục: đại sư",
+    "changes": "Map014 ev6p3: anh nhờ bỏ chữ 'đại sư', từ đó em – anh; sau món quà gọi 'anh yêu'.",
+    "note": "Lúc đầu là khách mời xa lạ nên giữ khoảng cách; thành đôi thì chuyển hẳn sang em – anh. [biên tập trưởng độc lập, 02/11]"
+   },
+   {
+    "from": "lilina",
+    "to": "loki",
+    "self": "tôi",
+    "call": "ngài chỉ huy (gốc gọi tên: chỉ huy \\N[69])",
+    "note": "Mạo hiểm giả mới đến gặp chỉ huy trị an, quan hệ công vụ trang trọng. [biên tập trưởng độc lập, 02/11]"
+   },
+   {
+    "from": "lilina",
+    "to": "berika",
+    "self": "em → em (khi phục tùng); khi đối đầu (Troops): ta",
+    "call": "chị \\N[8] → \\N[8] đại nhân / danh xưng mới qua \\N[8]; khi thù địch: mụ / ngươi",
+    "changes": "Map040 ev3p3: 'sau này phải gọi ta là \\N[8]', từ đó gọi theo danh xưng mới. Đối đầu thì ta – mụ.",
+    "note": "Khớp với 'chị – em' lúc đầu; bị khuất phục giữ 'em', đắc thắng thì lật sang 'ta'. [biên tập trưởng độc lập, 02/11]"
+   },
+   {
+    "from": "lilina",
+    "to": "owen",
+    "self": "tôi → em",
+    "call": "hội trưởng → \\N[12] (riêng tư) → anh / anh yêu → \\N[12] đại nhân (kết tuyến); nhánh mỉa: chủ nhân～",
+    "changes": "Owen bảo gọi tên khi riêng tư, cô buột 'Ô… hội trưởng \\N[12]～'. Đám cưới Map135 khi bị ra lệnh: 'Vâng… hội trưởng' (tôi – hội trưởng). Kết tuyến: '\\N[12] đại nhân' vì thuốc giải.",
+    "note": "Đúng mạch từ cấp dưới sang vị hôn thê; câu then chốt: '\\N[12], hôn ước của chúng ta… cũng là giả sao?' [biên tập trưởng độc lập, 02/11]"
+   },
+   {
+    "from": "lilina",
+    "to": "cospiro",
+    "self": "tôi; trên giường: em",
+    "call": "cậu (lúc hắn còn là tân binh); khi đối đầu: anh (gọi tên \\N[13]); trên giường: chủ nhân",
+    "changes": "Sau Map127 ev29p1: cậu → anh hoặc tên \\N[13] ('\\N[13] đại nhân' khi gốc dùng 大人). Trên giường có lúc lỡ gọi tên rồi sửa: '\\N[13]… à không, chủ nhân～'. Trong độc thoại gọi 'hắn'.",
+    "note": "Với tân binh than thở thì cô ở thế đàn chị khuyên bảo nên dùng tôi–cậu. Biết hắn là kẻ khống chế mình thì đổi sang tôi–anh, giữ khoảng cách mà vẫn có tình. [biên tập trưởng độc lập, 02/11]"
+   },
+   {
+    "from": "lilina",
+    "to": "mercenary",
+    "self": "em / người ta (人家); khi chống cự: tôi",
+    "call": "anh / anh lính (傭兵哥哥) / đại ca; khi chống cự: các người",
+    "note": "Bị đuổi bắt, van nài nên hạ mình 'em – anh'; lúc cứng giọng chống lại mới 'tôi – các người'. [biên tập trưởng độc lập, 02/11]"
+   },
+   {
+    "from": "lilina",
+    "to": "jude",
+    "self": "tôi; khi hắn là khách / chủ: \\N[59]",
+    "call": "anh; khi hắn là khách / chủ: chủ nhân",
+    "changes": "Map154 (cô đã tự do, hắn giả thầy phòng y tế đi bói): vẫn tôi–anh. Bị ép làm nô lệ: \\N[59]–chủ nhân.",
+    "note": "Hai người lớn mới quen qua việc ủy thác, cô nói gọn kiểu mạo hiểm giả nên tôi–anh là tự nhiên. Không dùng 'ngài' để khỏi lệch với giọng lém của cô. [biên tập trưởng độc lập, 02/11]"
+   },
+   {
+    "from": "lilina",
+    "to": "chloria",
+    "self": "\\N[59] khi gốc dùng \\N[59]; còn lại: em; khi chống cự: tôi",
+    "call": "chủ nhân; khi chống cự: cô / đồ biến thái / ác quỷ",
+    "changes": "Bị Chloria sửa nên dùng 'chủ nhân' + \\N[59]. Map140 ev18p1: lỡ gọi tên thì bị bắt sửa lại.",
+    "note": "Ở Torres là nô dưới quyền Chloria; 'tôi – cô' chỉ dùng khi cố ý cự lại. [biên tập trưởng độc lập, 02/11]"
+   },
+   {
+    "from": "lilina",
+    "to": "trosi",
+    "self": "chị; khi đóng vai chó: \\N[59] khi gốc dùng, không thì chỉ sủa 'Gâu～'",
+    "call": "em; khi đóng vai chó: chủ nhân",
+    "changes": "Trong cảnh vai chó: gọi Trosi 'chủ nhân' (主人), tự xưng \\N[59].",
+    "note": "Bảng cũ cho Lilina gọi Trosi là 'chị' là ngược vai vế: Trosi nhỏ hơn nên Lilina gọi em, chỉ trong cảnh nô lệ mới gọi chủ nhân. [biên tập trưởng độc lập, 02/11]"
+   },
+   {
+    "from": "lilina",
+    "to": "jon",
+    "self": "\\N[59]",
+    "call": "chủ nhân (giữ '\\N[14] chủ nhân' khi gốc ghép tên)",
+    "note": "Trong vai nô lệ, gốc dùng \\N[59] và 主人 nhất quán. Đóng vai chó thì chỉ 'Gâu～'. Độc thoại vẫn xưng \\N[59] theo gốc. [biên tập trưởng độc lập, 02/11]"
+   },
+   {
+    "from": "lilina",
+    "to": "sanga",
+    "self": "\\N[59] khi gốc dùng \\N[59]; còn lại: chị; khi điều giáo ra oai: ta",
+    "call": "em / \\N[64] → \\N[18]",
+    "changes": "Map144 ev16p1: Sanga xin được gọi tên thật, chuyển từ \\N[64] sang \\N[18].",
+    "note": "Lilina là 'chủ nhân' điều giáo nhưng thương Sanga, nên 'chị – em'; ra oai mới 'ta'. [biên tập trưởng độc lập, 02/11]"
+   },
+   {
+    "from": "lilina",
+    "to": "trainer",
+    "self": "tôi; khi bị ép theo luật nô lệ: \\N[59] (giữ gốc)",
+    "call": "ông; khi bị ép: chủ nhân",
+    "changes": "Khi bị bắt thêm 'chủ nhân' sau mỗi câu cảm ơn ('Cảm… cảm ơn… chủ nhân…'): chuyển sang \\N[59]–chủ nhân.",
+    "note": "Lúc đầu Lilina chống đối, cố ý giữ khoảng cách với kẻ buôn người nên dùng tôi–ông; chỉ khi bị cưỡng ép mới đổi. [biên tập trưởng độc lập, 02/11]"
+   },
+   {
+    "from": "lilina",
+    "to": "guard53",
+    "self": "\\N[59] khi gốc dùng \\N[59]; khi làm nô lệ/lả lơi: em; tỉnh táo với lính gác lạ: tôi",
+    "call": "khi làm nô lệ: chủ nhân / chủ nhân lính gác; lả lơi: anh lính; bình thường: ngài lính gác / đại nhân",
+    "note": "Ở Torres là nô lệ nên 'chủ nhân'; ngoài đó gặp lính gác lạ mới giữ 'tôi – ngài lính gác'. [biên tập trưởng độc lập, 02/11]"
+   },
+   {
+    "from": "lilina",
+    "to": "resk",
+    "self": "em",
+    "call": "anh / anh \\N[19]",
+    "note": "Resk là mạo hiểm giả đàn anh trong Hội, Lilina là người mới; em – anh khớp với giọng anh ta bao bọc, lo lắng cho cô. [biên tập trưởng độc lập, 02/11]"
+   },
+   {
+    "from": "lilina",
+    "to": "shuria",
+    "self": "em",
+    "call": "cô",
+    "note": "Shuria là cô giáo cũ, gốc gọi 老師 suốt, nên em/cô như học trò với cô giáo. Không gọi 'bà chủ' khi gốc ghi 老師. [biên tập trưởng độc lập, 02/11]"
+   },
+   {
+    "from": "lilina",
+    "to": "nell",
+    "self": "mình",
+    "call": "cậu",
+    "note": "Hai nữ mạo hiểm giả trẻ cùng Hội, Lilina chủ động bắt chuyện thân thiện; dùng mình–cậu. Ở Torres vẫn giữ mình–cậu, vì là người quen cũ. [biên tập trưởng độc lập, 02/11]"
+   },
+   {
+    "from": "lilina",
+    "to": "meili",
+    "self": "em",
+    "call": "chị \\N[5]; trong phòng SM: chủ nhân",
+    "changes": "Vào phòng phải gọi chủ nhân (vẫn xưng em), sáng hôm sau hết hạn thì gọi lại chị.",
+    "note": "Lilina nhỏ hơn và đang mang ơn/nợ nhóm của Meili; xưng em kiểu cãi cố ('Nhưng nhiệm vụ đâu có xong!') vẫn khớp với chị – em. [biên tập trưởng độc lập, 02/11]"
+   },
+   {
+    "from": "lilina",
+    "to": "melissa",
+    "self": "em",
+    "call": "chị; khi gốc gọi tên: chị \\N[9]",
+    "note": "Lilina là người nhỏ tuổi hơn trong Hội, đến hỏi chuyện, nhờ việc, nên em – chị; khi cãi chuyện vi phạm hợp đồng vẫn giữ em – chị, chỉ đổi giọng gắt. [biên tập trưởng độc lập, 02/11]"
+   },
+   {
+    "from": "lilina",
+    "to": "darren",
+    "self": "tôi; khi sa đọa: em ('người ta' khi gốc dùng 人家)",
+    "call": "ngài; khi sa đọa: ngài, có lúc gọi thẳng tên Darren",
+    "note": "Tù nhân với giám ngục là quan hệ xa cách, bị ép buộc, cô dè chừng ('呼……好險') nên giữ tôi–ngài. Khi sa đọa mới mềm thành 'em'. [biên tập trưởng độc lập, 02/11]"
+   },
+   {
+    "from": "lilina",
+    "to": "robert",
+    "self": "cháu",
+    "call": "ông",
+    "note": "Cô gái trẻ với ông lão tù hiền hậu: cháu–ông. Câu 老人家 dịch thành 'ông ơi' hoặc 'ông cụ'. [biên tập trưởng độc lập, 02/11]"
+   },
+   {
+    "from": "lilina",
+    "to": "bill",
+    "self": "tôi",
+    "call": "ông",
+    "changes": "Khi bị ép phục tùng: gọi 'Bill đại nhân'.",
+    "note": "Tù nhân hỏi xin quan vật tư thô bỉ, lễ phép bề ngoài nhưng giữ khoảng cách ('Cho tôi hỏi ông có thuốc lá không?'). [biên tập trưởng độc lập, 02/11]"
+   },
+   {
+    "from": "lilina",
+    "to": "ross",
+    "self": "em; khi giận/cự lại: tôi; làm búp bê: xưng bằng tên mình",
+    "call": "thầy → \\N[25] → \\N[25] đại nhân → chủ nhân",
+    "changes": "Map160 ev10p6: lỡ gọi thẳng tên thì bị nhắc gọi 'thầy'. Sau phép cấm: gọi tên / '\\N[25] đại nhân'. Map046 ev7p5, Map047, Map162: 'chủ nhân'.",
+    "note": "Trò với thầy hướng dẫn nên 'em – thầy'; hồ sơ cũ ghi 'thầy phòng y tế' là lỗi (導師 = thầy hướng dẫn), gọi gọn 'thầy'. [biên tập trưởng độc lập, 02/11]"
+   },
+   {
+    "from": "lilina",
+    "to": "roster",
+    "self": "tôi → em",
+    "call": "anh (đàn anh) → anh yêu",
+    "changes": "Từ khi bị cài ám thị Hỏa hệ"
+   },
+   {
+    "from": "lilina",
+    "to": "principal",
+    "self": "em",
+    "call": "thầy Hiệu trưởng (校長大人 → 'thưa thầy Hiệu trưởng')",
+    "note": "Cựu học viên với hiệu trưởng già của trường, kính trọng; bỏ chữ 'thầy phòng y tế' ghép nhầm trong hồ sơ. [biên tập trưởng độc lập, 02/11]"
+   },
+   {
+    "from": "lilina",
+    "to": "giaovu",
+    "self": "em",
+    "call": "thầy; khi gốc gọi chức: thầy Giáo vụ",
+    "note": "Học viên với thầy; sửa hồ sơ cũ: ông này là giáo viên Giáo vụ, không phải thầy phòng y tế. [biên tập trưởng độc lập, 02/11]"
+   },
+   {
+    "from": "lilina",
+    "to": "bigas",
+    "self": "em",
+    "call": "thầy (giữ \\N[51] khi gốc dùng \\N[51])",
+    "note": "Học viên ngoan với thầy dạy, kể cả khi bị sai làm trò vô lý: em–thầy. [biên tập trưởng độc lập, 02/11]"
+   },
+   {
+    "from": "lilina",
+    "to": "earth_teacher",
+    "self": "em",
+    "call": "thầy phòng y tế",
+    "changes": "Map161 ev3p0 dỗi ('em sẽ không bao giờ tin thầy phòng y tế nữa!') rồi làm lành"
+   },
+   {
+    "from": "lilina",
+    "to": "anna",
+    "self": "em",
+    "call": "chị (gốc gọi tên: chị \\N[27])",
+    "note": "Đàn em gọi đàn chị, thân và có vai vế ('Chị không đi cùng em à?'). [biên tập trưởng độc lập, 02/11]"
+   },
+   {
+    "from": "lilina",
+    "to": "wendy",
+    "self": "mình",
+    "call": "cậu / \\N[33]",
+    "note": "Bạn học cùng lứa, thân; Lilina xưng mình, Wendy xưng tớ, cả hai gọi nhau cậu, tự nhiên như học sinh Việt. [biên tập trưởng độc lập, 02/11]"
+   },
+   {
+    "from": "lilina",
+    "to": "rant",
+    "self": "mình",
+    "call": "cậu",
+    "changes": "Khi thành thú cưng của Rant: tự xưng bằng tên \\N[1], gọi 'chủ nhân'.",
+    "note": "Lilina cùng lứa học viên, đang muốn làm lành nên dùng mình–cậu mềm mỏng, không dùng 'tôi' cứng nhắc; tương phản với tao–mày của Rant. [biên tập trưởng độc lập, 02/11]"
+   },
+   {
+    "from": "lilina",
+    "to": "eros",
+    "self": "tôi",
+    "call": "ngươi",
+    "note": "Gặp lần đầu, bị áp đảo nhưng vẫn từ chối ('Tôi… chẳng mong chờ gì ở ngươi cả'): cố ý giữ khoảng cách với kẻ thù nên dùng tôi/ngươi là hợp lý. [biên tập trưởng độc lập, 02/11]"
+   },
+   {
+    "from": "lilina",
+    "to": "water_spirit",
+    "self": "tôi",
+    "call": "ngươi",
+    "changes": "Sau khi khế ước thành và ở các lần quay lại: xưng 'em', gọi 'chủ nhân'",
+    "note": "Đầu tiên đối đầu nên dùng tôi/ngươi, bị khế ước khuất phục thì hạ mình xưng em, gọi chủ nhân. [biên tập trưởng độc lập, 02/11]"
+   },
+   {
+    "from": "lilina",
+    "to": "earth_guard",
+    "self": "tôi → em (nhập vai nô lệ)",
+    "call": "hộ vệ → chủ nhân",
+    "changes": "Map066 ev6p0: tự nhận 'nô lệ khế ước'"
+   },
+   {
+    "from": "lilina",
+    "to": "sax",
+    "self": "cháu; nhánh nô lệ: \\N[59]",
+    "call": "ông \\N[21]; nhánh nô lệ: chủ nhân",
+    "changes": "Map085 ev16p3: Sax cấm xưng \\N[59], đổi lại 'cháu'.",
+    "note": "Cô gái trẻ đi xin làm hầu gái với quản gia già, lễ phép ('請問怎么稱呼您') nên dùng cháu–ông. Ông bảo gọi thẳng tên nên dịch 'ông \\N[21]'. [biên tập trưởng độc lập, 02/11]"
+   },
+   {
+    "from": "lilina",
+    "to": "shirley",
+    "self": "em; trong vai nô lệ (gốc dùng \\N[59]): \\N[59]; khi nổi giận: tôi",
+    "call": "chị",
+    "changes": "Khi biết Shirley là người đưa mình tới Torres thì giận, xưng 'tôi' cho xa cách nhưng vẫn gọi 'chị'.",
+    "note": "Quen từ trước và kém tuổi nên em/chị. Lúc giận đổi 'tôi' để thể hiện cắt đứt. [biên tập trưởng độc lập, 02/11]"
+   },
+   {
+    "from": "lilina",
+    "to": "loken",
+    "self": "tôi; sau khi nghiện thuốc: em (người ta khi gốc 人家)",
+    "call": "ngươi; sau khi nghiện thuốc: ngài \\N[70]",
+    "changes": "Sau 10 ngày nghiện thuốc: từ tôi – ngươi (thù địch) sang em – ngài \\N[70] (lệ thuộc, nài nỉ).",
+    "note": "Ban đầu bị bắt và kháng cự ('Đừng mơ, tôi không giúp ngươi'), nên giữ khoảng cách thù địch; nghiện rồi thì phục tùng. [biên tập trưởng độc lập, 02/11]"
+   },
+   {
+    "from": "lilina",
+    "to": "aisha",
+    "self": "tôi; sau khi được cứu: em",
+    "call": "cô (khi chửi: lợn nái); sau khi được cứu: chị (hoặc tên \\N[23])",
+    "changes": "Sau khi được cứu và thành vợ trùng: tôi–cô → em–chị.",
+    "note": "Lúc đầu gặp nhau trong hang, cô đề phòng, khinh nên tôi–cô. Thân nhau rồi thì đáp đúng vai em–chị. [biên tập trưởng độc lập, 02/11]"
+   },
+   {
+    "from": "lilina",
+    "to": "insect_king",
+    "self": "ta",
+    "call": "nhóc con; khi mắng/ra lệnh: mày",
+    "note": "Lilina trìu mến gọi 'nhóc con này' (這小家伙), lúc ra lệnh cấm nói thì cộc hơn; giữ 'ta' cho khớp với ghi chú cũ. [biên tập trưởng độc lập, 02/11]"
+   },
+   {
+    "from": "lilina",
+    "to": "fitch",
+    "self": "tôi → em",
+    "call": "ông chủ → chủ nhân",
+    "changes": "Map116 ev3p0: bị bắt gọi 'chủ nhân', cô lắp bắp, vẫn xưng tôi. Từ Map117 ev3p2 gọi thật lòng, chuyển sang em – chủ nhân.",
+    "note": "Khách vay tiền lạ mặt ('您好') nên lúc đầu giữ khoảng cách; 'ông chủ' hợp vai, không phụ thuộc tuổi. [biên tập trưởng độc lập, 02/11]"
+   },
+   {
+    "from": "lilina",
+    "to": "bachtuyet",
+    "self": "mình",
+    "call": "cậu",
+    "note": "Đáp lại đúng kiểu bạn bè ngang tuổi; độc thoại （） vẫn xưng 'mình'. [biên tập trưởng độc lập, 02/11]"
+   },
+   {
+    "from": "lilina",
+    "to": "unicorn11",
+    "self": "chị; khi đã coi là chồng: em",
+    "call": "mày; khi đã coi là chồng: anh; khi gốc gọi 老公: chồng",
+    "changes": "Lúc đầu cô coi nó như con thú cưng ('ngủ ngon', 'ở nhà trông nhà nha'), sau đó chuyển sang em/anh từ khi gốc bắt đầu coi nó là chồng (老公) hoặc khi nó hóa người nói chuyện.",
+    "note": "Samples đầu là kiểu cưng một con vật mà cô tự cười mình ngốc, nên 'chị/mày' nghe tự nhiên. Lên quan hệ vợ chồng thì khớp với 'anh/em yêu' của kỳ lân. [biên tập trưởng độc lập, 02/11]"
+   },
+   {
+    "from": "lilina",
+    "to": "matt",
+    "self": "em; khi hắn lộ mặt: tôi",
+    "call": "huấn luyện viên; khi hắn lộ mặt: anh",
+    "changes": "Khi Matt giở trò, lộ mặt dâm đãng: em/huấn luyện viên → tôi/anh",
+    "note": "Lúc đầu là học viên ngoan ('Vâng, huấn luyện viên!'), giữ chức danh 教練; khi bị lợi dụng thì cô giữ khoảng cách. [biên tập trưởng độc lập, 02/11]"
+   },
+   {
+    "from": "lilina",
+    "to": "flower_girl",
+    "self": "chị",
+    "call": "em",
+    "note": "Khớp với cô bán hoa gọi 'chị'. [biên tập trưởng độc lập, 02/11]"
+   },
+   {
+    "from": "lilina",
+    "to": "bath_owner",
+    "self": "tôi",
+    "call": "ông chủ",
+    "changes": "Nhánh sa đọa: vẫn tôi/ông chủ nhưng giọng trên cơ",
+    "note": "Khách hoặc nạn nhân với ông chủ trung niên có vợ, tôi/ông chủ là hợp. [biên tập trưởng độc lập, 02/11]"
+   },
+   {
+    "from": "lilina",
+    "to": "hentai_zero",
+    "self": "tôi",
+    "call": "anh; khi mắng: đồ biến thái",
+    "changes": "Nhánh sa đọa: gọi đùa 'anh hùng biến thái'",
+    "note": "Gặp gã lạ mặt nên giữ 'tôi', gọi 'anh'; chửi thì 'đồ biến thái' đúng như gốc 變態. [biên tập trưởng độc lập, 02/11]"
+   },
+   {
+    "from": "lilina",
+    "to": "snake_a",
+    "self": "em / nô lệ",
+    "call": "chủ nhân",
+    "changes": "Lần đầu còn chống cự; sau khế ước, mỗi lần quay lại đều gọi 'chủ nhân'"
+   },
+   {
+    "from": "lilina",
+    "to": "gambler",
+    "self": "ta; khi bị khống chế và sợ hãi: tôi",
+    "call": "ngươi; khi khinh: đồ cặn bã",
+    "note": "Lúc đi bắt kẻ móc túi ('Chuẩn bị đi! Lần này ta nhất định bắt ngươi chịu tội!') cô ở thế chính nghĩa, nên 'ta/ngươi' hợp hơn 'tôi'. [biên tập trưởng độc lập, 02/11]"
+   },
+   {
+    "from": "lilina",
+    "to": "bandit",
+    "self": "\\N[59]",
+    "call": "chủ nhân"
+   },
+   {
+    "from": "lilina",
+    "to": "dale",
+    "self": "cháu; khi giận, cà khịa: tôi",
+    "call": "bác",
+    "note": "Gốc gọi 老伯伯, ông lớn tuổi hơn nên cô xưng cháu, gọi bác; chỉ chuyển 'tôi' khi bực ông háo sắc. [biên tập trưởng độc lập, 02/11]"
+   },
+   {
+    "from": "lilina",
+    "to": "seth",
+    "self": "cô",
+    "call": "em; khi gọi tên: Seth",
+    "note": "Gia sư với học trò, gốc gọi 老師; dù Seth là thiếu niên hay trưởng thành thì cô/em vẫn đúng. [biên tập trưởng độc lập, 02/11]"
+   },
+   {
+    "from": "lilina",
+    "to": "luna",
+    "self": "chị",
+    "call": "em; khi gốc gọi tên: \\N[41]",
+    "note": "Khớp với chiều Luna xưng em – gọi chị; Lilina lúc này mơ hồ, ít lời, đáp kiểu người lớn hơn ('Ừ'). [biên tập trưởng độc lập, 02/11]"
+   },
+   {
+    "from": "lilina",
+    "to": "james",
+    "self": "tôi → em",
+    "call": "ngài \\N[47] → anh \\N[47] (先生); lúc tình tứ: anh",
+    "changes": "Cùng mốc đính hôn với James: từ tôi–ngài \\N[47] chuyển sang em–anh; 先生 sau mốc này dịch là 'anh \\N[47]'.",
+    "note": "Lúc đầu là người lạ giàu có nên 'tôi' là hợp lý; sau khi thành hôn phu thê thì em–anh. [biên tập trưởng độc lập, 02/11]"
+   },
+   {
+    "from": "lilina",
+    "to": "langthan",
+    "self": "ta; khi bị Thần Sói dạy dỗ (kết xấu): xưng bằng tên \\N[1]",
+    "call": "ngươi; khi trêu: con sói non; sau khi nó khuất phục: Harpy",
+    "changes": "Hậu truyện ngày 180: buột miệng 'Vâng! Chủ nhân!' vì thân thể phải nghe lệnh Thần Sói (chủ–tớ hai chiều).",
+    "note": "Cô đối đầu ngang hàng, đắc thắng nên đáp 'ta–ngươi'. Ở kết bị dạy dỗ, gốc để cô tự gọi tên ('\\N[1]好幸福啊') nên giữ xưng bằng tên. [biên tập trưởng độc lập, 02/11]"
+   },
+   {
+    "from": "lilina",
+    "to": "parallel_lilina",
+    "self": "tớ / mình",
+    "call": "cậu"
+   },
+   {
+    "from": "lilina",
+    "to": "teacher51",
+    "self": "em",
+    "call": "thầy; giáo viên nữ: cô",
+    "note": "Học viên với giáo viên Học viện; 'Vâng', 'Có ạ' giữ giọng trò ngoan. [biên tập trưởng độc lập, 02/11]"
+   },
+   {
+    "from": "lilina",
+    "to": "villager55",
+    "self": "tôi; khi xin xỏ, dụ dỗ: em; với Trưởng làng: cháu",
+    "call": "anh / chú (tùy tuổi người dân làng); Trưởng làng: bác trưởng làng",
+    "note": "Người lạ nên giữ 'tôi'; xin ăn hay đem thân ra đổi thì hạ giọng 'em'. [biên tập trưởng độc lập, 02/11]"
+   },
+   {
+    "from": "lilina",
+    "to": "miller",
+    "self": "tớ",
+    "call": "cậu",
+    "note": "Hai người là bạn học. Lilina ở học viện thì ngây ngô, ngoan nên đáp tớ–cậu: mềm mà vẫn ngang hàng, không cần 'tôi'. [biên tập trưởng độc lập, 02/11]"
+   },
+   {
+    "from": "lilina",
+    "to": "student52",
+    "self": "tớ",
+    "call": "cậu",
+    "note": "Bạn học quần chúng ngang hàng. Lilina hỏi cô gái bị trói bằng giọng bạn bè nên dùng tớ–cậu. [biên tập trưởng độc lập, 02/11]"
+   },
+   {
+    "from": "lilina",
+    "to": "lilith",
+    "self": "tôi",
+    "call": "cô (gốc gọi tên thì 'cô \\N[44]')",
+    "note": "Hai bên là bên bán và bên ký hợp đồng, giữ khoảng cách; ghép với giọng tôi–cô của Lilith cho khớp. [biên tập trưởng độc lập, 02/11]"
+   },
+   {
+    "from": "lilina",
+    "to": "slime_scholar",
+    "self": "tôi",
+    "call": "ông; khi trang trọng: ông học giả",
+    "note": "Hai người lạ gặp nhau qua Hội, được phép dùng 'tôi'; gọi 'ông' cho khớp với tôi/cô (độ tuổi bề ngoài xem câu hỏi). [biên tập trưởng độc lập, 02/11]"
+   },
+   {
+    "from": "lilina",
+    "to": "doctor",
+    "self": "em",
+    "call": "bác sĩ",
+    "note": "Bệnh nhân trẻ tuổi xưng em, gọi chức danh như gốc gọi 醫生. [biên tập trưởng độc lập, 02/11]"
+   },
+   {
+    "from": "lilina",
+    "to": "cell_boss",
+    "self": "tôi",
+    "call": "ông; khi chửi, giận: lão",
+    "note": "Bị ép nhưng vẫn thù hằn, cố giữ khoảng cách nên dùng tôi/ông; lúc mắng gọi 'lão' để khớp với 'ông đây'. [biên tập trưởng độc lập, 02/11]"
+   },
+   {
+    "from": "lilina",
+    "to": "charlo",
+    "self": "tớ; trong cảnh sa đọa tự gọi tên \\N[1] khi gốc dùng",
+    "call": "cậu",
+    "note": "Hai bạn đồng môn ngang hàng; tớ/cậu dùng được dù giới tính Charlo chưa thống nhất. [biên tập trưởng độc lập, 02/11]"
+   },
+   {
+    "from": "lilina",
+    "to": "jack",
+    "self": "tớ",
+    "call": "cậu",
+    "changes": "Sau khi bị ép hẹn: xưng 'tôi' để giữ khoảng cách, vẫn gọi 'cậu'",
+    "note": "Bạn đồng học; bị nắm thóp thì cô dè chừng nhưng vẫn mềm mỏng, gốc có câu 我們可以聊聊嗎. [biên tập trưởng độc lập, 02/11]"
+   },
+   {
+    "from": "lilina",
+    "to": "potter",
+    "self": "tôi; độc thoại （）: mình",
+    "call": "ông; độc thoại （）: lão",
+    "note": "Thân phận tù nhân bị ép, bề ngoài cam chịu ('Vâng…') nhưng giữ khoảng cách, phản kháng ('Tôi đâu phải gia súc'); trong đầu thì khinh ra mặt. [biên tập trưởng độc lập, 02/11]"
+   },
+   {
+    "from": "lilina",
+    "to": "prisoner54",
+    "self": "em",
+    "call": "chị",
+    "note": "Lilina đang bị dục vọng chi phối, nũng nịu nài nỉ ('Đừng lạnh lùng thế mà～'), nên hạ mình em – chị trước một kẻ đáp tao – mày, đúng kiểu người Việt. [biên tập trưởng độc lập, 02/11]"
+   },
+   {
+    "from": "lilina",
+    "to": "fire_spirit",
+    "self": "tôi",
+    "call": "ngài; khi Tinh linh đã gọi Nữ vương đại nhân: ngươi (xưng ta)",
+    "changes": "Từ lúc Tinh linh khẩn cầu và tôn Lilina làm Nữ vương: Lilina đổi sang ta – ngươi.",
+    "note": "Lần đầu gặp, Lilina là người lạ đến xin mượn bảo vật của một thực thể cổ xưa, nên dùng tôi – ngài; về sau vị thế đảo ngược. [biên tập trưởng độc lập, 02/11]"
+   },
+   {
+    "from": "lilina",
+    "to": "galon",
+    "self": "tôi",
+    "call": "ngài",
+    "note": "Người lạ đến xin vật báu của một vị vua vong linh, vừa sợ vừa van ('Xin ngài tin tôi'), nên tôi – ngài trang trọng là hợp lý. [biên tập trưởng độc lập, 02/11]"
+   },
+   {
+    "from": "lilina",
+    "to": "galen",
+    "self": "tôi",
+    "call": "ông",
+    "note": "Người lạ, cô đang cần nhờ vả nên giữ khoảng cách bằng 'tôi', gọi 'ông' cho khớp với giọng 'ta' của hắn. [biên tập trưởng độc lập, 02/11]"
+   },
+   {
+    "from": "lilina",
+    "to": "shop_clerk",
+    "self": "chị",
+    "call": "em",
+    "note": "Khớp với cách cô nhân viên xưng em; Lilina là khách hỏi giá, giọng thân, không cần 'tôi'. [biên tập trưởng độc lập, 02/11]"
+   },
+   {
+    "from": "lilina",
+    "to": "sophia",
+    "self": "tôi",
+    "call": "cô; nhắc trong độc thoại: Sophia",
+    "note": "Bị nhập xác, bị cưỡng ép nên cố ý giữ khoảng cách, phản kháng yếu ớt ('Đừng tưởng… tôi sẽ để các người…'). [biên tập trưởng độc lập, 02/11]"
+   },
+   {
+    "from": "lilina",
+    "to": "master_generic",
+    "self": "em; giữ tên \\N[1] khi gốc tự xưng bằng tên; 'người ta' khi gốc dùng 人家",
+    "call": "chủ nhân; khách nữ (女主人): nữ chủ nhân",
+    "changes": "Trước khi nhận vai nô lệ (câu hỏi mở đầu 'là khách à?'): gọi 'quý khách', chưa xưng. Từ lúc chấp nhận vai: em / chủ nhân.",
+    "note": "Lilina trong vai nô lệ kỹ viện nên hạ mình, xưng em, gọi chủ nhân. [biên tập trưởng độc lập, 02/11]"
+   },
+   {
+    "from": "lilina",
+    "to": "lydis",
+    "self": "chị",
+    "call": "em",
+    "note": "Lilina là hội viên lâu năm, chủ động bắt chuyện tân binh nhút nhát và để ý cô ta; chị – em vừa thân vừa có thế trên. [biên tập trưởng độc lập, 02/11]"
+   },
+   {
+    "from": "lilina",
+    "to": "roger",
+    "self": "em",
+    "call": "anh",
+    "note": "Cả hai cùng dưới trướng một 'chủ nhân' (Roger nhắc 'chủ nhân sẽ nổi giận'), Roger giúp đỡ như đàn anh hiền lành; anh – em thay cho 'tôi – anh'. [biên tập trưởng độc lập, 02/11]"
+   },
+   {
+    "from": "lilina",
+    "to": "parker",
+    "self": "em",
+    "call": "anh (gọi tên Parker khi gốc gọi tên)",
+    "note": "Đồng nghiệp trong Hội. Mặc định Parker lớn hơn, kiểu đàn anh nóng tính tốt bụng; 'em – anh' tự nhiên và tránh được 'tôi'. [biên tập trưởng độc lập, 02/11]"
+   },
+   {
+    "from": "lilina",
+    "to": "nicole",
+    "self": "chị",
+    "call": "em",
+    "note": "Nicole là nhân viên tiệm, đon đả, tự xưng 'em' với khách; Lilina là khách nên xưng chị gọi em cho khớp. [biên tập trưởng độc lập, 02/11]"
+   },
+   {
+    "from": "lilina",
+    "to": "villager2",
+    "self": "tôi",
+    "call": "các người; khi tức giận: lũ khốn",
+    "note": "Hai gã dân làng lạ mặt giở trò lúc cô ngủ, nên Lilina giữ khoảng cách, giọng thù địch. [biên tập trưởng độc lập, 02/11]"
+   },
+   {
+    "from": "lilina",
+    "to": "hart",
+    "self": "tớ",
+    "call": "cậu",
+    "note": "Bạn học, Lilina ở học viện ngây ngô, gọi tên Hart, giọng ngang hàng. [biên tập trưởng độc lập, 02/11]"
+   },
+   {
+    "from": "lilina",
+    "to": "lucia",
+    "self": "mình",
+    "call": "Lucia (gọi tên)",
+    "note": "Chưa rõ ai lớn hơn, nên Lilina gọi tên và xưng 'mình' cho trung tính; khi nài nỉ thì kéo dài 'Lucia～ làm ơn mà～'. [biên tập trưởng độc lập, 02/11]"
+   },
+   {
+    "from": "lilina",
+    "to": "godvoice",
+    "self": "(không xưng; độc thoại thì 'mình')",
+    "call": "(không gọi)",
+    "note": "Lilina không nói với Giọng của Thần, chỉ tự nói câu chặn đường; nếu cần đại từ thì dùng 'mình' như độc thoại. [biên tập trưởng độc lập, 02/11]"
+   },
+   {
+    "from": "lilina",
+    "to": "mystery_man",
+    "self": "tôi",
+    "call": "ngươi",
+    "note": "Gã lạ mặt bất ngờ trói được cô, nên Lilina cảnh giác, giữ khoảng cách ('Kẻ nào!', 'Đừng có tự nói tự nghe chứ…'). [biên tập trưởng độc lập, 02/11]"
+   },
+   {
+    "from": "lilina",
+    "to": "taylor",
+    "self": "tôi",
+    "call": "ngài",
+    "note": "Tù nhân nói với quan quản lý mỏ: quan hệ trên dưới, xa lạ, trang trọng. [biên tập trưởng độc lập, 02/11]"
+   },
+   {
+    "from": "lilina",
+    "to": "lisa",
+    "self": "em",
+    "call": "chị",
+    "note": "Lisa xưng chị, dỗ Lilina như đàn em, nên Lilina đáp em/chị cho khớp. [biên tập trưởng độc lập, 02/11]"
+   },
+   {
+    "from": "lilina",
+    "to": "ils",
+    "self": "tôi",
+    "call": "anh",
+    "note": "Lilina tỉnh táo, nói với một mạo hiểm giả nam lạ, có vẻ lớn tuổi hơn, nên xưng 'tôi' gọi 'anh' cho đúng chất mạo hiểm giả và đúng khoảng cách. [biên tập trưởng độc lập, 02/11]"
+   },
+   {
+    "from": "lilina",
+    "to": "rapist",
+    "self": "ta",
+    "call": "ngươi",
+    "note": "Lilina áp đảo một tên tội phạm, giọng đắc thắng, trêu chọc ('Định thôi miên ta à? Không có cửa đâu!'); không dùng 'tôi/anh' vì quá khách sáo với kẻ hiếp dâm. [biên tập trưởng độc lập, 02/11]"
+   }
+  ],
+  "glossary": [
+   {
+    "src": "蛇女三姐妹 / 蛇女A/B/C",
+    "vi": "ba chị em Người rắn / Nữ Rắn A/B/C"
+   },
+   {
+    "src": "史萊姆 / 史萊姆女王 / 殺人蜂 / 毒蝎 / 僵尸 / 骸骨戰士 / 幽靈 / 怨靈 / 亡靈守衛 / 獵鷹 / 魔牛 / 章魚怪 / 火龍 / 吸血蝙蝠",
+    "vi": "Slime / Nữ vương Slime / Ong sát thủ / Bọ cạp độc / Zombie / Chiến binh xương / Hồn ma / Oan hồn / Vệ binh Vong linh / Chim ưng / Bò quỷ / Quái bạch tuộc / Rồng lửa / Dơi hút máu"
+   },
+   {
+    "src": "墮落 / 欲望 / 魅力 / 理性 / 詛咒 / 羞恥 / 順從",
+    "vi": "Sa đọa / Dục vọng / Quyến rũ / Lý trí / Nguyền rủa / Xấu hổ / Phục tùng",
+    "note": "chỉ số"
+   },
+   {
+    "src": "是否需要跳過重復H？ / 跳過劇情",
+    "vi": "Bỏ qua cảnh H đã xem? / Bỏ qua cốt truyện"
+   }
+  ],
+  "scene": {
+   "effect": "cười ngượng",
+   "mood": "hài – ngượng",
+   "summary": "U linh nhập vào làm Lilina mọc 'dương vật'; cô thủ dâm cho nó bắn hết ma lực thì nó biến mất."
+  },
+  "lines": [
+   {
+    "id": "0",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n做不到……",
+    "sp": "lilina"
+   },
+   {
+    "id": "1",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n被拘束著沒法做啊……",
+    "sp": "lilina"
+   },
+   {
+    "id": "2",
+    "k": "dialogue",
+    "s": "是否需要跳過重復H？"
+   },
+   {
+    "id": "3",
+    "k": "choice",
+    "s": "是"
+   },
+   {
+    "id": "4",
+    "k": "choice",
+    "s": "否"
+   },
+   {
+    "id": "5",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n不行了，一直摩擦著幽靈的陰莖……感覺好奇怪啊！",
+    "sp": "lilina"
+   },
+   {
+    "id": "6",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n陰莖好硬啊……感覺好奇怪……",
+    "sp": "lilina"
+   },
+   {
+    "id": "7",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n男人的那里，射一發好像就會變小的……對了！試試擼到它射吧！否則會變得更奇怪的……",
+    "sp": "lilina"
+   },
+   {
+    "id": "8",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧試圖安撫陰莖……"
+   },
+   {
+    "id": "9",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n不但沒有變小……反而變大了？！好硬，還熱乎乎的～",
+    "sp": "lilina"
+   },
+   {
+    "id": "10",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n小穴也濕透了～好想被插入～～不過～～要忍住～",
+    "sp": "lilina"
+   },
+   {
+    "id": "11",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧開始摩擦自己的陰莖……"
+   },
+   {
+    "id": "12",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n啊～～啊～～啊～～開始舒服起來了～～",
+    "sp": "lilina"
+   },
+   {
+    "id": "13",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n～～好舒服～～還要～更多～",
+    "sp": "lilina"
+   },
+   {
+    "id": "14",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n有～～有東西要出來了～～～",
+    "sp": "lilina"
+   },
+   {
+    "id": "15",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n啊～～啊～～哦～～～射～射了啊～～",
+    "sp": "lilina"
+   },
+   {
+    "id": "16",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n沒想到把魔力射出去后，幽靈真的會消失～太好了！",
+    "sp": "lilina"
+   },
+   {
+    "id": "17",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n哈～陰莖果然不見了！",
+    "sp": "lilina"
+   },
+   {
+    "id": "18",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧的欲望略微得到了壓制……"
+   },
+   {
+    "id": "19",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n別開玩笑了，我怎么會有那種惡心的東西！",
+    "sp": "lilina"
+   }
+  ]
+ },
+ "meta": [
+  {
+   "speaker": "莉莉娜",
+   "face": "lilina1",
+   "codes": [
+    "\\C[6]",
+    "\\N[1]",
+    "\\C[0]"
+   ],
+   "source": "\\C[6]\\N[1]\\C[0]：\n做不到……",
+   "ban_hien_tai": "\\C[6]\\N[1]\\C[0]:\nKhông làm được……"
+  },
+  {
+   "speaker": "莉莉娜",
+   "face": "lilina1",
+   "codes": [
+    "\\C[6]",
+    "\\N[1]",
+    "\\C[0]"
+   ],
+   "source": "\\C[6]\\N[1]\\C[0]：\n被拘束著沒法做啊……",
+   "ban_hien_tai": "\\C[6]\\N[1]\\C[0]:\nĐang bị trói thế này thì làm sao mà làm được……"
+  },
+  {
+   "speaker": null,
+   "face": null,
+   "codes": [],
+   "source": "是否需要跳過重復H？",
+   "ban_hien_tai": "Bỏ qua cảnh H đã xem?"
+  },
+  {
+   "speaker": null,
+   "face": null,
+   "codes": [],
+   "source": "是",
+   "ban_hien_tai": "Có"
+  },
+  {
+   "speaker": null,
+   "face": null,
+   "codes": [],
+   "source": "否",
+   "ban_hien_tai": "Không"
+  },
+  {
+   "speaker": "莉莉娜",
+   "face": "lilina1",
+   "codes": [
+    "\\C[6]",
+    "\\N[1]",
+    "\\C[0]"
+   ],
+   "source": "\\C[6]\\N[1]\\C[0]：\n不行了，一直摩擦著幽靈的陰莖……感覺好奇怪啊！",
+   "ban_hien_tai": "\\C[6]\\N[1]\\C[0]:\nKhông chịu nổi nữa, cứ cọ mãi vào cái ấy của u linh… cảm giác lạ quá đi!"
+  },
+  {
+   "speaker": "莉莉娜",
+   "face": "lilina1",
+   "codes": [
+    "\\C[6]",
+    "\\N[1]",
+    "\\C[0]"
+   ],
+   "source": "\\C[6]\\N[1]\\C[0]：\n陰莖好硬啊……感覺好奇怪……",
+   "ban_hien_tai": "\\C[6]\\N[1]\\C[0]:\nCái ấy cứng quá… cảm giác lạ lắm…"
+  },
+  {
+   "speaker": "莉莉娜",
+   "face": "lilina1",
+   "codes": [
+    "\\C[6]",
+    "\\N[1]",
+    "\\C[0]"
+   ],
+   "source": "\\C[6]\\N[1]\\C[0]：\n男人的那里，射一發好像就會變小的……對了！試試擼到它射吧！否則會變得更奇怪的……",
+   "ban_hien_tai": "\\C[6]\\N[1]\\C[0]:\nChỗ đó của đàn ông, bắn một phát hình như sẽ xìu xuống… Đúng rồi! Thử vuốt cho nó bắn xem! Không thì sẽ càng kỳ quái hơn…"
+  },
+  {
+   "speaker": null,
+   "face": null,
+   "codes": [
+    "\\C[6]",
+    "\\N[1]",
+    "\\C[0]"
+   ],
+   "source": "\\C[6]\\N[1]\\C[0]試圖安撫陰莖……",
+   "ban_hien_tai": "\\C[6]\\N[1]\\C[0] cố xoa dịu cái ấy……"
+  },
+  {
+   "speaker": "莉莉娜",
+   "face": "lilina1",
+   "codes": [
+    "\\C[6]",
+    "\\N[1]",
+    "\\C[0]"
+   ],
+   "source": "\\C[6]\\N[1]\\C[0]：\n不但沒有變小……反而變大了？！好硬，還熱乎乎的～",
+   "ban_hien_tai": "\\C[6]\\N[1]\\C[0]:\nKhông những không xìu xuống… mà còn to ra nữa?! Cứng quá, lại còn nóng hổi~"
+  },
+  {
+   "speaker": "莉莉娜",
+   "face": "lilina1",
+   "codes": [
+    "\\C[6]",
+    "\\N[1]",
+    "\\C[0]"
+   ],
+   "source": "\\C[6]\\N[1]\\C[0]：\n小穴也濕透了～好想被插入～～不過～～要忍住～",
+   "ban_hien_tai": "\\C[6]\\N[1]\\C[0]:\nKhe thịt cũng ướt sũng rồi~ muốn bị đút vào quá~~ Nhưng mà~~ phải nhịn~"
+  },
+  {
+   "speaker": null,
+   "face": null,
+   "codes": [
+    "\\C[6]",
+    "\\N[1]",
+    "\\C[0]"
+   ],
+   "source": "\\C[6]\\N[1]\\C[0]開始摩擦自己的陰莖……",
+   "ban_hien_tai": "\\C[6]\\N[1]\\C[0] bắt đầu cọ xát cái ấy của mình……"
+  },
+  {
+   "speaker": "莉莉娜",
+   "face": "lilina1",
+   "codes": [
+    "\\C[6]",
+    "\\N[1]",
+    "\\C[0]"
+   ],
+   "source": "\\C[6]\\N[1]\\C[0]：\n啊～～啊～～啊～～開始舒服起來了～～",
+   "ban_hien_tai": "\\C[6]\\N[1]\\C[0]:\nA~~ A~~ A~~ bắt đầu thấy sướng rồi~~"
+  },
+  {
+   "speaker": "莉莉娜",
+   "face": "lilina1",
+   "codes": [
+    "\\C[6]",
+    "\\N[1]",
+    "\\C[0]"
+   ],
+   "source": "\\C[6]\\N[1]\\C[0]：\n～～好舒服～～還要～更多～",
+   "ban_hien_tai": "\\C[6]\\N[1]\\C[0]:\n~~Sướng quá~~ nữa đi~ thêm nữa~"
+  },
+  {
+   "speaker": "莉莉娜",
+   "face": "lilina1",
+   "codes": [
+    "\\C[6]",
+    "\\N[1]",
+    "\\C[0]"
+   ],
+   "source": "\\C[6]\\N[1]\\C[0]：\n有～～有東西要出來了～～～",
+   "ban_hien_tai": "\\C[6]\\N[1]\\C[0]:\nCó~~ có thứ gì sắp ra~~~"
+  },
+  {
+   "speaker": "莉莉娜",
+   "face": "lilina2",
+   "codes": [
+    "\\C[6]",
+    "\\N[1]",
+    "\\C[0]"
+   ],
+   "source": "\\C[6]\\N[1]\\C[0]：\n啊～～啊～～哦～～～射～射了啊～～",
+   "ban_hien_tai": "\\C[6]\\N[1]\\C[0]:\nA~~ A~~ Ôô~~~ ra~ ra rồi~~"
+  },
+  {
+   "speaker": "莉莉娜",
+   "face": "lilina1",
+   "codes": [
+    "\\C[6]",
+    "\\N[1]",
+    "\\C[0]"
+   ],
+   "source": "\\C[6]\\N[1]\\C[0]：\n沒想到把魔力射出去后，幽靈真的會消失～太好了！",
+   "ban_hien_tai": "\\C[6]\\N[1]\\C[0]:\nKhông ngờ bắn ma lực ra rồi, u linh thật sự biến mất~ may quá!"
+  },
+  {
+   "speaker": "莉莉娜",
+   "face": "lilina1",
+   "codes": [
+    "\\C[6]",
+    "\\N[1]",
+    "\\C[0]"
+   ],
+   "source": "\\C[6]\\N[1]\\C[0]：\n哈～陰莖果然不見了！",
+   "ban_hien_tai": "\\C[6]\\N[1]\\C[0]:\nHà~ cái ấy biến mất thật rồi!"
+  },
+  {
+   "speaker": null,
+   "face": null,
+   "codes": [
+    "\\C[6]",
+    "\\N[1]",
+    "\\C[0]"
+   ],
+   "source": "\\C[6]\\N[1]\\C[0]的欲望略微得到了壓制……",
+   "ban_hien_tai": "Dục vọng của \\C[6]\\N[1]\\C[0] được kìm xuống phần nào……"
+  },
+  {
+   "speaker": "莉莉娜",
+   "face": "lilina1",
+   "codes": [
+    "\\C[6]",
+    "\\N[1]",
+    "\\C[0]"
+   ],
+   "source": "\\C[6]\\N[1]\\C[0]：\n別開玩笑了，我怎么會有那種惡心的東西！",
+   "ban_hien_tai": "\\C[6]\\N[1]\\C[0]:\nĐừng đùa nữa, sao mình lại có thứ ghê tởm đó được!"
+  }
+ ],
+ "checks": [
+  {
+   "thang_18": true
+  },
+  {
+   "line": 6,
+   "cam": [
+    "cái ấy"
+   ],
+   "phai": [
+    "dương vật|cặc|buồi|gậy thịt|côn thịt"
+   ]
+  }
+ ],
+ "tao_luc": "2026-11-02"
+}

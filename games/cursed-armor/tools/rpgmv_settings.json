@@ -1,0 +1,7 @@
+{
+ "adapter": "rpgmv",
+ "version": "2.0.0",
+ "name_regex": "^\\\\C\\[\\d+\\](.+?)\\\\C\\[0\\]：$",
+ "face_speaker": true,
+ "game": "/home/claude/GAME"
+}

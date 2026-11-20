@@ -1,0 +1,1060 @@
+{
+ "id": "cs_key_map133_ev23p2",
+ "loai": "key",
+ "mo_ta": "Cảnh chuẩn (key) để đo chất lượng chung, không gắn lỗi cụ thể",
+ "bang_chung": "bo de mo rong 01/11",
+ "game": "cursed_armor_v2",
+ "grp": "Map133.json:ev23p2",
+ "src_lang": "zh",
+ "role": "key_scene",
+ "engine": [
+  "rpgmaker_mvmz"
+ ],
+ "facts": {
+  "engine": [
+   "rpgmaker_mvmz"
+  ],
+  "lang": [
+   "zh"
+  ],
+  "genre": [
+   "jrpg người lớn (eroge, adult only), dark fantasy phương tây, sandbox sa đọa nhiều nhánh, nhiều kết (good/bad/normal/true end, hậu truyện), có thay trang phục và các chỉ số"
+  ]
+ },
+ "lesson_codes": [
+  "G-001",
+  "G-002",
+  "G-004",
+  "G-005",
+  "G-017",
+  "G-018",
+  "G-019",
+  "G-020",
+  "G-021",
+  "G-022",
+  "G-023",
+  "G-024",
+  "E-rpgmaker_mvmz-002",
+  "E-rpgmaker_mvmz-006",
+  "E-rpgmaker_mvmz-008",
+  "G-003",
+  "G-006",
+  "G-007",
+  "G-008",
+  "G-009",
+  "G-010",
+  "G-011",
+  "G-012",
+  "G-013",
+  "G-014",
+  "G-015",
+  "G-016",
+  "E-rpgmaker_mvmz-001",
+  "E-rpgmaker_mvmz-003",
+  "E-rpgmaker_mvmz-004",
+  "E-rpgmaker_mvmz-005",
+  "E-rpgmaker_mvmz-007"
+ ],
+ "project_rules": [],
+ "fixed": {
+  "style": {
+   "genre": "JRPG người lớn (eroge, Adult Only), dark fantasy phương Tây, sandbox sa đọa nhiều nhánh, nhiều kết (Good/Bad/Normal/True End, Hậu truyện), có thay trang phục và các chỉ số",
+   "tone": "Dâm tục thẳng thắn, cưỡng ép, nhưng nhiều tiếng cười: Lilina tự vả và cà khịa trong đầu, Succubus đỏng đảnh, ác nhân ngọt (Chloria), phản diện lố (Ross, Hentai ZERO), giọng ban ơn (Thành chủ), giọng giảng đường vô lý (thầy phòng y tế cô học viện), meta phá tường thứ tư (Giọng của Thần, Thần Sói). Xen giữa là những đoạn bi kịch thật (Học viện, Di tích, Tinh linh Lửa, Galon, Torres, hậu truyện Thần Sói) cần giọng trầm, không đùa thêm, không làm nhẹ đi. Thế giới và tên người theo kiểu phương Tây; văn gốc là tiếng Trung khẩu ngữ mạng.",
+   "notes": "1) MÃ ĐIỀU KHIỂN: giữ nguyên tuyệt đối \\N[n] \\C[n] \\W[n] \\V[n] \\G \\{ \\} \\. \\| \\^ \\!, kể cả mã lỗi gốc ('\\C[2]\\N[12]', '\\C[3]\\C[18]\\C[0]', ký tự \\u001e). Riêng dấu '\\' lạc đứng trước chữ Hán ('\\安維爾', '\\千年樹精C') thì BỎ dấu '\\' khi dịch: MV không hiển thị nó, còn '\\' đặt trước chữ Latin sẽ nuốt chữ ('\\Chìa'). Kiểm định viên không bắt lỗi việc bỏ dấu này. \\. và \\^ đặt giữa từng âm để ngắt nhịp: giữ đúng số lượng, phân bố theo âm tiết tiếng Việt.\n2) TÊN ĐỘNG \\N[n] là tên Actor, được dịch một lần trong Actors.json. Có actor là danh từ chung: \\N[50]=Giọng của Thần, \\N[51]=Giáo viên, \\N[52]=Học viên, \\N[53]=Lính gác, \\N[54]=Tù nhân, \\N[55]=Dân làng, \\N[59]=Con Nô Hèn. Tiếng Việt đặt định ngữ SAU danh từ nên phải đảo vị trí mã: '帝國\\N[53]' → '\\N[53] Đế quốc', '\\N[53]們' → 'đám \\N[53]', '\\N[64]妹妹' → 'em \\N[64]', '\\N[13]大人' → '\\N[13] đại nhân'. Câu chứa \\N[1] phải đọc được cả khi \\N[1] bị đổi thành danh hiệu (tuyến nhà ngục). Câu chứa \\N[59] phải đọc trôi khi biến hiện thành 'Con Nô Hèn' ở mọi vị trí (chủ ngữ, tân ngữ, '…của \\N[59]').\n3) DẤU: '～' của gốc viết thành '~' đúng vị trí (font không có ～, hệ thống tự đổi; chữ ký giọng của Lilina, Succubus, Chloria, Trosi); '……'; ngoặc () cho độc thoại; 【】, 「」 nếu có. Chữ kéo dài từng âm ('Long~Ngâm~') thì đặt ~ sau mỗi tiếng.\n4) ĐỘC THOẠI （） là lòng thật của Lilina: giọng tự nhiên, sắc, hay chửi thầm, tương phản rõ với câu ngoài miệng.\n5) HAI BIẾN THỂ: cùng một cảnh có câu trong trắng và câu sa đọa thay nhau. Dịch song song, cùng cấu trúc.\n6) ĐỘ TUỔI: mọi nhân vật trong cảnh tình dục được trình bày là người trưởng thành. 少女 → 'cô gái/thiếu nữ'; không dùng 'bé gái, em bé, nhóc' trong cảnh tình dục; không thêm chi tiết gợi tuổi nhỏ. 學生/學院 → 'học viên'. Nếu gặp cảnh có dấu hiệu nhân vật vị thành niên (xem can_xac_nhan: Map186 少年, Seth) thì DỪNG, không dịch phần tình dục, báo chủ dự án.\n7) THANG TỪ TỤC (thống nhất, không nhẹ hơn, không tục hơn gốc): 肏 → 'đụ'; 干/做 → 'làm/chơi'; 肉棒 → 'cây gậy thịt' (Lilina e thẹn thì 'cái ấy'); 雞巴 → 'con cặc'; 淫穴 → 'lỗ dâm'; 小穴 → 'khe thịt/lỗ nhỏ' (KHÔNG 'cô bé'); 屁眼/菊穴 → 'lỗ đít/hoa cúc'; 精液 → 'tinh dịch/tinh'; 高潮 → 'lên đỉnh'; 丟了/要丟了 → 'ra… ra mất rồi'/'sắp ra rồi'; 母狗 → 'chó cái'; 母豬 → 'lợn nái'; 騷貨 → 'đồ dâm đãng'; 婊子 → 'con điếm'; 蕩婦 → 'con đĩ'; 癡女 → 'gái dâm'; 調教 → 'thuần hóa'.\n8) Tiếng rên, tượng thanh: Việt hóa ('A～', 'Ưm～', 'Hự'), độ dài tương đương. Lời bị bịt viết tắt bằng chữ Latin (Y/Z/D/S…) thì đổi sang lối đứt chữ tiếng Việt.\n9) Câu kích hoạt ám thị, tên ám thị, câu 'lẽ thường', câu niệm nô lệ: giống từng chữ ở mọi chỗ. Thuật ngữ UI (chỉ số, trạng thái, vật phẩm) khớp từng chữ với thoại có nhắc tới. Cảnh lặp và lựa chọn lặp dịch y hệt.\n10) Không lộ trước bí mật: Hiller là Tướng quỷ, Berika là thủ phạm, Owen chủ mưu, Cospiro là lính đánh thuê, tên thật Succubus, Long Ngâm chết, '？？？' là cái bóng của Thành chủ, Jude hai mặt, ý đồ của Luna.\n11) Lỗi gõ trong gốc thì dịch theo nghĩa đúng: 期約→契約, 不馬→不是馬, 別看玩笑→別開玩笑, 把持住→沒把持住, 繞/求繞→饒, 差不過→差不多, 難倒→難道, 無亂→無論, 踐習→實踐, 堵住→賭注, 亦然→依然, 試者→試著, 正視→正式, 識實物→識時務, 好想→好像, 會去→回去, 不削→不屑, 我先在→我現在, 在來→再來, 遍離開→便離開, 大副→大幅, 窮北→窮唄, 處于→出于, 再司機→再伺機. 'Nromal End' → 'Normal End' (chờ duyệt).\n12) Meta và quảng cáo (Giọng của Thần, Patreon, Tamamo, 'phần sau sẽ làm', 'các quý ông') dịch đủ, giữ giọng tác giả. '(未完成)' → '(Chưa hoàn thành)'.\n13) Nhãn người nói có thể bị gán nhầm (xem can_xac_nhan): dịch theo ngữ cảnh, không sửa nhãn trong dữ liệu.",
+   "strategy": {
+    "han_viet": "Mức VỪA PHẢI. Thoại đời thường, cà khịa, chửi bới và cảnh H dùng tiếng Việt khẩu ngữ, thuần Việt, gần lối nói người trẻ. Hán-Việt dành cho tên thánh vật, chiêu thức, danh hiệu, chức vị, thuật ngữ huyền huyễn (Tinh thể Thần Nước, Ngọc Lửa Rực, Cuồng Nộ Của Đất, Mắt Quỷ, Dấu ấn linh hồn, Vua Succubus, Kiếm Thánh Gió, Cánh Đen, Thành chủ, thần lực, phép cấm, kết giới, dị loài, lẽ thường, thuần hóa). Xưng hô Hán-Việt chỉ dùng cho nhân vật được chỉ định, để tạo giọng hoặc nhại: Eros (吾/汝 → 'bổn vương/ta – ngươi/nàng/ái phi'), Thành chủ Jon ('bổn vương'), Sax ('lão phu'), lính đánh thuê ('bổn đại gia'), tên lính đánh thuê sến kiểu kiếm hiệp, Hentai ZERO hô chiêu. Không dùng 'tại hạ', 'nô gia', 'bổn cô nương' cho Lilina hay nô lệ. Thành ngữ Hán đổi sang thành ngữ Việt tương đương; câu tao nhã dùng mỉa ('Một khắc đêm xuân đáng ngàn vàng') thì giữ câu Hán-Việt quen thuộc.",
+    "wordplay": "Giữ TÁC DỤNG, không giữ chữ, và không thêm câu đùa mới. 性福/幸福 → 'hạnh phịch'/'hạnh phúc', thống nhất cả game (xem handbook). 出來賣/外賣 → 'gái ra đường bán'/'gái giao hàng tận nơi'. 菊花 → 'hoa cúc'. Mật mã hoa giữ tên hoa và giá. 骯臟的屁眼交易 → 'phi vụ đi cửa sau dơ bẩn'. 風之劍圣/蜂之劍圣 → 'Kiếm Thánh Gió'/'Kiếm Thánh Ong'. 出色 tách 色 → 'xuất \"sắc\"'. 回籠昏 → 'ngất nướng'. Câu lỡ miệng, vấp chữ ('賤……\\N[59]', chữ tục lọt giữa câu) phải dựng lại cú vấp bằng tiếng Việt. Lóng mạng: 泰迪 → 'Teddy' (để giọng mỉa tự gánh nghĩa), 抖S → 'S chính hiệu/máu S', 黑暗料理 → 'món hắc ám'. Meme dùng bản Việt quen thuộc (Đại thoại Tây du theo bản lồng tiếng; 'đầu gối trúng tên' bám sát Skyrim). Nhịp hài: giữ '……' đúng chỗ bị cắt ('cảm ơ… Á!'); cặp mắng nhau giữ nhịp ngắn ('Đồ óc heo!', 'Đồ lợn ngu!'). Chơi chữ không có đối ứng thì viết câu Việt có cùng tác dụng, ngắn bằng hoặc ngắn hơn gốc, không chú thích.",
+    "poetry": "Hầu như không có thơ vần. Văn nghi thức cần dịch cố định: (a) công thức ám thị 'Học ma pháp hệ X thì…, đó là lẽ thường' / 'Dùng phép hệ X nghĩa là phải…'; (b) câu kích hoạt 'Có việc gì muốn làm không?' / 'Nói thật đi'; (c) câu niệm nô lệ Torres và '(\\N[59] là một con chó cái x N)'; (d) khẩu quyết bốn bước 'Cảm nhận nó, khống chế nó, hội tụ nó, giải phóng nó!' và châm ngôn giả của các hệ; (e) lời thề hôn lễ (Map119 với \\N[11]; Map135 bản nhại bẻ vế cuối thành 'mãi mãi phục tùng') theo văn lời thề cưới Công giáo quen thuộc; (f) màn xưng danh Hentai ZERO theo kiểu tokusatsu; (g) đoạn nhại Đại thoại Tây du ở Good End A; (h) lời chào chung của tinh linh giữ đền 'Nhân loại kia～ Đây không phải nơi ngươi nên đến!'; (i) câu kiếm hiệp và bài 'ca' rượu của tên lính đánh thuê; (j) lời kết sử thi của các bad end: giọng biên niên trang trọng, nhịp chậm; (k) tên chiêu Latin Zapfkiel / Aleph giữ nguyên.",
+    "names": "Chưa có bản Việt chính thức; tên tiếng Anh chính thức mới xác nhận Lilina, Aisha (tên DLC) và tên game Cursed Armor. Bản EN có tồn tại nên ưu tiên đối chiếu Steam EN trước khi khóa. Tạm dùng tên phương Tây viết Latin theo phiên âm hợp lý: Hiller, Simelia, Meili, Roger, Melissa, Lucia, Berika, Owen, Cospiro, Jon, Chloria, Trosi, Jude, Sanga, Resk, Sax, Shirley, Ross, Roster, Bigas, Charlo, Rant, Miller, Hart, Wendy, Jack, Darren, Nell, Lydis, Robert, Luna, Nicole, Lilith, Lisa, Lorin, James, Loki, Loken, Fitch, Matt, Galen, Galon, Sophia, Eros, Shuria, Dale, Seth, Nestra. Tên gốc Á dùng Hán-Việt: 龍吟 → Long Ngâm, 白雪 → Bạch Tuyết. Biệt danh mang nghĩa thì dịch nghĩa: 黑泰迪 → Teddy Đen, 金絲雀 → Hoàng Yến, 紅松鼠 → Sóc Đỏ, 白銀狐 → Cáo Bạc, 賤奴 → Con Nô Hèn. Khách mời giữ tên fandom quen dùng (Tamamo-no-Mae, Asuna, Ram, Rem, Tokisaki Kurumi, Nero, Okita Souji…). Nhãn người nói là danh từ chung thì dịch nghĩa (守衛 → Lính gác, 村民1 → Dân làng 1, 男人A → Gã A, 傭兵B → Lính đánh thuê B), riêng ？？？ giữ nguyên. Nhãn phải khớp tên actor tương ứng. Đặt tên một lần trong glossary và không đổi giữa chừng."
+   }
+  },
+  "work": {
+   "premise": "JRPG người lớn của wolfzq. Lilina, pháp sư hệ Hỏa ngây thơ, mơ thành mạo hiểm giả vĩ đại. Cô bị ép đội Vương miện Nguyền Rủa của Chúa tể Succubus Eros, trong giáp có Succubus trú ngụ, vừa giúp vừa xúi cô sa ngã. Muốn cởi giáp, cô phải tìm sáu thánh vật qua hàng chục tuyến rẽ nhánh: Hội mạo hiểm, nhà ngục, học viện, thành nô lệ Torres, trường đua kỳ lân, hang bọ. Cái hay: mỗi cảnh có hai giọng (trong trắng/sa đọa); độc thoại trong ngoặc tỉnh táo, cà khịa, trái hẳn lời phục tùng ngoài miệng; hài tự vả, meta; và những cú phản bội từ chính người cô tin."
+  }
+ },
+ "adult": true,
+ "payload": {
+  "lang": "Ngôn ngữ nguồn: tiếng Trung → tiếng Việt.",
+  "characters": [
+   {
+    "id": "cospiro",
+    "names": [
+     "柯斯皮洛",
+     "\\N[13]"
+    ],
+    "name_vi": "Cospiro",
+    "gender": "nam",
+    "role": "Giả làm tân binh lười của Hội; thực chất là thủ lĩnh Đoàn lính đánh thuê, kẻ ám sát lính gác để vu cho Hội",
+    "personality": "Khi đóng vai thì tự ti, than thở, bám víu. Thật ra mạnh, mưu mô, chiếm hữu, ghen với Owen; khống chế Lilina bằng độc nhưng thật lòng với cô; khi thua thì nhận 'cả hai ta đều ngu quá'",
+    "speech_style": "Khi đóng vai: 'Haizz…', khách sáo. Khi lộ mặt: ra lệnh cộc, hay mỉa",
+    "catchphrases": [
+     "\\N[1]小姐，我的天使～ → Tiểu thư \\N[1], thiên thần của tôi～",
+     "我有必須要成為中級冒險者的理由，可我不能說…… → Tôi có lý do bắt buộc phải lên mạo hiểm giả trung cấp, nhưng không thể nói…",
+     "怎么可能讓你如愿！ → Đừng hòng được như ý!",
+     "快逃啊！雇傭兵\\N[1]！ → Chạy mau! Lính đánh thuê \\N[1]!"
+    ],
+    "comedic_role": "Kẻ nhờ vả dai dẳng (trước khi lộ mặt)",
+    "arc": "Nhờ gom dịch slime → lộ mặt lính đánh thuê (Map127 ev29p1) → ép Lilina làm nội gián, nô lệ → thật lòng, khuyên cô chạy → bị trói ngồi xem đám cưới ở nhánh Map135",
+    "self": "tôi (khi đóng vai) → ta (khi lộ mặt)",
+    "forbid": [
+     "lộ là lính đánh thuê trước Map127 ev29p1",
+     "mày (với Lilina sau khi đã có tình cảm)"
+    ],
+    "note": "Câu then chốt 'Nếu ta giải độc cho cô, cô còn ở lại bên ta không?': giữ sự ngập ngừng."
+   },
+   {
+    "id": "ils",
+    "names": [
+     "伊爾斯"
+    ],
+    "name_vi": "Ils (tạm)",
+    "gender": "nam (chưa chắc)",
+    "role": "Mạo hiểm giả mạnh nhất Hội, tâm phúc của Owen, đối thủ trận đấu sắp đặt",
+    "speech_style": "Kiểu quân nhân ('Cứ giao cho tôi, hội trưởng!')",
+    "self": "tôi"
+   },
+   {
+    "id": "lia",
+    "names": [
+     "莉婭"
+    ],
+    "name_vi": "Lia",
+    "gender": "nữ",
+    "role": "Thành viên Hội, tâm phúc của Owen, kiêu, hay dội nước lạnh",
+    "self": "tôi"
+   },
+   {
+    "id": "lilina",
+    "names": [
+     "莉莉娜",
+     "\\N[1]",
+     "Lilina",
+     "\\N[59] (tự xưng khi làm nô lệ)",
+     "\\N[61] (Teddy Đen, tên chó Thành chủ ban)",
+     "\\W[3]",
+     "獵天使",
+     "會長夫人",
+     "夫人",
+     "火的魔女",
+     "水的魔女",
+     "烈焰的魔女",
+     "特等生",
+     "小綿羊",
+     "癡女幽靈",
+     "吸精魔女",
+     "圣女",
+     "王妃",
+     "苗床",
+     "活體人偶",
+     "附屬品",
+     "亞巴頓女王",
+     "亞巴頓女妖",
+     "萬物之母",
+     "性奴隸",
+     "\\N[1]（人偶）"
+    ],
+    "name_vi": "Lilina",
+    "gender": "nữ",
+    "age": "thiếu nữ trưởng thành (P15 ghi 20 tuổi); cựu học viên ưu tú Học viện Ma pháp",
+    "role": "Nữ chính. Pháp sư hệ Hỏa ('Phù thủy Lửa'), mạo hiểm giả bị Giáp Nguyền Rủa trói buộc, mang danh hiệu Thiên Sứ Săn Mồi",
+    "personality": "Hồn nhiên, mơ mộng, cứng đầu, có chính nghĩa, tốt bụng, mềm lòng, cả tin, dễ bị dỗ ngọt. Ham tiền ('Một triệu G～!'), lém lỉnh, tự đắc khi lừa được địch, tsundere với người mình thích. Rất sợ ma nhưng thích dọa người. Thông minh, biết suy luận. Bị lời nguyền, ám thị, thuốc chi phối thì buông thả, rồi lại tự trách và đổ cho giáp. Đặt vào thế 'chủ nhân' thì nổi máu S. Có tham vọng ngây ngô làm 'nữ vương'.",
+    "speech_style": "Giọng con gái trẻ, nhiều '～'. Lúc tỉnh táo thì gọn, đúng chất mạo hiểm giả. Độc thoại （） hay cãi lại chính lời vừa nói, mỉa mai, tham tiền, chửi thầm ('Cái logic chó má gì thế này?'). Khi sa đọa thì nũng nịu, kéo dài 'chủ～nhân～', xưng 'người ta' theo 人家. Trong vai nô lệ thì xưng \\N[59]; đóng vai chó thì chỉ 'Gâu～ gâu gâu～'. Khi sợ thì lắp bắp. Ở học viện ngây ngô '…lẽ thường sao…'. Làm búp bê: đều đều, xưng bằng tên. Đối đầu Thần Sói, Berika: đắc thắng, trêu chọc.",
+    "catchphrases": [
+     "要不是這該死的詛咒，我怎么會…… → Nếu không vì cái lời nguyền chết tiệt này, mình đâu có…",
+     "我在想什么呢！ → Mình đang nghĩ cái gì thế này!",
+     "精液～必須好好的收集起來～～ → Tinh dịch～ phải gom cho thật kỹ～～",
+     "我可是勵志要成為一個偉大的冒險家！ → Mình đã quyết chí thành một mạo hiểm giả vĩ đại cơ mà!",
+     "真是諷刺啊…… → Đúng là mỉa mai thật…",
+     "……沒有效果 → …Không có tác dụng",
+     "哼～\\N[13]，有我在，怎么可能讓你如愿！ → Hừ～ \\N[13], có tôi ở đây, đừng hòng được như ý!",
+     "是，主人 → Vâng, chủ nhân",
+     "常識……嗎…… → Thường thức… sao…",
+     "難道是喝多了嗎 → Chẳng lẽ lại say quá à?"
+    ],
+    "comedic_role": "Kẻ tự vả, tự sửa lời ('cảm ơ… Á!'); người tỉnh táo cà khịa trong đầu, trái với lời phục tùng ngoài miệng; tsukkomi tỉnh bơ trước các trò lố; con bạc ảo tưởng; bị lừa bằng 'lẽ thường'",
+    "arc": "Mỗi tuyến một kiểu sa ngã (nô lệ vĩnh viễn, phu nhân giả, búp bê sống, vợ trùng, vợ thú, nữ yêu, Nữ vương), nhánh thiện thì giữ được ước mơ. Niềm tin vào Cha xứ sụp ở Map100, vào Owen sụp ở Map133. Với Long Ngâm: yêu, rồi mất, hoặc dùng tình yêu phá phép cấm. Với Aisha: từ khinh miệt đến nhường ngôi. Cuối cùng chọn vị trí nữ vương.",
+    "self": "tôi (với người ngoài, khi tỉnh táo); mình (độc thoại trong （）); em/con/cháu tùy người nghe (xem relations); 'người ta' khi gốc dùng 人家; giữ \\N[59] khi gốc dùng \\N[59]; 'ta' khi ở tư thế nữ vương, đối đầu Thần Sói/Berika, ra lệnh cho Succubus hoặc Vua Côn Trùng",
+    "forbid": [
+     "bé, nhóc, em bé (cho cô)",
+     "tao",
+     "bổn cô nương",
+     "nô gia",
+     "ta (trừ khi bị nhập xác hoặc ở tư thế nữ vương như trên)",
+     "tự ý đổi \\N[59] thành 'tôi/em' hoặc ngược lại"
+    ],
+    "note": "\\N[1] có thể bị đổi thành danh hiệu ở tuyến nhà ngục. Câu sửa lời là điểm kịch: 'Tiện… \\N[59] hiểu rồi' (Map139), Sax cấm cô xưng \\N[59] (Map085). Câu 'là, tiện…' rồi chữa thành 'tôi' phải khớp chữ 'Con Nô Hèn'. Ở Map154 (đã tự do) cô xưng 'tôi'. \\N[61] là tên riêng nhưng chỉ chính Lilina."
+   },
+   {
+    "id": "longngam",
+    "names": [
+     "龍吟",
+     "\\N[7]",
+     "大師",
+     "催眠大師",
+     "心靈魔法老師",
+     "親愛的",
+     "？？？ (tiếng gọi trong ký ức, Map163)"
+    ],
+    "name_vi": "Long Ngâm",
+    "gender": "nam",
+    "role": "Đại sư thôi miên do Đế quốc mời tới, bạn trai Lilina, thầy phòng y tế dạy Ma pháp Tâm trí ở Học viện",
+    "personality": "Nhút nhát, ngây ngô, dễ đỏ mặt, chính trực, chung tình, day dứt vì từng làm sai, sẵn sàng hy sinh",
+    "speech_style": "Lễ phép, lắp bắp khi ngượng, đánh trống lảng ('À… hôm nay trời đẹp ghê, ừ!'); khi yêu thì hồn nhiên ('Được đó, được đó!'). Lời thôi miên rồi 'Tách!' (búng tay)",
+    "catchphrases": [
+     "看著我手上的表……你感到很累……很累…… → Nhìn chiếc đồng hồ trên tay tôi… cô thấy rất mệt… rất mệt…",
+     "我愛你，\\N[1] → Anh yêu em, \\N[1]",
+     "我會拯救你的！就算拼上這條命！ → Anh sẽ cứu em! Dù phải đánh đổi cả mạng sống!"
+    ],
+    "comedic_role": "Chàng ngây ngô không hiểu ý bạn gái ('Mặt em đỏ quá, c… chẳng lẽ bị sốt?')",
+    "arc": "Đồng lõa thôi miên → ăn năn, cứu Lilina, tỏ tình → bị xóa ký ức → chết dưới tay Lilina (để lại đồng hồ quả quýt) / viết thư từ biệt / là ước nguyện phá phép cấm búp bê (Map163)",
+    "self": "tôi (trước khi thành đôi); anh (từ Map014 ev6p3)",
+    "forbid": [
+     "ta",
+     "tao",
+     "mày"
+    ]
+   },
+   {
+    "id": "mercenary",
+    "names": [
+     "傭兵",
+     "傭兵A",
+     "傭兵B",
+     "傭兵C",
+     "傭兵D",
+     "傭兵E",
+     "傭兵們",
+     "傭兵牧師",
+     "傭兵隊長",
+     "偽裝成平民的雇傭兵A",
+     "偽裝成傭兵的冒險者",
+     "叛逃的傭兵"
+    ],
+    "name_vi": "Lính đánh thuê (A–E) / Linh mục lính đánh thuê / Đội trưởng lính đánh thuê / Lính đánh thuê giả làm dân thường A / Mạo hiểm giả giả làm lính đánh thuê / Lính đánh thuê đào ngũ",
+    "gender": "nam",
+    "role": "Đám lính đánh thuê trong trò 'bắt cừu non' và ở trại; đội trưởng là tai mắt của Owen; có một tên cựu lính gác nói giọng kiếm hiệp sến; tên đào ngũ hèn và lắm mồm",
+    "personality": "Cợt nhả, đểu, thô bạo",
+    "speech_style": "Thô, cười hô hố; gọi Lilina 'cừu non', 'con đĩ nhỏ'",
+    "self": "tao / bọn tao / bổn đại gia; 'anh' khi trêu ghẹo"
+   },
+   {
+    "id": "owen",
+    "names": [
+     "歐文",
+     "\\N[12]",
+     "會長",
+     "公會會長"
+    ],
+    "name_vi": "Owen",
+    "gender": "nam",
+    "role": "Hội trưởng Hội Mạo hiểm giả Anvil, hôn phu và chủ nhân của Lilina; kẻ chủ mưu thật, người 'viết kịch bản' ở tuyến Hội",
+    "personality": "Dâm đãng, xảo quyệt, giả nhân giả nghĩa, đặt lợi ích lên hết, cần có kẻ thù, giỏi hùng biện, dám hy sinh bạn thân; có tình cảm chiếm hữu méo mó với Lilina",
+    "speech_style": "Kẻ cả, thích trêu ngươi ('Ừm hừm～', 'Hừm'); diễn thuyết đại nghĩa trước đám đông; với Lilina lúc dịu dàng ('em yêu'), lúc mỉa ('phu nhân hội trưởng'); khi lộ mặt thì ra lệnh, dùng ẩn dụ sân khấu",
+    "catchphrases": [
+     "嗯哼～ → Ừm hừm～",
+     "形象，形象！ → Hình tượng, hình tượng!",
+     "做為你的丈夫，這些錢當然由我來保管啦！ → Là chồng em thì tiền này đương nhiên anh giữ rồi!",
+     "因為這出戲的劇本，不是你寫的，而是我 → Vì kịch bản vở diễn này không phải do ngươi viết, mà là ta.",
+     "我會慢慢向你解釋的，親愛的。 → Anh sẽ từ từ giải thích cho em, em yêu."
+    ],
+    "comedic_role": "Kẻ đểu vô liêm sỉ kiểu 'tiền của vợ thì chồng giữ'",
+    "arc": "Đòi phí nhập hội bằng thân thể → bình phong 'phu nhân' → chỗ dựa, cầu hôn → lộ kịch bản (Map133 ev23p2) → khống chế bằng thuốc giải / thành thủ lĩnh lính đánh thuê (nhánh Map135)",
+    "self": "tôi (lúc đầu, và khi diễn thuyết); anh (khi là chồng/người yêu); ta (khi lộ mặt, khi H thô bạo, với Cospiro)",
+    "forbid": [
+     "giọng hoặc từ gợi ý vai chủ mưu trước Map133 ev23p2"
+    ]
+   },
+   {
+    "id": "parker",
+    "names": [
+     "帕克"
+    ],
+    "name_vi": "Parker",
+    "gender": "nam",
+    "role": "Mạo hiểm giả của Hội, nóng tính, tốt bụng",
+    "self": "tôi"
+   }
+  ],
+  "relations": [
+   {
+    "from": "lilina",
+    "to": "longngam",
+    "self": "tôi → em (nũng: người ta)",
+    "call": "đại sư → anh / anh yêu (親愛的); trêu: Long～Ngâm～, đồ ngốc; đùa ở nhà ngục: đại sư",
+    "changes": "Map014 ev6p3: anh nhờ bỏ chữ 'đại sư', từ đó em – anh; sau món quà gọi 'anh yêu'.",
+    "note": "Lúc đầu là khách mời xa lạ nên giữ khoảng cách; thành đôi thì chuyển hẳn sang em – anh. [biên tập trưởng độc lập, 02/11]"
+   },
+   {
+    "from": "longngam",
+    "to": "lilina",
+    "self": "tôi → anh",
+    "call": "cô / \\N[1] → em / \\N[1]; tình tứ: em yêu",
+    "changes": "Thành đôi ở Map014 ev6p3: từ tôi – cô sang anh – em.",
+    "note": "Chàng đại sư lễ phép, nhút nhát nên lúc đầu giữ 'tôi – cô'; yêu rồi thì 'anh – em' hồn nhiên. [biên tập trưởng độc lập, 02/11]"
+   },
+   {
+    "from": "owen",
+    "to": "lilina",
+    "self": "tôi → anh; khi H thô bạo và khi lộ mặt: ta",
+    "call": "cô → em / em yêu / phu nhân (夫人, cả riêng tư lẫn trước đám đông); khi H: đồ dâm đãng nhỏ; lộ mặt: cô; mỉa: phu nhân hội trưởng",
+    "changes": "Thành hôn phu thì anh – em, gọi 'phu nhân'. Map133 ev23p2, Map136, nhánh Map135: chuyển sang 'ta – cô'; 'phu nhân hội trưởng!' thành lời mỉa.",
+    "note": "Hội trưởng với mạo hiểm giả lúc đầu là xa lạ, trang trọng; thành chồng chưa cưới thì 'anh', lộ mặt thì kẻ cả 'ta'. [biên tập trưởng độc lập, 02/11]"
+   },
+   {
+    "from": "lilina",
+    "to": "owen",
+    "self": "tôi → em",
+    "call": "hội trưởng → \\N[12] (riêng tư) → anh / anh yêu → \\N[12] đại nhân (kết tuyến); nhánh mỉa: chủ nhân～",
+    "changes": "Owen bảo gọi tên khi riêng tư, cô buột 'Ô… hội trưởng \\N[12]～'. Đám cưới Map135 khi bị ra lệnh: 'Vâng… hội trưởng' (tôi – hội trưởng). Kết tuyến: '\\N[12] đại nhân' vì thuốc giải.",
+    "note": "Đúng mạch từ cấp dưới sang vị hôn thê; câu then chốt: '\\N[12], hôn ước của chúng ta… cũng là giả sao?' [biên tập trưởng độc lập, 02/11]"
+   },
+   {
+    "from": "owen",
+    "to": "cospiro",
+    "self": "ta",
+    "call": "ngươi",
+    "changes": "Khi Cospiro còn đóng vai tân binh: Owen xưng 'tôi', gọi 'cậu'. Lúc lật bài: ta / ngươi.",
+    "note": "Owen lộ mặt là người viết kịch bản, kẻ cả, khinh đối thủ. [biên tập trưởng độc lập, 02/11]"
+   },
+   {
+    "from": "cospiro",
+    "to": "lilina",
+    "self": "tôi; khi lộ mặt: ta",
+    "call": "cô (tâng bốc: tiểu thư \\N[1] / thiên thần của tôi); khi lộ mặt: cô",
+    "changes": "Lộ mặt ở Map127 ev29p1: tôi → ta, vẫn gọi 'cô' (hoặc tên \\N[1], 'lính đánh thuê \\N[1]').",
+    "note": "Lúc đóng vai thì khách sáo, bám víu nên dùng tôi–cô. Khi lộ mặt thì ra lệnh nhưng có tình cảm thật nên dùng ta–cô, không hạ xuống 'ngươi' hay 'mày'. [biên tập trưởng độc lập, 02/11]"
+   },
+   {
+    "from": "lilina",
+    "to": "cospiro",
+    "self": "tôi; trên giường: em",
+    "call": "cậu (lúc hắn còn là tân binh); khi đối đầu: anh (gọi tên \\N[13]); trên giường: chủ nhân",
+    "changes": "Sau Map127 ev29p1: cậu → anh hoặc tên \\N[13] ('\\N[13] đại nhân' khi gốc dùng 大人). Trên giường có lúc lỡ gọi tên rồi sửa: '\\N[13]… à không, chủ nhân～'. Trong độc thoại gọi 'hắn'.",
+    "note": "Với tân binh than thở thì cô ở thế đàn chị khuyên bảo nên dùng tôi–cậu. Biết hắn là kẻ khống chế mình thì đổi sang tôi–anh, giữ khoảng cách mà vẫn có tình. [biên tập trưởng độc lập, 02/11]"
+   },
+   {
+    "from": "mercenary",
+    "to": "lilina",
+    "self": "tao / bọn tao / bổn đại gia; khi trêu ghẹo, dụ dỗ: anh",
+    "call": "mày / cừu non / con đĩ nhỏ / nhỏ kia",
+    "note": "Đám lính đánh thuê thô, đểu; 'anh' chỉ là giọng chọc ghẹo ('làm cừu non của anh nào～'). [biên tập trưởng độc lập, 02/11]"
+   },
+   {
+    "from": "lilina",
+    "to": "mercenary",
+    "self": "em / người ta (人家); khi chống cự: tôi",
+    "call": "anh / anh lính (傭兵哥哥) / đại ca; khi chống cự: các người",
+    "note": "Bị đuổi bắt, van nài nên hạ mình 'em – anh'; lúc cứng giọng chống lại mới 'tôi – các người'. [biên tập trưởng độc lập, 02/11]"
+   },
+   {
+    "from": "cospiro",
+    "to": "mercenary",
+    "self": "ta",
+    "call": "các ngươi; một tên: ngươi",
+    "note": "Thủ lĩnh Đoàn lính đánh thuê ra lệnh cộc ('Rút! Mang con đàn bà này về cho ta'). [biên tập trưởng độc lập, 02/11]"
+   },
+   {
+    "from": "mercenary",
+    "to": "cospiro",
+    "self": "thuộc hạ; cả nhóm: bọn thuộc hạ",
+    "call": "đại nhân",
+    "note": "Gốc gọi 大人, đáp '是！': thuộc cấp trực tiếp, kính và sợ. [biên tập trưởng độc lập, 02/11]"
+   },
+   {
+    "from": "mercenary",
+    "to": "owen",
+    "self": "thuộc hạ",
+    "call": "đại nhân; gọi tên: Owen đại nhân",
+    "note": "Tên đào ngũ (tai mắt của Owen) xin thưởng, gốc '\\N[12]大人'; đám lính báo cáo cũng dùng giọng thuộc cấp. [biên tập trưởng độc lập, 02/11]"
+   },
+   {
+    "from": "owen",
+    "to": "mercenary",
+    "self": "ta",
+    "call": "các ngươi; một tên: ngươi",
+    "note": "Owen lộ mặt chỉ huy, diễn thuyết với bên thua và quát 'Câm miệng! Lính đánh thuê!'. [biên tập trưởng độc lập, 02/11]"
+   },
+   {
+    "from": "cospiro",
+    "to": "owen",
+    "self": "ta",
+    "call": "ngươi",
+    "changes": "Khi Cospiro còn đóng vai tân binh lười: xưng 'tôi', gọi 'hội trưởng'. Từ lúc hai bên lật bài đối đầu: ta / ngươi.",
+    "note": "Trong samples hai bên đã là kẻ thù đấu trí, Cospiro lộ mặt thủ lĩnh lính đánh thuê. [biên tập trưởng độc lập, 02/11]"
+   },
+   {
+    "from": "lilina",
+    "to": "parker",
+    "self": "em",
+    "call": "anh (gọi tên Parker khi gốc gọi tên)",
+    "note": "Đồng nghiệp trong Hội. Mặc định Parker lớn hơn, kiểu đàn anh nóng tính tốt bụng; 'em – anh' tự nhiên và tránh được 'tôi'. [biên tập trưởng độc lập, 02/11]"
+   },
+   {
+    "from": "parker",
+    "to": "lilina",
+    "self": "anh",
+    "call": "em",
+    "note": "Khớp với chiều kia; Parker nói bộc trực, thân mà không suồng sã ('Được, anh đi ngay!'). [biên tập trưởng độc lập, 02/11]"
+   },
+   {
+    "from": "ils",
+    "to": "lilina",
+    "self": "tôi",
+    "call": "cô",
+    "note": "Hai mạo hiểm giả xa lạ đấu với nhau, Ils giọng nhà binh, thẳng thắn; 'tôi/cô' giữ đúng khoảng cách đối thủ. [biên tập trưởng độc lập, 02/11]"
+   },
+   {
+    "from": "lilina",
+    "to": "ils",
+    "self": "tôi",
+    "call": "anh",
+    "note": "Lilina tỉnh táo, nói với một mạo hiểm giả nam lạ, có vẻ lớn tuổi hơn, nên xưng 'tôi' gọi 'anh' cho đúng chất mạo hiểm giả và đúng khoảng cách. [biên tập trưởng độc lập, 02/11]"
+   }
+  ],
+  "glossary": [
+   {
+    "src": "安維爾 / 安維爾城 / 安維爾港 / 安維爾空港",
+    "vi": "Anvil / thành Anvil / cảng Anvil / Cảng bay Anvil"
+   },
+   {
+    "src": "安維爾城東海灘據點 / 臨時據點 / 據點",
+    "vi": "căn cứ bãi biển phía đông thành Anvil / căn cứ tạm / căn cứ"
+   },
+   {
+    "src": "冒險者公會 / 安維爾冒險者公會 / 帝國冒險者公會 / 冒險者",
+    "vi": "Hội Mạo hiểm giả / Hội Mạo hiểm giả Anvil / Hội Mạo hiểm giả Đế quốc / mạo hiểm giả"
+   },
+   {
+    "src": "傭兵公會 / 傭兵團 / 傭兵 / 雇傭兵 / 傭兵牧師",
+    "vi": "Hội Lính đánh thuê / Đoàn lính đánh thuê / lính đánh thuê / lính đánh thuê / linh mục lính đánh thuê"
+   },
+   {
+    "src": "任務書 / 令牌",
+    "vi": "giấy nhiệm vụ / lệnh bài"
+   },
+   {
+    "src": "獵天使",
+    "vi": "Thiên Sứ Săn Mồi",
+    "note": "danh hiệu cao nhất của nữ mạo hiểm giả; chốt cả game, bỏ 'Thợ săn Thiên thần'"
+   },
+   {
+    "src": "會長 / 會長夫人 / 夫人",
+    "vi": "hội trưởng / phu nhân hội trưởng / phu nhân"
+   },
+   {
+    "src": "蛇女三姐妹 / 蛇女A/B/C",
+    "vi": "ba chị em Người rắn / Nữ Rắn A/B/C"
+   }
+  ],
+  "dont_translate": [
+   "\\!"
+  ],
+  "scene": {
+   "effect": "tò mò, rợn",
+   "mood": "lật ngược, bất an",
+   "summary": "Owen ném lệnh bài, tuyên bố 'kịch bản là do ta viết'. \\N[13] nhận ra tai mắt của Owen không phải Lilina. Lilina nghi ngờ vì chuyện đính hôn bị lộ, dùng chiếc nhẫn tách đoàn về Anvil."
+  },
+  "lines": [
+   {
+    "id": "0",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧把指揮官的令牌扔向⟦3⟧⟦4⟧⟦5⟧"
+   },
+   {
+    "id": "1",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n這是我親手交給前線指揮官的令牌……為什么……",
+    "sp": "cospiro"
+   },
+   {
+    "id": "2",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n因為這出戲的劇本，不是你寫的，而是我",
+    "sp": "owen"
+   },
+   {
+    "id": "3",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n你怎么能知道我的計劃……",
+    "sp": "cospiro"
+   },
+   {
+    "id": "4",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n我明白了……我明白了……⟦3⟧你留在傭兵團的眼線，根本就不是⟦4⟧⟦5⟧⟦6⟧……",
+    "sp": "cospiro"
+   },
+   {
+    "id": "5",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n⟦3⟧伊爾斯⟦4⟧，做掉⟦5⟧⟦6⟧⟦7⟧！",
+    "sp": "owen"
+   },
+   {
+    "id": "6",
+    "k": "dialogue",
+    "s": "⟦0⟧伊爾斯⟦1⟧：\n是！會長！",
+    "sp": "ils"
+   },
+   {
+    "id": "7",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n怎么可能讓你如愿！",
+    "sp": "cospiro"
+   },
+   {
+    "id": "8",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n⟦3⟧⟦4⟧⟦5⟧？",
+    "sp": "lilina"
+   },
+   {
+    "id": "9",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n我會慢慢向你解釋的，親愛的。現在你的任務已經完成，可以退回據點休息了，之前真是辛苦你了，等拿下傭兵團，我們就可以過上平靜美滿的生活",
+    "sp": "owen"
+   },
+   {
+    "id": "10",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n⟦3⟧⟦4⟧⟦5⟧……",
+    "sp": "lilina"
+   },
+   {
+    "id": "11",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n⟦3⟧莉婭⟦4⟧你去支援⟦5⟧伊爾斯⟦6⟧",
+    "sp": "owen"
+   },
+   {
+    "id": "12",
+    "k": "dialogue",
+    "s": "⟦0⟧莉婭⟦1⟧：\n是！會長！",
+    "sp": "lia"
+   },
+   {
+    "id": "13",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n你也去，別給⟦3⟧⟦4⟧⟦5⟧任何機會！",
+    "sp": "owen"
+   },
+   {
+    "id": "14",
+    "k": "dialogue",
+    "s": "⟦0⟧冒險者⟦1⟧：\n是！會長！",
+    "sp": "冒險者"
+   },
+   {
+    "id": "15",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n其它人治療傷員，帶上他們和⟦3⟧⟦4⟧⟦5⟧，先返回據點！",
+    "sp": "owen"
+   },
+   {
+    "id": "16",
+    "k": "dialogue",
+    "s": "⟦0⟧叛逃的傭兵⟦1⟧：\n⟦2⟧⟦3⟧⟦4⟧大人！你可要嘉獎我啊！為了拖住⟦5⟧⟦6⟧⟦7⟧，我嘴皮子磨破都沒說出你和⟦8⟧⟦9⟧⟦10⟧定……",
+    "sp": "mercenary"
+   },
+   {
+    "id": "17",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n閉嘴！傭兵！",
+    "sp": "owen"
+   },
+   {
+    "id": "18",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n（訂……？難道是說⟦3⟧跟我訂婚的事？他是怎么知道的！）",
+    "sp": "lilina"
+   },
+   {
+    "id": "19",
+    "k": "dialogue",
+    "s": "⟦0⟧帕克⟦1⟧：\n⟦2⟧⟦3⟧⟦4⟧，能自己穿衣服嗎？一會我扶你回據點吧！",
+    "sp": "parker"
+   },
+   {
+    "id": "20",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n嗯，我還可以動……可是……⟦3⟧⟦4⟧⟦5⟧，我還是不明白……",
+    "sp": "lilina"
+   },
+   {
+    "id": "21",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n相信我，等我一回去就跟你解釋！",
+    "sp": "owen"
+   },
+   {
+    "id": "22",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n嗯……",
+    "sp": "lilina"
+   },
+   {
+    "id": "23",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n（⟦3⟧⟦4⟧⟦5⟧還活著……我們也贏了……）",
+    "sp": "lilina"
+   },
+   {
+    "id": "24",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n（這樣很好……但是……我不明白……為什么會……為什么我會覺得一陣陣的心悸……）",
+    "sp": "lilina"
+   },
+   {
+    "id": "25",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n（到底哪里不對……劇本……計劃……眼線……都代表了什么……還有我和⟦3⟧⟦4⟧⟦5⟧訂婚這事，應該只有我們知道啊……）",
+    "sp": "lilina"
+   },
+   {
+    "id": "26",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n你們護送他們先回據點，我突然想起一件事，要去安維爾一趟！",
+    "sp": "lilina"
+   },
+   {
+    "id": "27",
+    "k": "dialogue",
+    "s": "⟦0⟧帕克⟦1⟧：\n可是，會長讓我們送你回營地……",
+    "sp": "parker"
+   },
+   {
+    "id": "28",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n那我現在的說的話，可以代表會長嗎？\n（對不起，⟦3⟧⟦4⟧⟦5⟧，這個時候動用你給我的權利……）",
+    "sp": "lilina"
+   },
+   {
+    "id": "29",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧拿出了⟦3⟧⟦4⟧⟦5⟧送給她的戒指……"
+   },
+   {
+    "id": "30",
+    "k": "dialogue",
+    "s": "⟦0⟧帕克⟦1⟧：\n好吧，那請您多加小心！",
+    "sp": "parker"
+   },
+   {
+    "id": "31",
+    "k": "dialogue",
+    "s": "⟦0⟧冒險者們⟦1⟧：\n⟦2⟧獵天使⟦3⟧大人，請您多加小心啊！",
+    "sp": "冒險者們"
+   }
+  ]
+ },
+ "meta": [
+  {
+   "speaker": null,
+   "face": null,
+   "codes": [
+    "\\C[3]",
+    "\\N[12]",
+    "\\C[0]",
+    "\\C[2]",
+    "\\N[13]",
+    "\\C[0]"
+   ],
+   "source": "\\C[3]\\N[12]\\C[0]把指揮官的令牌扔向\\C[2]\\N[13]\\C[0]",
+   "ban_hien_tai": null
+  },
+  {
+   "speaker": "柯斯皮洛",
+   "face": null,
+   "codes": [
+    "\\C[2]",
+    "\\N[13]",
+    "\\C[0]"
+   ],
+   "source": "\\C[2]\\N[13]\\C[0]：\n這是我親手交給前線指揮官的令牌……為什么……",
+   "ban_hien_tai": null
+  },
+  {
+   "speaker": "歐文",
+   "face": null,
+   "codes": [
+    "\\C[3]",
+    "\\N[12]",
+    "\\C[0]"
+   ],
+   "source": "\\C[3]\\N[12]\\C[0]：\n因為這出戲的劇本，不是你寫的，而是我",
+   "ban_hien_tai": null
+  },
+  {
+   "speaker": "柯斯皮洛",
+   "face": null,
+   "codes": [
+    "\\C[2]",
+    "\\N[13]",
+    "\\C[0]"
+   ],
+   "source": "\\C[2]\\N[13]\\C[0]：\n你怎么能知道我的計劃……",
+   "ban_hien_tai": null
+  },
+  {
+   "speaker": "柯斯皮洛",
+   "face": null,
+   "codes": [
+    "\\C[2]",
+    "\\N[13]",
+    "\\C[0]",
+    "\\!",
+    "\\C[6]",
+    "\\N[1]",
+    "\\C[0]"
+   ],
+   "source": "\\C[2]\\N[13]\\C[0]：\n我明白了……我明白了……\\!你留在傭兵團的眼線，根本就不是\\C[6]\\N[1]\\C[0]……",
+   "ban_hien_tai": null
+  },
+  {
+   "speaker": "歐文",
+   "face": null,
+   "codes": [
+    "\\C[3]",
+    "\\N[12]",
+    "\\C[0]",
+    "\\C[3]",
+    "\\C[0]",
+    "\\C[2]",
+    "\\N[13]",
+    "\\C[0]"
+   ],
+   "source": "\\C[3]\\N[12]\\C[0]：\n\\C[3]伊爾斯\\C[0]，做掉\\C[2]\\N[13]\\C[0]！",
+   "ban_hien_tai": null
+  },
+  {
+   "speaker": "伊爾斯",
+   "face": null,
+   "codes": [
+    "\\C[3]",
+    "\\C[0]"
+   ],
+   "source": "\\C[3]伊爾斯\\C[0]：\n是！會長！",
+   "ban_hien_tai": null
+  },
+  {
+   "speaker": "柯斯皮洛",
+   "face": null,
+   "codes": [
+    "\\C[2]",
+    "\\N[13]",
+    "\\C[0]"
+   ],
+   "source": "\\C[2]\\N[13]\\C[0]：\n怎么可能讓你如愿！",
+   "ban_hien_tai": null
+  },
+  {
+   "speaker": "莉莉娜",
+   "face": "lilina1",
+   "codes": [
+    "\\C[6]",
+    "\\N[1]",
+    "\\C[0]",
+    "\\C[3]",
+    "\\N[12]",
+    "\\C[0]"
+   ],
+   "source": "\\C[6]\\N[1]\\C[0]：\n\\C[3]\\N[12]\\C[0]？",
+   "ban_hien_tai": null
+  },
+  {
+   "speaker": "歐文",
+   "face": null,
+   "codes": [
+    "\\C[3]",
+    "\\N[12]",
+    "\\C[0]"
+   ],
+   "source": "\\C[3]\\N[12]\\C[0]：\n我會慢慢向你解釋的，親愛的。現在你的任務已經完成，可以退回據點休息了，之前真是辛苦你了，等拿下傭兵團，我們就可以過上平靜美滿的生活",
+   "ban_hien_tai": null
+  },
+  {
+   "speaker": "莉莉娜",
+   "face": "lilina1",
+   "codes": [
+    "\\C[6]",
+    "\\N[1]",
+    "\\C[0]",
+    "\\C[3]",
+    "\\N[12]",
+    "\\C[0]"
+   ],
+   "source": "\\C[6]\\N[1]\\C[0]：\n\\C[3]\\N[12]\\C[0]……",
+   "ban_hien_tai": null
+  },
+  {
+   "speaker": "歐文",
+   "face": null,
+   "codes": [
+    "\\C[3]",
+    "\\N[12]",
+    "\\C[0]",
+    "\\C[3]",
+    "\\C[0]",
+    "\\C[3]",
+    "\\C[0]"
+   ],
+   "source": "\\C[3]\\N[12]\\C[0]：\n\\C[3]莉婭\\C[0]你去支援\\C[3]伊爾斯\\C[0]",
+   "ban_hien_tai": null
+  },
+  {
+   "speaker": "莉婭",
+   "face": null,
+   "codes": [
+    "\\C[3]",
+    "\\C[0]"
+   ],
+   "source": "\\C[3]莉婭\\C[0]：\n是！會長！",
+   "ban_hien_tai": null
+  },
+  {
+   "speaker": "歐文",
+   "face": null,
+   "codes": [
+    "\\C[3]",
+    "\\N[12]",
+    "\\C[0]",
+    "\\C[2]",
+    "\\N[13]",
+    "\\C[0]"
+   ],
+   "source": "\\C[3]\\N[12]\\C[0]：\n你也去，別給\\C[2]\\N[13]\\C[0]任何機會！",
+   "ban_hien_tai": null
+  },
+  {
+   "speaker": "冒險者",
+   "face": null,
+   "codes": [
+    "\\C[3]",
+    "\\C[0]"
+   ],
+   "source": "\\C[3]冒險者\\C[0]：\n是！會長！",
+   "ban_hien_tai": null
+  },
+  {
+   "speaker": "歐文",
+   "face": null,
+   "codes": [
+    "\\C[3]",
+    "\\N[12]",
+    "\\C[0]",
+    "\\C[6]",
+    "\\N[1]",
+    "\\C[0]"
+   ],
+   "source": "\\C[3]\\N[12]\\C[0]：\n其它人治療傷員，帶上他們和\\C[6]\\N[1]\\C[0]，先返回據點！",
+   "ban_hien_tai": null
+  },
+  {
+   "speaker": "叛逃的傭兵",
+   "face": null,
+   "codes": [
+    "\\C[3]",
+    "\\C[0]",
+    "\\C[3]",
+    "\\N[12]",
+    "\\C[0]",
+    "\\C[2]",
+    "\\N[13]",
+    "\\C[0]",
+    "\\C[6]",
+    "\\N[1]",
+    "\\C[0]"
+   ],
+   "source": "\\C[3]叛逃的傭兵\\C[0]：\n\\C[3]\\N[12]\\C[0]大人！你可要嘉獎我啊！為了拖住\\C[2]\\N[13]\\C[0]，我嘴皮子磨破都沒說出你和\\C[6]\\N[1]\\C[0]定……",
+   "ban_hien_tai": null
+  },
+  {
+   "speaker": "歐文",
+   "face": null,
+   "codes": [
+    "\\C[3]",
+    "\\N[12]",
+    "\\C[0]"
+   ],
+   "source": "\\C[3]\\N[12]\\C[0]：\n閉嘴！傭兵！",
+   "ban_hien_tai": null
+  },
+  {
+   "speaker": "莉莉娜",
+   "face": "lilina1",
+   "codes": [
+    "\\C[6]",
+    "\\N[1]",
+    "\\C[0]",
+    "\\N[12]"
+   ],
+   "source": "\\C[6]\\N[1]\\C[0]：\n（訂……？難道是說\\N[12]跟我訂婚的事？他是怎么知道的！）",
+   "ban_hien_tai": null
+  },
+  {
+   "speaker": "帕克",
+   "face": null,
+   "codes": [
+    "\\C[3]",
+    "\\C[0]",
+    "\\C[6]",
+    "\\N[1]",
+    "\\C[0]"
+   ],
+   "source": "\\C[3]帕克\\C[0]：\n\\C[6]\\N[1]\\C[0]，能自己穿衣服嗎？一會我扶你回據點吧！",
+   "ban_hien_tai": null
+  },
+  {
+   "speaker": "莉莉娜",
+   "face": "lilina1",
+   "codes": [
+    "\\C[6]",
+    "\\N[1]",
+    "\\C[0]",
+    "\\C[3]",
+    "\\N[12]",
+    "\\C[0]"
+   ],
+   "source": "\\C[6]\\N[1]\\C[0]：\n嗯，我還可以動……可是……\\C[3]\\N[12]\\C[0]，我還是不明白……",
+   "ban_hien_tai": null
+  },
+  {
+   "speaker": "歐文",
+   "face": null,
+   "codes": [
+    "\\C[3]",
+    "\\N[12]",
+    "\\C[0]"
+   ],
+   "source": "\\C[3]\\N[12]\\C[0]：\n相信我，等我一回去就跟你解釋！",
+   "ban_hien_tai": null
+  },
+  {
+   "speaker": "莉莉娜",
+   "face": "lilina1",
+   "codes": [
+    "\\C[6]",
+    "\\N[1]",
+    "\\C[0]"
+   ],
+   "source": "\\C[6]\\N[1]\\C[0]：\n嗯……",
+   "ban_hien_tai": "\\C[6]\\N[1]\\C[0]:\nƯm……"
+  },
+  {
+   "speaker": "莉莉娜",
+   "face": "lilina1",
+   "codes": [
+    "\\C[6]",
+    "\\N[1]",
+    "\\C[0]",
+    "\\C[3]",
+    "\\N[12]",
+    "\\C[0]"
+   ],
+   "source": "\\C[6]\\N[1]\\C[0]：\n（\\C[3]\\N[12]\\C[0]還活著……我們也贏了……）",
+   "ban_hien_tai": null
+  },
+  {
+   "speaker": "莉莉娜",
+   "face": "lilina1",
+   "codes": [
+    "\\C[6]",
+    "\\N[1]",
+    "\\C[0]"
+   ],
+   "source": "\\C[6]\\N[1]\\C[0]：\n（這樣很好……但是……我不明白……為什么會……為什么我會覺得一陣陣的心悸……）",
+   "ban_hien_tai": null
+  },
+  {
+   "speaker": "莉莉娜",
+   "face": "lilina1",
+   "codes": [
+    "\\C[6]",
+    "\\N[1]",
+    "\\C[0]",
+    "\\C[3]",
+    "\\N[12]",
+    "\\C[0]"
+   ],
+   "source": "\\C[6]\\N[1]\\C[0]：\n（到底哪里不對……劇本……計劃……眼線……都代表了什么……還有我和\\C[3]\\N[12]\\C[0]訂婚這事，應該只有我們知道啊……）",
+   "ban_hien_tai": null
+  },
+  {
+   "speaker": "莉莉娜",
+   "face": "lilina1",
+   "codes": [
+    "\\C[6]",
+    "\\N[1]",
+    "\\C[0]"
+   ],
+   "source": "\\C[6]\\N[1]\\C[0]：\n你們護送他們先回據點，我突然想起一件事，要去安維爾一趟！",
+   "ban_hien_tai": null
+  },
+  {
+   "speaker": "帕克",
+   "face": null,
+   "codes": [
+    "\\C[3]",
+    "\\C[0]"
+   ],
+   "source": "\\C[3]帕克\\C[0]：\n可是，會長讓我們送你回營地……",
+   "ban_hien_tai": null
+  },
+  {
+   "speaker": "莉莉娜",
+   "face": "lilina1",
+   "codes": [
+    "\\C[6]",
+    "\\N[1]",
+    "\\C[0]",
+    "\\C[3]",
+    "\\N[12]",
+    "\\C[0]"
+   ],
+   "source": "\\C[6]\\N[1]\\C[0]：\n那我現在的說的話，可以代表會長嗎？\n（對不起，\\C[3]\\N[12]\\C[0]，這個時候動用你給我的權利……）",
+   "ban_hien_tai": null
+  },
+  {
+   "speaker": null,
+   "face": null,
+   "codes": [
+    "\\C[6]",
+    "\\N[1]",
+    "\\C[0]",
+    "\\C[3]",
+    "\\N[12]",
+    "\\C[0]"
+   ],
+   "source": "\\C[6]\\N[1]\\C[0]拿出了\\C[3]\\N[12]\\C[0]送給她的戒指……",
+   "ban_hien_tai": null
+  },
+  {
+   "speaker": "帕克",
+   "face": null,
+   "codes": [
+    "\\C[3]",
+    "\\C[0]"
+   ],
+   "source": "\\C[3]帕克\\C[0]：\n好吧，那請您多加小心！",
+   "ban_hien_tai": null
+  },
+  {
+   "speaker": "冒險者們",
+   "face": null,
+   "codes": [
+    "\\C[3]",
+    "\\C[0]",
+    "\\C[6]",
+    "\\C[0]"
+   ],
+   "source": "\\C[3]冒險者們\\C[0]：\n\\C[6]獵天使\\C[0]大人，請您多加小心啊！",
+   "ban_hien_tai": null
+  }
+ ],
+ "checks": [
+  {
+   "xung_ho_nhat_quan": true
+  }
+ ],
+ "tao_luc": "2026-11-02"
+}

@@ -1,0 +1,178 @@
+# Cau hinh mac dinh. Moi game co the ghi de bang <project>/config.yaml (chi can ghi khoa muon doi).
+
+target_lang: vi
+# Ngon ngu nguon (ja/zh/ko/en). Trong = tu nhan theo chu trong game.
+source_lang: ""
+
+# ---- Dinh tuyen model (alias cua Claude Code: haiku / sonnet / opus) ----
+# Nguyen tac: model manh chi dung o noi quyet dinh chat luong toan game.
+# 02/11 (nguoi dung): giao viec theo the manh. OPUS = hieu (bible, chi dao canh, kiem nghia).
+# SONNET = viet loi Viet (doc mu canh cau hon: nguoi dung chon Sonnet 22/23 dong; Opus effort cao hay trau chuot, van "viet").
+models:
+  bible_read: opus     # doc TOAN BO kich ban theo tung phan (ghi chep cho ho so tac pham)
+  bible: opus          # gop ghi chep thanh ho so tac pham: 1 lan/game, sai o day = sai ca game
+  ui: haiku            # menu, ten vat pham, thuat ngu he thong, chuoi ngan
+  description: sonnet  # mo ta vat pham/ky nang
+  dialogue: sonnet     # hoi thoai thuong (phan lon khoi luong)
+  key_scene: sonnet    # canh quan trong: cung dich gia Sonnet (giu mot giong), chi dao canh do Opus viet
+  repair: sonnet       # dich lai dong bi bat loi: cung Sonnet de khong lech giong giua cac dong
+  review: opus         # kiem cuoi: chi bat thieu / sai y (review.che_do: nghia)
+  polish: sonnet       # bien tap vien doc tron ban Viet (chi khi polish.enabled)
+# Muc suy nghi (--effort) theo vai tro: low / medium / high. Bo trong = mac dinh cua model.
+# Effort thap -> it token suy nghi -> tiet kiem han muc. Can so sanh thu tren tung game.
+effort:
+  bible_read: high     # 02/11: nang kha nang hieu truyen (doc 1 lan / game)
+  bible: high
+  ui:            # haiku: de trong (chua chac haiku nhan --effort)
+  description: low
+  dialogue: high       # Sonnet viet theo chi dao canh (thu 02/11 dung high)
+  key_scene: high
+  repair: high
+  review: medium
+  polish: medium
+# Leo thang: dong loi QA lan 1 dich lai bang chinh model cu; tu lan 2 dung models.repair.
+max_attempts: 3
+# Cua bible: kiem xung ho truoc khi dich (G-023). Cap noi qua lai >= min_exchanges luot phai co quan he
+# hai chieu; mot chieu khong duoc ghi nhieu hang xung ho ma khong co dieu kien. block: dung o CAN_SUA_XUNG_HO.
+bible_check:
+  block: true
+  min_exchanges: 3
+  min_lines: 5
+# Phuong ngu ban dich (1_QUYET_DINH muc 3): nam_nhe | nam_vua | nam_dam | "" (chuan trung tinh).
+# 02/11: nguoi dung chon 44 cau mau -> phan lon tieng Viet CHUAN, giau cam xuc, khong nhoi phuong ngu
+# ("van phong bao la mien Nam nhung doc cha biet mien nao") -> TAT phuong ngu. Van phong: vgt/data/mau_van_phong.yaml.
+style:
+  phuong_ngu: ""
+# Xung/goi bat buoc theo tung dong trong payload (G-023).
+xung_ho:
+  theo_dong: true
+  duyet_min_luot: 10      # vgt xung-ho --duyet: moi cap noi qua lai >= so luot nay (cap it hon: --de-xuat theo cua)
+  duyet_toi_da: 200
+# Prompt dich gia: 3 (mac dinh tu 01/11, nguoi dung duyet): viet cau Viet truoc, token theo cau Viet,
+# dung y = tu nhien; bo de 01/11: it loi xung ho/giong may hon ban 2. 2 = ban cu (giu de so sanh).
+prompt_version: 4
+
+# ---- Chia lo (cang lon cang it lan goi, nhung loi 1 lo ton nhieu hon) ----
+batch:
+  # scene = moi lo chi chua 1 canh (grp), kem tom tat canh -> dich lien mach; flat = cach cu.
+  mode: scene
+  max_entries: 40
+  max_source_chars: 6000
+  context_lines: 4      # so dong da dich lien truoc dua vao lam ngu canh
+
+# ---- Claude Code (claude -p) ----
+claude:
+  executable: claude          # hoac duong dan day du toi claude.exe
+  timeout_sec: 600
+  timeout_long_sec: 1800      # bible_read / bible: doc va viet nhieu
+  max_turns: 4
+  # Thay toan bo system prompt mac dinh cua Claude Code + tat cong cu:
+  # day la cach giam token moi lan goi nhieu nhat.
+  replace_system_prompt: true
+  disable_tools: true
+  no_session_persistence: true
+  extra_args: []
+  # Khi het han muc (5 gio / tuan): cho roi chay tiep thay vi thoat.
+  wait_on_limit: true
+  limit_wait_minutes: 30
+  max_limit_waits: 48
+  # Loi mang tam thoi (ENOTFOUND, ECONNRESET, 5xx, overloaded...): cho roi thu lai.
+  network_retries: 6
+  network_wait_sec: 60
+
+# ---- Ho so tac pham (vgt bible: doc toan bo kich ban) ----
+dossier:
+  chunk_chars: 60000      # moi lan doc ~60k ky tu kich ban
+  scene_min_lines: 4      # canh it hon so dong nay khong can tom tat rieng
+  merge_max_chars: 250000 # ghi chep cac phan lon hon -> gop theo tang
+  research_file: research.md  # boi canh ngoai game (phien dieu phoi tim tren web, ghi vao day)
+
+# ---- Ban tham khao (vd tieng Anh chinh thuc) ----
+# Dich luon tu ban goc cua tac gia; ban tham khao chi gui kem de hieu dung cau mo ho.
+# Tu nhan RPG Maker www/dataEN. Chi dinh tay: data_dir: "www/dataEN". Tat: enabled: false
+reference: {}
+
+# ---- Trung thanh noi dung (G-022) ----
+# Dong Claude khong dich -> giu ban tieng Anh chinh thuc / ban goc. Qua nhieu dong nhu vay = bat thuong
+# (chan nham) -> vgt run DUNG lai (CAN_KIEM_TRA_GIU_GOC), khong tu y giu goc them.
+content:
+  chuan_18: true          # chuan 18+ chung (thang tu ngu vao system prompt game nguoi lon, G-022)
+  adult_min_lines: 20     # game co >= so dong nay chua tu nguoi lon -> ban thu bat buoc 1 canh nguoi lon
+  max_keep_lines: 5
+  max_keep_ratio: 0.005
+
+# ---- Chi dao tung canh (02/11): bien kich truong (model bible) viet cho moi canh truoc khi dich:
+# mach truyen toi day, cam xuc / dieu muon / dieu giau, xung ho cua canh + cho doi, nhip, giong van -> mach_canh.yaml.
+# Ton ~1 lan goi Opus / canh (do 02/11: ~$0,25 / canh). Tat: bat: false.
+# Phien ban luong dich (02/11: chi dao canh + dich gia Sonnet + kiem nghia = 2). Du an co dong dich theo luong
+# cu -> vgt run dung CAN_DICH_LAI_LUONG_MOI hoi nguoi dung (vgt dich-lai / --giu). Doi luong lon sau nay: tang so.
+luong_dich: 2
+
+chi_dao:
+  bat: true
+  usd_moi_lan_goi: 0.25   # uoc tinh (do 02/11: ~$0,23-0,33 / lan goi 1 canh) de hoi nguoi dung truoc khi lam ca game
+  gop_dong: 60            # canh nho lien nhau gop chung 1 lan goi toi da chung nay dong (ho so gui 1 lan, cache)
+  canh_nho: 20            # canh <= so dong nay moi duoc gop
+
+# ---- Kiem dinh (vgt review) ----
+review:
+  max_lines_per_call: 80
+  max_chars_per_call: 9000
+  minor_ratio: 0.05       # dat: 0 loi nang va loi nhe <= 5% so dong
+  max_rounds: 2           # truot qua so vong nay -> danh dau can nguoi duyet
+  # Tu ap cau sua cua kiem dinh vien cho loi NHE theo cac tieu chi nay (0 lan goi them; phai qua QA).
+  # Bat mac dinh tu 01/11: bo de 21 case x 2 lan: loi nhe 55,5 -> 33,5 (-40%), loi nang khong tang. [] = tat.
+  # 02/11 (nguoi dung): kiem cuoi 1 lop = chi bat THIEU / SAI Y (che_do: nghia). KDV cham van phong cho
+  # cau kho 5/5 va keo ban dich ve phia an toan -> tat cham van phong + tu ap sua. che_do: day_du = cach cu.
+  che_do: nghia
+  ap_sua_nhe: []
+  giong_may: minor        # cau nghe nhu may dich: minor | major | ngang (dung y = tu nhien) — dang thu A/B 01/11
+
+# ---- Bien tap doc tron (thu nghiem 01/11): sau moi lo dich, mot luot doc ban Viet KHONG nhin cau goc,
+# chi sua cau nghe nhu may dich; ban sua phai qua lai QA. Ton them 1 lan goi / lo.
+polish:
+  enabled: false
+  roles: [dialogue, key_scene]
+
+# ---- QA / giao dien ----
+# qa.ten_chung: id \N[n] la danh tu chung (RPG Maker) -> canh bao khi dat sai cho (E-rpgmaker_mvmz-008)
+qa:
+  # RPG Maker MV/MZ: khung thoai mac dinh ~4 dong. So ky tu/dong phu thuoc font & do rong khung,
+  # chinh theo game sau khi choi thu.
+  max_lines_per_box: 4
+  max_line_chars: 48
+  auto_wrap: true
+  # Ti le dai toi da so voi ban goc cho chuoi UI (menu, nut). Tieng Viet thuong dai hon.
+  ui_max_ratio: 2.2
+  ui_max_chars: 24
+  # error = dich lai cho ngan hon; warn = chi ghi nhan (RPG Maker tu co chu cho vua o).
+  ui_too_long: error
+
+# ---- RPG Maker MV/MZ ----
+rpgmaker:
+  # Font goc nhieu game (font Trung/Nhat) thieu dau tieng Viet. Dat duong dan .ttf co dau
+  # (vd C:/Windows/Fonts/arial.ttf) -> apply chep vao www/fonts va sua gamefont.css. Trong = giu font goc.
+  font_file: ""
+  # Chu cung trong plugin JS dang object {'key': 'value'}: [{file: js/plugins/X.js, start: "var X = {", end: "};"}]
+  js_tables: []
+  # Thay chuoi co dinh trong JS (file tinh tu thu muc cha cua data/), count = so lan phai gap:
+  # [{file: js/plugins/X.js, find: 'StorageManager.load("language")', replace: '""', count: 3}]
+  js_replace: []
+
+# ---- Unreal Engine 4.26+/5 (pak v11 khong ma hoa, chu nam trong .locres) ----
+unreal:
+  # Pak nen Oodle can oo2core_*_win64.dll. Trong = tim trong thu muc game.
+  oodle_dll: ""
+  source_culture: en        # culture dung lam ban nguon de dich
+  target: Game              # Content/Localization/<target>/<culture>/<target>.locres
+  # Culture ghi ban Viet. Trong = moi culture game co (moi lua chon ngon ngu deu ra tieng Viet).
+  cultures: []
+  # Pak mod tuong doi trong game. Trong = <Project>/Content/Paks/<Project>-zVietHoa_999_P.pak
+  # (KHONG dat trong ~mods: uu tien 3000+ thua pak goc '<Project>-Windows.pak' = 4000)
+  mod_pak: ""
+  # Font thieu dau tieng Viet -> {.ufont trong pak: .ufont khac trong pak hoac file .ttf/.otf}
+  fonts: {}
+  # Khoa bien the (so it/nhieu, mao tu) dung chung ban dich cua khoa goc, khong gui model.
+  variant_suffixes: []
+  # Ghi de loai dong theo regex namespace: {"ST_Foo": dialogue}
+  kinds: {}

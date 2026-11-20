@@ -1,0 +1,1694 @@
+src	vi	type	note	forbid	lo_tu
+莉莉娜	Lilina	nhan_vat	nữ chính, phù thủy lửa 20 tuổi, mạo hiểm giả; EN Lilina		
+娜娜	Nana	ten	biệt danh của Lilina (nickname Actor 1)		
+神父	Cha xứ	nhan_vat	nhãn người nói của Hiller (Actor 2); xưng gọi "Cha"		
+希勒	Hiller	nhan_vat	tên cha xứ nhà thờ Anvil; EN Hiller		
+西玫莉婭	Semalya	nhan_vat	nữ tu đeo mặt nạ, như chị của Lilina; EN Semalya		
+魅魔	Succubus	nhan_vat	nhãn người nói của linh hồn trong Giáp Nguyền rủa (Actor 4); cũng là từ chỉ loài succubus		
+西西莉婭	Cecelia	nhan_vat	tên thật linh hồn trong giáp (nhãn 魅魔 Succubus); tự giới thiệu ở Map007.json:e14.p0.61	Seaclya	Map007.json:e14.p0.61
+梅莉	Mhairi	nhan_vat	cựu cai ngục nhà tù Đế quốc; EN Mhairi		
+羅杰	Roger	nhan_vat	thuộc hạ trung thành của Mhairi (EN ghi nhầm Loki)		
+龍吟	Long Ngâm	nhan_vat	đại sư thôi miên từ Đế quốc; tên kiểu phương Đông giữ Hán Việt; EN Dragonsong		
+貝莉卡	Beryl	nhan_vat	Ma Nhãn; EN Beryl		
+梅麗莎	Melissa	nhan_vat	Phù thủy Đen; EN Melissa		
+露西婭	Lucia	nhan_vat	Kiếm thánh Gió; EN Lucia		
+獨角獸	kỳ lân	khai_niem	unicorn; cũng là tên con kỳ lân (Actor 11) → viết hoa "Kỳ lân" khi là tên		
+歐文	Owen	nhan_vat	hội trưởng Hội Mạo hiểm giả Anvil		
+柯斯皮洛	Kospino	nhan_vat	tân binh hội mạo hiểm giả; EN Kospino		
+瓊恩	John	nhan_vat	thành chủ Torres, tự xưng 本王		
+克蘿莉亞	Gloria	nhan_vat	nô lệ của John, huấn luyện nô lệ		
+特蘿西	Trossi	nhan_vat	nô lệ, gọi Gloria là chị		
+尤德	Youde	nhan_vat	người liên lạc của Đế quốc ở Torres		
+珊嘉	Sandra	nhan_vat	Công chúa thứ ba của Đế quốc		
+雷斯克	Dretske	nhan_vat	EN Dretske		
+薩洛克	Sherlock	nhan_vat	EN Sherlock		
+薩克斯	Sax	nhan_vat	lão chủ biệt thự ở cảng, xưng 老夫		
+雪莉	Shirley	nhan_vat	hầu gái của Sax		
+艾莎	Aisha	nhan_vat	nữ mạo hiểm giả, hang ký sinh trùng		
+羅斯	Ross	nhan_vat	giáo viên Học viện Ma pháp		
+羅斯特	Rost	nhan_vat	bạn cùng phòng ở ký túc nam học viện		
+安娜	Anna	nhan_vat	học viên học viện		
+夏洛	Charlotte	nhan_vat	bạn học (EN Charlotte)		
+比加斯	Bigas	nhan_vat	giáo viên học viện		
+蘭特	Lant	nhan_vat	bạn học, tự cao		
+米勒	Miller	nhan_vat	học viên, chủ nhân của Anna (EN Miler)		
+哈特	Hart	nhan_vat	bạn học (EN Harter)		
+溫蒂	Wendy	nhan_vat	bạn học, lớp ma pháp bóng tối		
+杰克	Jack	nhan_vat	bạn học, thích ma		
+達倫	Darren	nhan_vat	cai ngục Nhà tù Rừng		
+妮爾	Nell	nhan_vat	nữ mạo hiểm giả		
+莉蒂絲	Lydis	nhan_vat	nữ mạo hiểm giả		
+亞絲娜	Asuna	nhan_vat	EN Asuna (kiểu tóc/thân hình ở tiệm làm đẹp)		
+菲娜	Feena	nhan_vat	EN Feena		
+羅伯特	Robert	nhan_vat	lão tù nhân		
+露娜	Luna	nhan_vat	cô gái ở Làng Đảo		
+妮可	Nicole	nhan_vat	EN Nicole		
+莉麗絲	Lilith	nhan_vat	nhân viên Nhà Tình Yêu		
+麗莎	Lisa	nhan_vat	chủ Nhà Tình Yêu		
+羅琳	Rowling	nhan_vat	EN Rowling		
+詹姆士	James	nhan_vat	quán Nhà Tiên Cá		
+拉姆	Ram	nhan_vat	EN Ram		
+雷姆	Rem	nhan_vat	EN Rem		
+神之音	Tiếng Thần	nhan_vat		Tiếng nói của Thần	
+老師	Giáo viên	vai	nhãn người nói; trong thoại gọi theo vai (thầy/cô)		
+學生	Học viên	vai	học viên Học viện Ma pháp (người lớn)		
+守衛	Lính gác	vai			
+囚犯	Tù nhân	vai			
+村民	Dân làng	vai			
+狼神	Thần Sói	nhan_vat			
+賤奴	Tiện nô	ten	tự xưng/tên gọi nô lệ hèn mọn (Actor 59 là tên nô lệ của Lilina)		
+奈斯特拉	Nastela	nhan_vat	nữ anh hùng huyền thoại của Đế quốc Alesia		
+黑泰迪	Teddy Đen	ten	tên nô lệ (Actor 61)		
+金絲雀	Hoàng Yến	ten	tên nô lệ/thú cưng (Actor 62)		
+紅松鼠	Sóc Đỏ	ten	tên nô lệ (Actor 63)		
+白銀狐	Cáo Bạc	ten	tên nô lệ (Actor 64)		
+費奇	Fetch	nhan_vat	quản lý trường đua kỳ lân		
+馬特	Matt	nhan_vat	huấn luyện viên kỵ thủ		
+白雪	Snowy	nhan_vat	kỵ thủ, vợ của thần thú		
+蓋倫	Galen	nhan_vat	EN Galen		
+洛基	Loki	nhan_vat	trưởng quan (ở Hội/trại giam)		
+洛肯	Loken	nhan_vat	EN Loken		
+伊爾斯	Ilse	nhan_vat	EN Ilse		
+加隆	Ganon	nhan_vat	vua tử linh của Hoàng thành Ganon; EN Ganon		
+加隆王	Vua Ganon	quai			
+艾羅斯	Eros	nhan_vat	Dâm Ma Vương		
+修女	nữ tu	vai			
+公會會長	Hội trưởng Hội	vai			
+劍圣	Kiếm thánh	vai			
+戰斗修女	Nữ tu chiến	vai			
+拷問士	Kẻ tra tấn	vai			
+法師	Pháp sư	vai			
+盜賊	Đạo tặc	vai			
+被詛咒的魔女	Phù thủy bị ếm	vai		Phù thủy bị nguyền	
+魔女	phù thủy	vai			
+魔戰士	Ma kiếm sĩ	vai		Chiến binh phép	
+黑魔女	Phù thủy đen	vai		Phù thủy hắc ám	
+亞巴頓幼蟲	Ấu trùng Abaddon	quai			
+低級淫魔	Dâm ma cấp thấp	quai			
+僵尸	Xác sống	quai			
+千年樹精	Tinh linh Cây cổ	quai		Thụ tinh;Tinh linh Cây Nghìn Năm	
+史萊姆(粉)	Slime (hồng)	quai			
+史萊姆(藍)	Slime (xanh)	quai			
+史萊姆(金)	Slime (vàng)	quai			
+吸血蝙蝠	Dơi hút máu	quai			
+大地守護者	Thủ hộ Đại địa	quai			
+寄生蟲	ký sinh trùng	quai			
+寄生蟲王	Vua Ký sinh trùng	quai			
+山賊	Sơn tặc	quai			
+強盜	Cướp	quai			
+怨靈	Oan hồn	quai			
+怪獸	Quái thú	quai			
+惡狼	Sói dữ	quai			
+打手	Tay sai	quai			
+殺人蜂	Ong sát thủ	quai			
+毒蝎	Bọ cạp độc	quai			
+水精靈	Tinh linh Nước	quai			
+火精靈	Tinh linh Lửa	quai			
+火龍	Rồng lửa	quai			
+獵鷹	Chim ưng	quai			
+神殿守衛	Lính gác đền	quai			
+章魚怪	Quái bạch tuộc	quai			
+精英雇傭兵	Lính thuê tinh nhuệ	quai		Lính đánh thuê tinh nhuệ	
+雇傭兵	lính đánh thuê	vai			
+傭兵	lính đánh thuê	vai			
+蛇女	Xà nữ	quai			
+賞金獵人	Thợ săn tiền thưởng	quai			
+賭徒	Con bạc	vai			
+骸骨戰士	Chiến binh xương	quai			
+魔牛	Bò quỷ	quai			
+校長	Hiệu trưởng	vai			
+主人	chủ nhân	vai	nô lệ/thú cưng gọi chủ; nhãn người nói của chủ nô của Lilina (Mhairi, Miller… có nickname 主人)		
+女店員	Nữ nhân viên	vai			
+調教師	Thầy huấn luyện	vai	người huấn luyện nô lệ ở Torres		
+淫魔	dâm ma	khai_niem	loài quỷ dâm (incubus/succubus nói chung); EN Inma/succubi	ma dâm	
+淫魔王	Dâm Ma Vương	khai_niem	Eros, bị phong ấn nghìn năm		
+淫魔將	Dâm Ma Tướng	khai_niem	tướng dưới trướng Dâm Ma Vương		
+淫魔女王	Nữ hoàng Dâm ma	khai_niem			
+女王	Nữ hoàng	khai_niem	Lilina khi hóa Nữ hoàng Dâm ma; dâm ma gọi "Nữ hoàng của ta"		
+淫能	dâm năng	chi_so	năng lượng dâm dục nuôi Giáp Nguyền rủa; EN Lust Energy		
+淫毒	dâm độc	khai_niem			
+淫魔守衛	Dâm ma hộ vệ	vai			
+詛咒鎧甲	Giáp Nguyền rủa	khai_niem	tên game và bộ giáp sống (linh hồn Cecelia)		
+詛咒的頭冠	Miện Nguyền rủa	vat_pham	dạng đầu tiên của Giáp Nguyền rủa; tên vật phẩm (≤20 ký tự) giữ "Miện Nguyền rủa", thoại và lời kể viết "Vương miện Nguyền rủa"		
+圣物	thánh vật	khai_niem	7 món cần để giải lời nguyền		
+神器	thần khí	khai_niem			
+淫魔的戒指	Chiếc nhẫn của Dâm ma	khai_niem	tên cuốn sách cổ (để trong “ ”)		
+凱爾	Cayre	nhan_vat	thiếu nữ trong sách cổ, từng đeo nhẫn dâm ma; EN Cayre		
+阿萊西亞	Alesia	dia_danh	Đế quốc Alesia		
+煉之修女	Nữ tu Khổ luyện	khai_niem	nữ tu phải luôn đeo mặt nạ; EN Sister of Discipline		
+獵天使	Thiên Thần Săn	khai_niem	danh hiệu mạo hiểm giả mạnh nhất Hội		
+常識	lẽ thường	khai_niem	"kiến thức thường thức" bị ám thị thay (tuyến thôi miên); có chơi chữ dạy "thường thức"	thường thức	
+蘋果批薩	pizza táo	khai_niem	món Semalya hay làm cho Lilina		
+肉壺	hũ thịt	khai_niem	ổ thịt ấp trứng của ký sinh trùng; EN Meat Pot		
+苗床	ổ ấp	khai_niem	cơ thể bị dùng để ấp/đẻ giống loài khác; EN seedbed		
+蟲妻	vợ sâu	khai_niem	vợ của Vua Sâu (tuyến ký sinh trùng)		
+獸妻	vợ thần thú	khai_niem	vợ của kỳ lân (tuyến thần thú)		
+神獸	thần thú	khai_niem			
+蟲王	Vua Sâu	khai_niem	vua của ma trùng; "\N[1]的蟲王" = Vua Sâu của Lilina		
+亞巴頓	Abaddon	khai_niem			
+亞巴頓魔蟲	ma trùng Abaddon	khai_niem			
+亞巴頓女妖	Yêu nữ Abaddon	khai_niem	phụ nữ bị ma trùng ký sinh		
+亞巴頓女王	Nữ hoàng Abaddon	khai_niem			
+女妖	yêu nữ	khai_niem			
+活體人偶	Búp bê sống	khai_niem	thứ Ross muốn biến Lilina thành		
+吸精魔女	Phù thủy Hút Tinh	khai_niem	một ám thị của Long Ngâm		
+脫衣清醒	Cởi đồ thì tỉnh	khai_niem	một ám thị		
+魔眼	Ma Nhãn	nhan_vat	biệt danh của Beryl (魔眼之女)		
+魔眼之女	Nàng Ma Nhãn	ten	nickname Actor 8	Cô gái Ma Nhãn	
+漆黑的魔女	Phù thủy Đen	ten	nickname Melissa		
+風之劍圣	Kiếm thánh Gió	ten	nickname Lucia		
+蜂之劍圣	Kiếm thánh Ong	ten			
+會長	Hội trưởng	vai	Owen		
+會長夫人	phu nhân Hội trưởng	khai_niem			
+典獄長	Cai ngục trưởng	vai			
+大師	Đại sư	ten	nickname Long Ngâm		
+忠犬	Chó trung	ten	nickname Roger; cũng là tên nô lệ “忠犬－黑泰迪”		
+室友	Bạn phòng	ten	nickname Rost	Bạn cùng phòng	
+同學	Bạn học	ten			
+姐姐	chị	ten	nickname Trossi (gọi Gloria)		
+獨角獸之王	Vua Kỳ lân	vai			
+學者	Học giả	vai			
+教務	Giáo vụ	vai	nhân viên giáo vụ học viện		
+教務2	Giáo vụ 2	vai			
+教務老師	Giáo viên giáo vụ	vai			
+不良	Du côn	vai	học viên du côn		
+伊斯萊布爾	Islebull	nhan_vat	thành viên Hội (thu vật tư); tên phiên âm		
+學生1	Học viên 1	vai			
+學生2	Học viên 2	vai			
+學生3	Học viên 3	vai			
+學生4	Học viên 4	vai			
+學生5	Học viên 5	vai			
+學生6	Học viên 6	vai			
+學生21	Học viên 21	vai			
+學生64	Học viên 64	vai			
+學生75	Học viên 75	vai			
+學生76	Học viên 76	vai			
+投注官	Nhân viên cá cược	vai			
+黑衣人	Người áo đen	vai			
+布嚕嚕	Brururu	nhan_vat	tên kêu		
+保管員	Thủ kho	vai			
+執行者	Người thi hành	vai	người điều hành buổi đấu giá/hành hình nô lệ	Người hành hình	
+男人A	Gã A	vai			
+男人B	Gã B	vai			
+男人C	Gã C	vai			
+男人D	Gã D	vai			
+男人E	Gã E	vai			
+男人F	Gã F	vai			
+男人	Gã đàn ông	vai			
+男人們	Đám đàn ông	vai			
+商會管理員	Quản lý thương hội	vai			
+舒麗雅	Shulia	nhan_vat	tên phiên âm		
+乞丐	Ăn mày	vai			
+市民	Thị dân	vai			
+貴族	Quý tộc	vai			
+貴族1	Quý tộc 1	vai			
+貴族2	Quý tộc 2	vai			
+貴族3	Quý tộc 3	vai			
+貴族4	Quý tộc 4	vai			
+貴族們	Đám quý tộc	vai			
+店員	Nhân viên	vai			
+帕克	Parker	nhan_vat			
+旅人	Lữ khách	vai			
+無賴	Kẻ vô lại	vai			
+冒險者們	Các mạo hiểm giả	vai			
+冒險者A	Mạo hiểm giả A	vai			
+冒險者B	Mạo hiểm giả B	vai			
+冒險者C	Mạo hiểm giả C	vai			
+冒險者D	Mạo hiểm giả D	vai			
+管家	Quản gia	vai			
+高級任務管理員	Quản lý nhiệm vụ cao cấp	vai			
+初級任務管理員	Quản lý nhiệm vụ sơ cấp	vai			
+特殊任務管理員	Quản lý nhiệm vụ đặc biệt	vai			
+任務管理員	Quản lý nhiệm vụ	vai			
+管理員	Quản lý	vai			
+老人	Ông lão	vai			
+莉婭	Lia	nhan_vat			
+傭兵們	Đám lính đánh thuê	vai			
+傭兵A	Lính đánh thuê A	vai			
+傭兵B	Lính đánh thuê B	vai			
+傭兵C	Lính đánh thuê C	vai			
+傭兵D	Lính đánh thuê D	vai			
+傭兵E	Lính đánh thuê E	vai			
+泰勒	Taylor	nhan_vat	quản lý mỏ nhà tù		
+賢妻	Hiền thê	vai	người mẹ trong cảnh loạn luân Map186		
+老爹	Bố già	vai			
+少年	Cậu bé	vai	con trai của Hiền thê (Map186) — xem giới hạn vị thành niên		
+少女	Thiếu nữ	vai	nhiều cô gái khác nhau		
+賣花少女	Cô gái bán hoa	vai			
+奴隸	Nô lệ	vai			
+蛇女A	Xà nữ A	vai			
+蛇女B	Xà nữ B	vai			
+蛇女C	Xà nữ C	vai			
+蛇女三姐妹	Ba chị em Xà nữ	vai			
+老囚犯	Lão tù	vai			
+老爺爺	Ông cụ	vai			
+偷懶的水手	Thủy thủ lười	vai			
+水手	Thủy thủ	vai			
+村長	Trưởng làng	vai			
+保鏢	Vệ sĩ	vai			
+兔女郎	Bunny girl	vai			
+強奸魔	Kẻ hiếp dâm	vai			
+叛逃的傭兵	Lính đánh thuê đào ngũ	vai			
+奴隸主A	Chủ nô A	vai			
+奴隸主B	Chủ nô B	vai			
+奴隸主C	Chủ nô C	vai			
+奴隸主D	Chủ nô D	vai			
+奴隸主們	Đám chủ nô	vai			
+商人	Thương nhân	vai			
+女囚犯	Nữ tù	vai			
+娼館女老板	Bà chủ kỹ viện	vai			
+送貨員	Người giao hàng	vai			
+史萊姆女王	Nữ hoàng Slime	vai			
+雷諾	Reno	nhan_vat			
+風系老師	Giáo viên hệ Gió	vai			
+土系老師	Giáo viên hệ Đất	vai			
+水系老師	Giáo viên hệ Nước	vai			
+神秘人	Người bí ẩn	vai			
+男爵	Nam tước	vai			
+牧師	Mục sư	vai			
+傭兵牧師	Mục sư lính đánh thuê	vai			
+強盜1	Cướp 1	vai			
+強盜2	Cướp 2	vai			
+強盜3	Cướp 3	vai			
+偽裝成平民的雇傭兵A	Lính đánh thuê giả dân thường A	vai			
+偽裝成平民的雇傭兵B	Lính đánh thuê giả dân thường B	vai			
+偽裝成平民的雇傭兵C	Lính đánh thuê giả dân thường C	vai			
+偽裝成傭兵的冒險者	Mạo hiểm giả đội lốt lính thuê	vai			
+浴場老板	Ông chủ nhà tắm	vai			
+浴場老板娘	Bà chủ nhà tắm	vai			
+老板	Ông chủ	vai			
+老板娘	Bà chủ	vai			
+女老板	Bà chủ	vai			
+店長	Chủ tiệm	vai			
+店主	Chủ tiệm	vai			
+囚犯1	Tù nhân 1	vai			
+囚犯2	Tù nhân 2	vai			
+囚犯3	Tù nhân 3	vai			
+毒販	Kẻ buôn ma túy	vai			
+大地守衛	Hộ vệ Đại địa	vai			
+主人（巨人）	Chủ nhân (Người khổng lồ)	vai			
+主人（百合女）	Chủ nhân (Cô nàng bách hợp)	vai			
+主人（愛犬者）	Chủ nhân (Kẻ mê chó)	vai			
+主人（三兄弟）	Chủ nhân (Ba anh em)	vai			
+迷之聲音	Giọng nói bí ẩn	vai			
+迷之聲	Giọng nói bí ẩn	vai			
+未知的聲音	Giọng nói lạ	vai			
+教主之聲	Giọng Giáo chủ	vai			
+廚師	Đầu bếp	vai			
+女仆	Hầu gái	vai			
+冰精靈	Tinh linh Băng	quai			
+船長	Thuyền trưởng	vai			
+傭兵隊長	Đội trưởng lính đánh thuê	vai			
+傭兵指揮	Chỉ huy lính đánh thuê	vai			
+隊長	Đội trưởng	vai			
+貴婦	Quý bà	vai			
+骸骨	Bộ xương	vai			
+骷髏	Bộ xương	vai			
+富家女	Tiểu thư nhà giàu	vai			
+大小姐	Đại tiểu thư	vai			
+客人	Khách	vai			
+女奴	Nữ nô	vai			
+流氓A	Côn đồ A	vai			
+流氓B	Côn đồ B	vai			
+少婦	Thiếu phụ	vai			
+紳士	Quý ông	vai			
+倉管員	Thủ kho	vai			
+精靈奴隸	Nô lệ tinh linh	vai			
+獸人奴隸	Nô lệ thú nhân	vai			
+貝德	Bedd	nhan_vat			
+委托人	Người ủy thác	vai			
+藥不能停的萌軍	Fan cuồng không thể ngừng thuốc	vai	câu đùa meme		
+蒙面人	Người bịt mặt	vai			
+異種	Dị chủng	vai	sinh vật lai do Lilina đẻ ra		
+山匪A	Sơn tặc A	vai			
+山匪B	Sơn tặc B	vai			
+山匪C	Sơn tặc C	vai			
+山匪	Sơn tặc	vai			
+筋肉人	Gã cơ bắp	vai			
+醫生	Bác sĩ	vai			
+戴爾	Dell	nhan_vat	thợ rèn ở cảng Anvil, cha của Seth		
+塞斯	Seth	nhan_vat	con trai Dell, được Lilina dạy kèm — xem giới hạn vị thành niên		
+比爾	Bill	nhan_vat	tù nhân quản lý kho vật tư		
+獄霸	Đại ca nhà tù	vai			
+波特	Porter	nhan_vat	quản lý nông trại nhà tù		
+Hentai英雄ZERO	Hentai Anh hùng ZERO	nhan_vat	kẻ biến thái ở nhà tắm		
+Hentai	Hentai	vai			
+Cosplayer	Cosplayer	vai			
+管理官	quản lý quan	vai			
+哈比	Habi	ten	tên Thần Sói tự xưng khi đã thành nô lệ (phiên âm; EN để "Silly")		
+夫人	phu nhân	vai			
+王后	Hoàng hậu	vai			
+國王	Quốc vương	vai			
+代理校長	Hiệu trưởng tạm quyền	vai			
+公會	Hội	to_chuc	Hội Mạo hiểm giả (nói tắt)		
+史萊姆	slime	quai			
+處女	trinh nữ	khai_niem	"còn trinh"/"trinh nữ"; 非處女 = "không còn trinh"		
+非處女	Không còn trinh	khai_niem			
+親愛的	anh yêu/cưng	cum_co_dinh	tùy người nói		
+好色少女	Thiếu nữ háo sắc	danh_hieu			
+發情淫女	Dâm nữ động dục	danh_hieu			
+淫亂雌獸	Con cái dâm loạn	danh_hieu			
+吸精騷穴	Lồn hút tinh	danh_hieu			
+榨精名器	Danh khí vắt tinh	danh_hieu			
+無底淫穴	Lỗ dâm không đáy	danh_hieu			
+肛交癖	Nghiện giao hợp hậu môn	danh_hieu		Nghiện chơi lỗ đít	
+肛交狂	Cuồng giao hợp hậu môn	danh_hieu		Cuồng chơi lỗ đít	
+肛交姬	Công chúa hậu môn	danh_hieu		Công chúa lỗ đít	
+自慰癖	Nghiện thủ dâm	danh_hieu			
+自慰狂	Cuồng thủ dâm	danh_hieu			
+自慰中毒	Thủ dâm thành nghiện	danh_hieu			
+飲精癖	Nghiện uống tinh	danh_hieu			
+精液中毒	Ngộ độc tinh dịch	danh_hieu			
+精液奴隸	Nô lệ tinh dịch	danh_hieu			
+失禁姬	Công chúa són tiểu	danh_hieu			
+排泄姬	Công chúa bài tiết	danh_hieu			
+公共便器	Bồn cầu công cộng	danh_hieu			
+施虐癖	Thích hành hạ	danh_hieu			
+施虐狂	Cuồng hành hạ	danh_hieu			
+SM女王	Nữ hoàng SM	danh_hieu			
+受虐癖	Thích bị hành	danh_hieu			
+受虐狂	Cuồng bị hành	danh_hieu			
+SM奴隸	Nô lệ SM	danh_hieu			
+露出癖	Thích phô thân	danh_hieu			
+露出狂	Cuồng phô thân	danh_hieu			
+露出姬	Công chúa phô thân	danh_hieu			
+巨乳少女	Thiếu nữ ngực khủng	danh_hieu			
+乳奴隸	Nô lệ vú	danh_hieu			
+乳家畜	Gia súc sữa	danh_hieu			
+百合姬	Công chúa bách hợp	danh_hieu			
+雙性人	Người lưỡng tính	danh_hieu			
+射精中毒	Nghiện xuất tinh	danh_hieu			
+百人斬	Trăm người dính chưởng	danh_hieu	đã quyến rũ và đè 100 người		
+千人斬	Nghìn người dính chưởng	danh_hieu			
+飲尿癖	Nghiện uống nước tiểu	danh_hieu			
+尿中毒	Nghiện nước tiểu	danh_hieu			
+尿奴隸	Nô lệ nước tiểu	danh_hieu			
+真·便器	Bồn cầu thật sự	danh_hieu			
+普通市民	Thị dân thường	danh_hieu	cấp Hội		
+初級會員	Hội viên sơ cấp	danh_hieu			
+中級會員	Hội viên trung cấp	danh_hieu			
+高級會員	Hội viên cao cấp	danh_hieu			
+資深會員	Hội viên kỳ cựu	danh_hieu			
+賣淫女	Gái bán dâm	danh_hieu			
+娼淫的妓女	Kỹ nữ kỹ viện	danh_hieu			
+性奴隸	nô lệ tình dục	danh_hieu			
+永久性奴隸	Nô lệ tình dục vĩnh viễn	danh_hieu			
+性奴舞后	Vũ hậu nô lệ tình dục	danh_hieu			
+性奴舞娘	vũ nữ nô lệ tình dục	vai			
+性交次數	Số lần giao hợp	chi_so			
+肛交次數	Số lần giao hợp hậu môn	chi_so		Số lần chơi lỗ đít	
+自慰次數	Số lần thủ dâm	chi_so			
+口交次數	Số lần thổi kèn	chi_so			
+乳交次數	Số lần kẹp vú	chi_so			
+飲尿次數	Số lần uống nước tiểu	chi_so			
+飲精次數	Số lần uống tinh	chi_so			
+榨乳次數	Số lần vắt sữa	chi_so			
+失禁次數	Số lần són tiểu	chi_so			
+排泄次數	Số lần bài tiết	chi_so			
+高潮次數	Số lần lên đỉnh	chi_so			
+射精次數	Số lần xuất tinh	chi_so			
+出產次數	Số lần sinh nở	chi_so			
+精浴次數	Số lần tắm tinh	chi_so			
+尿浴次數	Số lần tắm nước tiểu	chi_so			
+露出次數	Số lần phô thân	chi_so			
+百合次數	Số lần bách hợp	chi_so			
+泄欲次數	Số lần giải tỏa dục vọng	chi_so			
+名聲	Danh tiếng	chi_so			
+魅力	Sức hút	chi_so			
+理性	Lý trí	chi_so			
+欲望	Dục vọng	chi_so			
+墮落	Sa đọa	chi_so			
+墮落值	Độ sa đọa	chi_so			
+墮落度	Độ sa đọa	chi_so			
+詛咒	Lời nguyền	chi_so			
+母性	Tình mẫu tử	chi_so			
+施虐	Hành hạ	chi_so			
+被虐	Bị hành hạ	chi_so			
+受虐	Bị hành hạ	chi_so			
+羞恥	Xấu hổ	chi_so			
+神性	Thần tính	chi_so			
+依戀值	Độ quyến luyến	chi_so			
+好感度	Độ thiện cảm	chi_so			
+稱號	Danh hiệu	chi_so			
+隱藏屬性	Thuộc tính H	chi_so			
+一般盔甲	Giáp thường	chi_so			
+魔法盔甲	Giáp phép	chi_so			
+輕盔甲	Giáp nhẹ	chi_so			
+重盔甲	Giáp nặng	chi_so			
+小盾	Khiên nhỏ	chi_so			
+大盾	Khiên lớn	chi_so			
+莉莉娜專用	Riêng Lilina	chi_so			
+特殊	Đặc biệt	chi_so			
+首飾	Trang sức	chi_so			
+淫技	Dâm kỹ	chi_so	loại kỹ năng		
+性技	Kỹ năng tình dục	chi_so			
+行為	Hành vi	chi_so			
+物理	Vật lý	nguyen_to			
+雷電	Sấm sét	nguyen_to			
+黑暗	Bóng tối	nguyen_to			
+火系魔法	ma pháp hệ Lửa	khai_niem			
+水系魔法	ma pháp hệ Nước	khai_niem			
+風系魔法	ma pháp hệ Gió	khai_niem			
+土系魔法	ma pháp hệ Đất	khai_niem			
+雷系魔法	ma pháp hệ Sấm	khai_niem			
+光系魔法	ma pháp hệ Ánh sáng	khai_niem			
+暗系魔法	ma pháp hệ Bóng tối	khai_niem			
+黑魔法	hắc ma pháp	khai_niem			
+心靈魔法	ma pháp tâm linh	khai_niem			
+淫魔法	dâm ma pháp	khai_niem			
+盾牌	Khiên	chi_so			
+頭部	Đầu	chi_so			
+身體	Thân	chi_so			
+手部	Tay	chi_so			
+腳部	Chân	chi_so			
+枷鎖	Gông xiềng	chi_so			
+私密	Chỗ kín	chi_so			
+前穴	Lỗ trước	chi_so			
+后穴	Lỗ sau	chi_so			
+經驗值 (EXP)	Kinh nghiệm (EXP)	chi_so			
+最大 HP	HP tối đa	chi_so			
+最大 MP	MP tối đa	chi_so			
+防御	Phòng thủ	chi_so			
+魔法攻擊	Phép công	chi_so			
+魔法防御	Phép thủ	chi_so			
+敏捷	Nhanh nhẹn	chi_so			
+運氣	May mắn	chi_so			
+命中	Chính xác	chi_so			
+閃避	Né tránh	chi_so			
+等級	Cấp	chi_so			
+特等生	học viên đặc biệt	khai_niem	danh hiệu Lilina ở học viện		
+必修課	môn bắt buộc	khai_niem			
+選修課	môn tự chọn	khai_niem			
+烙印	dấu ấn	khai_niem	dấu ấn linh hồn ở học viện		
+靈魂契約	Khế ước linh hồn	khai_niem			
+契約	khế ước	khai_niem			
+惡魔契約	khế ước ác quỷ	khai_niem			
+神力	thần lực	khai_niem			
+神力之源	nguồn thần lực	khai_niem			
+圣光	thánh quang	khai_niem			
+勞動	lao động	khai_niem			
+雇傭兵和性奴	lính đánh thuê và nô lệ tình dục	khai_niem			
+第三公主	Công chúa thứ ba	vai			
+城主	thành chủ	vai			
+接頭人	người liên lạc	vai			
+騎手	kỵ thủ	vai			
+套裝	Bộ đồ	khai_niem			
+淫魔鎧	giáp dâm ma	khai_niem			
+地獄魔王	Ma Vương Địa Ngục	khai_niem			
+勇者	dũng sĩ	khai_niem	các anh hùng phong ấn Dâm Ma Vương	dũng giả	
+死靈王	Vua Tử linh	khai_niem	Ganon		
+死靈	tử linh	khai_niem			
+亡靈	vong linh	khai_niem			
+魔鋼	thép ma	khai_niem			
+不滅之炎	Ngọn lửa Bất diệt	khai_niem			
+大地精靈	Tinh linh Đại địa	khai_niem			
+土精靈	Tinh linh Đất	khai_niem			
+火焰精靈	Tinh linh Lửa	khai_niem			
+千年神樹	Cây Thần nghìn năm	khai_niem			
+神樹	Cây Thần	khai_niem			
+中份食物	Phần ăn vừa	vat_pham			
+亞巴頓控制器	Điều khiển Abaddon	vat_pham			
+倉庫鑰匙	Chìa khóa nhà kho	vat_pham			
+備忘錄	Sổ ghi nhớ	vat_pham			
+傭兵任務書	Giấy việc lính thuê	vat_pham		Giấy nhiệm vụ lính đánh thuê	
+傳送魔法護符	Bùa phép dịch chuyển	vat_pham			
+全職女仆合約書	HĐ hầu gái toàn thời	vat_pham		Hợp đồng hầu gái toàn thời gian	
+公會任務書	Giấy nhiệm vụ Hội	vat_pham		Giấy nhiệm vụ của Hội	
+公會重要物資	Vật tư Hội	vat_pham		Vật tư quan trọng của Hội	
+冒險者公會任務記錄	Sổ ghi nhiệm vụ Hội	vat_pham		Sổ nhiệm vụ Hội	
+冰晶的花朵	Đóa Hoa Băng Tinh	vat_pham	thánh vật		
+勞動憑證	Phiếu lao động	vat_pham			
+史萊姆的精液	Tinh dịch Slime	vat_pham			
+史萊姆的精華	Tinh chất Slime	vat_pham			
+回城卷軸	Cuộn giấy về thành	vat_pham			
+圣靈藥	Thánh dược	vat_pham			
+城堡地牢鑰匙	Khóa ngục lâu đài	vat_pham			
+大份食物	Phần ăn lớn	vat_pham			
+妖果	Yêu quả	vat_pham	quả yêu ma		
+安維爾教堂鑰匙	Khóa nhà thờ Anvil	vat_pham			
+封印圣水	Thánh thủy phong ấn	vat_pham			
+小份食物	Phần ăn nhỏ	vat_pham			
+小屋鑰匙	Chìa khóa căn chòi	vat_pham			
+小麥	Lúa mì	vat_pham			
+山泉水	Nước suối	vat_pham			
+干糧袋	Túi lương khô	vat_pham			
+廢棄水井鑰匙	Khóa giếng hoang	vat_pham		Chìa khóa giếng bỏ hoang	
+復活藥劑	Thuốc hồi sinh	vat_pham			
+惡狼的精液	Tinh dịch sói dữ	vat_pham			
+惡狼的精華	Tinh chất sói dữ	vat_pham			
+惡狼的鬃毛	Bờm sói dữ	vat_pham			
+惡魔的禁錮	Xiềng ác quỷ	vat_pham		Xiềng xích của ác quỷ	
+手抄任務書	Nhiệm vụ chép tay	vat_pham			
+手機按鍵控制	Phím điện thoại	vat_pham	tùy chọn cho bản điện thoại		
+打蟲藥	Thuốc tẩy giun	vat_pham			
+托雷斯城通行證	Thông hành Torres	vat_pham		Giấy thông hành thành Torres	
+拘束器鑰匙	Khóa đồ trói	vat_pham		Chìa khóa dụng cụ trói	
+斯庫瑪	Skooma	vat_pham	ma túy (tên lấy từ Skyrim)	Skuma	
+新型毒品	Ma túy kiểu mới	vat_pham			
+春藥	Thuốc kích dục	vat_pham			
+暗示明細	Danh sách ám thị	vat_pham			
+木制鑰匙	Chìa khóa gỗ	vat_pham			
+歐文別墅的鑰匙	Khóa biệt thự Owen	vat_pham		Chìa khóa biệt thự của Owen	
+歐文的戒指	Nhẫn của Owen	vat_pham			
+死亡的權杖	Quyền Trượng Tử Vong	vat_pham	thánh vật		
+殺人蜂的精液	Tinh dịch ong độc	vat_pham		Tinh dịch ong sát thủ	
+殺人蜂的精華	Tinh chất ong độc	vat_pham		Tinh chất ong sát thủ	
+毒蝎的精液	Tinh dịch bọ cạp độc	vat_pham			
+毒蝎的精華	Tinh chất bọ cạp độc	vat_pham			
+毒針	Kim độc	vat_pham			
+水囊	Túi nước	vat_pham			
+水神的結晶	Tinh Thể Thủy Thần	vat_pham	thánh vật		
+漆黑的寶石	Viên Ngọc Đen Tuyền	vat_pham	thánh vật thứ 7		
+火龍的精液	Tinh dịch rồng lửa	vat_pham			
+火龍的精華	Tinh chất rồng lửa	vat_pham			
+烈性炸藥	Thuốc nổ mạnh	vat_pham			
+烈焰的寶珠	Viên Ngọc Lửa Rực	vat_pham	thánh vật	Bảo Châu Liệt Diễm	
+煙草	Thuốc lá	vat_pham			
+牧場入場券	Vé vào trang trại	vat_pham			
+特制解藥	Thuốc giải đặc chế	vat_pham			
+特訓室鑰匙	Khóa phòng đặc huấn	vat_pham		Chìa khóa phòng huấn luyện đặc biệt	
+獨角獸傳單	Tờ rơi kỳ lân	vat_pham			
+獨角獸圣水	Thánh thủy kỳ lân	vat_pham			
+獵鷹的精液	Tinh dịch chim ưng	vat_pham			
+獵鷹的精華	Tinh chất chim ưng	vat_pham			
+玉藻前的鏡子	Gương Tamamo	vat_pham		Gương của Tamamo no Mae	
+發型選擇器	Bộ chọn kiểu tóc	vat_pham			
+看守所特赦令	Lệnh đặc xá	vat_pham			
+礦搞	Cuốc chim	vat_pham			
+神器－怠惰之心	Thần khí: Tim Lười Biếng	vat_pham		Thần khí – Trái Tim Lười Biếng	
+神器－時間逆流	Thời Gian Ngược	vat_pham		Thần khí – Thời Gian Chảy Ngược	
+神器－毒癮無效	Thần khí: Miễn Nghiện	vat_pham		Thần khí – Miễn Nghiện	
+神器－毒藥無效	Thần khí: Miễn Độc	vat_pham			
+神器－消耗儲備	Thần khí: Tiêu Dự Trữ	vat_pham		Thần khí – Tiêu Hao Dự Trữ	
+神器－烙印無效	Thần khí: Miễn Dấu Ấn	vat_pham		Thần khí – Miễn Dấu Ấn	
+神器－狼神的祝福	Phúc Lành Thần Sói	vat_pham			
+神器－稱號固定	Thần khí: Khóa Danh Hiệu	vat_pham		Thần khí – Khóa Danh Hiệu	
+神器－繁殖無效	Thần khí: Miễn Sinh Sản	vat_pham		Thần khí – Miễn Sinh Sản	
+神器－虛無之眼	Thần khí: Mắt Hư Vô	vat_pham		Thần khí – Con Mắt Hư Vô	
+神器－蠶食無效	Thần khí: Miễn Gặm Nhấm	vat_pham		Thần khí – Miễn Gặm Nhấm	
+神性抵抗藥劑	Thuốc kháng thần lực	vat_pham	EN ghi nhầm Anti-holy; 神力抵抗 cùng nghĩa		
+神牛的斷角	Sừng Gãy Thần Ngưu	vat_pham	thánh vật	Sừng Gãy của Thần Ngưu	
+空氣袋	Túi khí	vat_pham			
+立繪狀態控制器	Chỉnh hình nhân vật	vat_pham		Bộ điều khiển hình nhân vật	
+章魚怪的精液	Tinh dịch bạch tuộc	vat_pham		Tinh dịch quái bạch tuộc	
+章魚怪的精華	Tinh chất bạch tuộc	vat_pham		Tinh chất quái bạch tuộc	
+簡易帳篷鑰匙	Chìa khóa lều tạm	vat_pham			
+粉色史萊姆體液	Dịch Slime hồng	vat_pham			
+精力劑	Thuốc tăng lực	vat_pham			
+精液寶瓶	Bình Tinh Dịch	vat_pham			
+結局一覽	Danh sách kết thúc	vat_pham			
+草藥	Thảo dược	vat_pham			
+萬能藥	Thuốc vạn năng	vat_pham			
+葡萄	Nho	vat_pham			
+藍色史萊姆體液	Dịch Slime xanh	vat_pham			
+藥水	Thuốc hồi phục	vat_pham			
+蘑菇	Nấm	vat_pham			
+蘿卜	Củ cải	vat_pham			
+蟲卵	Trứng sâu	vat_pham			
+解毒劑	Thuốc giải độc	vat_pham			
+貞操帶鑰匙	Khóa đai trinh tiết	vat_pham			
+逝者之花	Hoa Người Chết	vat_pham			
+重返新的旅程	Hành Trình Mới	vat_pham	vật phẩm vào vòng chơi mới		
+金塊	Thỏi vàng	vat_pham			
+金礦石	Quặng vàng	vat_pham			
+金色史萊姆的殘留物	Cặn Slime vàng	vat_pham			
+金色史萊姆體液	Dịch Slime vàng	vat_pham			
+銀光花	Hoa Ánh Bạc	vat_pham			
+銀礦石	Quặng bạc	vat_pham			
+銅制鑰匙	Chìa khóa đồng	vat_pham			
+鋤頭	Cuốc	vat_pham			
+鋼制鑰匙	Chìa khóa thép	vat_pham			
+鎮定劑	Thuốc an thần	vat_pham			
+鏡子	Gương	vat_pham			
+鐵制鑰匙	Chìa khóa sắt	vat_pham			
+鐵礦石	Quặng sắt	vat_pham			
+開鎖器	Đồ mở khóa	vat_pham			
+青菜	Rau xanh	vat_pham			
+高級食材	Nguyên liệu cao cấp	vat_pham			
+魔乳	Ma nhũ	vat_pham	sữa ma lực		
+魔導水晶	Pha lê ma đạo	vat_pham			
+魔法學院學生證	Thẻ học viên	vat_pham			
+魔法水	Nước phép	vat_pham	hồi MP		
+魔牛的精液	Tinh dịch bò quỷ	vat_pham			
+魔牛的精華	Tinh chất bò quỷ	vat_pham			
+魔石	Ma thạch	vat_pham			
+魔鋼貞操帶鑰匙	Khóa đai trinh ma	vat_pham		Chìa khóa đai trinh tiết thép ma	
+魔鋼鐐銬（頸）鑰匙	Khóa cùm cổ ma	vat_pham		Chìa khóa cùm cổ thép ma	
+黃金的果實	Trái Vàng	vat_pham	thánh vật		
+Futa化	Futa hóa	ky_nang	mọc dương vật (futanari)		
+一之彈（Aleph）	Phát Một (Aleph)	ky_nang		Phát Thứ Nhất (Aleph)	
+供乳	Cho bú	ky_nang			
+光之刃	Lưỡi Ánh Sáng	ky_nang			
+光矛	Thương Ánh Sáng	ky_nang			
+全力一擊	Đòn Dốc Sức	ky_nang			
+全力活力	Sinh Lực Toàn Phần	ky_nang			
+凈化之光	Ánh Sáng Thanh Tẩy	ky_nang			
+出產&流產	Sinh nở & Phá thai	ky_nang		Sinh nở & Sảy thai	
+劇毒	Kịch độc	ky_nang			
+劍圣風暴	Bão Kiếm Thánh	ky_nang			
+吸血	Hút máu	ky_nang			
+固守	Cố thủ	ky_nang			
+大地之怒	Cơn Thịnh Nộ của Đất	ky_nang			
+女王之吻	Nụ Hôn Nữ Hoàng	ky_nang			
+女王的宿愿	Tâm Nguyện Nữ Hoàng	ky_nang		Tâm Nguyện của Nữ Hoàng	
+寒冰之怒	Băng Nộ	ky_nang		Cơn Thịnh Nộ của Băng	
+射精	Xuất tinh	ky_nang			
+幻影之刃	Lưỡi Ảo Ảnh	ky_nang			
+強行性交	Cưỡng ép giao hợp	ky_nang			
+強行脫衣	Cưỡng ép lột đồ	ky_nang			
+快捷換裝	Thay đồ nhanh	ky_nang			
+拘束	Trói buộc	ky_nang			
+拘束掙脫	Thoát trói	ky_nang			
+摘取	Hái	ky_nang			
+擬態	Ngụy trang	ky_nang			
+攻擊	Tấn công	ky_nang			
+教主神技	Thần Kỹ Giáo Chủ	ky_nang			
+束縛掙脫	Thoát trói buộc	ky_nang			
+榨乳	Vắt sữa	ky_nang			
+榨精	Vắt tinh	ky_nang			
+榨精II	Vắt tinh II	ky_nang			
+榨精III	Vắt tinh III	ky_nang			
+橫掃	Quét ngang	ky_nang			
+次元傳送	Dịch chuyển chiều	ky_nang		Dịch chuyển không gian	
+欲望之歌	Khúc Ca Dục Vọng	ky_nang			
+欲望的深淵	Vực Thẳm Dục Vọng	ky_nang			
+活力	Sinh lực	ky_nang			
+淫幻想	Ảo tưởng dâm dục	ky_nang			
+淫愈	Dâm dục trị liệu	ky_nang			
+淫欲控制	Kiểm soát dâm dục	ky_nang			
+淫毒發作	Dâm độc phát tác	ky_nang			
+淫毒耐性	Kháng dâm độc	ky_nang			
+淫能爆發	Bùng nổ dâm năng	ky_nang			
+淫魔女王化	Hóa Nữ hoàng Dâm ma	ky_nang			
+測試神技	Thần kỹ thử nghiệm	ky_nang			
+火墻	Tường Lửa	ky_nang			
+火焰加護	Hỏa Diễm Gia Hộ	ky_nang			
+火球	Cầu Lửa	ky_nang			
+炎之光	Ánh Lửa	ky_nang			
+烈焰	Liệt Diễm	ky_nang			
+烈焰之怒	Cơn Thịnh Nộ của Lửa	ky_nang			
+烈焰風暴	Bão Lửa	ky_nang			
+無敵斬	Chém Vô Địch	ky_nang			
+爪襲	Cào Vuốt	ky_nang			
+猛擊	Đòn Mạnh	ky_nang			
+疾風之刃	Lưỡi Gió Lốc	ky_nang			
+盾擊	Đập Khiên	ky_nang			
+神樂舞	Điệu Múa Kagura	ky_nang			
+神獸之怒	Thần Thú Nộ	ky_nang		Cơn Thịnh Nộ của Thần Thú	
+神罰	Thần Phạt	ky_nang			
+等待	Chờ	ky_nang			
+精液吸收	Hấp thụ tinh dịch	ky_nang			
+絕望	Tuyệt Vọng	ky_nang			
+群體昏睡	Ru Ngủ Diện Rộng	ky_nang			
+聲波	Sóng Âm	ky_nang			
+肉便器	bồn cầu thịt	khai_niem	kỹ năng/danh hiệu và lời lăng mạ; EN Meat Toilet		
+自慰	Thủ dâm	ky_nang			
+致命誘惑	Cám Dỗ Chết Người	ky_nang			
+蔓藤纏繞	Dây Leo Quấn	ky_nang			
+虛化	Hư hóa	ky_nang	hóa hư vô		
+蛇舞	Vũ Điệu Rắn	ky_nang			
+蟲王召喚	Triệu hồi Vua Sâu	ky_nang			
+行走/起飛	Đi bộ/Cất cánh	ky_nang			
+視覺干擾	Nhiễu Thị Giác	ky_nang			
+解除拘束	Gỡ trói	ky_nang			
+誘惑	Quyến rũ	ky_nang			
+起身/趴下	Đứng dậy/Nằm sấp	ky_nang			
+逃跑	Bỏ chạy	ky_nang			
+防護	Phòng thủ	ky_nang			
+雙重攻擊	Tấn Công Kép	ky_nang			
+雷光	Lôi Quang	ky_nang			
+雷切	Lôi Thiết	ky_nang			
+雷神之怒	Lôi Thần Nộ	ky_nang		Cơn Thịnh Nộ của Thần Sấm	
+順從	Phục tùng	ky_nang	cũng là chỉ số		
+風斬	Chém Gió	ky_nang			
+高級次元傳送	Dịch chuyển cao cấp	ky_nang		Dịch chuyển không gian cao cấp	
+魔法盾	Khiên Phép	ky_nang			
+麻痹	Tê liệt	trang_thai			
+黑暗之光	Ánh Sáng Bóng Tối	ky_nang			
+黑暗波動	Sóng Bóng Tối	ky_nang			
+龍卷風	Lốc Xoáy	ky_nang			
+Aleph	Aleph	trang_thai			
+KO	Gục ngã	trang_thai			
+不抵抗	Không kháng cự	trang_thai			
+不死	Bất tử	trang_thai			
+中毒	Trúng độc	trang_thai			
+光的烙印	Dấu Ấn Ánh Sáng	trang_thai			
+冰凍	Đóng băng	trang_thai			
+削弱	Suy yếu	trang_thai			
+土的烙印	Dấu Ấn Đất	trang_thai			
+失明	Mù	trang_thai			
+失言	Câm lặng	trang_thai			
+妖果成熟	Yêu quả chín	trang_thai			
+妖花	Yêu hoa	trang_thai			
+封存淫技	Phong ấn dâm kỹ	trang_thai			
+弱治	Giảm hồi phục	trang_thai			
+憤怒	Phẫn nộ	trang_thai			
+捕獲	Bị bắt	trang_thai			
+擊倒	Bị quật ngã	trang_thai			
+束縛I	Trói buộc I	trang_thai			
+束縛II	Trói buộc II	trang_thai			
+毒癮	Nghiện	trang_thai			
+水的烙印	Dấu Ấn Nước	trang_thai			
+混亂	Hỗn loạn	trang_thai			
+火的烙印	Dấu Ấn Lửa	trang_thai			
+無力	Bủn rủn	trang_thai			
+燃燒	Bỏng cháy	trang_thai			
+狂暴	Cuồng bạo	trang_thai			
+疲憊	Kiệt sức	trang_thai			
+發情	Động dục	trang_thai	trạng thái; trong thoại có thể "nứng"/"động dục" tùy giọng		
+睡眠	Ngủ	trang_thai			
+神力抵抗	Kháng thần lực	trang_thai			
+神圣加護	Thánh Gia Hộ	trang_thai			
+纏繞	Bị quấn	trang_thai			
+脆弱	Yếu ớt	trang_thai			
+虛弱至極	Kiệt quệ	trang_thai			
+虛脫	Rã rời	trang_thai			
+雷的烙印	Dấu Ấn Sấm	trang_thai			
+風的烙印	Dấu Ấn Gió	trang_thai			
+魅惑	Mê hoặc	trang_thai			
+A杖	Trượng A	vat_pham			
+HK416	HK416	vat_pham			
+Steinberger	Steinberger	vat_pham			
+中級木杖	Gậy gỗ trung cấp	vat_pham			
+亞巴頓觸手	Xúc tu Abaddon	vat_pham			
+亞絲娜配劍	Kiếm của Asuna	vat_pham			
+伊賀忍者刀	Kiếm nhẫn giả Iga	vat_pham			
+兔女權杖	Quyền trượng Thỏ nữ	vat_pham			
+冥王劍	Kiếm Minh Vương	vat_pham			
+初級木杖	Gậy gỗ sơ cấp	vat_pham			
+利維坦的玩具	Đồ chơi Leviathan	vat_pham		Đồ chơi của Leviathan	
+刻刻帝	Zafkiel	vat_pham			
+叛亂姬騎士盾	Khiên Nữ kỵ Loạn	vat_pham		Khiên Nữ kỵ sĩ Phản loạn	
+叛亂姬騎士配劍	Kiếm Nữ kỵ Loạn	vat_pham		Kiếm Nữ kỵ sĩ Phản loạn	
+合金劍	Kiếm hợp kim	vat_pham			
+合金鞭	Roi hợp kim	vat_pham			
+圣劍	Thánh kiếm	vat_pham			
+圣誕權杖	Trượng Giáng sinh	vat_pham			
+女武神之刃	Lưỡi kiếm Valkyrie	vat_pham			
+女武神之刃(真)	Kiếm Valkyrie (thật)	vat_pham			
+女王之刃	Lưỡi kiếm Nữ hoàng	vat_pham			
+女王之刃（真）	Kiếm Nữ hoàng (thật)	vat_pham			
+學姐利刃	Kiếm của đàn chị	vat_pham			
+小白的傘	Ô của Tiểu Bạch	vat_pham			
+尼祿的愛劍	Kiếm yêu của Nero	vat_pham			
+幻想鐵處女	Thiết Nữ Ảo Tưởng	vat_pham	Iron Maiden		
+復仇之劍	Kiếm Báo Thù	vat_pham			
+復仇之矛	Giáo Báo Thù	vat_pham			
+忍者刀	Kiếm nhẫn giả	vat_pham			
+扇子	Quạt	vat_pham			
+手捧花	Bó hoa cầm tay	vat_pham			
+振動棒	Dương vật giả rung	vat_pham			
+新日暮里御幣	Gohei Shin-Nippori	vat_pham	đạo cụ đùa		
+日本刀	Katana	vat_pham			
+日炎大劍	Đại kiếm Nhật Viêm	vat_pham			
+書包	Cặp sách	vat_pham			
+欲望之刃	Lưỡi kiếm Dục Vọng	vat_pham			
+水天日光天照八野鎮石	Thiên Chiếu Thạch	vat_pham	bảo khí của Tamamo (Fate)	Thủy Thiên Nhật Quang Thiên Chiếu Bát Dã Trấn Thạch	
+法神官之斧	Rìu Pháp Thần quan	vat_pham			
+淫斗士之棒	Gậy Dâm Đấu sĩ	vat_pham			
+測試神器	Thần khí thử nghiệm	vat_pham			
+火焰	Lửa	vat_pham			
+狂亂姬騎士盾	Khiên Nữ kỵ Cuồng	vat_pham		Khiên Nữ kỵ sĩ Cuồng loạn	
+狂亂姬騎士配劍	Kiếm Nữ kỵ Cuồng	vat_pham		Kiếm Nữ kỵ sĩ Cuồng loạn	
+狼神裝束（利爪）	Đồ Thần Sói (vuốt)	vat_pham		Trang phục Thần Sói (Vuốt sắc)	
+狼神裝束（風刺）	Đồ Thần Sói (gió)	vat_pham		Trang phục Thần Sói (Gai gió)	
+皮鞭	Roi da	vat_pham			
+籃子	Giỏ	vat_pham			
+紅酒	Rượu vang	vat_pham			
+索爾之錘	Búa của Thor	vat_pham			
+緋月利刃	Lưỡi kiếm Trăng Đỏ	vat_pham			
+肉	Thịt	vat_pham			
+艾爾莎柴刀	Rựa của Elsa	vat_pham			
+菊花入侵者	Kẻ xâm nhập cúc hoa	vat_pham	đồ chơi hậu môn		
+薩麥爾之杖	Trượng Samael	vat_pham			
+貫穿死翔之槍	Gáe Bolg	vat_pham	Gáe Bolg	Thương Xuyên Tử Thần	
+路西法之槍	Thương Lucifer	vat_pham			
+酒	Rượu	vat_pham			
+銃劍	Kiếm súng	vat_pham			
+銅劍	Kiếm đồng	vat_pham			
+鋼劍	Kiếm thép	vat_pham			
+鋼鞭	Roi thép	vat_pham			
+鐵劍	Kiếm sắt	vat_pham			
+鐵鞭	Roi sắt	vat_pham			
+長皮鞭	Roi da dài	vat_pham			
+阿斯蒙蒂斯之鐮	Lưỡi hái Asmodeus	vat_pham			
+頂級木杖	Gậy gỗ thượng hạng	vat_pham			
+風之圣劍	Thánh Kiếm Gió	vat_pham			
+高級木杖	Gậy gỗ cao cấp	vat_pham			
+魔性權杖	Quyền trượng Ma tính	vat_pham			
+黑白熊	Monokuma	vat_pham	Monokuma	Gấu Trắng Đen	
+詛咒的枷鎖	Gông Nguyền rủa	vat_pham			
+布帽	Mũ vải	vat_pham			
+氈布帽	Mũ nỉ	vat_pham			
+布衣	Áo vải	vat_pham			
+氈布衣	Áo nỉ	vat_pham			
+木盾	Khiên gỗ	vat_pham			
+攻擊戒指	Nhẫn Tấn công	vat_pham			
+防御戒指	Nhẫn Phòng thủ	vat_pham			
+敏捷戒指	Nhẫn Nhanh nhẹn	vat_pham			
+會心戒指	Nhẫn Chí mạng	vat_pham			
+魔攻戒指	Nhẫn Phép công	vat_pham			
+魔防戒指	Nhẫn Phép thủ	vat_pham			
+輕便裝	Đồ gọn nhẹ	vat_pham			
+內衣	Đồ lót	vat_pham			
+輕便手套	Găng tay nhẹ	vat_pham			
+輕便鞋	Giày nhẹ	vat_pham			
+布手套	Găng tay vải	vat_pham			
+布鞋	Giày vải	vat_pham			
+詛咒的貞操守護	Giữ trinh Nguyền rủa	vat_pham		Bảo hộ Trinh tiết Nguyền rủa	
+奴隸的禁錮	Xiềng nô lệ	vat_pham			
+V字形泳衣（白）	Đồ bơi chữ V (trắng)	vat_pham			
+繩束（紅）	Dây trói (đỏ)	vat_pham			
+皮制項圈	Vòng cổ da	vat_pham			
+皮帶項圈	Vòng cổ dây da	vat_pham			
+吧臺女	Gái quầy bar	vat_pham			
+紅皮鞋	Giày da đỏ	vat_pham			
+抖M戒指	Nhẫn Bạo dâm M	vat_pham	nhẫn cho kẻ thích bị hành (masochist)		
+初心者戒指	Nhẫn Tân thủ	vat_pham			
+混沌之戒	Nhẫn Hỗn độn	vat_pham			
+神圣之戒	Nhẫn Thần thánh	vat_pham			
+眼罩	Bịt mắt	vat_pham			
+內衣（僅胸罩）	Đồ lót (chỉ áo ngực)	vat_pham			
+囚服	Áo tù	vat_pham			
+草鞋	Dép cỏ	vat_pham			
+貞操帶	đai trinh tiết	vat_pham			
+鐐銬（手）	Cùm (tay)	vat_pham			
+鐐銬（腳）	Cùm (chân)	vat_pham			
+鐐銬（頸）	Cùm (cổ)	vat_pham			
+鐵球	Quả tạ sắt	vat_pham			
+鐵球（魔鋼加重）	Tạ sắt (thép ma)	vat_pham		Quả tạ sắt (thép ma tăng nặng)	
+翅膀（惡魔）	Cánh (ác quỷ)	vat_pham			
+翅膀（肉）	Cánh (thịt)	vat_pham			
+忍者的裝束	Trang phục nhẫn giả	vat_pham			
+乳膠衣（黑）	Đồ latex (đen)	vat_pham			
+性感臂環	Vòng tay gợi cảm	vat_pham			
+拘束靴（高跟）	Ủng trói (cao gót)	vat_pham			
+艾莎的項鏈	Dây chuyền của Aisha	vat_pham			
+女仆裝	Đồ hầu gái	vat_pham			
+墨鏡	Kính râm	vat_pham			
+天使之翼	Cánh Thiên thần	vat_pham			
+緋月的性畜裝	Đồ nô thú Trăng Đỏ	vat_pham		Đồ súc vật tình dục Trăng Đỏ	
+尼祿的袖子	Tay áo Nero	vat_pham			
+面罩	Mặt nạ che	vat_pham			
+校服	Đồng phục	vat_pham			
+學生鞋	Giày học viên	vat_pham			
+吊帶內衣	Đồ lót hai dây	vat_pham			
+婚紗	Váy cưới	vat_pham			
+鈴鐺	Chuông	vat_pham			
+奴隸紗衣	Áo voan nô lệ	vat_pham			
+奴隸的婚紗I	Váy cưới nô lệ I	vat_pham			
+奴隸的婚紗II	Váy cưới nô lệ II	vat_pham			
+奴隸的婚紗III	Váy cưới nô lệ III	vat_pham			
+莊嚴的婚紗	Váy cưới uy nghi	vat_pham		Váy cưới trang nghiêm	
+乳貼	Miếng dán ti	vat_pham			
+美女犬	Chó người đẹp	vat_pham			
+面具	Mặt nạ	vat_pham			
+淫魔的新娘禮服	Váy cưới Dâm ma	vat_pham		Lễ phục cô dâu Dâm ma	
+口球（全包）	Bóng bịt miệng (kín)	vat_pham		Bịt miệng bóng (trùm kín)	
+寄生蟲泳衣	Đồ bơi ký sinh trùng	vat_pham			
+斗篷	Áo choàng	vat_pham			
+鼻鉤	Móc mũi	vat_pham			
+口球	Bịt miệng bóng	vat_pham			
+鎖骨鉤	Móc xương đòn	vat_pham			
+胸飾（針）	Trang sức ngực ghim	vat_pham		Trang sức ngực (ghim)	
+胸飾（貫穿）	Khuyên ngực	vat_pham		Trang sức ngực (xỏ khuyên)	
+身體（貫穿）	Thân (xỏ khuyên)	vat_pham			
+斗篷（藍）	Áo choàng (xanh)	vat_pham			
+罩帽（藍）	Mũ trùm (xanh)	vat_pham			
+眼罩&口罩	Bịt mắt & Khẩu trang	vat_pham			
+淫斗士	Dâm Đấu sĩ	vat_pham			
+狼牙棒	Chùy gai	vat_pham			
+振動棒（紫）	Gậy rung (tím)	vat_pham		Dương vật giả rung (tím)	
+振動棒（配套）	Gậy rung (bộ)	vat_pham		Dương vật giả rung (bộ)	
+振動棒（黑精靈）	Gậy rung (Elf đen)	vat_pham		Dương vật giả rung (tinh linh hắc ám)	
+觸手（前）	Xúc tu (trước)	vat_pham			
+觸手（后）	Xúc tu (sau)	vat_pham			
+魔動跳蛋	Trứng rung ma động	vat_pham			
+魔動跳蛋X	Trứng rung ma động X	vat_pham			
+魔動跳蛋V	Trứng rung ma động V	vat_pham			
+魔動陽具內褲	Quần lót gậy ma động	vat_pham		Quần lót dương vật ma động	
+肛門振動棒（蘭）	Gậy rung hậu môn	vat_pham		Dương vật giả rung hậu môn (xanh)	
+祭品的手環	Vòng tay vật tế	vat_pham			
+龍吟的懷表	Đồng hồ Long Ngâm	vat_pham		Đồng hồ quả quýt của Long Ngâm	
+學院制服	Đồng phục học viện	vat_pham			
+制服襪	Tất đồng phục	vat_pham			
+制服鞋	Giày đồng phục	vat_pham			
+女王的精液袋	Túi tinh Nữ hoàng	vat_pham		Túi tinh dịch Nữ hoàng	
+玉藻前的木屐	Guốc Tamamo no Mae	vat_pham			
+玉藻前的尾巴？	Đuôi Tamamo no Mae?	vat_pham			
+玉藻前的真尾	Đuôi thật Tamamo	vat_pham			
+玉藻前的圍領	Khăn cổ Tamamo	vat_pham		Khăn quàng cổ Tamamo no Mae	
+癡女幽靈	Hồn ma dâm nữ	vat_pham			
+護士服	Đồ y tá	vat_pham			
+護士鞋	Giày y tá	vat_pham			
+護士帽	Mũ y tá	vat_pham			
+斯庫水	Đồ bơi học sinh	vat_pham	sukumizu		
+蝴蝶結	Nơ	vat_pham			
+蝴蝶結緞帶	Ruy băng nơ	vat_pham			
+哥特首輪	Vòng cổ Gothic	vat_pham			
+奴隸飾品	Trang sức nô lệ	vat_pham			
+警官服	Đồ cảnh sát	vat_pham			
+警官鞋	Giày cảnh sát	vat_pham			
+警官帽	Mũ cảnh sát	vat_pham			
+吸奶器	Máy hút sữa	vat_pham			
+Horse Bracelet	Vòng tay Ngựa	vat_pham			
+Horse Shoe	Móng Ngựa	vat_pham			
+Horse Shirt	Áo Ngựa	vat_pham			
+Horse Tail	Đuôi Ngựa	vat_pham			
+Horse Plug	Nút Ngựa	vat_pham			
+Horse Rope	Dây cương Ngựa	vat_pham			
+針刺內飾	Trang sức kim châm	vat_pham		Trang sức trong (kim châm)	
+鈴鐺內飾	Trang sức chuông	vat_pham		Trang sức trong (chuông)	
+大腦控制者	Kẻ điều khiển não	vat_pham			
+觸手泳衣	Đồ bơi xúc tu	vat_pham			
+貞德的內衣（簡）	Đồ lót Jeanne (gọn)	vat_pham		Đồ lót Jeanne (đơn giản)	
+貞德的內衣（燃）	Đồ lót Jeanne (lửa)	vat_pham		Đồ lót Jeanne (bốc lửa)	
+貞德的鎧甲？	Áo giáp Jeanne?	vat_pham			
+貞德的首輪	Vòng cổ Jeanne	vat_pham			
+肚臍飾品	Khuyên rốn	vat_pham			
+黑白之翼	Đôi cánh Trắng Đen	vat_pham			
+花妖	Hoa yêu	vat_pham			
+頭花	Hoa cài đầu	vat_pham			
+巫女服	Đồ miko	vat_pham			
+巫女符	Bùa miko	vat_pham			
+巫女鞋	Giày miko	vat_pham			
+95標牌	Thẻ 95	vat_pham			
+開胸襯衣	Áo sơ mi hở ngực	vat_pham			
+艦長制服	Đồng phục hạm trưởng	vat_pham			
+艦長靴子	Ủng hạm trưởng	vat_pham			
+洗腦裝置V	Thiết bị tẩy não V	vat_pham			
+情趣內衣V	Đồ lót gợi tình V	vat_pham			
+貓的毛衣	Áo len mèo	vat_pham			
+巨乳（外套）	Ngực khủng (áo)	vat_pham		Ngực khủng (áo khoác)	
+巨乳（內衣）	Ngực khủng (đồ lót)	vat_pham			
+內褲	Quần lót	vat_pham			
+絲襪	Tất lụa	vat_pham			
+詛咒的項圈	Vòng cổ Nguyền rủa	vat_pham			
+詛咒的鎧甲	Áo giáp Nguyền rủa	vat_pham			
+銅頭盔	Mũ giáp đồng	vat_pham			
+鐵頭盔	Mũ giáp sắt	vat_pham			
+鋼頭盔	Mũ giáp thép	vat_pham			
+合金頭盔	Mũ giáp hợp kim	vat_pham			
+魔法布帽	Mũ vải phép	vat_pham			
+魔法氈布帽	Mũ nỉ phép	vat_pham			
+銅盔甲	Áo giáp đồng	vat_pham			
+鐵盔甲	Áo giáp sắt	vat_pham			
+鋼盔甲	Áo giáp thép	vat_pham			
+合金盔甲	Áo giáp hợp kim	vat_pham			
+魔法布衣	Áo vải phép	vat_pham			
+魔法氈布衣	Áo nỉ phép	vat_pham			
+銅盾	Khiên đồng	vat_pham			
+鐵盾	Khiên sắt	vat_pham			
+鋼盾	Khiên thép	vat_pham			
+合金盾	Khiên hợp kim	vat_pham			
+銅護手	Găng giáp đồng	vat_pham			
+鐵護手	Găng giáp sắt	vat_pham			
+鋼護手	Găng giáp thép	vat_pham			
+合金護手	Găng giáp hợp kim	vat_pham			
+銅靴	Ủng đồng	vat_pham			
+鐵靴	Ủng sắt	vat_pham			
+鋼靴	Ủng thép	vat_pham			
+合金靴	Ủng hợp kim	vat_pham			
+詛咒的手套	Găng tay Nguyền rủa	vat_pham			
+詛咒的長靴	Ủng dài Nguyền rủa	vat_pham			
+魔鋼貞操帶	Đai trinh thép ma	vat_pham		Đai trinh tiết thép ma	
+魔鋼拘束器	Dụng cụ trói thép ma	vat_pham			
+魔鋼鐐銬（頸）	Cùm cổ thép ma	vat_pham			
+暴露內衣	Đồ lót hở hang	vat_pham			
+暴露內衣（黑）	Đồ lót hở hang (đen)	vat_pham			
+暴露手套	Găng tay hở hang	vat_pham			
+暴露手套 （黑）	Găng hở hang (đen)	vat_pham		Găng tay hở hang (đen)	
+暴露褲襪	Quần tất hở hang	vat_pham			
+暴露褲襪（黑）	Tất hở hang (đen)	vat_pham			
+忍者的貞操	Trinh tiết nhẫn giả	vat_pham			
+忍者護腕	Băng cổ tay nhẫn giả	vat_pham			
+忍者護腿	Giáp chân nhẫn giả	vat_pham			
+伊賀忍者服	Áo nhẫn giả Iga	vat_pham			
+伊賀忍者護腕	Bao cổ tay ninja Iga	vat_pham		Băng cổ tay nhẫn giả Iga	
+伊賀忍者護腿	Giáp chân ninja Iga	vat_pham		Giáp chân nhẫn giả Iga	
+伊賀忍者緊身衣	Đồ bó nhẫn giả Iga	vat_pham			
+兔女裝	Trang phục Thỏ nữ	vat_pham			
+兔女臂環（真）	Vòng tay thỏ (thật)	vat_pham		Vòng tay Thỏ nữ (thật)	
+兔女高跟鞋（真）	Cao gót thỏ (thật)	vat_pham		Giày cao gót Thỏ nữ (thật)	
+緋月的緊身衣	Đồ bó Trăng Đỏ	vat_pham			
+緋月的護手	Găng giáp Trăng Đỏ	vat_pham			
+緋月的護腿	Giáp chân Trăng Đỏ	vat_pham			
+尼祿的內衣	Đồ lót Nero	vat_pham			
+尼祿的盔甲	Áo giáp Nero	vat_pham			
+時崎狂三的戰斗服	Đồ chiến Kurumi	vat_pham		Đồ chiến đấu Kurumi Tokisaki	
+時崎狂三的手套	Găng tay Kurumi	vat_pham			
+時崎狂三的高跟鞋	Cao gót Kurumi	vat_pham			
+時崎狂三的頭飾	Cài đầu Kurumi	vat_pham			
+時崎狂三的內衣	Đồ lót Kurumi	vat_pham			
+婚紗手套	Găng tay váy cưới	vat_pham			
+婚紗高跟鞋	Cao gót váy cưới	vat_pham			
+婚紗內衣	Đồ lót váy cưới	vat_pham			
+亞巴頓寄生	Ký sinh Abaddon	vat_pham			
+亞巴頓手臂	Cánh tay Abaddon	vat_pham			
+亞巴頓腿部	Phần chân Abaddon	vat_pham			
+亞巴頓頭部	Phần đầu Abaddon	vat_pham			
+亞巴頓尾部	Phần đuôi Abaddon	vat_pham			
+亞巴頓翅膀	Cánh Abaddon	vat_pham			
+亞巴頓苗床	Ổ ấp Abaddon	vat_pham			
+尼祿的靴子	Ủng Nero	vat_pham			
+婚紗頭飾	Đồ cài đầu váy cưới	vat_pham			
+亞絲娜的短靴	Ủng ngắn Asuna	vat_pham			
+亞絲娜的護手	Găng giáp Asuna	vat_pham			
+亞絲娜的護腿	Giáp chân Asuna	vat_pham			
+亞絲娜的戰斗服	Đồ chiến đấu Asuna	vat_pham			
+舞的內衣	Đồ lót Mai	vat_pham			
+舞的護手	Găng giáp Mai	vat_pham			
+舞的短靴	Ủng ngắn Mai	vat_pham			
+舞的戰斗服	Đồ chiến đấu Mai	vat_pham			
+奴隸女王內衣	Đồ lót Nữ vương Nô	vat_pham		Đồ lót Nữ hoàng Nô lệ	
+性奴隸內衣	Đồ lót nô lệ dục	vat_pham		Đồ lót nô lệ tình dục	
+肉便器擺裙	Váy bồn cầu thịt	vat_pham			
+肉便器透明內衣	Lót trong bồn cầu	vat_pham		Đồ lót trong suốt bồn cầu thịt	
+肉便器高跟鞋	Cao gót bồn cầu	vat_pham			
+肉便器標志	Dấu bồn cầu thịt	vat_pham		Dấu hiệu bồn cầu thịt	
+叛亂姬騎士內衣	Đồ lót Nữ kỵ Loạn	vat_pham		Đồ lót Nữ kỵ sĩ Phản loạn	
+叛亂姬騎士護手	Găng Nữ kỵ Loạn	vat_pham		Găng giáp Nữ kỵ sĩ Phản loạn	
+叛亂姬騎士長靴	Ủng Nữ kỵ Loạn	vat_pham		Ủng dài Nữ kỵ sĩ Phản loạn	
+叛亂姬騎士鎧甲	Giáp Nữ kỵ Loạn	vat_pham		Áo giáp Nữ kỵ sĩ Phản loạn	
+叛亂姬騎士項圈	Vòng cổ Nữ kỵ Loạn	vat_pham		Vòng cổ Nữ kỵ sĩ Phản loạn	
+叛亂姬騎士頭冠	Miện Nữ kỵ Loạn	vat_pham		Vương miện Nữ kỵ sĩ Phản loạn	
+狂亂姬騎士內衣	Đồ lót Nữ kỵ Cuồng	vat_pham		Đồ lót Nữ kỵ sĩ Cuồng loạn	
+狂亂姬騎士護手	Găng Nữ kỵ Cuồng	vat_pham		Găng giáp Nữ kỵ sĩ Cuồng loạn	
+狂亂姬騎士長靴	Ủng Nữ kỵ Cuồng	vat_pham		Ủng dài Nữ kỵ sĩ Cuồng loạn	
+狂亂姬騎士鎧甲	Giáp Nữ kỵ Cuồng	vat_pham		Áo giáp Nữ kỵ sĩ Cuồng loạn	
+狂亂姬騎士項圈	Vòng cổ Nữ kỵ Cuồng	vat_pham		Vòng cổ Nữ kỵ sĩ Cuồng loạn	
+狂亂姬騎士頭冠	Miện Nữ kỵ Cuồng	vat_pham		Vương miện Nữ kỵ sĩ Cuồng loạn	
+叛亂姬騎士鎧甲（無裙）	Giáp Loạn, bỏ váy	vat_pham		Áo giáp Nữ kỵ sĩ Phản loạn (không váy)	
+狂亂姬騎士鎧甲（無裙）	Giáp Cuồng, bỏ váy	vat_pham		Áo giáp Nữ kỵ sĩ Cuồng loạn (không váy)	
+淫斗士項圈	Vòng cổ Dâm Đấu sĩ	vat_pham			
+淫斗士高跟鞋	Cao gót Dâm Đấu sĩ	vat_pham			
+淫斗士之尾	Đuôi Dâm Đấu sĩ	vat_pham			
+奴隸女王高跟鞋	Cao gót Nữ vương Nô	vat_pham		Giày cao gót Nữ hoàng Nô lệ	
+女武神內衣	Đồ lót Valkyrie	vat_pham			
+女武神護手	Găng giáp Valkyrie	vat_pham			
+女武神護腿	Giáp chân Valkyrie	vat_pham			
+女武神戰袍	Áo chiến Valkyrie	vat_pham			
+女武神領口	Cổ áo Valkyrie	vat_pham			
+女武神腰帶	Thắt lưng Valkyrie	vat_pham			
+女王內衣	Đồ lót Nữ hoàng	vat_pham			
+女王護手	Găng giáp Nữ hoàng	vat_pham			
+女王護腿	Giáp chân Nữ hoàng	vat_pham			
+女王裝（外穿）	Đồ Nữ hoàng (ngoài)	vat_pham		Trang phục Nữ hoàng (mặc ngoài)	
+女王裝（內穿）	Đồ Nữ hoàng (trong)	vat_pham		Trang phục Nữ hoàng (mặc trong)	
+女王腰帶	Thắt lưng Nữ hoàng	vat_pham			
+學姐內衣	Đồ lót đàn chị	vat_pham			
+學姐護手	Găng giáp đàn chị	vat_pham			
+學姐護腿	Giáp chân đàn chị	vat_pham			
+學姐校服	Đồng phục đàn chị	vat_pham			
+玉藻前的內衣	Đồ lót Tamamo no Mae	vat_pham			
+玉藻前的外衣	Áo khoác Tamamo	vat_pham			
+狐嫁的頭飾	Cài đầu Hồ ly cưới	vat_pham		Đồ cài đầu Hồ ly xuất giá	
+艾爾莎內衣	Đồ lót Elsa	vat_pham			
+艾爾莎護手	Găng giáp Elsa	vat_pham			
+艾爾莎高跟鞋	Giày cao gót Elsa	vat_pham			
+艾爾莎斗篷	Áo choàng Elsa	vat_pham			
+艾爾莎頭花	Hoa cài đầu Elsa	vat_pham			
+冥王護手	Găng giáp Minh Vương	vat_pham			
+冥王護腿	Giáp chân Minh Vương	vat_pham			
+冥王鎧甲	Áo giáp Minh Vương	vat_pham			
+冥王頭盔	Mũ giáp Minh Vương	vat_pham			
+冥王之翼	Đôi cánh Minh Vương	vat_pham			
+法神官服	Áo Pháp Thần quan	vat_pham			
+法神官手套	Găng Pháp Thần quan	vat_pham		Găng tay Pháp Thần quan	
+法神官軟靴	Ủng Pháp Thần quan	vat_pham		Ủng mềm Pháp Thần quan	
+法神官裹胸&絲襪	Quấn ngực & tất PTQ	vat_pham		Áo quấn ngực & Tất lụa Pháp Thần quan	
+舞娘舞裙	Váy múa vũ nữ	vat_pham			
+舞娘手套	Găng tay vũ nữ	vat_pham			
+舞娘舞鞋	Giày múa vũ nữ	vat_pham			
+舞娘頭冠	Vương miện vũ nữ	vat_pham			
+舞娘內衣	Đồ lót vũ nữ	vat_pham			
+魔性鐵籠裙	Váy lồng sắt ma tính	vat_pham			
+冬之公主手套	Găng Công chúa Đông	vat_pham		Găng tay Công chúa Mùa đông	
+冬之公主褲襪	Tất Công chúa Đông	vat_pham		Quần tất Công chúa Mùa đông	
+冬之公主舞裙	Váy Công chúa Đông	vat_pham		Váy múa Công chúa Mùa đông	
+冬之公主皇冠	Miện Công chúa Đông	vat_pham		Vương miện Công chúa Mùa đông	
+冬之公主寂寞	Cô đơn CC Mùa đông	vat_pham		Cô đơn Công chúa Mùa đông	
+冬之公主禁言	Bịt miệng CC Đông	vat_pham		Bịt miệng Công chúa Mùa đông	
+魔性皇冠	Vương miện ma tính	vat_pham			
+魔性絲襪	Tất lụa ma tính	vat_pham			
+魔性禮服	Lễ phục ma tính	vat_pham			
+魔性項圈	Vòng cổ ma tính	vat_pham			
+魔性內衣	Đồ lót ma tính	vat_pham			
+魔性拉球	Chuỗi hạt ma tính	vat_pham		Chuỗi hạt hậu môn ma tính	
+蜂后（手）	Ong chúa (tay)	vat_pham			
+蜂后（腳）	Ong chúa (chân)	vat_pham			
+蜂后（蜜汁）	Ong chúa (mật)	vat_pham			
+蜂后（頭）	Ong chúa (đầu)	vat_pham			
+蜂后（身體）	Ong chúa (thân)	vat_pham			
+蜂后（尾）	Ong chúa (đuôi)	vat_pham			
+師匠靴子	Ủng Sư phụ	vat_pham			
+師匠肩甲	Giáp vai Sư phụ	vat_pham			
+師匠頭飾	Đồ cài đầu Sư phụ	vat_pham			
+師匠內衣	Đồ lót Sư phụ	vat_pham			
+舞娘面紗	Mạng che mặt vũ nữ	vat_pham			
+舞娘泳裝	Đồ bơi vũ nữ	vat_pham			
+舞娘項圈	Vòng cổ vũ nữ	vat_pham			
+舞娘首飾	Trang sức vũ nữ	vat_pham			
+黑精靈手套	Găng tay Elf đen	vat_pham		Găng tay tinh linh hắc ám	
+黑精靈靴子	Ủng tinh linh hắc ám	vat_pham			
+黑精靈連衣裙	Váy liền Elf đen	vat_pham		Váy liền tinh linh hắc ám	
+黑精靈內衣	Đồ lót Elf đen	vat_pham		Đồ lót tinh linh hắc ám	
+黑精靈頭巾	Khăn đầu Elf đen	vat_pham		Khăn trùm đầu tinh linh hắc ám	
+性奴隸外衣	Áo khoác nô lệ dục	vat_pham		Áo khoác nô lệ tình dục	
+性奴隸手套	Găng tay nô lệ dục	vat_pham		Găng tay nô lệ tình dục	
+性奴隸靴子	Ủng nô lệ tình dục	vat_pham			
+蒂法的外衣	Áo khoác Tifa	vat_pham			
+蒂法的手套	Găng tay Tifa	vat_pham			
+蒂法的靴子	Ủng Tifa	vat_pham			
+貞德的內衣	Đồ lót Jeanne	vat_pham			
+江之島盾子靴子	Ủng Enoshima Junko	vat_pham			
+江之島盾子校服	Đồng phục Junko	vat_pham		Đồng phục Enoshima Junko	
+江之島盾子內衣	Đồ lót Junko	vat_pham		Đồ lót Enoshima Junko	
+江之島盾子項圈	Vòng cổ Junko	vat_pham		Vòng cổ Enoshima Junko	
+江之島盾子皇冠	Vương miện Junko	vat_pham		Vương miện Enoshima Junko	
+狐嫁的項圈	Vòng cổ Hồ ly cưới	vat_pham		Vòng cổ Hồ ly xuất giá	
+貞德的護手	Găng giáp Jeanne	vat_pham			
+貞德的護腿	Giáp chân Jeanne	vat_pham			
+貞德的頭冠	Vương miện Jeanne	vat_pham			
+路西法羽衣	Áo lông vũ Lucifer	vat_pham			
+路西法內衣	Đồ lót Lucifer	vat_pham			
+路西法護手	Găng giáp Lucifer	vat_pham			
+路西法護腿	Giáp chân Lucifer	vat_pham			
+阿斯蒙蒂斯羽衣	Áo lông vũ Asmodeus	vat_pham			
+阿斯蒙蒂斯尾巴	Đuôi Asmodeus	vat_pham			
+阿斯蒙蒂斯護手	Găng giáp Asmodeus	vat_pham			
+阿斯蒙蒂斯護腿	Giáp chân Asmodeus	vat_pham			
+阿斯蒙蒂斯內衣	Đồ lót Asmodeus	vat_pham			
+薩麥爾外衣	Áo khoác Samael	vat_pham			
+薩麥爾內褲	Quần lót Samael	vat_pham			
+薩麥爾護手	Găng giáp Samael	vat_pham			
+薩麥爾護腿	Giáp chân Samael	vat_pham			
+薩麥爾犄角	Sừng Samael	vat_pham			
+瑪門外衣	Áo khoác Mammon	vat_pham			
+瑪門內褲	Quần lót Mammon	vat_pham			
+瑪門護手	Găng giáp Mammon	vat_pham			
+瑪門護腿	Giáp chân Mammon	vat_pham			
+瑪門翅膀	Cánh Mammon	vat_pham			
+利維坦外衣	Áo khoác Leviathan	vat_pham			
+利維坦內褲	Quần lót Leviathan	vat_pham			
+利維坦護手	Găng giáp Leviathan	vat_pham			
+利維坦護腿	Giáp chân Leviathan	vat_pham			
+貝爾芬格襯衣	Áo sơ mi Belphegor	vat_pham			
+貝爾芬格尾巴	Đuôi Belphegor	vat_pham			
+貝爾芬格犄角	Sừng Belphegor	vat_pham			
+貝爾芬格護腿	Giáp chân Belphegor	vat_pham			
+貝爾芬格內衣	Đồ lót Belphegor	vat_pham			
+別西卜女仆裝	Đồ hầu gái Beelzebub	vat_pham			
+別西卜翅膀	Cánh Beelzebub	vat_pham			
+別西卜鎖鏈	Xích Beelzebub	vat_pham			
+別西卜手套	Găng tay Beelzebub	vat_pham			
+別西卜鞋子	Giày Beelzebub	vat_pham			
+別西卜內衣	Đồ lót Beelzebub	vat_pham			
+魔女內衣	Đồ lót phù thủy	vat_pham			
+魔女手套	Găng tay phù thủy	vat_pham			
+魔女護腿	Giáp chân phù thủy	vat_pham			
+魔女飾物	Trang sức phù thủy	vat_pham			
+魔女尾巴	Đuôi phù thủy	vat_pham			
+魔女翅膀	Cánh phù thủy	vat_pham			
+魔女頭冠	Vương miện phù thủy	vat_pham			
+狼神裝束（手）	Đồ Thần Sói (tay)	vat_pham		Trang phục Thần Sói (tay)	
+狼神裝束（腳）	Đồ Thần Sói (chân)	vat_pham		Trang phục Thần Sói (chân)	
+狼神裝束（旗袍）	Đồ Thần Sói (xường)	vat_pham		Trang phục Thần Sói (sườn xám)	
+狼神裝束（皮衣）	Đồ Thần Sói (áo da)	vat_pham		Trang phục Thần Sói (áo da)	
+狼神裝束（尾）	Đồ Thần Sói (đuôi)	vat_pham		Trang phục Thần Sói (đuôi)	
+狼神裝束（腳爪）	Đồ Thần Sói (móng)	vat_pham		Trang phục Thần Sói (móng chân)	
+真.狼神裝束（手）	Đồ Sói thật (tay)	vat_pham		Trang phục Thần Sói thật (tay)	
+真.狼神裝束（腳）	Đồ Sói thật (chân)	vat_pham		Trang phục Thần Sói thật (chân)	
+真.狼神裝束（旗袍）	Đồ Sói thật (xường)	vat_pham		Trang phục Thần Sói thật (sườn xám)	
+真.狼神裝束（皮衣）	Đồ Sói thật (áo da)	vat_pham		Trang phục Thần Sói thật (áo da)	
+真.狼神裝束（尾）	Đồ Sói thật (đuôi)	vat_pham		Trang phục Thần Sói thật (đuôi)	
+米卡外衣	Áo khoác Mika	vat_pham			
+米卡鞋	Giày Mika	vat_pham			
+米卡帽	Mũ Mika	vat_pham			
+米卡泳衣	Đồ bơi Mika	vat_pham			
+總司手套	Găng tay Souji	vat_pham			
+總司靴子	Ủng Souji	vat_pham			
+總司大衣	Áo khoác dài Souji	vat_pham			
+總司布衣	Áo vải Souji	vat_pham			
+總司圍巾	Khăn quàng Souji	vat_pham			
+95式手套	Găng tay Kiểu 95	vat_pham			
+95式靴子	Ủng Kiểu 95	vat_pham			
+95式外衣	Áo khoác Kiểu 95	vat_pham			
+95式內衣	Đồ lót Kiểu 95	vat_pham			
+95式販售內衣	Đồ lót bán Kiểu 95	vat_pham			
+95式頭盔	Mũ giáp Kiểu 95	vat_pham			
+姬子的戰斗服	Đồ chiến đấu Himeko	vat_pham			
+姬子的泳裝	Đồ bơi Himeko	vat_pham			
+姬子的頸環	Vòng cổ Himeko	vat_pham			
+姬子的手環	Vòng tay Himeko	vat_pham			
+姬子的涼鞋	Dép Himeko	vat_pham			
+貓的項圈	Vòng cổ mèo	vat_pham			
+貓的鞋子	Giày mèo	vat_pham			
+貓的內衣	Đồ lót mèo	vat_pham			
+星之繭禮服	Lễ phục Kén Sao	vat_pham			
+星之繭頭飾	Đồ cài đầu Kén Sao	vat_pham			
+星之繭手套	Găng tay Kén Sao	vat_pham			
+星之繭鞋子	Giày Kén Sao	vat_pham			
+星之繭內衣	Đồ lót Kén Sao	vat_pham			
+星之繭首飾	Trang sức Kén Sao	vat_pham			
+星之繭花飾	Hoa cài Kén Sao	vat_pham			
+黑貓內衣	Đồ lót Mèo đen	vat_pham			
+黑貓手套	Găng tay Mèo đen	vat_pham			
+黑貓項圈	Vòng cổ Mèo đen	vat_pham			
+白兔內衣	Đồ lót Thỏ trắng	vat_pham			
+白兔手套	Găng tay Thỏ trắng	vat_pham			
+白兔項圈	Vòng cổ Thỏ trắng	vat_pham			
+CG空間	Không gian CG	dia_danh			
+Patreon	Patreon	dia_danh			
+人魚之家2樓	Nhà Tiên Cá – Tầng 2	dia_danh			
+人魚之家酒館	Quán rượu Nhà Tiên Cá	dia_danh			
+人魚之家	Nhà Tiên Cá	dia_danh			
+修道院	Tu viện	dia_danh			
+倉庫	Nhà kho	dia_danh			
+公會臨時據點	Căn cứ tạm của Hội	dia_danh			
+冒險者公會	Hội Mạo hiểm giả	to_chuc			
+冒險者	mạo hiểm giả	vai			
+冰之神殿	Đền Băng	dia_danh			
+別墅1樓	Biệt thự – Tầng 1	dia_danh			
+別墅2樓	Biệt thự – Tầng 2	dia_danh			
+加隆王城	Hoàng thành Ganon	dia_danh			
+售票處	Quầy bán vé	dia_danh			
+圣都大教堂	Đại giáo đường Thánh đô	dia_danh			
+圣都	Thánh đô	dia_danh	Thánh đô Vila		
+地下室	Tầng hầm	dia_danh			
+城主房間	Phòng thành chủ	dia_danh			
+城堡密室	Mật thất lâu đài	dia_danh			
+城堡陽臺	Ban công lâu đài	dia_danh			
+城市大廳	Đại sảnh thành phố	dia_danh			
+墓地	Nghĩa địa	dia_danh			
+大廳回廊	Hành lang đại sảnh	dia_danh			
+天空回廊	Hành lang trên không	dia_danh			
+失落森林	Rừng Lạc Lối	dia_danh			
+失落森林A區	Rừng Lạc Lối – Khu A	dia_danh			
+失落森林A區深處	Rừng Lạc Lối – Sâu trong khu A	dia_danh			
+失落森林B區	Rừng Lạc Lối – Khu B	dia_danh			
+失落森林B區深處	Rừng Lạc Lối – Sâu trong khu B	dia_danh			
+奈斯特拉墓地	Lăng mộ Nastela	dia_danh			
+奈斯特拉墓地外	Ngoài lăng mộ Nastela	dia_danh			
+女王的記憶空間	Không gian ký ức của Nữ hoàng	dia_danh			
+女生宿舍	Ký túc xá nữ	dia_danh			
+奴隸主的家	Nhà chủ nô	dia_danh			
+奴隸商會	Thương hội Nô lệ	to_chuc			
+奴隸地牢	Ngục nô lệ	dia_danh			
+奴隸斗技場	Đấu trường nô lệ	dia_danh			
+奴隸斗技場2層	Đấu trường nô lệ – Tầng 2	dia_danh			
+奴隸調教室	Phòng huấn luyện nô lệ	dia_danh			
+娼淫的館1樓	Kỹ viện – Tầng 1	dia_danh			
+娼淫的館2樓	Kỹ viện – Tầng 2	dia_danh			
+娼淫的館	Kỹ viện	dia_danh			
+宅邸深處	Sâu trong dinh thự	dia_danh			
+守衛休息室	Phòng nghỉ lính gác	dia_danh			
+衛兵休息室	Phòng nghỉ vệ binh	dia_danh			
+安維爾城	Thành Anvil	dia_danh			
+安維爾	Anvil	dia_danh			
+安維爾港口	Cảng Anvil	dia_danh			
+安維爾空港	Sân bay Anvil	dia_danh			
+安維爾旅館	Nhà trọ Anvil	dia_danh			
+安維爾民房A	Nhà dân Anvil A	dia_danh			
+安維爾民房B	Nhà dân Anvil B	dia_danh			
+安維爾民房C	Nhà dân Anvil C	dia_danh			
+寄生蟲洞一層	Hang Ký sinh trùng – Tầng 1	dia_danh			
+寄生蟲洞二層	Hang Ký sinh trùng – Tầng 2	dia_danh			
+寄生蟲洞三層	Hang Ký sinh trùng – Tầng 3	dia_danh			
+寄生蟲洞狹長通道	Hang Ký sinh trùng – Lối hẹp	dia_danh			
+密室	Mật thất	dia_danh			
+審訊室	Phòng thẩm vấn	dia_danh			
+封印之地	Vùng Phong ấn	dia_danh			
+小屋	Căn chòi	dia_danh			
+小島村	Làng Đảo	dia_danh			
+山中村	Làng trong núi	dia_danh			
+山洞	Hang núi	dia_danh			
+山脈	Dãy núi	dia_danh			
+山脈中部	Lưng chừng núi	dia_danh			
+山脈入口	Lối vào dãy núi	dia_danh			
+山脈深處	Sâu trong núi	dia_danh			
+山腰	Sườn núi	dia_danh			
+山頂	Đỉnh núi	dia_danh			
+帝國遺跡入口	Lối vào Di tích Đế quốc	dia_danh			
+帝國遺跡	Di tích Đế quốc	dia_danh			
+幻境	Ảo cảnh	dia_danh			
+廢棄的井底	Đáy giếng bỏ hoang	dia_danh			
+怪物測試區	Khu thử quái	dia_danh			
+惡狼之森	Rừng Sói Dữ	dia_danh			
+惡狼之森深處	Sâu trong Rừng Sói Dữ	dia_danh			
+愛之屋	Nhà Tình Yêu	dia_danh			
+感謝游戲	Cảm ơn đã chơi	dia_danh			
+托雷斯城	Thành Torres	dia_danh			
+托雷斯	Torres	dia_danh			
+托雷斯城北區	Thành Torres – Khu Bắc	dia_danh			
+托雷斯城南區	Thành Torres – Khu Nam	dia_danh			
+扭曲空間	Không gian méo mó	dia_danh			
+投注點	Điểm cá cược	dia_danh			
+投注點宿舍	Ký túc điểm cá cược	dia_danh			
+教堂	Nhà thờ	dia_danh			
+教堂2樓	Nhà thờ – Tầng 2	dia_danh			
+教室	Lớp học	dia_danh			
+旅館	Nhà trọ	dia_danh			
+春哥美容院	Tiệm làm đẹp Anh Xuân	dia_danh	春哥 = biệt danh chủ tiệm		
+村落	Làng	dia_danh			
+校長室	Phòng hiệu trưởng	dia_danh			
+森林監獄	Nhà tù Rừng	dia_danh			
+武器店	Tiệm vũ khí	dia_danh			
+民房	Nhà dân	dia_danh			
+水神殿入口	Lối vào Đền Nước	dia_danh			
+水之神殿	Đền Nước	dia_danh			
+水脈	Mạch nước ngầm	dia_danh			
+地下水脈	Mạch nước ngầm	dia_danh			
+水脈深處	Sâu trong mạch nước	dia_danh			
+水脈深處（淫魔領域）	Đáy mạch nước (Lãnh địa Dâm ma)	dia_danh			
+沙灘	Bãi cát	dia_danh			
+浴場	Nhà tắm	dia_danh			
+淫魔領域	Lãnh địa Dâm ma	dia_danh			
+火之神殿	Đền Lửa	dia_danh			
+火神殿入口	Lối vào Đền Lửa	dia_danh			
+牧場宿屋	Nhà trọ trang trại	dia_danh			
+物資管理室	Phòng quản lý vật tư	dia_danh			
+特訓室	Phòng huấn luyện đặc biệt	dia_danh			
+狼神殿	Đền Thần Sói	dia_danh			
+獨角獸牧場	Trang trại Kỳ lân	dia_danh			
+王座	Ngai vàng	dia_danh			
+男生宿舍	Ký túc xá nam	dia_danh			
+監獄	Nhà tù	dia_danh			
+監獄礦洞	Mỏ của nhà tù	dia_danh			
+監禁室	Phòng giam	dia_danh			
+看守所	Trại tạm giam	dia_danh			
+眾籌服裝店	Tiệm đồ Gây quỹ	dia_danh	tiệm đồ của người ủng hộ (crowdfunding)		
+破屋	Nhà hoang	dia_danh			
+神樹圣地	Thánh địa Cây Thần	dia_danh			
+神隱神殿	Đền Thần Ẩn	dia_danh			
+祭壇	Tế đàn	dia_danh			
+私人醫院	Bệnh viện tư	dia_danh			
+秘密的競賽場	Trường đua bí mật	dia_danh			
+租用房	Nhà thuê	dia_danh			
+競賽場	Trường đua	dia_danh			
+簡易帳篷	Lều tạm	dia_danh			
+精神世界	Thế giới tinh thần	dia_danh			
+索菲亞的房間	Phòng của Sofia	dia_danh			
+索菲亞	Sofia	nhan_vat	vợ/người thương của vua Ganon (tử linh)		
+經理室	Phòng quản lý	dia_danh			
+維拉港	Cảng Vila	dia_danh			
+維拉	Vila	dia_danh	Thánh đô Vila		
+維斯特蘭	Westland	dia_danh	EN ghi Wasteland		
+舊城區	Khu phố cổ	dia_danh			
+舊城區民房A	Nhà dân phố cổ A	dia_danh			
+舊城區民房B	Nhà dân phố cổ B	dia_danh			
+艷舞酒館	Quán rượu thoát y	dia_danh			
+衛生間	Nhà vệ sinh	dia_danh			
+豪宅1樓	Dinh thự – Tầng 1	dia_danh			
+豪宅2樓	Dinh thự – Tầng 2	dia_danh			
+港口豪宅	Dinh thự ở cảng	dia_danh			
+途經小徑	Con đường mòn	dia_danh			
+運輸船	Tàu vận tải	dia_danh			
+運輸船艙	Khoang tàu vận tải	dia_danh			
+運輸船貨倉	Hầm hàng tàu vận tải	dia_danh	tên map có dấu cách thừa		
+運輸船底部	Đáy tàu vận tải	dia_danh			
+道具店	Tiệm đạo cụ	dia_danh			
+遺跡	Di tích	dia_danh			
+長官室	Phòng trưởng quan	dia_danh			
+隱蔽神殿	Đền Ẩn	dia_danh			
+隱蔽豪宅	Dinh thự ẩn	dia_danh			
+隱蔽的山洞	Hang núi ẩn	dia_danh			
+雇傭兵倉庫	Kho lính đánh thuê	dia_danh			
+雇傭兵營	Doanh trại lính đánh thuê	dia_danh			
+傭兵公會	Hội Lính đánh thuê	to_chuc			
+傭兵團	Đoàn lính đánh thuê	to_chuc			
+雜物室	Phòng chứa đồ	dia_danh			
+風險投資公司	Công ty Đầu tư Mạo hiểm	to_chuc			
+飼養區	Khu chăn nuôi	dia_danh			
+餐廳&保健室	Nhà ăn & Phòng y tế	dia_danh			
+騎手之家	Nhà Kỵ thủ	dia_danh			
+魔境	Ma cảnh	dia_danh			
+魔法學院	Học viện Ma pháp	to_chuc			
+魔法學院1層	Học viện Ma pháp – Tầng 1	dia_danh			
+魔法學院2層	Học viện Ma pháp – Tầng 2	dia_danh			
+魔法學院3層	Học viện Ma pháp – Tầng 3	dia_danh			
+定制店	Tiệm đặt may	dia_danh			
+奴隸主	chủ nô	vai			
+神牛山	Núi Thần Ngưu	dia_danh			
+阿萊西亞帝國	Đế quốc Alesia	dia_danh			
+帝國	Đế quốc	to_chuc			
+匕首	Dao găm	chi_so			
+劍	Kiếm	chi_so			
+斧	Rìu	chi_so			
+鞭	Roi	chi_so			
+杖	Trượng	chi_so			
+弓	Cung	chi_so			
+弩	Nỏ	chi_so			
+槍	Thương	chi_so			
+爪	Vuốt	chi_so			
+手套	Găng tay	chi_so			
+矛	Giáo	chi_so			
+火	Lửa	nguyen_to			
+冰	Băng	nguyen_to			
+水	Nước	nguyen_to			
+土	Đất	nguyen_to			
+風	Gió	nguyen_to			
+光	Ánh sáng	nguyen_to			
+魔法	Ma pháp	chi_so			
+戰斗	Chiến đấu	chi_so			
+道具	Vật phẩm	chi_so			
+技能	Kỹ năng	chi_so			
+裝備	Trang bị	chi_so			
+狀態	Trạng thái	chi_so			
+隊形	Đội hình	chi_so			
+保存	Lưu	chi_so			
+游戲結束	Thoát game	chi_so			
+選項	Tùy chọn	chi_so			
+武器	Vũ khí	chi_so			
+盔甲	Giáp	chi_so			
+關鍵道具	Vật phẩm chính	chi_so			
+優化	Tối ưu	chi_so			
+清除	Bỏ hết	chi_so			
+新建游戲	Chơi mới	chi_so			
+繼續	Tiếp tục	chi_so			
+回到標題	Màn hình chính	chi_so			
+取消	Hủy	chi_so			
+購買	Mua	chi_so			
+出售	Bán	chi_so			
+調教	huấn luyện	khai_niem	huấn luyện tình dục/nô lệ (動詞: huấn luyện, dạy dỗ); 訓練 = tập luyện	điều giáo	
+訓練	tập luyện	khai_niem			
+精液	tinh dịch	khai_niem	lời thô: tinh, khí		
+肉棒	cặc	khai_niem	xem bảng 18+ trong sotay.md		
+大肉棒	cặc bự	khai_niem			
+高潮	lên đỉnh	khai_niem			
+小穴	bướm	khai_niem	giọng Lilina nũng; lời thô dùng lồn		
+淫穴	lồn dâm	khai_niem			
+騷穴	lồn dâm đãng	khai_niem			
+子宮	tử cung	khai_niem			
+做愛	làm tình	khai_niem			
+侍奉	hầu hạ	khai_niem	phục vụ tình dục/hầu hạ chủ		
+母狗	chó cái	khai_niem			
+性奴	nô lệ tình dục	khai_niem			
+強奸	cưỡng hiếp	khai_niem			
+淫亂	dâm đãng	khai_niem			
+快感	khoái cảm	khai_niem			
+便器	bồn cầu	khai_niem			
+催眠	thôi miên	khai_niem			
+催眠術	thuật thôi miên	khai_niem			
+暗示	ám thị	khai_niem	ám thị thôi miên		
+靈魂	linh hồn	khai_niem			
+幽靈	hồn ma	khai_niem			
+公主	công chúa	khai_niem			
+人類	con người	khai_niem			
+魔力	ma lực	khai_niem			
+魔王	Ma Vương	khai_niem			
+天使	thiên thần	khai_niem			
+封印	phong ấn	khai_niem			
+解藥	thuốc giải	khai_niem			
+肉體	thân xác	khai_niem			
+玩具	đồ chơi	khai_niem			
+本王	ta	cum_co_dinh	John tự xưng; không dùng "bổn vương"	bổn vương	
+老夫	lão	cum_co_dinh	Sax tự xưng	lão phu	
+老子	tao/ông đây	cum_co_dinh	kẻ thô tự xưng	lão tử	
+性福	sướng	cum_co_dinh	chơi chữ 幸福→性福 (hạnh phúc → sướng vì tình dục): dùng "sướng" hoặc "hạnh phúc… sướng"		
+村民1	Dân làng 1	vai			
+村民2	Dân làng 2	vai			
+\N[53]A	\N[53] A	vai	\N[53] = Lính gác		
+\N[53]B	\N[53] B	vai			
+\N[53]C	\N[53] C	vai			
+\N[1]的蟲王	Vua Sâu của \N[1]	vai			
+\N[23]姬	\N[23] (công chúa)	vai	\N[23] = Aisha		
+\N[48]\C[0]，\C[3]\N[49]	\N[48]\C[0], \C[3]\N[49]	vai	Ram, Rem		
+\N[48]\C[0]、\C[3]\N[49]	\N[48]\C[0], \C[3]\N[49]	vai			
+\蛇女A	Xà nữ A	vai	gốc thừa dấu \		
+\蛇女B	Xà nữ B	vai			
+\蛇女C	Xà nữ C	vai			
+\僵尸	Xác sống	vai			
+風之劍圣（蜂之劍圣）	Kiếm sĩ Ong	ten	nickname Lucia	Kiếm thánh Gió (Kiếm thánh Ong)	
+托雷斯城堡1層	Lâu đài Torres – Tầng 1	dia_danh			
+托雷斯城堡2層	Lâu đài Torres – Tầng 2	dia_danh			
+托雷斯城堡3層	Lâu đài Torres – Tầng 3	dia_danh			
+托雷斯城堡	Lâu đài Torres	dia_danh			
+測試移動	Thử di chuyển	dia_danh			
+成為冒險者	Trở thành mạo hiểm giả	nhiem_vu			
+尋找寶物	Tìm bảo vật	nhiem_vu			
+解開詛咒	Giải lời nguyền	nhiem_vu			
+掉落蟲洞	Rơi xuống hang sâu	nhiem_vu			
+刑滿釋放	Mãn hạn tù	nhiem_vu			
+逃獄	Vượt ngục	nhiem_vu			
+屁眼交易	Giao dịch lỗ đít	nhiem_vu			
+監獄肉便器	Bồn cầu thịt nhà tù	nhiem_vu			
+獄霸口便器	Bồn cầu miệng đại ca tù	nhiem_vu		Bồn cầu miệng của đại ca tù	
+幫助新人	Giúp lính mới	nhiem_vu			
+被通緝的公會	Hội bị truy nã	nhiem_vu			
+收集物資	Thu thập vật tư	nhiem_vu		Thu gom vật tư	
+性奴雇傭兵	Lính thuê nô lệ dục	nhiem_vu		Lính đánh thuê nô lệ tình dục	
+城主性奴	Nô lệ tình dục thành chủ	nhiem_vu		Nô lệ tình dục của thành chủ;Nô lệ dục của thành chủ	
+豪宅女仆	Hầu gái dinh thự	nhiem_vu			
+誘拐奴隸1	Dụ bắt nô lệ 1	nhiem_vu			
+誘拐奴隸2	Dụ bắt nô lệ 2	nhiem_vu			
+逃離地下水脈	Thoát mạch nước ngầm	nhiem_vu			
+戰斗吧	Chiến đấu thôi	nhiem_vu			
+重返地下水脈	Trở lại mạch nước ngầm	nhiem_vu			
+被誘惑的少女	Thiếu nữ bị dụ dỗ	nhiem_vu			
+反抗	Phản kháng	nhiem_vu			
+成為騎手贖身	Làm kỵ thủ chuộc thân	nhiem_vu			
+買下獨角獸	Mua kỳ lân	nhiem_vu			
+獨角獸比賽	Cuộc đua kỳ lân	nhiem_vu			
+逃離	Bỏ trốn	nhiem_vu			
+獲得力量	Có được sức mạnh	nhiem_vu			
+催眠事件	Vụ án thôi miên	nhiem_vu			
+交往	Hẹn hò	nhiem_vu			
+控制	Khống chế	nhiem_vu			
+蹺課	Trốn học	nhiem_vu			
+廁所肉便器	Bồn cầu thịt nhà vệ sinh	nhiem_vu			
+遺跡線	Di tích	khai_niem	nhóm nhiệm vụ		
+監獄線	Nhà tù	khai_niem			
+催眠線	Thôi miên	khai_niem			
+地下水脈線	Mạch nước	khai_niem			
+寄生蟲線	Ký sinh	khai_niem			
+圣獸線	Thánh thú	khai_niem			
+公會線	Hội	khai_niem			
+奴隸線	Nô lệ	khai_niem			
+魔蟲線	Ma trùng	khai_niem			
+其它	Khác	khai_niem			
+被詛咒了	Bị nguyền rồi	cum_co_dinh			
+真正的苗床	ổ ấp thật sự	khai_niem			
+異種苗床	ổ ấp dị chủng	khai_niem			
+淫魔之力	sức mạnh dâm ma	khai_niem			
+魔眼大人	ngài Ma Nhãn	cum_co_dinh	cách gọi Beryl		
+貞潔圣女	Thánh nữ Trinh khiết	khai_niem			
+大地之母	Mẹ Đại địa	khai_niem			
+獵豹	Báo săn	ten			
+女主人	nữ chủ nhân	vai			
+奴隸女王	Nữ hoàng Nô lệ	khai_niem			
+真結局	Kết thúc thật	khai_niem	True End		
+學院線	Tuyến Học viện	khai_niem			
+公會經驗值	Kinh nghiệm Hội	chi_so			
+記憶空間	Không gian ký ức	khai_niem			
+時空扭曲	Bóp méo thời không	khai_niem			
+CG一覽	Xem CG	khai_niem			
+扭曲	bóp méo	khai_niem			
+英雄	anh hùng	khai_niem			
+騷貨	đồ lẳng lơ	khai_niem			
+汪汪	gâu gâu	cum_co_dinh			
+特訓	huấn luyện đặc biệt	khai_niem			
+忠誠	trung thành	khai_niem			
+接客	tiếp khách	khai_niem	tiếp khách làng chơi		
+野外露出	phô thân ngoài trời	khai_niem			
+永久烙印	dấu ấn vĩnh viễn	khai_niem			
+家畜	gia súc	khai_niem			
+會員	hội viên	khai_niem	hội viên Hội Mạo hiểm giả		
+百合	bách hợp	khai_niem	quan hệ nữ – nữ		
+按鍵	phím	chi_so			
+飲尿	uống nước tiểu	khai_niem			
+\C[6]%1\C[0] 的隊伍	Đội của \C[6]%1\C[0]	chi_so	System partyName		
+繁體中文	Tiếng Việt	chi_so	nhãn ngôn ngữ mặc định đổi thành Tiếng Việt (xem HANDOFF)		
+\N[50]	\N[50]	vai	dòng tên là mã tên Actor, giữ nguyên mã		
+\N[1]	\N[1]	vai	dòng tên là mã tên Actor, giữ nguyên mã		
+\N[2]	\N[2]	vai	dòng tên là mã tên Actor, giữ nguyên mã		
+\N[4]	\N[4]	vai	dòng tên là mã tên Actor, giữ nguyên mã		
+\N[56]	\N[56]	vai	dòng tên là mã tên Actor, giữ nguyên mã		
+\N[53]	\N[53]	vai	dòng tên là mã tên Actor, giữ nguyên mã		
+\N[3]	\N[3]	vai	dòng tên là mã tên Actor, giữ nguyên mã		
+\N[12]	\N[12]	vai	dòng tên là mã tên Actor, giữ nguyên mã		
+\N[69]	\N[69]	vai	dòng tên là mã tên Actor, giữ nguyên mã		
+\N[8]	\N[8]	vai	dòng tên là mã tên Actor, giữ nguyên mã		
+\N[5]	\N[5]	vai	dòng tên là mã tên Actor, giữ nguyên mã		
+\N[6]	\N[6]	vai	dòng tên là mã tên Actor, giữ nguyên mã		
+\N[9]	\N[9]	vai	dòng tên là mã tên Actor, giữ nguyên mã		
+\N[10]	\N[10]	vai	dòng tên là mã tên Actor, giữ nguyên mã		
+\N[7]	\N[7]	vai	dòng tên là mã tên Actor, giữ nguyên mã		
+\N[23]	\N[23]	vai	dòng tên là mã tên Actor, giữ nguyên mã		
+\N[13]	\N[13]	vai	dòng tên là mã tên Actor, giữ nguyên mã		
+\N[36]	\N[36]	vai	dòng tên là mã tên Actor, giữ nguyên mã		
+\N[37]	\N[37]	vai	dòng tên là mã tên Actor, giữ nguyên mã		
+\N[38]	\N[38]	vai	dòng tên là mã tên Actor, giữ nguyên mã		
+\N[17]	\N[17]	vai	dòng tên là mã tên Actor, giữ nguyên mã		
+\N[47]	\N[47]	vai	dòng tên là mã tên Actor, giữ nguyên mã		
+\N[48]	\N[48]	vai	dòng tên là mã tên Actor, giữ nguyên mã		
+\N[49]	\N[49]	vai	dòng tên là mã tên Actor, giữ nguyên mã		
+\N[43]	\N[43]	vai	dòng tên là mã tên Actor, giữ nguyên mã		
+\N[44]	\N[44]	vai	dòng tên là mã tên Actor, giữ nguyên mã		
+\N[46]	\N[46]	vai	dòng tên là mã tên Actor, giữ nguyên mã		
+\N[45]	\N[45]	vai	dòng tên là mã tên Actor, giữ nguyên mã		
+\N[70]	\N[70]	vai	dòng tên là mã tên Actor, giữ nguyên mã		
+\N[22]	\N[22]	vai	dòng tên là mã tên Actor, giữ nguyên mã		
+\N[21]	\N[21]	vai	dòng tên là mã tên Actor, giữ nguyên mã		
+\N[20]	\N[20]	vai	dòng tên là mã tên Actor, giữ nguyên mã		
+\N[51]	\N[51]	vai	dòng tên là mã tên Actor, giữ nguyên mã		
+\N[54]	\N[54]	vai	dòng tên là mã tên Actor, giữ nguyên mã		
+\N[40]	\N[40]	vai	dòng tên là mã tên Actor, giữ nguyên mã		
+\N[55]	\N[55]	vai	dòng tên là mã tên Actor, giữ nguyên mã		
+\N[41]	\N[41]	vai	dòng tên là mã tên Actor, giữ nguyên mã		
+\N[65]	\N[65]	vai	dòng tên là mã tên Actor, giữ nguyên mã		
+\N[66]	\N[66]	vai	dòng tên là mã tên Actor, giữ nguyên mã		
+\N[68]	\N[68]	vai	dòng tên là mã tên Actor, giữ nguyên mã		
+\N[67]	\N[67]	vai	dòng tên là mã tên Actor, giữ nguyên mã		
+\N[11]	\N[11]	vai	dòng tên là mã tên Actor, giữ nguyên mã		
+\N[28]	\N[28]	vai	dòng tên là mã tên Actor, giữ nguyên mã		
+\N[52]	\N[52]	vai	dòng tên là mã tên Actor, giữ nguyên mã		
+\N[29]	\N[29]	vai	dòng tên là mã tên Actor, giữ nguyên mã		
+\N[31]	\N[31]	vai	dòng tên là mã tên Actor, giữ nguyên mã		
+\N[32]	\N[32]	vai	dòng tên là mã tên Actor, giữ nguyên mã		
+\N[25]	\N[25]	vai	dòng tên là mã tên Actor, giữ nguyên mã		
+\N[33]	\N[33]	vai	dòng tên là mã tên Actor, giữ nguyên mã		
+\N[30]	\N[30]	vai	dòng tên là mã tên Actor, giữ nguyên mã		
+\N[34]	\N[34]	vai	dòng tên là mã tên Actor, giữ nguyên mã		
+\N[26]	\N[26]	vai	dòng tên là mã tên Actor, giữ nguyên mã		
+\N[27]	\N[27]	vai	dòng tên là mã tên Actor, giữ nguyên mã		
+\N[14]	\N[14]	vai	dòng tên là mã tên Actor, giữ nguyên mã		
+\N[15]	\N[15]	vai	dòng tên là mã tên Actor, giữ nguyên mã		
+\N[16]	\N[16]	vai	dòng tên là mã tên Actor, giữ nguyên mã		
+\N[19]	\N[19]	vai	dòng tên là mã tên Actor, giữ nguyên mã		
+\N[18]	\N[18]	vai	dòng tên là mã tên Actor, giữ nguyên mã		
+祇堂鞠也	Gido Mariya	nhan_vat	tên người Nhật, giữ âm Latin hóa (xuất hiện ở Armors.json, ×10)		
+亞巴頓王蟲	vương trùng Abaddon	khai_niem	xem 王蟲	Vua Sâu Abaddon	
+秘寶	báu vật	khai_niem	báu vật cất giấu (của Nastela, của hoàng thất)	bí bảo	
+金幣	tiền vàng	khai_niem	tiền tệ trong game (cổng nộp phí, \G)		
+失落的森林	Rừng Lạc Lối	dia_danh	khu rừng nhiệm vụ gần Anvil	Rừng Thất Lạc	
+宿體	vật chủ	khai_niem	người mang trang bị dâm ma/Ma Nhãn		
+魔神根	dương vật ma thần	khai_niem	cặc thần lực của ma thần Abaddon (Melissa cấy cho \N[14])	cặc ma thần	
+亞巴克萊特	Abakleit	nhan_vat	ma thần, tổ tiên ma trùng Abaddon		
+朧	Oboro	nhan_vat	tên "朧大人" trong lời \N[23]姬 (Map156)		
+食人魔	quỷ khổng lồ	quai	ogre; Map070-073 tên quỷ khổng lồ tốt bụng cứu tinh linh lửa		
+Hentai咸豬手	Hentai Bàn Tay Sàm Sỡ	ky_nang	chiêu của ZERO (咸豬手 = bàn tay sàm sỡ)		
+Hentai真理探究	Hentai Truy Tìm Chân Lý	ky_nang	chiêu của ZERO		
+珍珠棒	gậy ngọc trai	khai_niem	biệt danh dương vật có gắn ngọc trai của ZERO		
+魔動木馬	Ngựa gỗ ma động	vat_pham	đồ hành hạ trong nhà Mhairi		
+淫具	dâm cụ	khai_niem	đồ chơi tình dục (xem 魔淫具 = dâm cụ ma thuật)		
+女王的傳送	Dịch chuyển của Nữ hoàng	ky_nang	kỹ năng Cecelia cần 600 điểm dâm năng để phát động		
+漆黑之翼	Cánh Đen Tuyền	khai_niem	tên Eros gọi Hiller (Dâm Ma Tướng) / Hiller thời còn là con người		
+淫魔具	dâm ma cụ	khai_niem	vật dụng ma của dâm ma (Giáp Nguyền rủa, Ma Nhãn…)		
+口技	kỹ thuật miệng	khai_niem	kỹ năng bú mút (thoại 18+); 口活 cùng nghĩa	khẩu kỹ	
+口活	kỹ thuật miệng	khai_niem	như 口技	khẩu kỹ	
+催淫	kích dục	khai_niem	làm cho nứng/động dục (bằng ma lực, thuốc, lời nguyền)	kích dâm	
+梅麗婭	Merliah	nhan_vat	tên kiểu tóc ở CE55; EN Merliah; khác Melissa (梅麗莎) và Mhairi (梅莉)		
+狂亂姬騎士	Nữ kỵ sĩ Cuồng loạn	khai_niem	dạng biến hình/kiểu ngoại hình; tên đồ dùng bản rút gọn 'Nữ kỵ Cuồng'	công chúa điên loạn;Nữ kỵ sĩ công chúa	
+狂亂的姬騎士	Nữ kỵ sĩ Cuồng loạn	khai_niem	như 狂亂姬騎士		
+叛亂姬騎士	Nữ kỵ sĩ Nổi loạn	khai_niem	dạng biến hình/kiểu ngoại hình; EN Annelotte Rebel; tên đồ dùng bản rút gọn 'Nữ kỵ Loạn'	công chúa phản loạn;Nữ kỵ sĩ công chúa	
+叛亂的姬騎士	Nữ kỵ sĩ Nổi loạn	khai_niem	như 叛亂姬騎士		
+王蟲	vương trùng	khai_niem	vua của tộc trùng Abaddon (亞巴頓王蟲), khác 蟲王 = Vua Sâu (con sâu của Lilina); không dịch Vua Sâu	Trùng vương	
+寄生王蟲	vương trùng ký sinh	khai_niem	vương trùng Abaddon ký sinh trên người Lilina (lớp ảnh nhân vật ở CE70)	Trùng vương ký sinh	
+莉艾麗	Lieri	ten	EN Lieri	Lilie	
+詛咒度	Độ nguyền rủa	chi_so	chỉ số v[19]; trong câu viết thường 'độ nguyền rủa'	Lời nguyền từ	
+陰部	âm hộ	tu_18	lời kể/hệ thống: âm hộ hoặc hạ bộ; không nói giảm	chỗ kín	
+愛液	dâm dịch	tu_18	không 'nước dâm' (dành cho 淫水), không ái dịch/dịch ái	ái dịch;dịch ái;dịch yêu	
+淫水	nước dâm	tu_18		dâm thủy	
+兔女	Thỏ nữ	vai	兔女郎 riêng là Bunny girl		
+帝國王城	hoàng thành Đế quốc	dia_danh	kinh đô Đế quốc; 加隆王城 là Hoàng thành Ganon	vương thành	

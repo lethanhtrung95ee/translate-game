@@ -1,0 +1,463 @@
+speaker	listener	tu_canh	xung	goi	note
+莉莉娜	*		tôi	anh/chị/ông/bà/cô (theo tuổi, giới người nghe)	mặc định với người lạ, NPC, khách; nghĩ thầm một mình trong ( ) thì xưng mình; nói thầm trong đầu với Cecelia vẫn tôi – cô; với kẻ thù hống hách: tôi – các người/ngươi khi giận. Riêng với dâm ma (淫魔, 淫魔守衛) và Habi khi làm chủ: ta – ngươi (có dòng cặp riêng) → câu nói với chúng phải ghi ' >淫魔' / ' >狼神' khi cảnh có từ 3 người nói
+莉莉娜	神父		con	Cha	Hiller nuôi cô từ cô nhi viện, như cha ruột; 神父大人 → thưa Cha
+莉莉娜	神父	Map100.json:e26.p0.125	tôi/con	ông/Cha	sau khi lộ ở tế đàn: đau đớn, lúc đối đầu xưng tôi – ông, lúc mềm lòng vẫn con – Cha
+莉莉娜	西玫莉婭		em	chị	Semalya lớn hơn vài tuổi, như chị ruột; 姐姐 → chị
+莉莉娜	魅魔		tôi	cô	linh hồn trong giáp: lúc đầu cảnh giác, bực; thân dần thì gọi tên Cecelia; ngang hàng, không kính
+莉莉娜	龍吟		tôi	anh/đại sư	đại sư thôi miên giúp cô, lịch sự; 大師 → đại sư
+莉莉娜	龍吟	Map014.json:e6.p3.137	em	anh	người yêu từ lúc nhận lời hẹn hò; 親愛的 → anh yêu
+莉莉娜	歐文		tôi	anh/Hội trưởng	hội trưởng, cấp trên trong Hội; 會長 → Hội trưởng
+莉莉娜	柯斯皮洛		tôi	cậu	tân binh, Lilina là đàn chị trong Hội
+莉莉娜	柯斯皮洛	Map133.json:e23.p0.309	tôi	ngươi	kẻ phản bội, căm ghét
+莉莉娜	羅斯		em	thầy	giáo viên/nhân viên học viện, Lilina là học viên
+莉莉娜	比加斯		em	thầy	giáo viên/nhân viên học viện, Lilina là học viên
+莉莉娜	教務		em	thầy	giáo viên/nhân viên học viện, Lilina là học viên
+莉莉娜	學者		tôi	ông	học giả nghiên cứu slime ở Map017: người lạ đi cùng nhiệm vụ (không phải giáo viên)
+莉莉娜	老師		em	thầy/cô	giáo viên học viện (giới theo cảnh)
+莉莉娜	學生		mình	cậu	ngang hàng cùng lứa: chủ yếu gọi tên; cần đại từ thì mình – cậu
+莉莉娜	羅斯特		mình	cậu	ngang hàng cùng lứa: chủ yếu gọi tên; cần đại từ thì mình – cậu
+莉莉娜	夏洛		mình	cậu	ngang hàng cùng lứa: chủ yếu gọi tên; cần đại từ thì mình – cậu
+莉莉娜	蘭特		mình	cậu	ngang hàng cùng lứa: chủ yếu gọi tên; cần đại từ thì mình – cậu
+莉莉娜	杰克		mình	cậu	ngang hàng cùng lứa: chủ yếu gọi tên; cần đại từ thì mình – cậu
+莉莉娜	溫蒂		mình	cậu	ngang hàng cùng lứa: chủ yếu gọi tên; cần đại từ thì mình – cậu
+莉莉娜	安娜		mình	cậu	ngang hàng cùng lứa: chủ yếu gọi tên; cần đại từ thì mình – cậu
+莉莉娜	米勒		mình	cậu	ngang hàng cùng lứa: chủ yếu gọi tên; cần đại từ thì mình – cậu
+莉莉娜	哈特		mình	cậu	ngang hàng cùng lứa: chủ yếu gọi tên; cần đại từ thì mình – cậu
+莉莉娜	學生1		mình	cậu	ngang hàng cùng lứa: chủ yếu gọi tên; cần đại từ thì mình – cậu
+莉莉娜	學生2		mình	cậu	ngang hàng cùng lứa: chủ yếu gọi tên; cần đại từ thì mình – cậu
+莉莉娜	學生3		mình	cậu	ngang hàng cùng lứa: chủ yếu gọi tên; cần đại từ thì mình – cậu
+莉莉娜	學生4		mình	cậu	ngang hàng cùng lứa: chủ yếu gọi tên; cần đại từ thì mình – cậu
+莉莉娜	學生5		mình	cậu	ngang hàng cùng lứa: chủ yếu gọi tên; cần đại từ thì mình – cậu
+莉莉娜	白雪		mình	cậu	ngang hàng cùng lứa: chủ yếu gọi tên; cần đại từ thì mình – cậu
+莉莉娜	露娜		mình	cậu	ngang hàng cùng lứa: chủ yếu gọi tên; cần đại từ thì mình – cậu
+莉莉娜	妮爾		mình	cậu	ngang hàng cùng lứa: chủ yếu gọi tên; cần đại từ thì mình – cậu
+莉莉娜	莉蒂絲		mình	cậu	ngang hàng cùng lứa: chủ yếu gọi tên; cần đại từ thì mình – cậu
+莉莉娜	艾莎		em	chị	đàn chị mạo hiểm giả
+莉莉娜	克蘿莉亞		tôi	cô	nô lệ đàn chị; khi Gloria đóng vai chủ (主人) thì gọi chủ nhân
+莉莉娜	特蘿西		tôi	cô	nô lệ khác
+莉莉娜	珊嘉		tôi	công chúa/cô	công chúa thứ ba; trước mặt người khác gọi công chúa
+莉莉娜	瓊恩		tôi	ngài/chủ nhân	thành chủ; khi làm nô lệ gọi chủ nhân
+莉莉娜	主人		tôi	chủ nhân	chủ nô; nô lệ tự xưng theo gốc (gốc tự gọi tên mình thì theo)
+莉莉娜	梅莉		tôi	chị/chủ nhân	cựu cai ngục bạo dâm; khi bị làm nô thì chủ nhân
+莉莉娜	達倫		tôi	ông/ngài cai ngục	cai ngục; tù nhân với cai ngục
+莉莉娜	傭兵		tôi	anh/các anh/các người	thô thì gọi các người; nũng trong cảnh 18+ theo gốc (哥哥 → anh)
+莉莉娜	守衛		tôi	anh/các anh/các người	thô thì gọi các người; nũng trong cảnh 18+ theo gốc (哥哥 → anh)
+莉莉娜	村民		tôi	anh/các anh/các người	thô thì gọi các người; nũng trong cảnh 18+ theo gốc (哥哥 → anh)
+莉莉娜	冒險者		tôi	anh/các anh/các người	thô thì gọi các người; nũng trong cảnh 18+ theo gốc (哥哥 → anh)
+莉莉娜	水手		tôi	anh/các anh/các người	thô thì gọi các người; nũng trong cảnh 18+ theo gốc (哥哥 → anh)
+莉莉娜	囚犯		tôi	anh/các anh/các người	thô thì gọi các người; nũng trong cảnh 18+ theo gốc (哥哥 → anh)
+莉莉娜	比爾		tôi	anh/các anh/các người	thô thì gọi các người; nũng trong cảnh 18+ theo gốc (哥哥 → anh)
+莉莉娜	獄霸		tôi	anh/các anh/các người	thô thì gọi các người; nũng trong cảnh 18+ theo gốc (哥哥 → anh)
+莉莉娜	波特		tôi	ông/ngài	tù nhân với quản lý nông trại tù; nũng trong cảnh 18+ theo gốc (哥哥 → anh)
+莉莉娜	強盜		tôi	anh/các anh/các người	thô thì gọi các người; nũng trong cảnh 18+ theo gốc (哥哥 → anh)
+莉莉娜	山賊		tôi	anh/các anh/các người	thô thì gọi các người; nũng trong cảnh 18+ theo gốc (哥哥 → anh)
+莉莉娜	打手		tôi	anh/các anh/các người	thô thì gọi các người; nũng trong cảnh 18+ theo gốc (哥哥 → anh)
+莉莉娜	男人A		tôi	anh/các anh/các người	thô thì gọi các người; nũng trong cảnh 18+ theo gốc (哥哥 → anh)
+莉莉娜	男人B		tôi	anh/các anh/các người	thô thì gọi các người; nũng trong cảnh 18+ theo gốc (哥哥 → anh)
+莉莉娜	村民1		tôi	anh/các anh/các người	thô thì gọi các người; nũng trong cảnh 18+ theo gốc (哥哥 → anh)
+莉莉娜	村民2		tôi	anh/các anh/các người	thô thì gọi các người; nũng trong cảnh 18+ theo gốc (哥哥 → anh)
+莉莉娜	費奇		tôi	ông	chủ nợ, quản lý trường đua
+莉莉娜	馬特		tôi	anh/huấn luyện viên	huấn luyện viên
+莉莉娜	薩克斯		tôi	ông/ngài/chủ nhân	lão chủ dinh thự; \N[21]大人 → ngài \N[21]; khi đã làm nô (Map085, Map010) 主人 → chủ nhân, tự xưng theo gốc: \N[59] giữ mã, 小母狗 → chó cái nhỏ, 奴 → nô
+莉莉娜	雪莉		tôi	chị	hầu gái trưởng \N[22]; \N[22]姐 → chị \N[22]
+莉莉娜	戴爾		cháu	bác	ông bố lớn tuổi nhờ dạy kèm con trai Sayce; 老伯伯 → bác; khi gốc trịnh trọng có thể tôi – bác
+莉莉娜	塞斯		cô	em	Lilina là cô giáo dạy kèm
+莉莉娜	尤德		tôi	anh	người liên lạc
+莉莉娜	洛基		tôi	ngài/trưởng quan	trưởng quan
+莉莉娜	貝莉卡		tôi	cô	kẻ thôi miên đối địch
+莉莉娜	加隆		tôi	ông/ngài	vua tử linh
+莉莉娜	羅伯特		cháu	ông	lão tù tốt bụng
+莉莉娜	狼神		tôi	cô	thần đối địch; khi Lilina làm chủ thì xưng chủ nhân/ta, gọi Habi
+莉莉娜	梅麗莎		tôi	cô	phù thủy đen, ngang hàng
+莉莉娜	女店員		tôi	cô/em	nhân viên tiệm
+莉莉娜	醫生		tôi	bác sĩ	
+莉莉娜	詹姆士		tôi	anh	khách quen quán
+莉莉娜	浴場老板		tôi	ông chủ	
+莉莉娜	老板		tôi	ông chủ	
+莉莉娜	少女		chị	em	thiếu nữ trẻ hơn, gọi Lilina là chị
+莉莉娜	賣花少女		chị	em	cô gái bán hoa gọi Lilina là chị
+莉莉娜	調教師		tôi	ông	người huấn luyện nô lệ
+莉莉娜	莉麗絲		tôi	cô	nhân viên Nhà Tình Yêu
+莉莉娜	Hentai英雄ZERO		tôi	anh/tên biến thái	
+莉莉娜	水精靈		tôi	ngươi/cô	tinh linh giữ thánh vật, đối địch
+莉莉娜	火精靈		tôi	ngươi/cô	tinh linh giữ thánh vật, đối địch
+莉莉娜	淫魔守衛		ta	ngươi	Lilina là Nữ hoàng của nó, ra lệnh
+莉莉娜	淫魔		ta	ngươi	dâm ma dưới nước
+神父	莉莉娜		Cha	con	nuôi Lilina như con
+神父	西玫莉婭		Cha	con	Semalya là nữ tu dưới quyền, được ông cứu
+神父	魅魔		ta	ngươi	đối địch với linh hồn trong giáp (từ tế đàn)
+神父	*		tôi/Cha	anh chị/con	với giáo dân: xưng Cha, gọi con; với người lạ tôi – anh/chị
+西玫莉婭	莉莉娜		chị	em	như chị ruột
+西玫莉婭	神父		con	Cha	kính Hiller; 大人 → Cha/ngài
+西玫莉婭	*		tôi	anh/chị	nữ tu lịch sự
+魅魔	莉莉娜		ta	cô	trêu chọc, coi Lilina là chủ/con mồi; 我的女王 → Nữ hoàng của ta; 主人 → chủ nhân
+魅魔	*		ta/tôi	ngươi/cô/mọi người	linh hồn kiêu ngạo, cổ xưa: ta – ngươi với kẻ lạ, kẻ thù; với Lilina ta – cô (dòng riêng) kể cả khi cảnh nhiều người chưa ghi người nghe; tôi chỉ khi nói với người chơi (Map120 lời mời Patreon, ghi ' >*': tôi – mọi người/bạn, nũng, tự nhận nô lệ của tác giả) hoặc giả cung kính (Garon)
+龍吟	莉莉娜		tôi	cô	lễ phép, nhút nhát
+龍吟	莉莉娜	Map014.json:e6.p3.137	anh	em	người yêu
+龍吟	*		tôi	anh/cô	lịch sự
+羅斯	莉莉娜		thầy	em	giáo viên – học viên; lúc lộ mặt ta – ngươi
+羅斯	*		thầy/tôi	em/anh	với học viên thầy – em; với đồng nghiệp tôi – anh; với Hiệu trưởng tôi – ngài
+比加斯	*		thầy	em	giáo viên giảng bài
+老師	*		thầy/cô	em/các em	giáo viên giảng bài
+教務	*		tôi	em/cô	giáo vụ
+學生	*		mình	cậu	học viên ngang hàng; với giáo viên em – thầy/cô
+學生1	*		mình	cậu	học viên ngang hàng; với giáo viên em – thầy/cô
+學生2	*		mình	cậu	học viên ngang hàng; với giáo viên em – thầy/cô
+學生3	*		mình	cậu	học viên ngang hàng; với giáo viên em – thầy/cô
+學生4	*		mình	cậu	học viên ngang hàng; với giáo viên em – thầy/cô
+學生5	*		mình	cậu	học viên ngang hàng; với giáo viên em – thầy/cô
+學生6	*		mình	cậu	học viên ngang hàng; với giáo viên em – thầy/cô
+學生21	*		mình	cậu	học viên ngang hàng; với giáo viên em – thầy/cô
+學生64	*		mình	cậu	học viên ngang hàng; với giáo viên em – thầy/cô
+學生75	*		mình	cậu	học viên ngang hàng; với giáo viên em – thầy/cô
+學生76	*		mình	cậu	học viên ngang hàng; với giáo viên em – thầy/cô
+羅斯特	*		mình	cậu	học viên ngang hàng; với giáo viên em – thầy/cô
+夏洛	*		mình	cậu	học viên ngang hàng; với giáo viên em – thầy/cô
+杰克	*		mình	cậu	học viên ngang hàng; với giáo viên em – thầy/cô
+哈特	*		mình	cậu	học viên ngang hàng; với giáo viên em – thầy/cô
+蘭特	*		tôi/tao	cậu/mày	tự cao; khi khinh, lăng mạ Lilina thì tao – mày
+米勒	*		tao	mày	học viên du côn, thô
+溫蒂	*		tôi	cậu/vật tế	u ám
+安娜	*		em/mình	thầy/cậu/chủ nhân	ngoan, với Miller gọi chủ nhân
+克蘿莉亞	*		tiện nô/ta	chủ nhân/cô/em/ngươi	với John xưng tiện nô gọi chủ nhân; với nô lệ khác xưng ta (tự gọi tiện nô khi gốc gọi 賤奴), gọi ngươi/cô
+特蘿西	*		tiện nô	chủ nhân/chị/cô	nô lệ; gọi Gloria là chị
+珊嘉	*		tôi	cô/các người/ngươi	công chúa Sandra: tôi khi còn kiêu hãnh; với kẻ cưỡng hiếp, kẻ dưới có thể gọi ngươi; gốc dùng \N[59] (khi bị huấn luyện, khuất phục) thì giữ mã; gọi Lilina cô, sau khuất phục 'chủ nhân'
+瓊恩	*		ta	ngươi	thành chủ, tự coi mình là vua (本王 → ta)
+歐文	*		tôi	cô/cậu/các anh	hội trưởng; lăng mạ Lilina "đồ lẳng lơ" vẫn giữ tôi – cô
+柯斯皮洛	*		tôi	anh/chị/cô	tân binh khúm núm
+柯斯皮洛	*	Map133.json:e23.p0.309	tao	mày	kẻ phản bội lộ mặt, hống hách
+貝莉卡	*		tôi	cô/các người	kẻ thôi miên khinh khỉnh, giả thân thiện: tôi – cô với Lilina đến hết Map024, với Cecelia, người ngoài; từ Map040 (huấn luyện Lilina) ta – cô, ghi ' >莉莉娜'; với gã con rối 強奸魔 ta – ngươi; gọi Lilina 'con chó cái' khi lăng nhục
+洛基	*		tôi	cô/cậu	trưởng quan
+尤德	*		tôi	cô	người liên lạc; khi dâm vẫn tôi – cô
+費奇	*		tôi	cô	con buôn
+白雪	*		mình/tôi	cậu/ngài	kỵ thủ rụt rè; với Fetch gọi ngài/thủ lĩnh
+達倫	*		tao	mày	cai ngục hống hách với tù
+薩克斯	*		lão	cô/ngươi	老夫 → lão
+艾莎	*		chị	em	đàn chị
+狼神	*		ta	ngươi	thần kiêu ngạo; khi làm nô lệ: Habi – chủ nhân
+梅莉	*		ta	mày	nữ chủ bạo dâm với nô; với khách ta – ngươi
+羅杰	*		tôi	chủ nhân/cô	với Mhairi tôi – chủ nhân; với Lilina, người khác tôi – cô
+主人	*		ta/tôi	cô/em	chủ nô mua/thuê Lilina (Map137) và khách kỹ viện đóng vai chủ (Map146): kiêu thì ta, khách làng chơi xởi lởi tôi – cô; giữ một cách trong một cảnh
+主人（巨人）	*		tôi/ta	cô	khách kỹ viện Map146 đóng vai chủ nhân: khách làng chơi, tôi – cô (bọn tôi khi nhiều người); không mày – tao
+主人（百合女）	*		tôi/ta	cô	khách kỹ viện Map146 đóng vai chủ nhân: khách làng chơi, tôi – cô (bọn tôi khi nhiều người); không mày – tao
+主人（愛犬者）	*		tôi/ta	cô	khách kỹ viện Map146 đóng vai chủ nhân: khách làng chơi, tôi – cô (bọn tôi khi nhiều người); không mày – tao
+主人（三兄弟）	*		tôi/ta	cô	khách kỹ viện Map146 đóng vai chủ nhân: khách làng chơi, tôi – cô (bọn tôi khi nhiều người); không mày – tao
+奴隸主	*		ta/tao	ngươi/mày	chủ nô với nô lệ, khinh miệt
+奴隸主A	*		ta/tao	ngươi/mày	chủ nô với nô lệ, khinh miệt
+奴隸主B	*		ta/tao	ngươi/mày	chủ nô với nô lệ, khinh miệt
+奴隸主C	*		ta/tao	ngươi/mày	chủ nô với nô lệ, khinh miệt
+奴隸主D	*		ta/tao	ngươi/mày	chủ nô với nô lệ, khinh miệt
+奴隸主們	*		ta/tao	ngươi/mày	chủ nô với nô lệ, khinh miệt
+調教師	*		ta/tao	ngươi/mày	người huấn luyện nô lệ, lạnh, quát
+執行者	*		tôi	quý vị/ngươi	điều hành đấu giá: với khách quý vị, với nô lệ ngươi
+莉麗絲	*		em/tôi	quý khách	nhân viên tiệm
+羅伯特	*		lão	cháu/cô	lão tù
+加隆	*		ta	ngươi	vua tử linh
+醫生	*		tôi	cô	bác sĩ
+詹姆士	*		tôi	cô	
+戴爾	*		tôi	cô giáo/con	với Lilina tôi – cô giáo; với Seth bố – con
+塞斯	*		em/con	cô giáo/bố	với Lilina em – cô; với Dell con – bố
+少女	*		em/tôi	chị/anh	thiếu nữ
+賣花少女	*		em	chị/quý khách	
+比爾	*		tao	mày	tù quản kho thô
+獄霸	*		tao/ông đây	mày/chúng mày	đại ca tù
+波特	*		tao	mày	quản lý nông trại tù
+水手	*		tao/tôi	mày/cô	thô với nô lệ, tù; bình thường tôi – cô
+偷懶的水手	*		tôi	cô	
+露娜	*		mình	cậu	ngây thơ
+老板	*		tôi/ta	cô	ông chủ quán; 'cả hai ta' = chúng ta
+浴場老板	*		tôi	cô/phu nhân	
+雪莉	*		tôi	cô/ngài	hầu gái; với Sax gọi ngài
+妮爾	*		tôi	cô/cậu	
+莉蒂絲	*		tôi	cô/cậu	
+梅麗莎	*		tôi	cô	phù thủy lạnh
+露西婭	*		tôi	cô/chủ nhân	bị tẩy não, gọi Melissa chủ nhân
+馬特	*		tao	mày	huấn luyện viên thô
+蓋倫	*		tôi	cô	
+Hentai英雄ZERO	*		ta	ngươi/cô	anh hùng biến thái khoa trương
+女店員	*		em	quý khách	nhân viên tiệm
+店員	*		em/tôi	quý khách	
+水精靈	*		ta	ngươi	tinh linh
+火精靈	*		ta/mình	ngươi/cậu	tinh linh lửa nghịch ngợm, chiếm thân Lilina: ta – ngươi; độc thoại về tên quỷ khổng lồ (食人魔) cứu nó: xưng mình, gọi cậu, giọng cảm động
+冰精靈	*		tôi	cô/cô gái loài người	tinh linh băng được Lilina cứu: hiền, biết ơn; 人類的少女 → cô gái loài người
+淫魔守衛	*		ta	Nữ hoàng/chủ nhân	dâm ma hộ vệ tôn thờ Lilina: 我的女王 → Nữ hoàng của ta, 我的主人 → chủ nhân của ta; nói ngắt '－' → ' – ', ngây thơ, sùng kính
+淫魔	*		ta	ngươi	dâm ma
+伊斯萊布爾	*		tôi	cô	thành viên Hội
+學者	*		tôi	cô	học giả nghiên cứu slime (Map017), thản nhiên, coi Lilina là vật thí nghiệm
+投注官	*		tôi	quý khách/cô	
+黑衣人	*		tôi/tao	cô/mày	kẻ khả nghi
+獨角獸之王	*		ta	ngươi	vua kỳ lân
+獨角獸	*		ta	ngươi	kỳ lân
+神獸	*		ta	ngươi	thần thú
+布嚕嚕	*		ta	ngươi	
+保管員	*		tôi	cô	
+商會管理員	*		tôi	cô/ngươi	thương hội nô lệ
+舒麗雅	*		tôi	cô	
+神之音	*		ta	người chơi	lời nhắn của tác giả/hệ thống (\N[50]); gọi người chơi là "bạn" khi hướng dẫn
+迷之聲音	*		ta	ngươi	giọng nói bí ẩn ở tượng Nastela
+？？？	*		tôi	cô	người chưa lộ danh tính, giữ trung tính
+\N[1]的蟲王	*		ta	ngươi	Vua Sâu nhại giọng Lilina
+傭兵	*		tao	mày/chúng mày	kẻ thô lỗ, hiếp đáp, khinh người
+傭兵A	*		tao	mày/chúng mày	kẻ thô lỗ, hiếp đáp, khinh người
+傭兵B	*		tao	mày/chúng mày	kẻ thô lỗ, hiếp đáp, khinh người
+傭兵C	*		tao	mày/chúng mày	kẻ thô lỗ, hiếp đáp, khinh người
+傭兵D	*		tao	mày/chúng mày	kẻ thô lỗ, hiếp đáp, khinh người
+傭兵E	*		tao	mày/chúng mày	kẻ thô lỗ, hiếp đáp, khinh người
+傭兵們	*		tao	mày/chúng mày	kẻ thô lỗ, hiếp đáp, khinh người
+精英雇傭兵	*		tao	mày/chúng mày	kẻ thô lỗ, hiếp đáp, khinh người
+叛逃的傭兵	*		tao	mày/chúng mày	kẻ thô lỗ, hiếp đáp, khinh người
+偽裝成平民的雇傭兵A	*		tao	mày/chúng mày	kẻ thô lỗ, hiếp đáp, khinh người
+偽裝成平民的雇傭兵B	*		tao	mày/chúng mày	kẻ thô lỗ, hiếp đáp, khinh người
+偽裝成平民的雇傭兵C	*		tao	mày/chúng mày	kẻ thô lỗ, hiếp đáp, khinh người
+傭兵隊長	*		tao	mày/chúng mày	kẻ thô lỗ, hiếp đáp, khinh người
+傭兵指揮	*		tao	mày/chúng mày	kẻ thô lỗ, hiếp đáp, khinh người
+強盜	*		tao	mày/chúng mày	kẻ thô lỗ, hiếp đáp, khinh người
+強盜1	*		tao	mày/chúng mày	kẻ thô lỗ, hiếp đáp, khinh người
+強盜2	*		tao	mày/chúng mày	kẻ thô lỗ, hiếp đáp, khinh người
+強盜3	*		tao	mày/chúng mày	kẻ thô lỗ, hiếp đáp, khinh người
+山匪A	*		tao	mày/chúng mày	kẻ thô lỗ, hiếp đáp, khinh người
+山匪B	*		tao	mày/chúng mày	kẻ thô lỗ, hiếp đáp, khinh người
+山匪C	*		tao	mày/chúng mày	kẻ thô lỗ, hiếp đáp, khinh người
+無賴	*		tao	mày/chúng mày	kẻ thô lỗ, hiếp đáp, khinh người
+不良	*		tao	mày/chúng mày	kẻ thô lỗ, hiếp đáp, khinh người
+流氓A	*		tao	mày/chúng mày	kẻ thô lỗ, hiếp đáp, khinh người
+流氓B	*		tao	mày/chúng mày	kẻ thô lỗ, hiếp đáp, khinh người
+強奸魔	*		tao	mày/chúng mày	kẻ thô lỗ, hiếp đáp, khinh người
+男人A	*		tao	mày/chúng mày	kẻ thô lỗ, hiếp đáp, khinh người
+男人B	*		tao	mày/chúng mày	kẻ thô lỗ, hiếp đáp, khinh người
+男人C	*		tao	mày/chúng mày	kẻ thô lỗ, hiếp đáp, khinh người
+男人D	*		tôi	cô/anh	chỉ xuất hiện ở Map023 (khách mua hoa): tôi – cô, với nhau tôi – anh
+男人E	*		tôi	cô/anh	chỉ xuất hiện ở Map023 (khách mua hoa): tôi – cô, với nhau tôi – anh
+男人F	*		tôi	cô/anh	chỉ xuất hiện ở Map023 (khách mua hoa): tôi – cô, với nhau tôi – anh
+男人	*		tao	mày/chúng mày	kẻ thô lỗ, hiếp đáp, khinh người
+男人們	*		tao	mày/chúng mày	kẻ thô lỗ, hiếp đáp, khinh người
+村民1	*		tao	mày/chúng mày	kẻ thô lỗ, hiếp đáp, khinh người
+村民2	*		tao	mày/chúng mày	kẻ thô lỗ, hiếp đáp, khinh người
+囚犯	*		tao	mày/chúng mày	kẻ thô lỗ, hiếp đáp, khinh người
+囚犯1	*		tao	mày/chúng mày	kẻ thô lỗ, hiếp đáp, khinh người
+囚犯2	*		tao	mày/chúng mày	kẻ thô lỗ, hiếp đáp, khinh người
+囚犯3	*		tao	mày/chúng mày	kẻ thô lỗ, hiếp đáp, khinh người
+老囚犯	*		tao	mày/chúng mày	kẻ thô lỗ, hiếp đáp, khinh người
+打手	*		tao	mày/chúng mày	kẻ thô lỗ, hiếp đáp, khinh người
+毒販	*		tao	mày/chúng mày	kẻ thô lỗ, hiếp đáp, khinh người
+賭徒	*		tôi	cô/cậu/anh	con bạc, cò vé chèo kéo: tôi – cô; lúc đuổi khách thì cộc ('Biến đi, đồ nghèo kiết!') nhưng không mày – tao
+筋肉人	*		tao	mày/chúng mày	kẻ thô lỗ, hiếp đáp, khinh người
+蒙面人	*		tao	mày/chúng mày	kẻ thô lỗ, hiếp đáp, khinh người
+保鏢	*		tao	mày/chúng mày	kẻ thô lỗ, hiếp đáp, khinh người
+賞金獵人	*		tao	mày/chúng mày	kẻ thô lỗ, hiếp đáp, khinh người
+守衛	*		tôi/tao/ta	cô/anh/mày/ngươi	lịch sự với dân (tôi – cô/anh), cung kính cấp trên (thưa ngài); trong nhà tù, chợ nô lệ, khi bắt nạt thì tao – mày; quát lệnh ngắn kiểu lính gác (…cho ta!) được dùng ta
+\N[53]A	*		tôi/tao	cô/mày	lính gác, thô với tù/nô lệ
+\N[53]B	*		tôi/tao	cô/mày	lính gác, thô với tù/nô lệ
+\N[53]C	*		tôi/tao	cô/mày	lính gác, thô với tù/nô lệ
+大地守衛	*		ta	ngươi	thủ hộ đất (nguyên tố) giữ thánh vật; nói từng tiếng ngắt '－' → ' – ', lạnh, máy móc
+神殿守衛	*		tôi/tao	cô/mày	lính gác, thô với tù/nô lệ
+村民	*		tôi	cô	dân làng; kẻ dâm có thể tao – mày nếu gốc thô (dùng nhãn riêng)
+冒險者	*		tôi	cô/anh	đồng đội trong Hội
+冒險者A	*		tôi	cô/anh	đồng đội trong Hội
+冒險者B	*		tôi	cô/anh	đồng đội trong Hội
+冒險者C	*		tôi	cô/anh	đồng đội trong Hội
+冒險者D	*		tôi	cô/anh	đồng đội trong Hội
+冒險者們	*		tôi	cô/anh	đồng đội trong Hội
+偽裝成傭兵的冒險者	*		tôi	cô/anh	đồng đội trong Hội
+雷斯克	*		tôi	cô	khách quen; dâm
+索菲亞	*		ta/tôi	cô	hồn hoàng hậu của Garon, nhập vào thân Lilina; với Lilina hờ hững, kiêu nhẹ
+洛肯	*		tôi	cô	
+校長	*		ta	ngươi/em	hiệu trưởng học viện, uy quyền
+伊爾斯	*		tôi	cô	Ilse là thư ký/thành viên Hội Mạo hiểm giả, lịch sự; đấu tập với Lilina vẫn tôi – cô
+乞丐	*		tôi	cô	ăn mày
+貴族	*		tôi	ông/cô	nhà đầu tư quý tộc ở Map114: xởi lởi, bàn tán với nhau và với nhân viên cá cược; quý tộc kiêu ngạo khác dùng nhãn riêng (貴族1–4: ta – ngươi)
+艾羅斯	*		ta	ngươi	quái/thực thể siêu nhiên
+\蛇女B	*		ta	ngươi	tên gốc có '\' thừa, cùng người với 蛇女B; ba chị em xà nữ: với nhau chị – em (姐姐 → chị, 二姐 → chị hai), với Lilina ta – ngươi, 'con đồ chơi này'
+妮可	*		tôi/em	cô/chị/quý khách	nữ NPC, lịch sự
+\蛇女A	*		ta	ngươi	tên gốc có '\' thừa, cùng người với 蛇女A; ba chị em xà nữ: với nhau chị – em (姐姐 → chị, 二姐 → chị hai), với Lilina ta – ngươi, 'con đồ chơi này'
+高級任務管理員	*		tôi	cô/anh	NPC, lịch sự theo vai
+老人	*		lão/ông	cháu/cô	ông lão
+怪獸	*		ta	ngươi	quái/thực thể siêu nhiên
+lilina3#0	*		tôi	anh/chị/ông/bà/cô	= Lilina, theo bảng của 莉莉娜
+帕克	*		tôi	cô	
+lilina2#7	*		tôi	anh/chị/ông/bà/cô	= Lilina, theo bảng của 莉莉娜
+管家	*		tôi	cô/anh	NPC, lịch sự theo vai
+羅琳	*		tôi/em	cô/chị/quý khách	nữ NPC, lịch sự
+賢妻	*		tôi/mẹ	ông/con	người mẹ ở Map186 (giới hạn vị thành niên)
+少年	*		con	mẹ/ông nội	cậu bé trong Map186 (giới hạn vị thành niên, xem notes); chỉ dùng cho câu không tình dục
+\蛇女C	*		ta	ngươi	tên gốc có '\' thừa, cùng người với 蛇女C; ba chị em xà nữ: với nhau chị – em (姐姐 → chị, 二姐 → chị hai), với Lilina ta – ngươi, 'con đồ chơi này'
+泰勒	*		tao	mày	quản lý mỏ nhà tù, thô với tù
+lilina2#6	*		tôi	anh/chị/ông/bà/cô	= Lilina, theo bảng của 莉莉娜
+旅人	*		tôi	cô/anh	NPC, lịch sự theo vai
+Cosplayer	*		tôi/em	cô/chị/quý khách	nữ NPC, lịch sự
+蛇女A	*		ta	ngươi	quái/thực thể siêu nhiên
+老爺爺	*		ông	cháu	ông cụ hiền
+奴隸	*		tôi/tiện nô	chủ nhân/cô	nô lệ
+貴族2	*		ta	ngươi	quý tộc
+lilina1#3	*		tôi	anh/chị/ông/bà/cô	= Lilina, theo bảng của 莉莉娜
+魔眼	*		ta	ngươi/cô	Beryl (Ma Nhãn) khi chưa lộ mặt
+兔女郎	*		tôi/em	cô/chị/quý khách	nữ NPC, lịch sự
+教務2	*		tôi	cô/anh	NPC, lịch sự theo vai
+市民	*		tôi	cô/anh	NPC, lịch sự theo vai
+莉婭	*		tôi/em	cô/chị/quý khách	nữ NPC, lịch sự
+女囚犯	*		tôi/em	cô/chị/quý khách	nữ NPC, lịch sự
+商人	*		tôi	cô/anh	NPC, lịch sự theo vai
+娼館女老板	*		tôi/em	cô/chị/quý khách	nữ NPC, lịch sự
+麗莎	*		tôi/em	cô/chị/quý khách	nữ NPC, lịch sự
+史萊姆女王	*		ta	ngươi	quái/thực thể siêu nhiên
+lilina1#4	*		tôi	anh/chị/ông/bà/cô	= Lilina, theo bảng của 莉莉娜
+村長	*		tôi	cô/anh	NPC, lịch sự theo vai
+送貨員	*		tôi	cô/anh	NPC, lịch sự theo vai
+風系老師	*		tôi	cô/anh	NPC, lịch sự theo vai
+僵尸	*		ta	ngươi	quái/thực thể siêu nhiên
+法師	*		tôi	cô/anh	NPC, lịch sự theo vai
+神秘人	*		ta	ngươi	người bí ẩn
+初級任務管理員	*		tôi	cô/anh	NPC, lịch sự theo vai
+Hentai	*		ta	cô/ngươi	= Hentai英雄ZERO (nhãn ngắn ở Map031): anh hùng biến thái khoa trương, xưng ta
+lilina2#2	*		tôi	anh/chị/ông/bà/cô	= Lilina, theo bảng của 莉莉娜
+浴場老板娘	*		tôi/em	cô/chị/quý khách	nữ NPC, lịch sự
+土系老師	*		tôi	cô/anh	NPC, lịch sự theo vai
+傭兵牧師	*		tôi/tao	cô/mày	mục sư lính đánh thuê
+特殊任務管理員	*		tôi	cô/anh	NPC, lịch sự theo vai
+拉姆	*		tôi/em	cô/chị/quý khách	nữ NPC, lịch sự
+雷姆	*		tôi/em	cô/chị/quý khách	nữ NPC, lịch sự
+章魚怪	*		ta	ngươi	quái/thực thể siêu nhiên
+男爵	*		ta	ngươi	nam tước
+蟲王	*		ta	ngươi	quái/thực thể siêu nhiên
+lilina1#7	*		tôi	anh/chị/ông/bà/cô	= Lilina, theo bảng của 莉莉娜
+水系老師	*		tôi	cô/anh	NPC, lịch sự theo vai
+雷諾	*		tôi	cô	
+牧師	*		tôi	cô/anh	NPC, lịch sự theo vai
+廚師	*		tôi	cô/anh	NPC, lịch sự theo vai
+\N[48]\C[0]，\C[3]\N[49]	*		tôi/em	cô/chị/quý khách	nữ NPC, lịch sự
+女仆	*		tôi/em	cô/chị/quý khách	nữ NPC, lịch sự
+lilina2#3	*		tôi	anh/chị/ông/bà/cô	= Lilina, theo bảng của 莉莉娜
+lilina1#2	*		tôi	anh/chị/ông/bà/cô	= Lilina, theo bảng của 莉莉娜
+lilina1#6	*		tôi	anh/chị/ông/bà/cô	= Lilina, theo bảng của 莉莉娜
+老板娘	*		tôi/em	cô/chị/quý khách	nữ NPC, lịch sự
+店長	*		tôi	cô/anh	NPC, lịch sự theo vai
+船長	*		tôi	cô/anh	NPC, lịch sự theo vai
+lilina2#1	*		tôi	anh/chị/ông/bà/cô	= Lilina, theo bảng của 莉莉娜
+管理員	*		tôi	cô/anh	NPC, lịch sự theo vai
+任務管理員	*		tôi	cô/anh	NPC, lịch sự theo vai
+貴族1	*		ta	ngươi	quý tộc
+\僵尸	*		ta	ngươi	quái/thực thể siêu nhiên
+\N[23]姬	*		tôi/em	cô/chị/quý khách	nữ NPC, lịch sự
+貴婦	*		tôi/em	cô/chị/quý khách	nữ NPC, lịch sự
+lilina1#0	*		tôi	anh/chị/ông/bà/cô	= Lilina, theo bảng của 莉莉娜
+骸骨	*		ta	ngươi	quái/thực thể siêu nhiên
+lilina2#4	*		tôi	anh/chị/ông/bà/cô	= Lilina, theo bảng của 莉莉娜
+富家女	*		tôi/em	cô/chị/quý khách	nữ NPC, lịch sự
+客人	*		tôi	cô/anh	NPC, lịch sự theo vai
+女奴	*		tôi/em	cô/chị/quý khách	nữ NPC, lịch sự
+貴族4	*		ta	ngươi	quý tộc
+Actor1#6	*		tôi	cô/anh	NPC không tên
+公會會長	*		tôi	cô	Owen (nhãn chức danh)
+蛇女B	*		ta	ngươi	quái/thực thể siêu nhiên
+蛇女C	*		ta	ngươi	quái/thực thể siêu nhiên
+少婦	*		tôi/em	cô/chị/quý khách	nữ NPC, lịch sự
+女老板	*		tôi/em	cô/chị/quý khách	nữ NPC, lịch sự
+紳士	*		tôi	cô/anh	NPC, lịch sự theo vai
+店主	*		tôi	cô/anh	NPC, lịch sự theo vai
+倉管員	*		tôi	cô/anh	NPC, lịch sự theo vai
+修女	*		tôi/em	cô/chị/quý khách	nữ NPC, lịch sự
+精靈奴隸	*		tôi/em	cô/chị/quý khách	nữ NPC, lịch sự
+獸人奴隸	*		tôi	chủ nhân/cô	nô lệ
+貴族3	*		ta	ngươi	quý tộc
+Actor3#1	*		tôi	cô/anh	NPC không tên
+貝德	*		tôi	cô	
+亞絲娜	*		tôi/em	cô/chị/quý khách	nữ NPC, lịch sự
+委托人	*		tôi	cô/anh	NPC, lịch sự theo vai
+\N[48]\C[0]、\C[3]\N[49]	*		tôi/em	cô/chị/quý khách	nữ NPC, lịch sự
+藥不能停的萌軍	*		tôi	cô	câu đùa
+薩洛克	*		tôi	cô	
+骷髏	*		ta	ngươi	quái/thực thể siêu nhiên
+怨靈	*		ta	ngươi	quái/thực thể siêu nhiên
+大小姐	*		tôi/em	cô/chị/quý khách	nữ NPC, lịch sự
+異種	*		ta	ngươi	quái/thực thể siêu nhiên
+未知的聲音	*		ta	ngươi	quái/thực thể siêu nhiên
+貴族們	*		chúng ta	ngươi	quý tộc
+隊長	*		tôi	các anh/cô	đội trưởng
+教主之聲	*		ta	ngươi	quái/thực thể siêu nhiên
+梅莉	莉莉娜		ta	cô/cưng	ở Hội gạ tình, trêu cợt; cả ủy thác ở CommonEvents (nhiệm vụ Mhairi đặt, đòi Lilina 'đêm nay thuộc về ta'): ta – cô; lúc hành hạ gọi 'con chó cái nhỏ'; không tôi, không mày
+詹姆士	莉莉娜		tôi	cô	khách quen quán Nhà Tiên Cá, si mê, ngập ngừng
+詹姆士	莉莉娜	Map184	anh	em	tuyến lâu đài (kết Bị nhốt): vợ chồng; 親愛的/老婆 → em yêu/bà xã theo giọng; lúc ghen thì gắt nhưng vẫn anh – em
+莉莉娜	詹姆士	Map184	em	anh	đã cưới, sống trong lâu đài; 親愛的 → anh yêu
+拉姆	莉莉娜		tôi	phu nhân	hầu gái lâu đài của James; 夫人 → phu nhân
+雷姆	莉莉娜		tôi	phu nhân	hầu gái lâu đài của James; 夫人 → phu nhân
+洛肯	莉莉娜	Map087	tao	mày	lộ mặt trùm buôn thuốc, coi Lilina là cây hái tiền, khinh miệt; trước đó (Map102) tôi – cô
+莉莉娜	洛肯		tôi	anh	người môi giới tin, rồi trùm buôn thuốc; khi nghiện và gốc gọi 主人 thì chủ nhân, xưng theo gốc
+莉莉娜	貝莉卡	Map040	tôi	cô	đối địch; khi bị thôi miên, đóng dấu linh hồn mà gốc gọi 主人/大人 thì chủ nhân Beryl, xưng em/tôi theo gốc
+貝莉卡	莉莉娜	Map040	ta	cô	lúc huấn luyện, đóng dấu linh hồn: khinh miệt, gọi 'con chó cái' (母狗) theo gốc; không mày – tao trừ khi gốc thô hẳn
+莉莉娜	歐文	Map012.json:e29.p2.8	tôi	anh/Hội trưởng	sau khi thành nô lệ tình dục của Hội (vòng cổ nô lệ, Thiên Thần Săn): vẫn tôi – anh; gốc gọi 主人～/親愛的 thì 'chủ nhân~'/'anh yêu' giọng đùa, mỉa, không đổi xưng
+歐文	莉莉娜		tôi	cô/phu nhân	hội trưởng; 夫人 → phu nhân (gọi trêu); lăng mạ 'đồ lẳng lơ' vẫn giữ tôi – cô
+神秘人	莉莉娜		ta	em	giọng người tình xa cách ('tạm biệt, em yêu của ta')
+強奸魔	貝莉卡		tôi	đại nhân/ngài	gã bị Beryl thôi miên, phục tùng: 大人 → đại nhân \N[8]; với Lilina vẫn tao – mày
+貝莉卡	強奸魔		ta	ngươi	con rối bị thôi miên: khinh, ra lệnh (đồ vô dụng, đồ ngu)
+莉莉娜	狼神	Map190.json:e6.p1.56	ta	ngươi/Habi	tuyến thắng, làm chủ Habi: kiêu, trêu; nhiều câu là Cecelia chiếm thân Lilina (gọi Lilina là 'chủ nhân'), vẫn ta – ngươi; khi Lilina thật nói thì ta hoặc tôi theo giọng
+索菲亞	加隆		em	anh/anh yêu	vợ chồng; 親愛的 → anh yêu; giọng nũng, say mê
+加隆	索菲亞		anh	em	vua tử linh với vợ: dịu, si mê; với người khác vẫn ta – ngươi
+加隆	莉莉娜		ta	ngươi/cô bé	小姑娘/女孩 → cô bé; uy nghi, mỏi mệt nghìn năm; khi đã ký khế ước vẫn ta – ngươi
+Hentai英雄ZERO	莉莉娜		ta	cô	khoa trương, tự xưng ta
+男人A	賣花少女		tôi	cô	khách mua hoa ở Map023: dâm nhưng xởi lởi, trả tiền, không khinh miệt
+男人B	賣花少女		tôi	cô	khách mua hoa ở Map023: dâm nhưng xởi lởi, trả tiền, không khinh miệt
+男人C	賣花少女		tôi	cô	khách mua hoa ở Map023: dâm nhưng xởi lởi, trả tiền, không khinh miệt
+男人D	賣花少女		tôi	cô	khách mua hoa ở Map023: dâm nhưng xởi lởi, trả tiền, không khinh miệt
+男人E	賣花少女		tôi	cô	khách mua hoa ở Map023: dâm nhưng xởi lởi, trả tiền, không khinh miệt
+男人F	賣花少女		tôi	cô	khách mua hoa ở Map023: dâm nhưng xởi lởi, trả tiền, không khinh miệt
+男人A	男人D		tôi	anh	khách mua hoa nói với nhau (Map023)
+男人A	男人E		tôi	anh	khách mua hoa nói với nhau (Map023)
+男人C	男人D		tôi	anh	khách mua hoa nói với nhau (Map023)
+男人C	男人E		tôi	anh	khách mua hoa nói với nhau (Map023)
+囚犯	泰勒		tôi	trưởng quan/ngài	tù với quản lý mỏ
+獄霸	泰勒		tôi	trưởng quan/ngài	đại ca tù khúm núm với quản lý mỏ
+比爾	達倫		tôi	ngài/Cai ngục trưởng	tù quản kho khúm núm với cai ngục
+魅魔	加隆		tôi	ngài/Quốc vương	Cecelia đàm phán với Garon: ngọt, mỉa, giả cung kính
+梅莉	羅杰		ta	mày	Roger là nô/chó của Mhairi: 賤狗 → đồ chó hèn
+羅杰	莉莉娜		tôi	cô	thuộc hạ của Mhairi; giúp lén hay áp giải vẫn tôi – cô (quát thì cộc, không mày – tao)
+獨角獸之王	費奇		ta	ngươi	Vua Kỳ lân (hình nữ) với Fetch: ta – ngươi, giọng trên cao, đôi khi trìu mến; Fetch gọi lại 'Nữ hoàng', 'cô'
+莉莉娜	大地守衛		tôi	ngươi	lúc còn là kẻ địch (trước khi thành Dâm ma hộ vệ ở Map066): tôi – ngươi
+莉莉娜	獨角獸		mình	cậu	kỳ lân của cô (\N[11]): thân như bạn/thú cưng; khi đã là vợ vẫn mình – cậu, 丈夫/老公 → chồng; nói với người khác về nó: nó
+羅斯	莉莉娜	Map160.json:e10.p6.1142	ta	em	lộ mặt riêng tư trong nghi thức Búp bê sống: ta – em, giọng kẻ chiếm hữu; gốc 主人 phía Lilina → chủ nhân
+羅斯	*	Map160.json:e10.p6.1142	ta	ngươi/em	lúc lộ mặt: ta; với Lilina em, với kẻ thù (Long Ngâm, Hiệu trưởng cũ) ngươi/thầy
+羅斯	莉莉娜	Map160.json:e10.p6.1493	thầy	em	sau khi xóa ký ức cô, trên lớp lại thầy – em (giả tử tế)
+羅斯	*	Map160.json:e10.p6.1493	thầy/tôi	em/anh	trên lớp, trước Hiệu trưởng (Beryl): thầy – em với học viên, tôi – ngài với Hiệu trưởng
+羅斯	莉莉娜	Map046.json:e7.p5.44	ta	em	đêm lộ mặt trước Long Ngâm, Lilina bị điều khiển gọi chủ nhân; từ đây (cả Map162) ta – em
+羅斯	*	Map046.json:e7.p5.44	ta	ngươi	đã lộ mặt: ta – ngươi với Long Ngâm; với Hiệu trưởng cũ (thầy cũ của hắn) ta – thầy
+羅斯	校長		tôi	ngài/Hiệu trưởng	với 'Hiệu trưởng' (Beryl giả, Map046 p0–p4): thuộc hạ, tôi – ngài, 'Hiệu trưởng đại nhân'
+貝莉卡	羅斯		ta	ngươi	Beryl (giả Hiệu trưởng) ra lệnh cho Ross, thuộc hạ; Ross đáp tôi – ngài/Hiệu trưởng đại nhân
+貝莉卡	校長		ta	ngươi	Hiệu trưởng thật bị Beryl khống chế: khinh, gọi lão già
+校長	羅斯		ta	ngươi	Hiệu trưởng cũ trách học trò lầm đường
+校長	莉莉娜		ta	em	Hiệu trưởng thật (hiền, nghiêm) – Lilina học viên
+白雪	獨角獸		mình/tôi	cậu	Snowy với kỳ lân: thân, dịu; khi làm chủ lễ thì tôi
+白雪	莉莉娜		mình/tôi	cậu	bạn kỵ thủ cùng lứa; khi bày cách thì xưng đàn chị; khi làm chủ lễ (nghi thức thành vợ kỳ lân) trang trọng tôi – cậu
+獨角獸	莉莉娜		ta	cưng	kỳ lân của Lilina khi hóa người: gốc 親愛的 → cưng; giọng trìu mến, hơi trên cao
+貝莉卡	*	Map040	tôi	cô/các người	như dòng mặc định: tôi – cô với Cecelia, người ngoài, cai ngục; ta – cô với Lilina khi huấn luyện (dòng riêng); ta – ngươi với thuộc hạ Ross, lão Hiệu trưởng, con rối (dòng riêng); cảnh từ 3 người ghi ' >tên'
+馬特	莉莉娜		tôi	cô	lúc mới gặp, chào hỏi, huấn luyện cơ bản (Map115): giọng huấn luyện viên lịch sự giả
+馬特	莉莉娜	Map119.json:e1.p0.35	tao	mày	từ khi lộ ý đồ và chơi cô trong huấn luyện: thô, tao – mày, gọi đồ lẳng lơ
+柯斯皮洛	*	Map123.json:e29.p1.6	tao	mày	lộ mặt gián điệp lính đánh thuê, chế giễu; 'tiểu thư \N[1], thiên thần của tôi' giữ giọng mỉa
+柯斯皮洛	*	Map127.json:e14.p0.11	tôi	cô/tiểu thư	giả làm nạn nhân bị lính bắt, khúm núm với Lilina
+柯斯皮洛	*	Map128.json:e3.p0.228	tao	mày	thủ lĩnh lính đánh thuê, hống hách, chiếm hữu Lilina, gọi Owen 'lão cáo già'
+莉莉娜	柯斯皮洛	Map128.json:e3.p0.228	tôi	anh/ngài	bị ép làm lính đánh thuê lấy thuốc giải: tôi – anh; gốc 主人/大人 → chủ nhân/ngài \N[13]; căm thì ngươi
+校長	莉莉娜	Map046.json:e7.p0.6	ta	cô	nhãn 校長 ở đây là Beryl giả Hiệu trưởng tạm quyền: ta – cô như Beryl, giọng ngọt giả, mỉa ('chủ nhân và chó cưng')
+校長	*	Map046.json:e7.p0.6	ta	ngươi/cô	Beryl giả Hiệu trưởng: ta – ngươi với Ross, thuộc hạ; ta – cô với Lilina
+校長	莉莉娜	Map046.json:e7.p5.329	ta	em	Hiệu trưởng thật (hồn trở về) – Lilina
+校長	*	Map046.json:e7.p5.329	ta	ngươi/em	Hiệu trưởng thật: ta – ngươi với Ross, ta – em với Lilina
+羅斯	校長	Map046.json:e7.p5.302	ta	thầy	Hiệu trưởng cũ (hồn trở về) là thầy của Ross: ngạo, xưng ta, vẫn gọi thầy
+貝莉卡	魅魔	Map047	ta	ngươi	Map047 đối đầu Cecelia: khinh, đắc thắng
+貝莉卡	魔眼	Map047	ta	ngươi	Ma Nhãn là thực thể riêng (dâm ma cụ của Beryl): Beryl ngang ngược, đòi sức mạnh; Ma Nhãn đáp ta – ngươi
+伊爾斯	歐文		tôi	Hội trưởng/ngài	cấp dưới của Owen
+伊爾斯	莉莉娜		tôi	cô	thành viên Hội, đấu thử Thiên Thần Săn: tôi – cô
+克蘿莉亞	莉莉娜		ta	cô/em	Gloria làm chủ huấn luyện Lilina: ta – cô (Map139–140), ta – em khi dạy dỗ ngọt (Map144); gốc dùng \N[59] thì giữ mã, không chèn thêm 'ta' sau mã
+偽裝成平民的雇傭兵A	雷斯克		tôi	anh/các anh	lính đánh thuê giả dân thường: giả lễ phép
+傭兵	歐文		tôi	thủ lĩnh/ngài	Owen là thủ lĩnh lính đánh thuê (Map124 trở đi): bọn lính xưng tôi/bọn tôi, gọi thủ lĩnh
+賭徒	莉莉娜	CommonEvents.json:89.43	tao	mày	CE89 khi hắn lấn thế (cướp, cưỡng hiếp): thô, khinh miệt
+莉莉娜	狼神	Troop51	tôi	ngươi	trận Troop51 (Troops xếp sau Map190 trong src): chưa khuất phục, thù địch: tôi – ngươi
+神父	莉莉娜	Map100.json:e26.p0.125	Cha/ta	con	sau khi lộ là Dâm Ma Tướng: lúc lộ mặt tà ác xưng ta, lúc mềm lòng vẫn Cha – con
+馬特	莉莉娜	Map115	tôi	cô	Map115 (xếp sau Map119 trong src): mới gặp, chào hỏi, huấn luyện cơ bản; lịch sự giả
+貝莉卡	*	Map046	ta	ngươi/cô	Map046 lộ mặt Hiệu trưởng giả: ta – ngươi với Ross, lão Hiệu trưởng; ta – cô với Lilina
+？？？	*	Map150	ta	ngươi	Map150 chủ thuê, Map154 kẻ đứng sau: ta – ngươi theo chỉ đạo cảnh
+奴隸主	執行者		tôi	ông	trả giá ở buổi đấu giá (Map137): Tôi mua!
+傭兵B	傭兵A		tôi/tao	đại ca/mày	đàn em với đại ca: tôi – đại ca; khoe khoang suồng sã giữa bọn lính thì tao – mày
+叛逃的傭兵	柯斯皮洛		tôi	đại nhân/ngài	lính phản bội với Kospino: khúm núm
+叛逃的傭兵	歐文		tôi	đại nhân/ngài	lính phản bội đòi thưởng Owen
+水精靈	莉莉娜		ta	cô/ngươi	Băng tinh linh chiếm thân: với Lilina khi đã dịu (tặng hoa băng) gọi cô
+貴族2	莉莉娜	Map139	ta	cô	tiệc nyotaimori: cợt nhả, gọi 'cô đĩa'
+貴族3	莉莉娜	Map139	ta	cô	tiệc nyotaimori: cợt nhả, gọi 'cô đĩa'
+調教師	克蘿莉亞		ta	cô	thầy huấn luyện báo việc với Gloria
+莉莉娜	狼神	Map190.json:e6.p1.3	ta	ngươi/Habi	Map190 e6 tuyến thắng, Lilina (hoặc Cecelia chiếm thân, giả giọng Lilina) làm chủ Habi từ đêm thứ 1: ta – ngươi trong cả cảnh, không 'cô'/'tôi'

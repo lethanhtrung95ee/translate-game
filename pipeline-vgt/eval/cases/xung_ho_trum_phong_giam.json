@@ -1,0 +1,1258 @@
+{
+ "id": "xung_ho_trum_phong_giam",
+ "loai": "xung_ho",
+ "mo_ta": "Trùm xưng 'ông đây' mà Lilina gọi 'anh', Trùm gọi Lilina lúc 'em' lúc 'mày'",
+ "bang_chung": "người dùng 01/11 (bản prompt v3)",
+ "game": "cursed_armor_v2",
+ "grp": "Map035.json:ev23p0",
+ "src_lang": "zh",
+ "role": "dialogue",
+ "engine": [
+  "rpgmaker_mvmz"
+ ],
+ "facts": {
+  "engine": [
+   "rpgmaker_mvmz"
+  ],
+  "lang": [
+   "zh"
+  ],
+  "genre": [
+   "jrpg người lớn (eroge, adult only), dark fantasy phương tây, sandbox sa đọa nhiều nhánh, nhiều kết (good/bad/normal/true end, hậu truyện), có thay trang phục và các chỉ số"
+  ]
+ },
+ "lesson_codes": [
+  "G-001",
+  "G-002",
+  "G-004",
+  "G-005",
+  "G-017",
+  "G-018",
+  "G-019",
+  "G-020",
+  "G-021",
+  "G-022",
+  "G-023",
+  "G-024",
+  "E-rpgmaker_mvmz-002",
+  "E-rpgmaker_mvmz-006",
+  "E-rpgmaker_mvmz-008",
+  "G-003",
+  "G-006",
+  "G-007",
+  "G-008",
+  "G-009",
+  "G-010",
+  "G-011",
+  "G-012",
+  "G-013",
+  "G-014",
+  "G-015",
+  "G-016",
+  "E-rpgmaker_mvmz-001",
+  "E-rpgmaker_mvmz-003",
+  "E-rpgmaker_mvmz-004",
+  "E-rpgmaker_mvmz-005",
+  "E-rpgmaker_mvmz-007"
+ ],
+ "project_rules": [],
+ "fixed": {
+  "style": {
+   "genre": "JRPG người lớn (eroge, Adult Only), dark fantasy phương Tây, sandbox sa đọa nhiều nhánh, nhiều kết (Good/Bad/Normal/True End, Hậu truyện), có thay trang phục và các chỉ số",
+   "tone": "Dâm tục thẳng thắn, cưỡng ép, nhưng nhiều tiếng cười: Lilina tự vả và cà khịa trong đầu, Succubus đỏng đảnh, ác nhân ngọt (Chloria), phản diện lố (Ross, Hentai ZERO), giọng ban ơn (Thành chủ), giọng giảng đường vô lý (thầy phòng y tế cô học viện), meta phá tường thứ tư (Giọng của Thần, Thần Sói). Xen giữa là những đoạn bi kịch thật (Học viện, Di tích, Tinh linh Lửa, Galon, Torres, hậu truyện Thần Sói) cần giọng trầm, không đùa thêm, không làm nhẹ đi. Thế giới và tên người theo kiểu phương Tây; văn gốc là tiếng Trung khẩu ngữ mạng.",
+   "notes": "1) MÃ ĐIỀU KHIỂN: giữ nguyên tuyệt đối \\N[n] \\C[n] \\W[n] \\V[n] \\G \\{ \\} \\. \\| \\^ \\!, kể cả mã lỗi gốc ('\\C[2]\\N[12]', '\\C[3]\\C[18]\\C[0]', ký tự \\u001e). Riêng dấu '\\' lạc đứng trước chữ Hán ('\\安維爾', '\\千年樹精C') thì BỎ dấu '\\' khi dịch: MV không hiển thị nó, còn '\\' đặt trước chữ Latin sẽ nuốt chữ ('\\Chìa'). Kiểm định viên không bắt lỗi việc bỏ dấu này. \\. và \\^ đặt giữa từng âm để ngắt nhịp: giữ đúng số lượng, phân bố theo âm tiết tiếng Việt.\n2) TÊN ĐỘNG \\N[n] là tên Actor, được dịch một lần trong Actors.json. Có actor là danh từ chung: \\N[50]=Giọng của Thần, \\N[51]=Giáo viên, \\N[52]=Học viên, \\N[53]=Lính gác, \\N[54]=Tù nhân, \\N[55]=Dân làng, \\N[59]=Con Nô Hèn. Tiếng Việt đặt định ngữ SAU danh từ nên phải đảo vị trí mã: '帝國\\N[53]' → '\\N[53] Đế quốc', '\\N[53]們' → 'đám \\N[53]', '\\N[64]妹妹' → 'em \\N[64]', '\\N[13]大人' → '\\N[13] đại nhân'. Câu chứa \\N[1] phải đọc được cả khi \\N[1] bị đổi thành danh hiệu (tuyến nhà ngục). Câu chứa \\N[59] phải đọc trôi khi biến hiện thành 'Con Nô Hèn' ở mọi vị trí (chủ ngữ, tân ngữ, '…của \\N[59]').\n3) DẤU: '～' của gốc viết thành '~' đúng vị trí (font không có ～, hệ thống tự đổi; chữ ký giọng của Lilina, Succubus, Chloria, Trosi); '……'; ngoặc () cho độc thoại; 【】, 「」 nếu có. Chữ kéo dài từng âm ('Long~Ngâm~') thì đặt ~ sau mỗi tiếng.\n4) ĐỘC THOẠI （） là lòng thật của Lilina: giọng tự nhiên, sắc, hay chửi thầm, tương phản rõ với câu ngoài miệng.\n5) HAI BIẾN THỂ: cùng một cảnh có câu trong trắng và câu sa đọa thay nhau. Dịch song song, cùng cấu trúc.\n6) ĐỘ TUỔI: mọi nhân vật trong cảnh tình dục được trình bày là người trưởng thành. 少女 → 'cô gái/thiếu nữ'; không dùng 'bé gái, em bé, nhóc' trong cảnh tình dục; không thêm chi tiết gợi tuổi nhỏ. 學生/學院 → 'học viên'. Nếu gặp cảnh có dấu hiệu nhân vật vị thành niên (xem can_xac_nhan: Map186 少年, Seth) thì DỪNG, không dịch phần tình dục, báo chủ dự án.\n7) THANG TỪ TỤC (thống nhất, không nhẹ hơn, không tục hơn gốc): 肏 → 'đụ'; 干/做 → 'làm/chơi'; 肉棒 → 'cây gậy thịt'; 雞巴 → 'con cặc'; 淫穴 → 'lỗ dâm'; 小穴 → 'bướm'; 屁眼/菊穴 → 'lỗ đít/cửa sau'; 精液 → 'tinh dịch/tinh'; 高潮 → 'lên đỉnh'; 丟了/要丟了 → 'ra… ra mất rồi'/'sắp ra rồi'; 母狗 → 'chó cái'; 母豬 → 'lợn nái'; 騷貨 → 'đồ dâm đãng'; 婊子 → 'con điếm'; 蕩婦 → 'con đĩ'; 癡女 → 'gái dâm'; 調教 → 'thuần hóa'.\n8) Tiếng rên, tượng thanh: Việt hóa ('A～', 'Ưm～', 'Hự'), độ dài tương đương. Lời bị bịt viết tắt bằng chữ Latin (Y/Z/D/S…) thì đổi sang lối đứt chữ tiếng Việt.\n9) Câu kích hoạt ám thị, tên ám thị, câu 'lẽ thường', câu niệm nô lệ: giống từng chữ ở mọi chỗ. Thuật ngữ UI (chỉ số, trạng thái, vật phẩm) khớp từng chữ với thoại có nhắc tới. Cảnh lặp và lựa chọn lặp dịch y hệt.\n10) Không lộ trước bí mật: Hiller là Tướng quỷ, Berika là thủ phạm, Owen chủ mưu, Cospiro là lính đánh thuê, tên thật Succubus, Long Ngâm chết, '？？？' là cái bóng của Thành chủ, Jude hai mặt, ý đồ của Luna.\n11) Lỗi gõ trong gốc thì dịch theo nghĩa đúng: 期約→契約, 不馬→不是馬, 別看玩笑→別開玩笑, 把持住→沒把持住, 繞/求繞→饒, 差不過→差不多, 難倒→難道, 無亂→無論, 踐習→實踐, 堵住→賭注, 亦然→依然, 試者→試著, 正視→正式, 識實物→識時務, 好想→好像, 會去→回去, 不削→不屑, 我先在→我現在, 在來→再來, 遍離開→便離開, 大副→大幅, 窮北→窮唄, 處于→出于, 再司機→再伺機. 'Nromal End' → 'Normal End' (chờ duyệt).\n12) Meta và quảng cáo (Giọng của Thần, Patreon, Tamamo, 'phần sau sẽ làm', 'các quý ông') dịch đủ, giữ giọng tác giả. '(未完成)' → '(Chưa hoàn thành)'.\n13) Nhãn người nói có thể bị gán nhầm (xem can_xac_nhan): dịch theo ngữ cảnh, không sửa nhãn trong dữ liệu.",
+   "strategy": {
+    "han_viet": "Mức VỪA PHẢI. Thoại đời thường, cà khịa, chửi bới và cảnh H dùng tiếng Việt khẩu ngữ, thuần Việt, gần lối nói người trẻ. Hán-Việt dành cho tên thánh vật, chiêu thức, danh hiệu, chức vị, thuật ngữ huyền huyễn (Tinh thể Thần Nước, Ngọc Lửa Rực, Cuồng Nộ Của Đất, Mắt Quỷ, Dấu ấn linh hồn, Vua Succubus, Kiếm Thánh Gió, Cánh Đen, Thành chủ, thần lực, phép cấm, kết giới, dị loài, lẽ thường, thuần hóa). Xưng hô Hán-Việt chỉ dùng cho nhân vật được chỉ định, để tạo giọng hoặc nhại: Eros (吾/汝 → 'bổn vương/ta – ngươi/nàng/ái phi'), Thành chủ Jon ('bổn vương'), Sax ('lão phu'), lính đánh thuê ('bổn đại gia'), tên lính đánh thuê sến kiểu kiếm hiệp, Hentai ZERO hô chiêu. Không dùng 'tại hạ', 'nô gia', 'bổn cô nương' cho Lilina hay nô lệ. Thành ngữ Hán đổi sang thành ngữ Việt tương đương; câu tao nhã dùng mỉa ('Một khắc đêm xuân đáng ngàn vàng') thì giữ câu Hán-Việt quen thuộc.",
+    "wordplay": "Giữ TÁC DỤNG, không giữ chữ, và không thêm câu đùa mới. 性福/幸福 → 'hạnh phịch'/'hạnh phúc', thống nhất cả game (xem handbook). 出來賣/外賣 → 'gái ra đường bán'/'gái giao hàng tận nơi'. 菊花 → 'hoa cúc'. Mật mã hoa giữ tên hoa và giá. 骯臟的屁眼交易 → 'phi vụ đi cửa sau dơ bẩn'. 風之劍圣/蜂之劍圣 → 'Kiếm Thánh Gió'/'Kiếm Thánh Ong'. 出色 tách 色 → 'xuất \"sắc\"'. 回籠昏 → 'ngất nướng'. Câu lỡ miệng, vấp chữ ('賤……\\N[59]', chữ tục lọt giữa câu) phải dựng lại cú vấp bằng tiếng Việt. Lóng mạng: 泰迪 → 'Teddy' (để giọng mỉa tự gánh nghĩa), 抖S → 'S chính hiệu/máu S', 黑暗料理 → 'món hắc ám'. Meme dùng bản Việt quen thuộc (Đại thoại Tây du theo bản lồng tiếng; 'đầu gối trúng tên' bám sát Skyrim). Nhịp hài: giữ '……' đúng chỗ bị cắt ('cảm ơ… Á!'); cặp mắng nhau giữ nhịp ngắn ('Đồ óc heo!', 'Đồ lợn ngu!'). Chơi chữ không có đối ứng thì viết câu Việt có cùng tác dụng, ngắn bằng hoặc ngắn hơn gốc, không chú thích.",
+    "poetry": "Hầu như không có thơ vần. Văn nghi thức cần dịch cố định: (a) công thức ám thị 'Học ma pháp hệ X thì…, đó là lẽ thường' / 'Dùng phép hệ X nghĩa là phải…'; (b) câu kích hoạt 'Có việc gì muốn làm không?' / 'Nói thật đi'; (c) câu niệm nô lệ Torres và '(\\N[59] là một con chó cái x N)'; (d) khẩu quyết bốn bước 'Cảm nhận nó, khống chế nó, hội tụ nó, giải phóng nó!' và châm ngôn giả của các hệ; (e) lời thề hôn lễ (Map119 với \\N[11]; Map135 bản nhại bẻ vế cuối thành 'mãi mãi phục tùng') theo văn lời thề cưới Công giáo quen thuộc; (f) màn xưng danh Hentai ZERO theo kiểu tokusatsu; (g) đoạn nhại Đại thoại Tây du ở Good End A; (h) lời chào chung của tinh linh giữ đền 'Nhân loại kia～ Đây không phải nơi ngươi nên đến!'; (i) câu kiếm hiệp và bài 'ca' rượu của tên lính đánh thuê; (j) lời kết sử thi của các bad end: giọng biên niên trang trọng, nhịp chậm; (k) tên chiêu Latin Zapfkiel / Aleph giữ nguyên.",
+    "names": "Chưa có bản Việt chính thức; tên tiếng Anh chính thức mới xác nhận Lilina, Aisha (tên DLC) và tên game Cursed Armor. Bản EN có tồn tại nên ưu tiên đối chiếu Steam EN trước khi khóa. Tạm dùng tên phương Tây viết Latin theo phiên âm hợp lý: Hiller, Simelia, Meili, Roger, Melissa, Lucia, Berika, Owen, Cospiro, Jon, Chloria, Trosi, Jude, Sanga, Resk, Sax, Shirley, Ross, Roster, Bigas, Charlo, Rant, Miller, Hart, Wendy, Jack, Darren, Nell, Lydis, Robert, Luna, Nicole, Lilith, Lisa, Lorin, James, Loki, Loken, Fitch, Matt, Galen, Galon, Sophia, Eros, Shuria, Dale, Seth, Nestra. Tên gốc Á dùng Hán-Việt: 龍吟 → Long Ngâm, 白雪 → Bạch Tuyết. Biệt danh mang nghĩa thì dịch nghĩa: 黑泰迪 → Teddy Đen, 金絲雀 → Hoàng Yến, 紅松鼠 → Sóc Đỏ, 白銀狐 → Cáo Bạc, 賤奴 → Con Nô Hèn. Khách mời giữ tên fandom quen dùng (Tamamo-no-Mae, Asuna, Ram, Rem, Tokisaki Kurumi, Nero, Okita Souji…). Nhãn người nói là danh từ chung thì dịch nghĩa (守衛 → Lính gác, 村民1 → Dân làng 1, 男人A → Gã A, 傭兵B → Lính đánh thuê B), riêng ？？？ giữ nguyên. Nhãn phải khớp tên actor tương ứng. Đặt tên một lần trong glossary và không đổi giữa chừng."
+   }
+  },
+  "work": {
+   "premise": "JRPG người lớn của wolfzq. Lilina, pháp sư hệ Hỏa ngây thơ, mơ thành mạo hiểm giả vĩ đại. Cô bị ép đội Vương miện Nguyền Rủa của Chúa tể Succubus Eros, trong giáp có Succubus trú ngụ, vừa giúp vừa xúi cô sa ngã. Muốn cởi giáp, cô phải tìm sáu thánh vật qua hàng chục tuyến rẽ nhánh: Hội mạo hiểm, nhà ngục, học viện, thành nô lệ Torres, trường đua kỳ lân, hang bọ. Cái hay: mỗi cảnh có hai giọng (trong trắng/sa đọa); độc thoại trong ngoặc tỉnh táo, cà khịa, trái hẳn lời phục tùng ngoài miệng; hài tự vả, meta; và những cú phản bội từ chính người cô tin."
+  }
+ },
+ "adult": true,
+ "payload": {
+  "lang": "Ngôn ngữ nguồn: tiếng Trung → tiếng Việt.",
+  "characters": [
+   {
+    "id": "cell_boss",
+    "names": [
+     "獄霸"
+    ],
+    "name_vi": "Trùm phòng giam",
+    "gender": "nam",
+    "role": "Trùm tù nhân, cướp quặng quý, ép Lilina làm 'đàn em'",
+    "personality": "Gian manh, vu khống, cậy thế, sợ phép thuật",
+    "speech_style": "Giọng côn đồ, nhại 'Ối dồi ôi, sợ quá đi mất～'",
+    "self": "ông đây"
+   },
+   {
+    "id": "darren",
+    "names": [
+     "達倫",
+     "\\N[35]",
+     "典獄長"
+    ],
+    "name_vi": "Darren",
+    "gender": "nam",
+    "role": "Giám ngục trưởng Nhà ngục Đế quốc",
+    "personality": "Háo sắc, cáo già, mưu mô (tăng gấp đôi giá vật tư, kéo dài án), chiếm hữu, ghét đàn bà có chủ kiến",
+    "speech_style": "Quan cách nhưng lộ dâm ý, ra lệnh cộc",
+    "catchphrases": [
+     "刑期追加！ → Tăng án!",
+     "我最討厭有主見的女人！ → Ta ghét nhất đàn bà có chủ kiến!",
+     "我可是等你這句話等的花都謝了！ → Ta chờ câu này đến mức hoa cũng tàn rồi!"
+    ],
+    "comedic_role": "Cáo già háo sắc",
+    "self": "ta / lão đây"
+   },
+   {
+    "id": "guard53",
+    "names": [
+     "守衛",
+     "\\N[53]",
+     "\\N[53]A",
+     "\\N[53]B",
+     "\\N[53]C",
+     "衛兵"
+    ],
+    "name_vi": "Lính gác",
+    "gender": "nam",
+    "role": "Lính gác thành, cảng, nhà ngục, Torres; nhân vật chung dùng lặp lại",
+    "personality": "Hống hách, lười, dâm, dễ bị dụ",
+    "speech_style": "Thô, ra lệnh cộc; bộ ba A/B/C gọi nhau 'đại ca', 'nhị ca'",
+    "catchphrases": [
+     "現在、立刻、馬上來侍奉我的肉棒！ → Bây giờ, lập tức, ngay tắp lự, tới hầu cây gậy thịt của ta!"
+    ],
+    "self": "ta / tao; 'thuộc hạ' với Thành chủ",
+    "note": "\\N[53] là actor danh từ chung, không phải một người cụ thể. Đặt vị trí mã theo trật tự tiếng Việt."
+   },
+   {
+    "id": "lilina",
+    "names": [
+     "莉莉娜",
+     "\\N[1]",
+     "Lilina",
+     "\\N[59] (tự xưng khi làm nô lệ)",
+     "\\N[61] (Teddy Đen, tên chó Thành chủ ban)",
+     "\\W[3]",
+     "獵天使",
+     "會長夫人",
+     "夫人",
+     "火的魔女",
+     "水的魔女",
+     "烈焰的魔女",
+     "特等生",
+     "小綿羊",
+     "癡女幽靈",
+     "吸精魔女",
+     "圣女",
+     "王妃",
+     "苗床",
+     "活體人偶",
+     "附屬品",
+     "亞巴頓女王",
+     "亞巴頓女妖",
+     "萬物之母",
+     "性奴隸",
+     "\\N[1]（人偶）"
+    ],
+    "name_vi": "Lilina",
+    "gender": "nữ",
+    "age": "thiếu nữ trưởng thành (P15 ghi 20 tuổi); cựu học viên ưu tú Học viện Ma pháp",
+    "role": "Nữ chính. Pháp sư hệ Hỏa ('Phù thủy Lửa'), mạo hiểm giả bị Giáp Nguyền Rủa trói buộc, mang danh hiệu Thiên Sứ Săn Mồi",
+    "personality": "Hồn nhiên, mơ mộng, cứng đầu, có chính nghĩa, tốt bụng, mềm lòng, cả tin, dễ bị dỗ ngọt. Ham tiền ('Một triệu G～!'), lém lỉnh, tự đắc khi lừa được địch, tsundere với người mình thích. Rất sợ ma nhưng thích dọa người. Thông minh, biết suy luận. Bị lời nguyền, ám thị, thuốc chi phối thì buông thả, rồi lại tự trách và đổ cho giáp. Đặt vào thế 'chủ nhân' thì nổi máu S. Có tham vọng ngây ngô làm 'nữ vương'.",
+    "speech_style": "Giọng con gái trẻ, nhiều '～'. Lúc tỉnh táo thì gọn, đúng chất mạo hiểm giả. Độc thoại （） hay cãi lại chính lời vừa nói, mỉa mai, tham tiền, chửi thầm ('Cái logic chó má gì thế này?'). Khi sa đọa thì nũng nịu, kéo dài 'chủ～nhân～', xưng 'người ta' theo 人家. Trong vai nô lệ thì xưng \\N[59]; đóng vai chó thì chỉ 'Gâu～ gâu gâu～'. Khi sợ thì lắp bắp. Ở học viện ngây ngô '…lẽ thường sao…'. Làm búp bê: đều đều, xưng bằng tên. Đối đầu Thần Sói, Berika: đắc thắng, trêu chọc.",
+    "catchphrases": [
+     "要不是這該死的詛咒，我怎么會…… → Nếu không vì cái lời nguyền chết tiệt này, mình đâu có…",
+     "我在想什么呢！ → Mình đang nghĩ cái gì thế này!",
+     "精液～必須好好的收集起來～～ → Tinh dịch～ phải gom cho thật kỹ～～",
+     "我可是勵志要成為一個偉大的冒險家！ → Mình đã quyết chí thành một mạo hiểm giả vĩ đại cơ mà!",
+     "真是諷刺啊…… → Đúng là mỉa mai thật…",
+     "……沒有效果 → …Không có tác dụng",
+     "哼～\\N[13]，有我在，怎么可能讓你如愿！ → Hừ～ \\N[13], có tôi ở đây, đừng hòng được như ý!",
+     "是，主人 → Vâng, chủ nhân",
+     "常識……嗎…… → Thường thức… sao…",
+     "難道是喝多了嗎 → Chẳng lẽ lại say quá à?"
+    ],
+    "comedic_role": "Kẻ tự vả, tự sửa lời ('cảm ơ… Á!'); người tỉnh táo cà khịa trong đầu, trái với lời phục tùng ngoài miệng; tsukkomi tỉnh bơ trước các trò lố; con bạc ảo tưởng; bị lừa bằng 'lẽ thường'",
+    "arc": "Mỗi tuyến một kiểu sa ngã (nô lệ vĩnh viễn, phu nhân giả, búp bê sống, vợ trùng, vợ thú, nữ yêu, Nữ vương), nhánh thiện thì giữ được ước mơ. Niềm tin vào Cha xứ sụp ở Map100, vào Owen sụp ở Map133. Với Long Ngâm: yêu, rồi mất, hoặc dùng tình yêu phá phép cấm. Với Aisha: từ khinh miệt đến nhường ngôi. Cuối cùng chọn vị trí nữ vương.",
+    "self": "tôi (với người ngoài, khi tỉnh táo); mình (độc thoại trong （）); em/con/cháu tùy người nghe (xem relations); 'người ta' khi gốc dùng 人家; giữ \\N[59] khi gốc dùng \\N[59]; 'ta' khi ở tư thế nữ vương, đối đầu Thần Sói/Berika, ra lệnh cho Succubus hoặc Vua Côn Trùng",
+    "forbid": [
+     "bé, nhóc, em bé (cho cô)",
+     "tao",
+     "bổn cô nương",
+     "nô gia",
+     "ta (trừ khi bị nhập xác hoặc ở tư thế nữ vương như trên)",
+     "tự ý đổi \\N[59] thành 'tôi/em' hoặc ngược lại"
+    ],
+    "note": "\\N[1] có thể bị đổi thành danh hiệu ở tuyến nhà ngục. Câu sửa lời là điểm kịch: 'Tiện… \\N[59] hiểu rồi' (Map139), Sax cấm cô xưng \\N[59] (Map085). Câu 'là, tiện…' rồi chữa thành 'tôi' phải khớp chữ 'Con Nô Hèn'. Ở Map154 (đã tự do) cô xưng 'tôi'. \\N[61] là tên riêng nhưng chỉ chính Lilina."
+   },
+   {
+    "id": "loken",
+    "names": [
+     "洛肯",
+     "\\N[70]",
+     "老大"
+    ],
+    "name_vi": "Loken",
+    "gender": "nam",
+    "role": "Cựu kẻ buôn tin, trùm buôn Skooma ở Khu Phố Cũ; bắt Thiên Sứ Săn Mồi làm cây hái ra tiền",
+    "personality": "Cơ hội, tàn nhẫn",
+    "speech_style": "Bỡn cợt, ngắn gọn",
+    "catchphrases": [
+     "販毒？怎么會呢？我們只是在制造快樂！ → Buôn thuốc? Làm gì có! Bọn ta chỉ chế tạo niềm vui thôi!"
+    ],
+    "self": "ta"
+   },
+   {
+    "id": "prisoner54",
+    "names": [
+     "囚犯",
+     "\\N[54]",
+     "囚犯1",
+     "囚犯2",
+     "囚犯3",
+     "女囚犯"
+    ],
+    "name_vi": "Tù nhân / Nữ tù",
+    "gender": "nam (女囚犯 là nữ)",
+    "role": "Tù nhân, tay chân trùm phòng giam; nữ tù cho gợi ý",
+    "self": "tao; em (với đại ca)"
+   },
+   {
+    "id": "villager1",
+    "names": [
+     "村民1",
+     "大哥",
+     "老大"
+    ],
+    "name_vi": "Dân làng 1",
+    "gender": "nam",
+    "role": "Người anh trong cặp anh em dân làng bỏ thuốc mê (Map168)",
+    "speech_style": "Gắt, chửi em 'đồ lợn ngu', thích dùng thành ngữ",
+    "comedic_role": "Kẻ khôn lỏi làm người thẳng",
+    "self": "tao / anh mày"
+   }
+  ],
+  "relations": [
+   {
+    "from": "lilina",
+    "to": "guard53",
+    "self": "\\N[59] khi gốc dùng \\N[59]; khi làm nô lệ/lả lơi: em; tỉnh táo với lính gác lạ: tôi",
+    "call": "khi làm nô lệ: chủ nhân / chủ nhân lính gác; lả lơi: anh lính; bình thường: ngài lính gác / đại nhân",
+    "note": "Ở Torres là nô lệ nên 'chủ nhân'; ngoài đó gặp lính gác lạ mới giữ 'tôi – ngài lính gác'. [biên tập trưởng độc lập, 02/11]"
+   },
+   {
+    "from": "guard53",
+    "to": "lilina",
+    "self": "tao",
+    "call": "mày / con nô lệ / đồ gái dâm",
+    "note": "Lính gác hống hách, dâm, ra lệnh cộc với nô lệ; dùng 'tao – mày' thống nhất. [biên tập trưởng độc lập, 02/11]"
+   },
+   {
+    "from": "lilina",
+    "to": "darren",
+    "self": "tôi; khi sa đọa: em ('người ta' khi gốc dùng 人家)",
+    "call": "ngài; khi sa đọa: ngài, có lúc gọi thẳng tên Darren",
+    "note": "Tù nhân với giám ngục là quan hệ xa cách, bị ép buộc, cô dè chừng ('呼……好險') nên giữ tôi–ngài. Khi sa đọa mới mềm thành 'em'. [biên tập trưởng độc lập, 02/11]"
+   },
+   {
+    "from": "darren",
+    "to": "lilina",
+    "self": "ta; khi dâm, đắc ý: lão đây",
+    "call": "ngươi (gọi tên \\N[1] khi gốc gọi tên); khi chửi: tiện nhân / con đĩ",
+    "note": "Giám ngục với nữ tù: quan cách, ra lệnh cộc, khinh rẻ nên dùng ta–ngươi. [biên tập trưởng độc lập, 02/11]"
+   },
+   {
+    "from": "cell_boss",
+    "to": "lilina",
+    "self": "ông đây",
+    "call": "mày; khi chọc ghẹo, dụ dỗ: em gái",
+    "note": "Côn đồ cậy thế (老子 = ông đây), ép Lilina làm đàn em nên gọi mày, lúc nhại giọng ngọt thì gọi em gái. [biên tập trưởng độc lập, 02/11]"
+   },
+   {
+    "from": "prisoner54",
+    "to": "cell_boss",
+    "self": "em",
+    "call": "đại ca"
+   },
+   {
+    "from": "loken",
+    "to": "lilina",
+    "self": "ta",
+    "call": "cô; khi gốc gọi danh hiệu: Thiên Sứ Săn Mồi \\N[1]",
+    "note": "Gã buôn tin cũ nay thành trùm, bỡn cợt, nắm thế thượng phong, nên ta – cô. [biên tập trưởng độc lập, 02/11]"
+   },
+   {
+    "from": "lilina",
+    "to": "loken",
+    "self": "tôi; sau khi nghiện thuốc: em (người ta khi gốc 人家)",
+    "call": "ngươi; sau khi nghiện thuốc: ngài \\N[70]",
+    "changes": "Sau 10 ngày nghiện thuốc: từ tôi – ngươi (thù địch) sang em – ngài \\N[70] (lệ thuộc, nài nỉ).",
+    "note": "Ban đầu bị bắt và kháng cự ('Đừng mơ, tôi không giúp ngươi'), nên giữ khoảng cách thù địch; nghiện rồi thì phục tùng. [biên tập trưởng độc lập, 02/11]"
+   },
+   {
+    "from": "villager1",
+    "to": "lilina",
+    "self": "tao / bọn tao",
+    "call": "con gái dâm (癡女) / con nhỏ"
+   },
+   {
+    "from": "lilina",
+    "to": "cell_boss",
+    "self": "tôi",
+    "call": "ông; khi chửi, giận: lão",
+    "note": "Bị ép nhưng vẫn thù hằn, cố giữ khoảng cách nên dùng tôi/ông; lúc mắng gọi 'lão' để khớp với 'ông đây'. [biên tập trưởng độc lập, 02/11]"
+   },
+   {
+    "from": "prisoner54",
+    "to": "lilina",
+    "self": "tao",
+    "call": "mày; khi chửi: con dâm nữ",
+    "note": "Nữ tù cục cằn, xua đuổi ('Cút, cút đi'), mặc cả đồ ăn, nên tao – mày; (cặp này là 女囚犯, nữ). [biên tập trưởng độc lập, 02/11]"
+   },
+   {
+    "from": "lilina",
+    "to": "prisoner54",
+    "self": "em",
+    "call": "chị",
+    "note": "Lilina đang bị dục vọng chi phối, nũng nịu nài nỉ ('Đừng lạnh lùng thế mà～'), nên hạ mình em – chị trước một kẻ đáp tao – mày, đúng kiểu người Việt. [biên tập trưởng độc lập, 02/11]"
+   },
+   {
+    "from": "darren",
+    "to": "guard53",
+    "self": "ta",
+    "call": "các ngươi; khi quát: bọn bay",
+    "note": "Giám ngục trưởng ra lệnh cho lính dưới quyền, quát kiểu 'Câm mồm! Bọn bay là sơn tặc hay lính Đế quốc!'. [biên tập trưởng độc lập, 02/11]"
+   },
+   {
+    "from": "guard53",
+    "to": "darren",
+    "self": "thuộc hạ",
+    "call": "đại nhân",
+    "changes": "Lính nói với nhau thì xưng 'ông đây/tao' (老子).",
+    "note": "Lính đáp cấp trên 'Rõ! Đại nhân!'. [biên tập trưởng độc lập, 02/11]"
+   }
+  ],
+  "glossary": [
+   {
+    "src": "典獄長 / 物資官 / 管理官 / 農場管理官 / 獄霸",
+    "vi": "trưởng ngục / quan hậu cần / quan quản lý / quan quản lý nông trại / trùm phòng giam"
+   },
+   {
+    "src": "蛇女三姐妹 / 蛇女A/B/C",
+    "vi": "ba chị em Người rắn / Nữ Rắn A/B/C"
+   },
+   {
+    "src": "自慰 / 榨乳 / 精液吸收 / 射精 / Futa化 / 出產&流產",
+    "vi": "Thủ dâm / Vắt sữa / Hấp thụ tinh dịch / Xuất tinh / Futa hóa / Sinh nở & Sẩy thai",
+    "note": "tên kỹ năng"
+   },
+   {
+    "src": "墮落 / 欲望 / 魅力 / 理性 / 詛咒 / 羞恥 / 順從",
+    "vi": "Sa đọa / Dục vọng / Quyến rũ / Lý trí / Nguyền rủa / Xấu hổ / Phục tùng",
+    "note": "chỉ số"
+   },
+   {
+    "src": "老師 (\\N[51]) / 學生 (\\N[52]) / 守衛 (\\N[53]) / 囚犯 (\\N[54]) / 村民 (\\N[55])",
+    "vi": "Giáo viên / Học viên / Lính gác / Tù nhân / Dân làng"
+   }
+  ],
+  "scene": {
+   "effect": "căng",
+   "mood": "đe dọa",
+   "summary": "Trùm phòng giam bắt gặp Lilina tự an ủi, dọa tố cô định vượt ngục để ép quan hệ. Cô viện cớ quy định của giám ngục, chỉ chịu phục vụ bằng miệng.",
+   "mach": {
+    "mach_toi_day": "Lilina đang ngồi tù ở Nhà ngục Đế quốc, phải đào quặng lấy phiếu lao động. Trùm phòng giam đã bắt cô phục vụ cả đám, ép làm 'đàn em' nộp phiếu mỗi ngày, phạt cô bằng thuốc kích dục, rồi còn cướp quặng quý và vu khống cô. Giám ngục trưởng Darren đã phong cho cô một danh hiệu (trong tuyến này \\N[1] hiện ra thành danh hiệu đó) và coi cô là của riêng mình. Giáp thiếu năng lượng dâm dục nên cô bị dục vọng hành hạ, và cô đang lén chuẩn bị vượt ngục.",
+    "nhan_vat": [
+     {
+      "ten": "lilina",
+      "tam_trang": "Bứt rứt vì dục vọng, lén tìm góc vắng để tự giải tỏa, xấu hổ với chính mình",
+      "muon": "Thoát khỏi trùm phòng giam mà không bị cưỡng hiếp; giữ kín kế hoạch vượt ngục",
+      "giau": "Cô đang chuẩn bị vượt ngục thật, nên lời dọa của hắn trúng tim đen. Lấy cớ quy định của giám ngục là để giữ lại chút gì đó cho bản thân",
+      "giong": "Lúc đầu thầm thì, ngập ngừng, tự mắng mình. Bị bắt quả tang thì cắt cụt ('Ông! …'), giọng gắt mà run. Lúc phản kháng thì dứt khoát, liều lĩnh. Khi bị nắm thóp thì lắp bắp, rồi chuyển sang mặc cả lạnh lùng, cuối cùng đáp gọn như chịu thua"
+     },
+     {
+      "ten": "cell_boss",
+      "tam_trang": "Khoái trá vì bắt được con mồi đang lúc yếu nhất",
+      "muon": "Làm nhục cô bằng chính danh hiệu của cô và ép cô phục vụ thân xác",
+      "giau": "Hắn sợ Darren và sợ bị lính canh bắt quả tang, nên khi cô dọa la lên thì hắn phải lùi. Vụ 'vượt ngục' là con bài tẩy hắn nghe được, chưa chắc có bằng chứng",
+      "giong": "Côn đồ, bỡn cợt, xưng 'ông đây'. Nhại giọng õng ẹo khi mỉa ('sợ quá đi mất～'), quát đàn em cộc lốc. Khi đe dọa thì giả vờ ngây thơ, kéo dài '～'. Câu ngắn, nhiều cảm thán"
+     },
+     {
+      "ten": "prisoner54",
+      "tam_trang": "Khúm núm, nịnh đại ca",
+      "muon": "Lấy lòng đại ca",
+      "giau": "",
+      "giong": "Nhanh nhảu, nịnh trên nạt dưới: với đại ca thì 'đại ca', 'em'; quát Lilina thì sừng sộ, thô"
+     }
+    ],
+    "xung_ho": [
+     {
+      "noi": "lilina",
+      "nghe": "cell_boss",
+      "xung": "tôi",
+      "goi": "ông",
+      "tu_cau": "",
+      "ly_do": "Thù hằn, bị ép nhưng cố giữ khoảng cách; 'Ông!' khi gắt. Dù xuống nước vẫn giữ tôi – ông"
+     },
+     {
+      "noi": "cell_boss",
+      "nghe": "lilina",
+      "xung": "ông đây",
+      "goi": "mày",
+      "tu_cau": "",
+      "ly_do": "Côn đồ cậy thế (老子). Khi mỉa thì gọi cô bằng danh hiệu \\N[1] như gọi tên riêng, đầy giễu cợt"
+     },
+     {
+      "noi": "cell_boss",
+      "nghe": "prisoner54",
+      "xung": "ông đây",
+      "goi": "mày",
+      "tu_cau": "誰讓你接話的",
+      "ly_do": "Quát đàn em chen ngang"
+     },
+     {
+      "noi": "prisoner54",
+      "nghe": "cell_boss",
+      "xung": "em",
+      "goi": "đại ca",
+      "tu_cau": "",
+      "ly_do": "Đàn em nịnh trùm"
+     },
+     {
+      "noi": "prisoner54",
+      "nghe": "lilina",
+      "xung": "tao",
+      "goi": "mày",
+      "tu_cau": "居然敢質問老大",
+      "ly_do": "Nạt nữ tù thay đại ca; gọi trùm là 'đại ca bọn tao'"
+     }
+    ],
+    "nhip": [
+     {
+      "tai": "這里好像沒有人",
+      "chuyen": "Lilina từ dè chừng chuyển sang buông theo dục vọng, rồi giật mình tự mắng mình"
+     },
+     {
+      "tai": "瞧瞧！這不是",
+      "chuyen": "Bị bắt quả tang: từ xấu hổ chuyển sang hoảng và cảnh giác"
+     },
+     {
+      "tai": "對了，\\C[3]典獄長",
+      "chuyen": "Trùm phòng giam chuyển từ chọc ghẹo sang làm nhục, ép cô tự nói ra danh hiệu"
+     },
+     {
+      "tai": "你別過來！不然我要",
+      "chuyen": "Lilina phản kháng, dọa la lên; hắn đáp lại bằng giọng mỉa"
+     },
+     {
+      "tai": "（怎么辦？）",
+      "chuyen": "Cô bế tắc, đứng trước lựa chọn phục tùng hay chống lại"
+     },
+     {
+      "tai": "請讓開！不然我真的",
+      "chuyen": "Cô liều, chấp nhận trả giá với lính gác để thoát; hắn bị dồn nên chịu lùi ('算你狠')"
+     },
+     {
+      "tai": "等等！",
+      "chuyen": "Hắn lật thế bằng chuyện vượt ngục; Lilina từ thắng thế rơi vào hoảng loạn"
+     },
+     {
+      "tai": "你說話算話？",
+      "chuyen": "Cô chuyển sang mặc cả để giữ kế hoạch"
+     },
+     {
+      "tai": "好吧，我答應你",
+      "chuyen": "Cô khuất phục nhưng dựng 'quy định của giám ngục' làm lá chắn cuối; hắn sợ Darren nên nhận phục vụ bằng miệng"
+     },
+     {
+      "tai": "明白了",
+      "chuyen": "Cô cam chịu, giọng phẳng lặng"
+     }
+    ],
+    "lam_ro": [
+     {
+      "tai": "就在這里自慰吧～",
+      "noi": "lilina (dòng không nhãn, chữ màu hồng)",
+      "nghe": "tự nói",
+      "nghia": "Ý nghĩ bị dục vọng xúi giục, cũng có thể là một lựa chọn hiện lên. Ngay câu sau cô tự mắng mình"
+     },
+     {
+      "tai": "我在想什么呢！",
+      "noi": "lilina (không nhãn)",
+      "nghe": "tự nói",
+      "nghia": "Câu cửa miệng tự trách: 'Mình đang nghĩ cái gì thế này!'"
+     },
+     {
+      "tai": "瞧瞧！這不是",
+      "noi": "cell_boss",
+      "nghe": "lilina",
+      "nghia": "Ở đây hắn gọi tên thật 'Lilina' (chữ viết thẳng, không phải mã \\N[1]). Giữ tên Lilina, vì câu sau mới đến trò bắt cô nói danh hiệu"
+     },
+     {
+      "tai": "唉？你下面從哪來",
+      "noi": "cell_boss",
+      "nghe": "lilina",
+      "nghia": "Chọc thô vào chỗ kín của cô đang ướt, tức là bắt quả tang cô vừa tự an ủi"
+     },
+     {
+      "tai": "老大，叫\\C[6]\\N[1]",
+      "noi": "prisoner54",
+      "nghe": "cell_boss",
+      "nghia": "\\N[1] ở tuyến nhà ngục bị thay bằng danh hiệu giám ngục ban. Giữ nguyên mã, đừng viết tên 'Lilina' vào đây. Câu nghĩa là 'Đại ca, là \\N[1] ạ'"
+     },
+     {
+      "tai": "誰讓你接話的！",
+      "noi": "cell_boss",
+      "nghe": "prisoner54",
+      "nghia": "Hắn muốn chính miệng cô nói ra danh hiệu để làm nhục cô"
+     },
+     {
+      "tai": "獲得了這么霸氣的",
+      "noi": "cell_boss",
+      "nghe": "lilina",
+      "nghia": "Mỉa mai: giả vờ tôn kính danh hiệu, thực chất là đòi 'chiêm ngưỡng' thân thể cô"
+     },
+     {
+      "tai": "哎呦～有\\C[3]典獄長",
+      "noi": "cell_boss",
+      "nghe": "lilina",
+      "nghia": "Nói mỉa, nhại giọng õng ẹo kiểu 'Ối dồi ôi, có giám ngục trưởng chống lưng, sợ quá đi mất～'. Thật ra hắn không sợ, đang giễu cô"
+     },
+     {
+      "tai": "哈～看來默認了",
+      "noi": "cell_boss",
+      "nghe": "lilina",
+      "nghia": "Cô im lặng nên hắn coi như cô đã thừa nhận mình dâm"
+     },
+     {
+      "tai": "順從",
+      "noi": "(lựa chọn hệ thống)",
+      "nghe": "người chơi",
+      "nghia": "Hai nút lựa chọn 'Phục tùng' / 'Phản kháng'. Các dòng sau đây là nhánh Phản kháng"
+     },
+     {
+      "tai": "（順從他，肯定不會",
+      "noi": "lilina",
+      "nghe": "tự nói",
+      "nghia": "Lý do cô chọn phản kháng: nếu phục tùng thì hắn chắc chắn không dễ dàng tha cho cô"
+     },
+     {
+      "tai": "請讓開！不然我真的",
+      "noi": "lilina",
+      "nghe": "cell_boss",
+      "nghia": "'Cùng lắm' là cô phải hầu lính gác trọn một ngày để trả công cho việc gọi lính tới. Cô chấp nhận cái giá đó, còn hơn rơi vào tay hắn. \\N[53] = Lính gác"
+     },
+     {
+      "tai": "算你狠！",
+      "noi": "cell_boss",
+      "nghe": "lilina",
+      "nghia": "'Mày được lắm!': hắn chịu thua, định bỏ đi"
+     },
+     {
+      "tai": "這種事沒有確實的證據",
+      "noi": "cell_boss",
+      "nghe": "lilina",
+      "nghia": "Nói lấp lửng, ngụ ý hắn đã có bằng chứng, không phải nói bừa. Đây là lời đe dọa"
+     },
+     {
+      "tai": "不怎么樣，只是想跟",
+      "noi": "cell_boss",
+      "nghe": "lilina",
+      "nghia": "Nói tránh trơ trẽn: 'gắn kết tình cảm bằng thân thể' tức là đòi ngủ với cô. Ở đây \\N[1] là danh hiệu, hắn gọi bằng giọng giễu"
+     },
+     {
+      "tai": "好吧，我答應你 ，",
+      "noi": "lilina",
+      "nghe": "cell_boss",
+      "nghia": "Có dấu cách thừa trong gốc, bỏ đi. Cô viện quy định của Darren: chỗ kín của cô chỉ giám ngục được dùng, kẻ khác vi phạm thì sẽ lãnh hậu quả (câu bỏ lửng)"
+     },
+     {
+      "tai": "聰明的女人",
+      "noi": "cell_boss",
+      "nghe": "lilina",
+      "nghia": "Khen kiểu kẻ thắng: 'đàn bà biết điều'"
+     }
+    ],
+    "giong_van": "Câu ngắn, cộc, đậm chất tù và côn đồ: trùm phòng giam xưng 'ông đây', giọng bỡn cợt, nhại õng ẹo có '～'. Lilina gắt đứt quãng ('Ông! …'), lúc mặc cả thì lạnh và gọn. Giữ đúng mức thô của gốc ở câu chỗ kín ướt và câu về chỗ kín 'chỉ giám ngục được dùng', không nói tránh. Giữ nguyên mã \\N[1], \\N[53] và các mã màu.",
+    "an_y": "Người đọc cần thấy cô bị kẹt giữa hai kẻ chiếm hữu: cái 'luật' của Darren vốn là xiềng xích, giờ lại thành lá chắn duy nhất cô dùng được. Đây là một kiểu thắng mà cũng là thua, nhục nhã và trớ trêu. Danh hiệu 'oai' bị bọn tù dùng để làm nhục cô. Kế hoạch vượt ngục đã lộ một phần, nên lơ lửng một mối đe dọa về sau."
+   }
+  },
+  "lines": [
+   {
+    "id": "0",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n這里好像沒有人……",
+    "sp": "lilina"
+   },
+   {
+    "id": "1",
+    "k": "choice",
+    "s": "⟦0⟧就在這里自慰吧～⟦1⟧"
+   },
+   {
+    "id": "2",
+    "k": "choice",
+    "s": "我在想什么呢！"
+   },
+   {
+    "id": "3",
+    "k": "dialogue",
+    "s": "⟦0⟧獄霸⟦1⟧：\n瞧瞧！這不是⟦2⟧莉莉娜⟦3⟧嘛！",
+    "sp": "cell_boss"
+   },
+   {
+    "id": "4",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n你！你又想做什么！",
+    "sp": "lilina"
+   },
+   {
+    "id": "5",
+    "k": "dialogue",
+    "s": "⟦0⟧獄霸⟦1⟧：\n路過而已",
+    "sp": "cell_boss"
+   },
+   {
+    "id": "6",
+    "k": "dialogue",
+    "s": "⟦0⟧獄霸⟦1⟧：\n唉？你下面從哪來那么多水？！",
+    "sp": "cell_boss"
+   },
+   {
+    "id": "7",
+    "k": "dialogue",
+    "s": "⟦0⟧獄霸⟦1⟧：\n對了，⟦2⟧典獄長⟦3⟧好像親自為你授予了稱號，叫啥來著呢？",
+    "sp": "cell_boss"
+   },
+   {
+    "id": "8",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n老大，叫⟦3⟧⟦4⟧⟦5⟧",
+    "sp": "prisoner54"
+   },
+   {
+    "id": "9",
+    "k": "dialogue",
+    "s": "⟦0⟧獄霸⟦1⟧：\n誰讓你接話的！老子就是想聽她自己說出來！",
+    "sp": "cell_boss"
+   },
+   {
+    "id": "10",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n你想怎么樣？",
+    "sp": "lilina"
+   },
+   {
+    "id": "11",
+    "k": "dialogue",
+    "s": "⟦0⟧獄霸⟦1⟧：\n獲得了這么霸氣的稱號，同為囚犯的我們，怎么能不瞻仰一下呢！",
+    "sp": "cell_boss"
+   },
+   {
+    "id": "12",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n你別過來！不然我要叫了！",
+    "sp": "lilina"
+   },
+   {
+    "id": "13",
+    "k": "dialogue",
+    "s": "⟦0⟧獄霸⟦1⟧：\n哎呦～有⟦2⟧典獄長⟦3⟧罩著，我好怕怕哦～",
+    "sp": "cell_boss"
+   },
+   {
+    "id": "14",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n你……",
+    "sp": "lilina"
+   },
+   {
+    "id": "15",
+    "k": "dialogue",
+    "s": "⟦0⟧獄霸⟦1⟧：\n拿到了⟦2⟧⟦3⟧⟦4⟧的稱號，還跑來這里自慰，你性欲到底有多強啊？",
+    "sp": "cell_boss"
+   },
+   {
+    "id": "16",
+    "k": "dialogue",
+    "s": "⟦0⟧獄霸⟦1⟧：\n哈～看來默認了",
+    "sp": "cell_boss"
+   },
+   {
+    "id": "17",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n（怎么辦？）",
+    "sp": "lilina"
+   },
+   {
+    "id": "18",
+    "k": "choice",
+    "s": "⟦0⟧順從⟦1⟧"
+   },
+   {
+    "id": "19",
+    "k": "choice",
+    "s": "⟦0⟧反抗⟦1⟧"
+   },
+   {
+    "id": "20",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n（順從他，肯定不會輕易放過我……）",
+    "sp": "lilina"
+   },
+   {
+    "id": "21",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n請讓開！不然我真的要叫了！大不了回頭我伺候一整天⟦3⟧！",
+    "sp": "lilina"
+   },
+   {
+    "id": "22",
+    "k": "dialogue",
+    "s": "⟦0⟧獄霸⟦1⟧：\n算你狠！",
+    "sp": "cell_boss"
+   },
+   {
+    "id": "23",
+    "k": "dialogue",
+    "s": "⟦0⟧獄霸⟦1⟧：\n等等！",
+    "sp": "cell_boss"
+   },
+   {
+    "id": "24",
+    "k": "dialogue",
+    "s": "⟦0⟧獄霸⟦1⟧：\n我想起一件事！",
+    "sp": "cell_boss"
+   },
+   {
+    "id": "25",
+    "k": "dialogue",
+    "s": "⟦0⟧獄霸⟦1⟧：\n我聽說你在準備越獄，不知道⟦2⟧典獄長⟦3⟧知道了會做何感想……",
+    "sp": "cell_boss"
+   },
+   {
+    "id": "26",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n你！你別胡說！",
+    "sp": "lilina"
+   },
+   {
+    "id": "27",
+    "k": "dialogue",
+    "s": "⟦0⟧獄霸⟦1⟧：\n這種事沒有確實的證據，我哪敢胡說呢～",
+    "sp": "cell_boss"
+   },
+   {
+    "id": "28",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n你！",
+    "sp": "lilina"
+   },
+   {
+    "id": "29",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n你到底想怎樣？",
+    "sp": "lilina"
+   },
+   {
+    "id": "30",
+    "k": "dialogue",
+    "s": "⟦0⟧獄霸⟦1⟧：\n不怎么樣，只是想跟⟦2⟧⟦3⟧⟦4⟧用身體增進感情",
+    "sp": "cell_boss"
+   },
+   {
+    "id": "31",
+    "k": "dialogue",
+    "s": "⟦0⟧獄霸⟦1⟧：\n放心，只要你答應了，我和我的手下絕對不會干預你的計劃，怎么樣？",
+    "sp": "cell_boss"
+   },
+   {
+    "id": "32",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n你說話算話？",
+    "sp": "lilina"
+   },
+   {
+    "id": "33",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n居然敢質問老大，不想活了啊！我們老大從不失言！",
+    "sp": "prisoner54"
+   },
+   {
+    "id": "34",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n好吧，我答應你 ，不過……⟦3⟧典獄長⟦4⟧規定，我的小穴只能被他使用，如果違反了……",
+    "sp": "lilina"
+   },
+   {
+    "id": "35",
+    "k": "dialogue",
+    "s": "⟦0⟧獄霸⟦1⟧：\n明白，我可不敢跟⟦2⟧典獄長⟦3⟧對著干，以后你就用嘴來服侍老子吧",
+    "sp": "cell_boss"
+   },
+   {
+    "id": "36",
+    "k": "dialogue",
+    "s": "⟦0⟧獄霸⟦1⟧：\n如果服侍的好，老子也會給你獎勵！",
+    "sp": "cell_boss"
+   },
+   {
+    "id": "37",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n明白了",
+    "sp": "lilina"
+   },
+   {
+    "id": "38",
+    "k": "dialogue",
+    "s": "⟦0⟧獄霸⟦1⟧：\n聰明的女人，跟老子來吧",
+    "sp": "cell_boss"
+   }
+  ]
+ },
+ "meta": [
+  {
+   "speaker": "莉莉娜",
+   "face": "lilina1",
+   "codes": [
+    "\\C[6]",
+    "\\N[1]",
+    "\\C[0]"
+   ],
+   "source": "\\C[6]\\N[1]\\C[0]：\n這里好像沒有人……",
+   "ban_hien_tai": "\\C[6]\\N[1]\\C[0]:\nChỗ này hình như không có ai……"
+  },
+  {
+   "speaker": null,
+   "face": null,
+   "codes": [
+    "\\C[5]",
+    "\\C[0]"
+   ],
+   "source": "\\C[5]就在這里自慰吧～\\C[0]",
+   "ban_hien_tai": "\\C[5]Thủ dâm ngay ở đây thôi~\\C[0]"
+  },
+  {
+   "speaker": null,
+   "face": null,
+   "codes": [],
+   "source": "我在想什么呢！",
+   "ban_hien_tai": "Mình đang nghĩ cái gì thế này!"
+  },
+  {
+   "speaker": "獄霸",
+   "face": null,
+   "codes": [
+    "\\C[3]",
+    "\\C[0]",
+    "\\C[6]",
+    "\\C[0]"
+   ],
+   "source": "\\C[3]獄霸\\C[0]：\n瞧瞧！這不是\\C[6]莉莉娜\\C[0]嘛！",
+   "ban_hien_tai": "\\C[3]Trùm phòng giam\\C[0]:\nNhìn xem! Đây chẳng phải \\C[6]Lilina\\C[0] sao!"
+  },
+  {
+   "speaker": "莉莉娜",
+   "face": "lilina2",
+   "codes": [
+    "\\C[6]",
+    "\\N[1]",
+    "\\C[0]"
+   ],
+   "source": "\\C[6]\\N[1]\\C[0]：\n你！你又想做什么！",
+   "ban_hien_tai": "\\C[6]\\N[1]\\C[0]:\nAnh! Anh lại định làm gì!"
+  },
+  {
+   "speaker": "獄霸",
+   "face": null,
+   "codes": [
+    "\\C[3]",
+    "\\C[0]"
+   ],
+   "source": "\\C[3]獄霸\\C[0]：\n路過而已",
+   "ban_hien_tai": "\\C[3]Trùm phòng giam\\C[0]:\nĐi ngang qua thôi"
+  },
+  {
+   "speaker": "獄霸",
+   "face": null,
+   "codes": [
+    "\\C[3]",
+    "\\C[0]"
+   ],
+   "source": "\\C[3]獄霸\\C[0]：\n唉？你下面從哪來那么多水？！",
+   "ban_hien_tai": "\\C[3]Trùm phòng giam\\C[0]:\nỦa? Bên dưới mày sao ra lắm nước thế?!"
+  },
+  {
+   "speaker": "獄霸",
+   "face": null,
+   "codes": [
+    "\\C[3]",
+    "\\C[0]",
+    "\\C[3]",
+    "\\C[0]"
+   ],
+   "source": "\\C[3]獄霸\\C[0]：\n對了，\\C[3]典獄長\\C[0]好像親自為你授予了稱號，叫啥來著呢？",
+   "ban_hien_tai": "\\C[3]Trùm phòng giam\\C[0]:\nĐúng rồi, nghe nói \\C[3]trưởng ngục\\C[0] đích thân phong danh hiệu cho mày, tên là gì ấy nhỉ?"
+  },
+  {
+   "speaker": "囚犯",
+   "face": null,
+   "codes": [
+    "\\C[3]",
+    "\\N[54]",
+    "\\C[0]",
+    "\\C[6]",
+    "\\N[1]",
+    "\\C[0]"
+   ],
+   "source": "\\C[3]\\N[54]\\C[0]：\n老大，叫\\C[6]\\N[1]\\C[0]",
+   "ban_hien_tai": "\\C[3]\\N[54]\\C[0]:\nĐại ca, tên là \\C[6]\\N[1]\\C[0]"
+  },
+  {
+   "speaker": "獄霸",
+   "face": null,
+   "codes": [
+    "\\C[3]",
+    "\\C[0]"
+   ],
+   "source": "\\C[3]獄霸\\C[0]：\n誰讓你接話的！老子就是想聽她自己說出來！",
+   "ban_hien_tai": "\\C[3]Trùm phòng giam\\C[0]:\nAi cho mày xen vào! Ông đây muốn nghe chính nó nói ra cơ!"
+  },
+  {
+   "speaker": "莉莉娜",
+   "face": "lilina1",
+   "codes": [
+    "\\C[6]",
+    "\\N[1]",
+    "\\C[0]"
+   ],
+   "source": "\\C[6]\\N[1]\\C[0]：\n你想怎么樣？",
+   "ban_hien_tai": "\\C[6]\\N[1]\\C[0]:\nAnh muốn gì?"
+  },
+  {
+   "speaker": "獄霸",
+   "face": null,
+   "codes": [
+    "\\C[3]",
+    "\\C[0]"
+   ],
+   "source": "\\C[3]獄霸\\C[0]：\n獲得了這么霸氣的稱號，同為囚犯的我們，怎么能不瞻仰一下呢！",
+   "ban_hien_tai": "\\C[3]Trùm phòng giam\\C[0]:\nĐược phong danh hiệu oai thế, bọn tù nhân cùng cảnh như bọn tao sao lại không chiêm ngưỡng một chút cho được!"
+  },
+  {
+   "speaker": "莉莉娜",
+   "face": "lilina2",
+   "codes": [
+    "\\C[6]",
+    "\\N[1]",
+    "\\C[0]"
+   ],
+   "source": "\\C[6]\\N[1]\\C[0]：\n你別過來！不然我要叫了！",
+   "ban_hien_tai": "\\C[6]\\N[1]\\C[0]:\nĐừng lại gần! Không thì tôi hét lên đấy!"
+  },
+  {
+   "speaker": "獄霸",
+   "face": null,
+   "codes": [
+    "\\C[3]",
+    "\\C[0]",
+    "\\C[3]",
+    "\\C[0]"
+   ],
+   "source": "\\C[3]獄霸\\C[0]：\n哎呦～有\\C[3]典獄長\\C[0]罩著，我好怕怕哦～",
+   "ban_hien_tai": "\\C[3]Trùm phòng giam\\C[0]:\nÔi dồi ôi~ có \\C[3]trưởng ngục\\C[0] chống lưng, ông đây sợ quá đi mất~"
+  },
+  {
+   "speaker": "莉莉娜",
+   "face": "lilina1",
+   "codes": [
+    "\\C[6]",
+    "\\N[1]",
+    "\\C[0]"
+   ],
+   "source": "\\C[6]\\N[1]\\C[0]：\n你……",
+   "ban_hien_tai": "\\C[6]\\N[1]\\C[0]:\nAnh……"
+  },
+  {
+   "speaker": "獄霸",
+   "face": null,
+   "codes": [
+    "\\C[3]",
+    "\\C[0]",
+    "\\C[6]",
+    "\\N[1]",
+    "\\C[0]"
+   ],
+   "source": "\\C[3]獄霸\\C[0]：\n拿到了\\C[6]\\N[1]\\C[0]的稱號，還跑來這里自慰，你性欲到底有多強啊？",
+   "ban_hien_tai": "\\C[3]Trùm phòng giam\\C[0]:\nĐược phong danh hiệu \\C[6]\\N[1]\\C[0] rồi mà còn chạy tới đây tự an ủi, rốt cuộc mày thèm khát đến mức nào vậy?"
+  },
+  {
+   "speaker": "獄霸",
+   "face": null,
+   "codes": [
+    "\\C[3]",
+    "\\C[0]"
+   ],
+   "source": "\\C[3]獄霸\\C[0]：\n哈～看來默認了",
+   "ban_hien_tai": "\\C[3]Trùm phòng giam\\C[0]:\nHà~ xem ra là ngầm thừa nhận rồi"
+  },
+  {
+   "speaker": "莉莉娜",
+   "face": "lilina1",
+   "codes": [
+    "\\C[6]",
+    "\\N[1]",
+    "\\C[0]"
+   ],
+   "source": "\\C[6]\\N[1]\\C[0]：\n（怎么辦？）",
+   "ban_hien_tai": "\\C[6]\\N[1]\\C[0]:\n(Làm sao đây?)"
+  },
+  {
+   "speaker": null,
+   "face": null,
+   "codes": [
+    "\\C[5]",
+    "\\C[0]"
+   ],
+   "source": "\\C[5]順從\\C[0]",
+   "ban_hien_tai": "\\C[5]Phục tùng\\C[0]"
+  },
+  {
+   "speaker": null,
+   "face": null,
+   "codes": [
+    "\\C[2]",
+    "\\C[0]"
+   ],
+   "source": "\\C[2]反抗\\C[0]",
+   "ban_hien_tai": "\\C[2]Phản kháng\\C[0]"
+  },
+  {
+   "speaker": "莉莉娜",
+   "face": "lilina1",
+   "codes": [
+    "\\C[6]",
+    "\\N[1]",
+    "\\C[0]"
+   ],
+   "source": "\\C[6]\\N[1]\\C[0]：\n（順從他，肯定不會輕易放過我……）",
+   "ban_hien_tai": "\\C[6]\\N[1]\\C[0]:\n(Mà phục tùng hắn thì chắc chắn hắn cũng không dễ buông tha mình……)"
+  },
+  {
+   "speaker": "莉莉娜",
+   "face": "lilina1",
+   "codes": [
+    "\\C[6]",
+    "\\N[1]",
+    "\\C[0]",
+    "\\N[53]"
+   ],
+   "source": "\\C[6]\\N[1]\\C[0]：\n請讓開！不然我真的要叫了！大不了回頭我伺候一整天\\N[53]！",
+   "ban_hien_tai": "\\C[6]\\N[1]\\C[0]:\nXin tránh ra! Không thì tôi hét thật đấy! Cùng lắm lát nữa tôi hầu \\N[53] cả ngày!"
+  },
+  {
+   "speaker": "獄霸",
+   "face": null,
+   "codes": [
+    "\\C[3]",
+    "\\C[0]"
+   ],
+   "source": "\\C[3]獄霸\\C[0]：\n算你狠！",
+   "ban_hien_tai": "\\C[3]Trùm phòng giam\\C[0]:\nMày được lắm!"
+  },
+  {
+   "speaker": "獄霸",
+   "face": null,
+   "codes": [
+    "\\C[3]",
+    "\\C[0]"
+   ],
+   "source": "\\C[3]獄霸\\C[0]：\n等等！",
+   "ban_hien_tai": "\\C[3]Trùm phòng giam\\C[0]:\nKhoan đã!"
+  },
+  {
+   "speaker": "獄霸",
+   "face": null,
+   "codes": [
+    "\\C[3]",
+    "\\C[0]"
+   ],
+   "source": "\\C[3]獄霸\\C[0]：\n我想起一件事！",
+   "ban_hien_tai": "\\C[3]Trùm phòng giam\\C[0]:\nÔng đây nhớ ra một chuyện!"
+  },
+  {
+   "speaker": "獄霸",
+   "face": null,
+   "codes": [
+    "\\C[3]",
+    "\\C[0]",
+    "\\C[3]",
+    "\\C[0]"
+   ],
+   "source": "\\C[3]獄霸\\C[0]：\n我聽說你在準備越獄，不知道\\C[3]典獄長\\C[0]知道了會做何感想……",
+   "ban_hien_tai": "\\C[3]Trùm phòng giam\\C[0]:\nNghe nói mày đang chuẩn bị vượt ngục, không biết nếu \\C[3]trưởng ngục\\C[0] biết thì sẽ nghĩ sao nhỉ……"
+  },
+  {
+   "speaker": "莉莉娜",
+   "face": "lilina2",
+   "codes": [
+    "\\C[6]",
+    "\\N[1]",
+    "\\C[0]"
+   ],
+   "source": "\\C[6]\\N[1]\\C[0]：\n你！你別胡說！",
+   "ban_hien_tai": "\\C[6]\\N[1]\\C[0]:\nAnh! Đừng có nói bậy!"
+  },
+  {
+   "speaker": "獄霸",
+   "face": null,
+   "codes": [
+    "\\C[3]",
+    "\\C[0]"
+   ],
+   "source": "\\C[3]獄霸\\C[0]：\n這種事沒有確實的證據，我哪敢胡說呢～",
+   "ban_hien_tai": "\\C[3]Trùm phòng giam\\C[0]:\nChuyện này không có bằng chứng xác thực, ông đây nào dám nói bậy~"
+  },
+  {
+   "speaker": "莉莉娜",
+   "face": "lilina1",
+   "codes": [
+    "\\C[6]",
+    "\\N[1]",
+    "\\C[0]"
+   ],
+   "source": "\\C[6]\\N[1]\\C[0]：\n你！",
+   "ban_hien_tai": "\\C[6]\\N[1]\\C[0]:\nÔng!"
+  },
+  {
+   "speaker": "莉莉娜",
+   "face": "lilina1",
+   "codes": [
+    "\\C[6]",
+    "\\N[1]",
+    "\\C[0]"
+   ],
+   "source": "\\C[6]\\N[1]\\C[0]：\n你到底想怎樣？",
+   "ban_hien_tai": "\\C[6]\\N[1]\\C[0]:\nRốt cuộc anh muốn thế nào?"
+  },
+  {
+   "speaker": "獄霸",
+   "face": null,
+   "codes": [
+    "\\C[3]",
+    "\\C[0]",
+    "\\C[6]",
+    "\\N[1]",
+    "\\C[0]"
+   ],
+   "source": "\\C[3]獄霸\\C[0]：\n不怎么樣，只是想跟\\C[6]\\N[1]\\C[0]用身體增進感情",
+   "ban_hien_tai": "\\C[3]Trùm phòng giam\\C[0]:\nChẳng thế nào cả, chỉ muốn dùng thân xác để vun đắp tình cảm với \\C[6]\\N[1]\\C[0] thôi"
+  },
+  {
+   "speaker": "獄霸",
+   "face": null,
+   "codes": [
+    "\\C[3]",
+    "\\C[0]"
+   ],
+   "source": "\\C[3]獄霸\\C[0]：\n放心，只要你答應了，我和我的手下絕對不會干預你的計劃，怎么樣？",
+   "ban_hien_tai": "\\C[3]Trùm phòng giam\\C[0]:\nYên tâm, chỉ cần mày đồng ý, tao với đám đàn em tuyệt đối không nhúng tay vào kế hoạch của mày, thế nào?"
+  },
+  {
+   "speaker": "莉莉娜",
+   "face": "lilina1",
+   "codes": [
+    "\\C[6]",
+    "\\N[1]",
+    "\\C[0]"
+   ],
+   "source": "\\C[6]\\N[1]\\C[0]：\n你說話算話？",
+   "ban_hien_tai": "\\C[6]\\N[1]\\C[0]:\nAnh nói là giữ lời chứ?"
+  },
+  {
+   "speaker": "囚犯",
+   "face": null,
+   "codes": [
+    "\\C[3]",
+    "\\N[54]",
+    "\\C[0]"
+   ],
+   "source": "\\C[3]\\N[54]\\C[0]：\n居然敢質問老大，不想活了啊！我們老大從不失言！",
+   "ban_hien_tai": "\\C[3]\\N[54]\\C[0]:\nDám chất vấn đại ca, muốn chết hả! Đại ca bọn tao chưa bao giờ nuốt lời!"
+  },
+  {
+   "speaker": "莉莉娜",
+   "face": "lilina1",
+   "codes": [
+    "\\C[6]",
+    "\\N[1]",
+    "\\C[0]",
+    "\\C[3]",
+    "\\C[0]"
+   ],
+   "source": "\\C[6]\\N[1]\\C[0]：\n好吧，我答應你 ，不過……\\C[3]典獄長\\C[0]規定，我的小穴只能被他使用，如果違反了……",
+   "ban_hien_tai": "\\C[6]\\N[1]\\C[0]:\nĐược, tôi đồng ý với anh, có điều…… \\C[3]trưởng ngục\\C[0] quy định bướm của tôi chỉ ông ta được dùng, nếu vi phạm thì……"
+  },
+  {
+   "speaker": "獄霸",
+   "face": null,
+   "codes": [
+    "\\C[3]",
+    "\\C[0]",
+    "\\C[3]",
+    "\\C[0]"
+   ],
+   "source": "\\C[3]獄霸\\C[0]：\n明白，我可不敢跟\\C[3]典獄長\\C[0]對著干，以后你就用嘴來服侍老子吧",
+   "ban_hien_tai": "\\C[3]Trùm phòng giam\\C[0]:\nBiết rồi, ông đây nào dám đối nghịch với \\C[3]trưởng ngục\\C[0], từ giờ mày cứ dùng miệng mà hầu hạ ông đây"
+  },
+  {
+   "speaker": "獄霸",
+   "face": null,
+   "codes": [
+    "\\C[3]",
+    "\\C[0]"
+   ],
+   "source": "\\C[3]獄霸\\C[0]：\n如果服侍的好，老子也會給你獎勵！",
+   "ban_hien_tai": "\\C[3]Trùm phòng giam\\C[0]:\nNếu hầu hạ tốt, ông đây cũng thưởng cho!"
+  },
+  {
+   "speaker": "莉莉娜",
+   "face": "lilina1",
+   "codes": [
+    "\\C[6]",
+    "\\N[1]",
+    "\\C[0]"
+   ],
+   "source": "\\C[6]\\N[1]\\C[0]：\n明白了",
+   "ban_hien_tai": "\\C[6]\\N[1]\\C[0]:\nTôi hiểu rồi"
+  },
+  {
+   "speaker": "獄霸",
+   "face": null,
+   "codes": [
+    "\\C[3]",
+    "\\C[0]"
+   ],
+   "source": "\\C[3]獄霸\\C[0]：\n聰明的女人，跟老子來吧",
+   "ban_hien_tai": "\\C[3]Trùm phòng giam\\C[0]:\nĐàn bà thông minh đấy, theo ông đây đi"
+  }
+ ],
+ "checks": [
+  {
+   "xung_ho_nhat_quan": true
+  },
+  {
+   "line": 22,
+   "cam": [
+    "em ác lắm"
+   ],
+   "ghi_chu": "算你狠: giọng côn đồ cay cú"
+  }
+ ],
+ "tao_luc": "2026-11-02"
+}

@@ -1,0 +1,3 @@
+# Thu 02/11 luong moi (chi dao canh + kiem nghia): dich gia SONNET cho moi vai thoai
+models: {dialogue: sonnet, key_scene: sonnet}
+effort: {dialogue: high, key_scene: high}

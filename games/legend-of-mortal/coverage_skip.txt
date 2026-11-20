@@ -1,0 +1,2 @@
+StreamingAssets/build_info  # dòng ghi giờ build của nhà làm game, không hiện trong game
+sharedassets0.assets  # font + TextAsset nguồn CSV của LeanLocalization (game đọc bảng đã dựng trong level0/level2/level3; bản vá cũ đã kiểm trong game)

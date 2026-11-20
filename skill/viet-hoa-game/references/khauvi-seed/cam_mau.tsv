@@ -1,0 +1,21 @@
+regex	goi_y	pham_vi
+theo những gì tôi biết thì	"trong ký ức của tôi"	chung
+nói đúng ra thì	bỏ cụm này	chung
+^\s*Là con thì	"Con thì"	chung
+khiến tôi hoài niệm	viết lại câu	chung
+buông tay khỏi đầu	"rút tay lại"	chung
+gương mặt[^.!?…]{0,20}bật cười	"gương mặt giãn ra"	chung
+cũng là \S+ hơn	"X cũng hơn Y"	chung
+lẹ lên làm đi	"nhanh tay lên!"	chung
+xin hãy chiếu cố	"mong được giúp đỡ" / "nhờ cả vào anh"	nguon:ja
+ngài đã mệt rồi	"vất vả rồi"	nguon:ja
+tôi xin nhận	"ăn thôi" / "mời cả nhà" (いただきます)	nguon:ja
+đút chiêu	"luyện chiêu", "đấu tập"	nguon:zh
+đánh mặt	"vả mặt", "bẽ mặt"	nguon:zh
+ôi chúa của tôi	"trời ơi"	nguon:en
+^["“]?Là [^?\n]{1,40}[.!]["”]?$	câu cụt bám "It's…": viết câu trọn, có chủ ngữ ("Bọn mình đang bị phạt đấy.")	chung
+một cách (dễ dàng|nhanh chóng|chậm rãi|nhẹ nhàng|mạnh mẽ|lặng lẽ|vội vàng|cẩn thận)	đưa trạng từ lên trước động từ ("dễ dàng gỡ tay ra")	chung
+, người (đang|đã|vừa|từng) 	mệnh đề "who…" bám EN: tách câu hoặc đưa lên trước	chung
+^(Một|Có một) (cái |chiếc |con |tấm |bức |cây |chiếc )?\S+( \S+){0,2}\.$	lời nhận xét đồ vật: "Cái thang.", "À, ghế xếp."	chung
+(xóa|xoá) (bỏ )?(hoàn toàn )?sự hiện diện|đã biến mất hoàn toàn rồi	気配を消す / erase one's presence → "nấp kín", "nín thở trốn"	chung
+lâm nguy thụ mệnh	"nhận việc lúc nguy cấp"	nguon:zh

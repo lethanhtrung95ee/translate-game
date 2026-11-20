@@ -1,0 +1,281 @@
+<title>Sơ đồ vgt</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,800&family=Be+Vietnam+Pro:wght@400;500;600&family=JetBrains+Mono:wght@400;600&display=swap">
+<style>
+/* Bố cục: một cột đọc dọc như bản vẽ kỹ thuật; mỗi bước là một hàng [ai làm | việc | cửa dừng]; màu chỉ mang nghĩa (ai làm, trạng thái). */
+:root{
+  --bg:#f3f5f7; --paper:#ffffff; --ink:#18212b; --mute:#5a6673; --line:#d5dbe2;
+  --code:#1f6f5c; --ai:#6a45b0; --you:#1d5fbf; --orch:#a2551c;
+  --gate:#fff3dc; --gate-edge:#c98a1a; --ok:#1f7a45; --warn:#b5401d; --off:#8a94a0;
+  --f-display:"Bricolage Grotesque","Segoe UI",system-ui,sans-serif;
+  --f-body:"Be Vietnam Pro","Segoe UI",system-ui,sans-serif;
+  --f-mono:"JetBrains Mono",Consolas,ui-monospace,monospace;
+}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
+  --bg:#12161b; --paper:#1a2027; --ink:#e6ebf0; --mute:#9aa6b2; --line:#2f3842;
+  --code:#4fc2a3; --ai:#b494ef; --you:#7fb0f5; --orch:#e39a62;
+  --gate:#33280f; --gate-edge:#e0a53a; --ok:#5ccf8a; --warn:#f08a68; --off:#7d8894; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#12161b; --paper:#1a2027; --ink:#e6ebf0; --mute:#9aa6b2; --line:#2f3842;
+  --code:#4fc2a3; --ai:#b494ef; --you:#7fb0f5; --orch:#e39a62;
+  --gate:#33280f; --gate-edge:#e0a53a; --ok:#5ccf8a; --warn:#f08a68; --off:#7d8894; color-scheme:dark}
+*{box-sizing:border-box}
+body{background:var(--bg);color:var(--ink);font:15px/1.6 var(--f-body);margin:0}
+.wrap{max-width:1000px;margin:0 auto;padding-block:28px 64px;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
+h1{font:800 clamp(28px,5vw,40px)/1.1 var(--f-display);margin:0 0 6px;letter-spacing:-.01em;text-wrap:balance}
+h2{font:700 21px/1.25 var(--f-display);margin:44px 0 6px;text-wrap:balance;display:flex;gap:10px;align-items:baseline}
+h2 .tag{font:600 11px/1 var(--f-mono);letter-spacing:.08em;color:var(--mute);text-transform:uppercase}
+h3{font:600 15px/1.35 var(--f-body);margin:0}
+p{margin:0}
+.lead{color:var(--mute);max-width:68ch}
+.lede2{color:var(--mute);max-width:68ch;margin-bottom:14px}
+code,.mono{font-family:var(--f-mono);font-size:12.5px}
+code{background:var(--bg);border:1px solid var(--line);padding:0 5px;border-radius:4px;word-break:break-word}
+nav{display:flex;flex-wrap:wrap;gap:6px;margin:18px 0 6px}
+nav a{font-size:13px;color:var(--ink);text-decoration:none;border:1px solid var(--line);background:var(--paper);padding:3px 10px;border-radius:999px}
+nav a:hover,nav a:focus-visible{border-color:var(--you);outline:none}
+.legend{display:flex;flex-wrap:wrap;gap:8px 16px;font-size:13px;color:var(--mute);margin-top:14px}
+.chip{display:inline-flex;align-items:center;gap:6px;font:600 11.5px/1 var(--f-body);padding:4px 8px;border-radius:6px;border:1px solid currentColor;white-space:nowrap}
+.c-you{color:var(--you)}.c-orch{color:var(--orch)}.c-code{color:var(--code)}.c-ai{color:var(--ai)}
+.st{font:600 11px/1 var(--f-mono);padding:3px 6px;border-radius:4px;white-space:nowrap}
+.st-ok{color:var(--ok);border:1px solid var(--ok)}
+.st-fake{color:var(--warn);border:1px dashed var(--warn)}
+.st-off{color:var(--off);border:1px dashed var(--off)}
+.flow{display:flex;flex-direction:column;gap:0;margin-top:14px}
+.row{display:grid;grid-template-columns:150px minmax(0,1fr);gap:14px;padding:12px 0;border-top:1px solid var(--line)}
+.row:first-child{border-top:0}
+.who{display:flex;flex-direction:column;gap:6px;align-items:flex-start}
+.n{font:800 13px/1 var(--f-display);color:var(--mute)}
+.body{display:flex;flex-direction:column;gap:6px;min-width:0}
+.body ul{margin:0;padding-left:18px;color:var(--ink)}
+.body li{margin:2px 0}
+.meta{display:flex;flex-wrap:wrap;gap:6px;align-items:center}
+.gate{background:var(--gate);border-left:3px solid var(--gate-edge);border-radius:0 6px 6px 0;padding:8px 12px;font-size:14px;display:flex;flex-direction:column;gap:2px}
+.gate b{font:600 12px/1.3 var(--f-mono);color:var(--gate-edge);letter-spacing:.02em}
+.new{font:600 10.5px/1 var(--f-mono);color:var(--paper);background:var(--ai);padding:3px 5px;border-radius:3px}
+.loopnote{font-size:13px;color:var(--mute)}
+.panel{background:var(--paper);border:1px solid var(--line);border-radius:10px;padding:16px;margin-top:14px}
+.pipe{display:flex;flex-wrap:wrap;gap:6px;align-items:stretch}
+.pipe .s{background:var(--paper);border:1px solid var(--line);border-radius:8px;padding:8px 10px;font-size:13px;flex:1 1 150px;min-width:0}
+.pipe .s h3{font-size:13px;margin-bottom:2px}
+.pipe .s p{color:var(--mute);font-size:12.5px}
+.pipe .arr{align-self:center;color:var(--mute);font:600 14px var(--f-mono)}
+.tbl{overflow-x:auto;margin-top:12px;border:1px solid var(--line);border-radius:10px;background:var(--paper)}
+table{border-collapse:collapse;width:100%;font-size:13.5px;min-width:560px}
+th,td{text-align:left;padding:8px 10px;border-bottom:1px solid var(--line);vertical-align:top}
+th{font:600 11.5px/1.3 var(--f-body);color:var(--mute);text-transform:uppercase;letter-spacing:.05em;background:var(--bg)}
+tr:last-child td{border-bottom:0}
+td.num{font-variant-numeric:tabular-nums;white-space:nowrap}
+.cols{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:12px;margin-top:12px}
+.box{background:var(--paper);border:1px solid var(--line);border-radius:10px;padding:14px;display:flex;flex-direction:column;gap:6px;min-width:0}
+.box p{font-size:13.5px;color:var(--mute)}
+.steps6{counter-reset:s;list-style:none;padding:0;margin:12px 0 0;display:grid;gap:8px}
+.steps6 li{counter-increment:s;display:grid;grid-template-columns:28px minmax(0,1fr);gap:10px;align-items:start;background:var(--paper);border:1px solid var(--line);border-radius:8px;padding:10px 12px;font-size:14px}
+.steps6 li::before{content:counter(s);font:800 15px/28px var(--f-display);text-align:center;border-radius:50%;background:var(--ink);color:var(--paper);width:28px;height:28px}
+.doubt{list-style:none;padding:0;margin:12px 0 0;display:grid;gap:8px}
+.doubt li{background:var(--paper);border:1px solid var(--line);border-left:3px solid var(--warn);border-radius:0 8px 8px 0;padding:9px 12px;font-size:14px}
+.doubt li b{display:block}
+footer{margin-top:48px;color:var(--mute);font-size:13px}
+@media (max-width:640px){.row{grid-template-columns:1fr;gap:8px}.who{flex-direction:row;flex-wrap:wrap;align-items:center}.pipe .arr{display:none}}
+@media (prefers-reduced-motion:reduce){*{transition:none!important}}
+</style>
+
+<div class="wrap">
+<h1>Sơ đồ vgt</h1>
+<p class="lead">Bản đang chạy ngày 01/11/2026. Vào: đường dẫn game. Ra: thư mục <code>Translation\&lt;Tên game&gt;\</code> có <code>CAI_VIETHOA.bat</code> / <code>GO_VIETHOA.bat</code>, kèm bằng chứng kiểm chứng. Mỗi ô ghi rõ <b>ai làm</b> và <b>đã chạy thật hay chưa</b>.</p>
+
+<nav aria-label="Mục">
+  <a href="#toan-canh">Toàn cảnh</a><a href="#quy-trinh">Quy trình 1 game</a><a href="#lo-dich">Bên trong 1 lô dịch</a><a href="#kiem-dinh">Kiểm định</a><a href="#nguoi-lon">Nội dung 18+</a><a href="#chong-lap">Chống lặp lỗi</a><a href="#du-lieu">Dữ liệu nằm đâu</a><a href="#chi-phi">Tốn hạn mức ở đâu</a><a href="#cho-mo">Chỗ còn mờ</a>
+</nav>
+
+<div class="legend">
+  <span class="chip c-you">Anh</span>
+  <span class="chip c-orch">Phiên Claude điều phối</span>
+  <span class="chip c-code">Code vgt (0 token)</span>
+  <span class="chip c-ai">AI qua claude -p</span>
+  <span class="st st-ok">chạy thật</span>
+  <span class="st st-fake">mới test giả</span>
+  <span class="st st-off">tắt / chưa có</span>
+</div>
+
+<h2 id="toan-canh"><span class="tag">1</span>Toàn cảnh</h2>
+<p class="lede2">Bốn bên. LinguaGacha là "tay chân" đọc/ghi file game; vgt + Claude là "bộ não". Không dùng bộ dịch của LinguaGacha, không công cụ trả phí.</p>
+<div class="pipe">
+  <div class="s"><h3><span class="chip c-you">Anh</span></h3><p>Mở <code>BAT_DAU.bat</code>: 1 làm tiếp · 2 game mới · 3 báo lỗi · 4 nâng cấp. Duyệt ở các cửa. Cài patch, chơi 30–60 phút.</p></div>
+  <div class="arr">→</div>
+  <div class="s"><h3><span class="chip c-orch">Phiên điều phối</span></h3><p>Claude Code trên Windows. Tìm bối cảnh web, rà bible, chọn cảnh thử, apply, kiểm chứng, viết bài học.</p></div>
+  <div class="arr">→</div>
+  <div class="s"><h3><span class="chip c-code">vgt run</span></h3><p>Chạy tiếp từ chỗ dở, dừng ở cửa. Bước hiện tại ở <code>TIEN_DO.json</code>.</p></div>
+  <div class="arr">→</div>
+  <div class="s"><h3><span class="chip c-ai">claude -p</span></h3><p>Gói Claude (không API key). Opus / Sonnet / Haiku theo vai.</p></div>
+</div>
+<div class="tbl"><table>
+<thead><tr><th>Engine</th><th>Đọc/ghi file game bằng</th><th>Trạng thái</th></tr></thead>
+<tbody>
+<tr><td>RPG Maker MV/MZ</td><td>adapter vgt <code>rpgmaker_mvmz</code> + boot check <code>tools/boot_check_mvmz.mjs</code></td><td><span class="st st-ok">chạy thật</span> Cursed Armor</td></tr>
+<tr><td>WOLF RPG</td><td>LinguaGacha 0.132.1 qua cầu nối <code>vgt-bridge.mjs</code></td><td><span class="st st-fake">round-trip thật, chưa kiểm trong game</span></td></tr>
+<tr><td>Unreal 4/5</td><td>bộ đọc locres + pak của vgt, Oodle từ <code>tools\oodle</code></td><td><span class="st st-fake">chưa kiểm trong game</span> FF Resonance (tạm dừng)</td></tr>
+<tr><td>Unity</td><td>XUnity.AutoTranslator (đã chốt)</td><td><span class="st st-off">chưa làm</span></td></tr>
+<tr><td>Godot, Ren'Py, Tyrano, RM XP/VX</td><td>LinguaGacha (cầu nối dùng chung)</td><td><span class="st st-off">làm khi có game thật</span></td></tr>
+</tbody></table></div>
+
+<h2 id="quy-trinh"><span class="tag">2</span>Quy trình một game (<code>vgt run</code>)</h2>
+<p class="lede2">Đi từ trên xuống. Ô vàng là cửa: <code>vgt run</code> dừng, in việc cần làm, người hoặc phiên điều phối làm xong thì chạy lại.</p>
+<div class="flow">
+
+<div class="row"><div class="who"><span class="n">0</span><span class="chip c-code">vgt</span></div>
+<div class="body"><h3>Trích xuất</h3><p>Adapter đọc file game → mọi dòng chữ vào <code>project.db</code> (id, cảnh, thứ tự, loại, người nói, câu gốc, bản tiếng Anh tham khảo nếu có).</p></div></div>
+
+<div class="row"><div class="who"><span class="n">1</span><span class="chip c-orch">điều phối</span></div>
+<div class="body"><div class="gate"><b>CAN_RESEARCH</b>Tìm bối cảnh trên web (nguồn gốc, ý đồ tác giả, tên Việt quen thuộc) → <code>research.md</code>.</div></div></div>
+
+<div class="row"><div class="who"><span class="n">2</span><span class="chip c-ai">Opus</span></div>
+<div class="body"><h3>Đọc toàn bộ kịch bản → hồ sơ tác phẩm (bible)</h3>
+<ul><li><b>bible_read</b>: Opus đọc tuần tự từng phần ~60k ký tự (không đọc song song để giữ mạch), ghi chép nhân vật, xưng hô, cảnh, chơi chữ.</li>
+<li><b>bible_merge → bible</b>: Opus gộp → <code>bible.yaml</code> (style, nhân vật, quan hệ xưng hô, glossary, sổ tay, cảnh quan trọng, điều cần xác nhận) + <code>scenes.yaml</code> (tóm tắt từng cảnh).</li>
+<li><span class="new">MỚI 01/11</span> prompt bắt ghi xưng hô đủ hai chiều, mỗi chiều một lựa chọn.</li></ul>
+<div class="meta"><span class="st st-ok">chạy thật</span><span class="loopnote">Cursed Armor v2: ~$28 quy đổi</span></div></div></div>
+
+<div class="row"><div class="who"><span class="n">3</span><span class="chip c-orch">điều phối</span><span class="chip c-you">Anh</span></div>
+<div class="body"><div class="gate"><b>CAN_DUYET_BIBLE</b>Rà bible, trả lời mục can_xac_nhan, đặt <code>reviewed: true</code>.</div>
+<div class="gate"><b>CAN_SUA_XUNG_HO <span class="new">MỚI</span></b>Code kiểm bible: cặp nhân vật nói qua lại ≥ 3 lượt mà thiếu xưng hô, hoặc ghi mơ hồ kiểu "em gái / mày" → <code>vgt xung-ho --de-xuat</code> (Opus chốt từng cặp có mẫu thoại), rà rồi chạy tiếp. v2 hiện có 205 cặp thiếu, 11 mơ hồ.</div>
+<div class="meta"><span class="st st-fake">mới test giả</span></div></div></div>
+
+<div class="row"><div class="who"><span class="n">4</span><span class="chip c-orch">điều phối</span></div>
+<div class="body"><div class="gate"><b>CAN_CHON_CANH_THU</b>Chọn 2–3 cảnh thử (hài, cảm xúc, UI; game 18+ bắt buộc có 1 cảnh người lớn): <code>vgt trial</code>.</div></div></div>
+
+<div class="row"><div class="who"><span class="n">5</span><span class="chip c-ai">AI</span><span class="chip c-code">vgt</span></div>
+<div class="body"><h3>Vòng dịch → kiểm định trên cảnh thử</h3><p>Xem mục 3 và 4. Tối đa 3 vòng.</p></div></div>
+
+<div class="row"><div class="who"><span class="n">6</span><span class="chip c-you">Anh</span></div>
+<div class="body"><div class="gate"><b>CAN_NGUOI_DUNG_DOC_THU</b>Apply bản thử, anh đọc <code>so_sanh.html</code> / chơi thử. Đồng ý → <code>vgt approve-trial</code>.</div></div></div>
+
+<div class="row"><div class="who"><span class="n">7</span><span class="chip c-ai">AI</span><span class="chip c-code">vgt</span></div>
+<div class="body"><h3>Vòng dịch → kiểm định toàn game</h3>
+<div class="gate"><b>CAN_KIEM_TRA_GIU_GOC</b>Quá nhiều dòng "[giữ gốc]" (model chặn nhầm) → dừng, sửa prompt rồi dịch lại.</div>
+<div class="gate"><b>CON_LOI / XONG_DICH</b>Còn dòng chưa đạt thì dừng báo; xong thì sang apply.</div>
+<div class="meta"><span class="st st-ok">v2 đang chạy: ~10.200 / 27.500 dòng</span></div></div></div>
+
+<div class="row"><div class="who"><span class="n">8</span><span class="chip c-code">vgt</span><span class="chip c-orch">điều phối</span></div>
+<div class="body"><h3>Apply + kiểm chứng</h3><p>Tạo patch chỉ chứa file đã dịch (không chép cả game, không sửa game gốc). Kiểm tầng 1 bằng code + boot check (RPG Maker phải in <code>DAT</code>, bản chưa patch phải <code>KHONG DAT</code>); tầng 3 ảnh chụp mẫu.</div></div>
+
+<div class="row"><div class="who"><span class="n">9</span><span class="chip c-you">Anh</span></div>
+<div class="body"><h3>Cài + chơi 30–60 phút như người đọc</h3><p>Gặp lỗi: chụp ảnh vào <code>projects\&lt;game&gt;\bao_loi\</code>, <code>BAT_DAU.bat</code> → 3 → vòng chống lặp lỗi (mục 6).</p></div></div>
+</div>
+
+<h2 id="lo-dich"><span class="tag">3</span>Bên trong một lô dịch</h2>
+<p class="lede2">Mỗi lô là một cảnh (≤ 40 dòng). Phần lớn chi phí nằm ở đây và ở kiểm định.</p>
+<div class="pipe">
+  <div class="s"><h3><span class="chip c-code">Lọc</span></h3><p>Dòng trùng chỉ dịch 1 lần; dòng có trong TM dùng lại.</p></div><div class="arr">→</div>
+  <div class="s"><h3><span class="chip c-code">Chia vai</span></h3><p>Theo loại dòng + cảnh quan trọng (bảng dưới).</p></div><div class="arr">→</div>
+  <div class="s"><h3><span class="chip c-code">Che mã</span></h3><p>Mã màu, tên, biến → ký hiệu ⟦n⟧.</p></div><div class="arr">→</div>
+  <div class="s"><h3><span class="chip c-ai">Dịch</span></h3><p>System prompt + payload của cảnh (dưới) → claude -p.</p></div><div class="arr">→</div>
+  <div class="s"><h3><span class="chip c-code">Trả mã</span></h3><p>⟦n⟧ → mã thật; <span class="new">MỚI</span> tự chèn dấu cách quanh mã tên.</p></div><div class="arr">→</div>
+  <div class="s"><h3><span class="chip c-code">QA tầng 1</span></h3><p>Đủ mã, dấu CJK, tràn khung (đo font thật), font thiếu dấu, xưng lẫn, làm nhẹ, giọng máy.</p></div>
+</div>
+<div class="cols">
+  <div class="box"><h3>Model gửi đi những gì</h3>
+  <p><b>System</b> (cố định cả lần chạy, được cache): prompt dịch giả <span class="new">v3 mặc định từ 01/11</span> + style, premise của game + luật từ bài học khớp game.</p>
+  <p><b>Payload</b> (mỗi lô): ngôn ngữ nguồn, tóm tắt cảnh, nhân vật xuất hiện, cặp xưng hô liên quan, glossary trúng, sổ tay chơi chữ, 4 dòng đã dịch ngay trước, các dòng cần dịch (câu gốc đã che mã, người nói, bản tiếng Anh nếu có).</p></div>
+  <div class="box"><h3>Dòng lỗi QA thì sao</h3>
+  <p>Lỗi chặn → dịch lại. Lần 2: cùng model. Lần 3: vai "repair" (Opus). Lỗi cảnh báo (W) không chặn, chuyển cho kiểm định viên xác minh.</p>
+  <p>Biên tập đọc trơn (Sonnet đọc bản Việt không nhìn gốc): <span class="st st-off">tắt</span>, thử 01/11 không đáng tiền.</p></div>
+</div>
+<div class="tbl"><table>
+<thead><tr><th>Vai</th><th>Dòng nào</th><th>Model · mức suy nghĩ</th><th>Ghi chú</th></tr></thead>
+<tbody>
+<tr><td>ui</td><td>menu, tên, vật phẩm</td><td>Haiku · mặc định</td><td></td></tr>
+<tr><td>description</td><td>mô tả vật phẩm/kỹ năng</td><td>Sonnet · thấp</td><td></td></tr>
+<tr><td>dialogue</td><td>thoại thường, lựa chọn</td><td>Sonnet · vừa</td><td>Thử "thấp": không bớt token → giữ vừa</td></tr>
+<tr><td>key_scene</td><td>cảnh bible đánh dấu quan trọng</td><td>Opus · cao</td><td>v2: 44% thoại rơi vào đây. Thử Opus "vừa": −45% token, chất lượng trong mức dao động, chưa đổi</td></tr>
+<tr><td>repair</td><td>dịch lại lần 3, dòng KĐV trả về</td><td>Opus · vừa</td><td></td></tr>
+<tr><td>review</td><td>kiểm định viên</td><td>Opus · vừa</td><td>Khoản đắt nhất</td></tr>
+</tbody></table></div>
+
+<h2 id="kiem-dinh"><span class="tag">4</span>Kiểm định (tầng 2) và vòng sửa</h2>
+<div class="cols">
+  <div class="box"><h3><span class="chip c-ai">Opus</span> chấm từng cảnh</h3><p>5 tiêu chí: đúng ý · xưng hô · giọng nhân vật · giữ hồn · tự nhiên. Đọc kèm cảnh báo tự động (giọng máy, <span class="new">MỚI</span> xưng hô cả cảnh, xưng trái bible). Chấm mù, độc lập với dịch giả.</p></div>
+  <div class="box"><h3>Kết luận do code tính</h3><p>Đạt: 0 lỗi nặng và lỗi nhẹ ≤ 5% dòng. Lỗi nặng → dòng trả về dịch lại (repair). Lỗi nhẹ → ghi nhận, không dịch lại. Bị báo nặng quá 2 lần → "cần người duyệt".</p></div>
+  <div class="box"><h3>Đã biết yếu</h3><p>Dễ dãi với giọng máy (chấm 4,8/5 cho câu anh chê). Ngưỡng 5% gần như cảnh nào cũng trượt. Lỗi nhẹ có câu sửa đề xuất nhưng chưa được tự áp.</p></div>
+</div>
+
+<h2 id="nguoi-lon"><span class="tag">5</span>Nội dung người lớn: không kiểm duyệt</h2>
+<p class="lede2">Quyết định của anh (<code>1_QUYET_DINH</code> mục 4): nhiệm vụ là dịch, không phải kiểm duyệt. Cảnh nóng, lời tục, chửi thề, bạo lực, chủ đề u tối dịch đúng mức độ bản gốc. Làm nhẹ là lỗi nặng. Giới hạn duy nhất: tình dục liên quan trẻ vị thành niên → dòng đó <code>[giữ gốc]</code>, trạng thái cuối.</p>
+<div class="tbl"><table>
+<thead><tr><th>Ở bước</th><th>Chốt chặn</th><th>Trạng thái</th></tr></thead>
+<tbody>
+<tr><td>Chuẩn chung (mọi game) <span class="new">MỚI</span></td><td>Mục "NỘI DUNG NGƯỜI LỚN" trong prompt dịch giả + kiểm định viên: giữ đúng mức từ, tiếng rên/♡, cưỡng ép không làm dịu, tuổi dịch chính xác, giới hạn duy nhất. <b>Thang từ ngữ 18+</b> <code>vgt/data/thang_18.yaml</code>: 9 khái niệm × Trung/Nhật/Anh/Hàn × 4 mức (nói tránh / y học / văn H / thô), tự vào system prompt game người lớn</td><td><span class="st st-fake">test giả, chờ bộ đề</span></td></tr>
+<tr><td>Bible (bước 2–3)</td><td><code>style.content_policy</code> chỉ ghi phần RIÊNG của game (mức nền, từ game tự đặt, lóng nhân vật); bắt buộc có trong bible. Gốc lỗi v2: mục này trống → 陰莖 dịch "cái ấy"</td><td><span class="st st-fake">test giả</span></td></tr>
+<tr><td>Chọn bản thử (bước 4)</td><td>Game 18+ bắt buộc 1 cảnh người lớn: <code>vgt trial</code> từ chối nếu thiếu, gợi ý cảnh <span class="new">MỚI</span></td><td><span class="st st-fake">mới test giả</span></td></tr>
+<tr><td>Dịch</td><td>Prompt dịch giả: dịch đúng mức độ, không làm sạch/nói giảm/bỏ câu/thêm nặng; luật bài học G-022</td><td><span class="st st-ok">chạy thật</span></td></tr>
+<tr><td>Model từ chối</td><td>Lô bị từ chối được chia đôi tới đúng dòng, các dòng khác vẫn dịch; dòng đó đánh dấu, đếm, giữ bản tiếng Anh chính thức / nguyên văn</td><td><span class="st st-ok">chạy thật</span></td></tr>
+<tr><td>Quá nhiều dòng giữ gốc</td><td><code>CAN_KIEM_TRA_GIU_GOC</code> (&gt; 5 dòng hoặc 0,5%): dừng để sửa chỗ chặn nhầm, không tự giữ gốc thêm</td><td><span class="st st-fake">mới test giả</span></td></tr>
+<tr><td>QA tầng 1</td><td>Theo thang: <code>[làm nhẹ?]</code> (không còn từ tương ứng / nói tránh khi gốc nói thẳng), <code>[hạ mức?]</code> (gốc thô, dịch nhẹ hơn), <code>[nâng mức?]</code> (gốc y học, dịch thô). Quét v2: 9 dòng "cái ấy"/"thứ to thế kia"</td><td><span class="st st-fake">test giả</span>, đã quét bản sao v2</td></tr>
+<tr><td>Kiểm định</td><td>Làm nhẹ / làm sạch / nói tránh so với gốc = lỗi nặng → dịch lại</td><td><span class="st st-ok">chạy thật</span>, có lần bỏ sót (洞)</td></tr>
+<tr><td>Bộ đề chung</td><td>4 case 18+: <code>lam_nhe_18_lo</code>, <code>thang18_am_hanh</code>, <code>thang18_cuong_ep</code>, <code>thang18_nhuc_bong</code>. Bản dịch v2 hiện tại: trượt 3/4</td><td><span class="st st-fake">chờ chạy với chuẩn mới</span></td></tr>
+</tbody></table></div>
+
+<h2 id="chong-lap"><span class="tag">6</span>Chống lặp lỗi cho mọi game <span class="new">MỚI 01/11</span></h2>
+<p class="lede2">Một lỗi anh chỉ ra là một loại lỗi. Bắt buộc 6 bước (<code>docs/lessons/README.md</code> mục 5b).</p>
+<ol class="steps6">
+  <li><div><b>Tìm gốc.</b> Prompt, bước bible, dữ liệu (glossary, xưng hô), code, hay thói quen model với ngôn ngữ nguồn.</div></li>
+  <li><div><b>Chặn chung ở tầng cao nhất.</b> Code tự sửa (<code>scan.py</code>, <code>qa.py</code>) &gt; cửa bible (<code>biblecheck.py</code>) &gt; mẫu cảnh báo theo ngôn ngữ (<code>data/mau_dich_may.yaml</code>, từ tục cụ thể) &gt; luật dịch trong bài học.</div></li>
+  <li><div><b>Thêm vào bộ đề chung</b> <code>vgt eval-them</code>: lưu cảnh có lỗi + phép kiểm, không phụ thuộc thư mục game.</div></li>
+  <li><div><b>Chạy bộ đề</b> <code>vgt eval</code> (Windows, ~$1,5/lần): lỗi mới hết chưa, case cũ có hỏng không. Mọi thay đổi prompt/model/cấu hình chạy bộ đề trước khi áp.</div></li>
+  <li><div><b>Quét lại game đang làm</b> (0 token): <code>vgt quet</code> (dấu cách mã tên, giọng máy, xưng hô, làm nhẹ), <code>vgt term</code> (đổi tên/thuật ngữ), <code>vgt xung-ho</code>.</div></li>
+  <li><div><b>Ghi bài học</b> ở phạm vi rộng nhất nguyên nhân cho phép (global / engine / game).</div></li>
+</ol>
+<div class="tbl"><table>
+<thead><tr><th>Bộ đề (5 case lỗi thật)</th><th>Prompt cũ</th><th>Prompt v3</th></tr></thead>
+<tbody>
+<tr><td>Giọng máy: câu tiền thưởng / ra ngoài / danh lợi</td><td>đạt</td><td>đạt, 0 lỗi</td></tr>
+<tr><td>Giọng máy: "Cái này……"</td><td>trượt</td><td>đạt</td></tr>
+<tr><td>Làm nhẹ 18+ (洞 → "lỗ")</td><td>đạt</td><td>đạt</td></tr>
+<tr><td>Dấu cách mã tên</td><td>đạt</td><td>đạt</td></tr>
+<tr><td>Xưng hô Trùm ↔ Lilina (bible mơ hồ)</td><td>đạt</td><td>trượt (6 dòng)</td></tr>
+<tr><td>Dòng xưng hô sai, code đếm</td><td class="num">9</td><td class="num">6</td></tr>
+</tbody></table></div>
+
+<h2 id="du-lieu"><span class="tag">7</span>Dữ liệu nằm đâu</h2>
+<div class="tbl"><table>
+<thead><tr><th>Thứ</th><th>Ở đâu</th><th>Vào git?</th></tr></thead>
+<tbody>
+<tr><td>Mọi dòng, bản dịch, trạng thái, lỗi QA, nhật ký token, dấu "đã chấm"</td><td><code>vgt\projects\&lt;game&gt;\project.db</code></td><td>không</td></tr>
+<tr><td>Hồ sơ tác phẩm, tóm tắt cảnh, bối cảnh web, cấu hình riêng</td><td><code>bible.yaml</code>, <code>scenes.yaml</code>, <code>research.md</code>, <code>config.yaml</code></td><td>có</td></tr>
+<tr><td>Đang ở bước nào, việc tiếp theo của game</td><td><code>TIEN_DO.json</code>, <code>CHECKPOINT.md</code></td><td>checkpoint có</td></tr>
+<tr><td>Bài học</td><td><code>docs/lessons/global.md</code>, <code>engines/*.md</code>, <code>projects\&lt;game&gt;\LESSONS.md</code></td><td>có</td></tr>
+<tr><td>Bộ đề chung / kết quả chạy</td><td><code>vgt\eval\cases\</code> / <code>vgt\eval\ket_qua\</code></td><td>có / không</td></tr>
+<tr><td>Thử A/B</td><td><code>vgt\projects\_ab\</code></td><td>không</td></tr>
+<tr><td>Bản Việt hóa giao anh</td><td><code>Translation\&lt;Tên game&gt;\</code> (CAI/GO + <code>_viethoa</code> ẩn)</td><td>không</td></tr>
+<tr><td>Công cụ bên thứ ba</td><td><code>Translation\tools\</code> (LinguaGacha, Oodle; nguồn ghi ở README)</td><td>không</td></tr>
+</tbody></table></div>
+
+<h2 id="chi-phi"><span class="tag">8</span>Tốn hạn mức ở đâu</h2>
+<p class="lede2">Số đo thật từ bảng <code>runs</code> của Cursed Armor v2, giá API quy đổi (chỉ để so tỉ lệ, gói Max không tính bằng đô).</p>
+<div class="tbl"><table>
+<thead><tr><th>Bước</th><th>Model</th><th>Đo được</th></tr></thead>
+<tbody>
+<tr><td>Đọc toàn bộ kịch bản</td><td>Opus</td><td class="num">$19,4</td></tr>
+<tr><td>Gộp bible</td><td>Opus</td><td class="num">$8,7</td></tr>
+<tr><td>Dịch cảnh quan trọng</td><td>Opus cao</td><td class="num">~$0,008 / dòng</td></tr>
+<tr><td>Dịch thoại thường</td><td>Sonnet vừa</td><td class="num">~$0,003 / dòng</td></tr>
+<tr><td>Kiểm định</td><td>Opus vừa</td><td class="num">~$0,005 / dòng</td></tr>
+<tr><td>Cả game v2 nếu chạy tiếp như cũ</td><td></td><td class="num">ước $250–300 (v0.1: $43)</td></tr>
+</tbody></table></div>
+
+<h2 id="cho-mo"><span class="tag">9</span>Chỗ còn mờ, chưa kiểm</h2>
+<p class="lede2">Những điểm em thấy chưa rõ hoặc chưa có bằng chứng. Anh đọc xong chỉ thêm chỗ nào thấy lấn cấn.</p>
+<ul class="doubt">
+  <li><b>Cửa xưng hô và <code>vgt xung-ho --de-xuat</code> chưa chạy với Claude thật.</b> v2 sẽ dừng ở cửa này lần chạy tới; chưa biết Opus chốt 205 cặp tốt tới đâu, tốn bao nhiêu.</li>
+  <li><b>Prompt v3 mới đo trên 5 case, mỗi cấu hình 1 lần.</b> Đủ định hướng, chưa đủ kết luận chắc.</li>
+  <li><b>Kiểm định 100% chưa chạy ở quy mô thật.</b> v2 mới chấm ~340 dòng; đây cũng là khoản đắt nhất.</li>
+  <li><b>~10.000 dòng v2 dịch bằng prompt cũ.</b> Dịch lại hết (~$50) hay chỉ dòng bị bắt: chưa chốt.</li>
+  <li><b>Cảnh quan trọng chiếm 44% thoại v2.</b> Bible đánh dấu quá rộng; chưa có luật giới hạn.</li>
+  <li><b>Ngưỡng "lỗi nhẹ ≤ 5%" làm gần như mọi cảnh trượt</b>, nên chữ "trượt" hiện không mang nhiều thông tin.</li>
+  <li><b>Chưa biết một game tốn bao nhiêu phần trăm hạn mức gói Pro</b> (đích cuối).</li>
+  <li><b>WOLF và Unreal chưa kiểm trong game;</b> WOLF chưa có boot check / đo tràn khung; Unity chưa làm.</li>
+  <li><b>Bộ đề mới có 5 case, đều từ một game tiếng Trung.</b> Chưa có case tiếng Nhật, Hàn, Anh.</li>
+</ul>
+
+<footer>Nguồn sự thật: <code>docs/1_QUYET_DINH.md</code> (quyết định của anh) · <code>docs/2_DAC_TA.md</code> (thiết kế) · <code>docs/3_QUY_TRINH.md</code> (các bước). File này: <code>vgt\docs\SO_DO.html</code>.</footer>
+</div>

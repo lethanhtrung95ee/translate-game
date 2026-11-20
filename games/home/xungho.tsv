@@ -1,0 +1,61 @@
+speaker	listener	tu_canh	xung	goi	note
+Nagi	Shun		em	anh [舜] / anh	bạn thơ ấu cùng khu chung cư, Nagi nhỏ hơn, coi Shun như anh (EV_OP3:L69c0, EV_nagi:L63c0); '[舜]-chan' → 'anh [舜]'; sau khi thành người yêu vẫn anh–em
+Shun	Nagi		anh	Nagi / em	Shun lớn hơn, anh hàng xóm thời thơ ấu; người yêu: vẫn anh–em
+Rinko	Shun		chị	[舜] / em	bà chủ tiệm, trạc tuổi mẹ Shun nhưng trẻ đẹp; xưng chị cho thân mà vẫn lịch sự; '[舜]-kun' → '[舜]' hoặc 'em'
+Rinko	Shun	komyu_H	em	anh / anh [舜]	komyu_H: lời hẹn chuyện ân ái, chỉ có khi đã là người yêu
+Rinko	Shun	komyu_rinko	chị	[舜] / em	komyu_rinko: trò chuyện theo mức thiện cảm, phần lớn trước khi thành đôi
+Rinko	Shun	EV_kokuhaku_rinko:L147c0	em	anh / anh [舜]	Shun nhận lời tỏ tình: người yêu → em–anh
+Rinko	Shun	EV_kokuhaku_rinko:L217c0	chị	[舜] / em	nhánh Shun từ chối
+Rinko	Shun	EV_honmei	em	anh / anh [舜]	từ đây (tuyến riêng, kết thúc, cảnh H) đã là người yêu
+Shun	Rinko		em	chị Rinko / chị	nhân viên làm thêm với bà chủ lớn tuổi hơn; 'Rinko-san'/'Rinko' → 'chị Rinko'
+Shun	Rinko	komyu_H	anh	Rinko / em	người yêu
+Shun	Rinko	komyu_rinko	em	chị Rinko / chị	trước khi thành đôi
+Shun	Rinko	EV_kokuhaku_rinko:L147c0	anh	Rinko / em	nhận lời: người yêu → anh–em
+Shun	Rinko	EV_kokuhaku_rinko:L217c0	em	chị Rinko / chị	nhánh từ chối
+Shun	Rinko	EV_honmei	anh	Rinko / em	người yêu
+Tsubomi	Shun		tôi	anh / [舜]	tsundere, cố ý giữ khoảng cách nên xưng tôi; gọi trống '[舜]' như bản gốc; trẻ hơn Shun
+Tsubomi	Shun	komyu_H	em	anh / [舜]	người yêu
+Tsubomi	Shun	komyu_tubomi	tôi	anh / [舜]	trước khi thành đôi
+Tsubomi	Shun	EV_kokuhaku_tubomi:L133c0	em	anh / [舜]	nhận lời: người yêu → em–anh
+Tsubomi	Shun	EV_kokuhaku_tubomi:L199c0	tôi	anh / [舜]	nhánh từ chối
+Tsubomi	Shun	EV_honmei	em	anh / [舜]	người yêu
+Shun	Tsubomi		anh	Tsubomi / em	Shun lớn hơn; lúc đầu ghét nhau vẫn anh–em (trêu thì 'nhóc'); người yêu: anh–em
+Hayato	Shun		mình	[舜] / cậu	trạc tuổi, Hayato xởi lởi làm thân, ngầm coi thường; gọi tên
+Hayato	Shun	EV_kokuhaku_nagi:L279c0	tôi	[舜] / cậu	bị Nagi từ chối, đối đầu với Shun: tôi–cậu
+Hayato	Shun	EV_kokuhaku_nagi:L311c0	mình	[舜] / cậu	nhánh Hayato chịu thua, chúc phúc
+Shun	Hayato		tôi	Hayato / cậu	Shun ghét Hayato, cố ý giữ khoảng cách: tôi–cậu, chủ yếu gọi tên
+Shun	Hayato	EV_yuujyouEND_hayato	mình	Hayato / cậu	kết thúc tình bạn: hai kẻ bị đá thành bạn
+Tsubomi	Rinko		con	mẹ	'Mama'/'Mom' → mẹ
+Rinko	Tsubomi		mẹ	Tsubomi / con	mẹ con
+Hayato	Rinko		con	mẹ	con trai
+Rinko	Hayato		mẹ	Hayato / con	mẹ con
+Hayato	Tsubomi		anh	Tsubomi / em	anh em ruột
+Tsubomi	Hayato		em	anh	'Onii-chan' → anh
+Hayato	Nagi		anh	Nagi / em	người yêu sắp cưới
+Nagi	Hayato		em	Hayato / anh	người yêu sắp cưới; Nagi gọi tên trống 'Hayato' như gốc, đại từ 'anh'
+Rinko	Nagi		cô	Nagi / cháu	mẹ của người yêu Nagi
+Nagi	Rinko		cháu	cô Rinko / cô	mẹ của Hayato
+Tsubomi	Nagi		em	chị Nagi / chị	người yêu của anh trai, lớn hơn
+Nagi	Tsubomi		chị	Tsubomi / em	em gái của Hayato
+Nurse	Nagi		tôi	cô	y tá cấp trên nghiêm khắc với cấp dưới
+Nagi	Nurse		em	chị	cấp dưới với đàn chị
+Shun	*		tôi	anh/chị (người lạ, lịch sự; khách: quý khách)	người nghe khác/không rõ
+Nagi	*		em	anh/chị/bác (theo tuổi người nghe; bệnh nhân già: bác/ông/bà)	người nghe khác/không rõ
+Rinko	*		tôi	quý khách/anh (khách của tiệm)	người nghe khác/không rõ
+Tsubomi	*		tôi	anh/chị (lúc làm hầu gái: em – chủ nhân)	người nghe khác/không rõ
+Hayato	*		mình	cậu (bạn cùng lứa); anh – em với cô gái trẻ	người nghe khác/không rõ
+Nurse	*		tôi	cô/anh	người nghe khác/không rõ
+Man	*		tôi	anh	người nghe khác/không rõ
+Male customer	*		tao	mày (khách quậy, thô lỗ, hống hách)	người nghe khác/không rõ
+Girl	*		em	anh	người nghe khác/không rõ
+Another girl	*		em	anh	người nghe khác/không rõ
+Customer	*		tôi	cô	người nghe khác/không rõ
+???	*		theo người thật đứng sau (xem chỉ đạo cảnh)	theo người thật đứng sau	người nghe khác/không rõ
+Tsubomi	Shun	komyu_tubomi:L450c0	em	anh / [舜]	nhánh người yêu deto_koibito_seikou (chỉ khi f.koukando_tubomi_koibito==1)
+Tsubomi	Shun	komyu_tubomi:L498c0	tôi	anh / [舜]	hết nhánh người yêu; mức Thích (>=30) vẫn chưa thành đôi: tôi, lược bớt 'tôi' ở câu ngọt
+Tsubomi	Shun	komyu_tubomi:L568c0	em	anh / [舜]	nhánh người yêu syokuji_koibito_seikou/sippai
+Tsubomi	Shun	komyu_tubomi:L586c0	tôi	anh / [舜]	hết nhánh người yêu
+Rinko	Shun	komyu_rinko:L450c0	em	anh / anh [舜]	nhánh người yêu deto_koibito_seikou (f.koukando_rinko_koibito==1)
+Rinko	Shun	komyu_rinko:L498c0	chị	[舜] / em	hết nhánh người yêu
+Rinko	Shun	komyu_rinko:L565c0	em	anh / anh [舜]	nhánh người yêu syokuji_koibito_seikou/sippai
+Rinko	Shun	komyu_rinko:L584c0	chị	[舜] / em	hết nhánh người yêu

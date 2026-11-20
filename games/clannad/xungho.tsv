@@ -1,0 +1,522 @@
+speaker	listener	tu_canh	xung	goi	note
+Tomoya	Sunohara		tao	mày	bạn thân, hai đứa tự nhận du côn, chửi nhau cho vui (0414.d72, 0415.d596); chỉ cặp này dùng tao – mày
+Tomoya	Girl		tôi	cậu	nữ sinh lạ cùng lứa (Nagisa trước khi xưng tên); Tomoya giữ khoảng cách (0415.d7). Từ lúc giới thiệu tên (0415.d659) và với nhãn Furukawa/％Ａ: mình – cậu
+Tomoya	Girl	6426	anh	em	Mei (học sinh cấp hai) trước khi xưng tên
+Tomoya	Girl	6430	tôi	cậu	người lạ; nhỏ tuổi hơn hẳn thì anh – em
+Tomoya	Furukawa		mình	cậu	bạn cùng khóa, Tomoya muốn giúp Nagisa; chưa là người yêu (nhãn Furukawa = chưa yêu); gọi 'Furukawa'
+Tomoya	Nagisa		anh	em	nhãn Nagisa = đã là người yêu (6424.d256), sau là vợ; gọi 'Nagisa'
+Tomoya	％Ａ		mình	cậu	Nagisa, nhãn do biến (có thể đã là người yêu hoặc chưa): mình – cậu hợp cả hai
+Tomoya	Kyou		tôi	cậu	bạn cùng khóa, đấu khẩu ngang ngửa với Kyou đanh đá; gọi 'Kyou'
+Tomoya	Kyou	3514.d1390	anh	em	đã thành người yêu ở kết Kyou
+Tomoya	Kyou	4415	tôi	cậu	tuyến khác, quay lại bạn cùng khóa
+Tomoya	Ryou		mình	cậu	bạn cùng lớp, Ryou nhút nhát; gọi 'Fujibayashi'
+Tomoya	Ryou	3426.d438	anh	em	người yêu (3426.d438 'As of this moment, you're my girlfriend'); vẫn gọi 'Fujibayashi' như EN
+Tomoya	Ryou	4415	mình	cậu	tuyến khác, quay lại bạn cùng lớp
+Tomoya	Tomoyo		tôi	cô	Tomoyo năm hai nhưng ngang tàng, nói trống không; Tomoya giữ thế ngang hàng hơi xa
+Tomoya	Tomoyo	2426.d168	anh	em	người yêu (từ 2424.d402)
+Tomoya	Tomoyo	3001	tôi	cô	tuyến khác, quay lại quen biết
+Tomoya	Fuko		anh	nhóc	Fuko năm nhất, trẻ con; Tomoya là đàn anh hay trêu; gọi 'Fuko', khi trêu 'nhóc'
+Tomoya	Kotomi		mình	cậu	bạn cùng khóa, Kotomi ngây ngô; gọi 'Kotomi'
+Tomoya	Kotomi	4512.d486	anh	em	người yêu (4512.d486)
+Tomoya	Kotomi	5418	mình	cậu	tuyến khác
+Tomoya	Akio		tôi	ông	Tomoya gọi Akio là 'ông chú', đốp chát với người lớn ồn ào coi mình là nhóc
+Tomoya	％Ｂ		tôi	ông	Akio khi chưa xưng tên
+Tomoya	Furukawa - Dad		tôi	ông	là Akio
+Tomoya	Sanae		cháu	cô	mẹ Nagisa, người lớn hiền; gọi 'Sanae-san'
+Tomoya	Furukawa - Mom		cháu	cô	là Sanae
+Tomoya	Mei		anh	em	em gái Sunohara, học cấp hai; gọi 'Mei-chan'
+Tomoya	Misae		em	chị	quản lý ký túc lớn hơn vài tuổi, thân quen; gọi 'Misae-san'
+Tomoya	Yoshino		tôi	anh	người lớn lạ, Tomoya hơi gai
+Tomoya	Yoshino	6800	em	anh	đàn anh ở chỗ làm
+Tomoya	Yoshino	7400	tôi	anh	ngoại truyện thời học sinh
+Tomoya	Miyazawa		anh	em	Yukine năm hai, hiền; gọi 'Miyazawa'
+Tomoya	Kappei		tôi	cậu	con trai lạ cùng trang lứa
+Tomoya	??		tôi	cậu	người chưa rõ; không lộ giới tính
+Tomoya	Ushio		bố	con	con gái
+Tomoya	Kouko		em	cô	cựu giáo viên của trường; gọi 'Kouko-san' (từ 1429.d183, trước đó 'cô Ibuki')
+Tomoya	Ibuki		em	cô	là Kouko; gọi 'Ibuki-sensei' → 'cô Ibuki'
+Tomoya	Koumura		em	thầy	thầy giáo già; Tomoya suồng sã: 'Grandpop' → 'ông cụ' (vd 'Ông cụ, em đây.'), vẫn xưng em; 'Gracias' giữ nguyên
+Tomoya	Teacher		em	thầy/cô	giáo viên; thầy hay cô theo cảnh
+Tomoya	Father		tôi	ông	bố mà như người dưng; Tomoya lạnh nhạt (0414.d84–d98)
+Tomoya	Father	6802.d1779	con	bố	làm lành với bố (6802.d1779)
+Tomoya	Gentleman		tôi	ông	ông già lạ, Tomoya cảnh giác
+Tomoya	Shino		cháu	bà	bà nội
+Tomoya	Nishina		anh	em	đàn anh năm ba với Nishina năm hai (4502)
+Tomoya	Sugisaka		anh	em	đàn em năm hai
+Tomoya	Takafumi		anh	em	em trai Tomoyo
+Tomoya	Yuu		anh	em	cậu bé
+Tomoya	Mitsui		tôi	cậu	bạn cùng khóa xa lạ, không ưa nhau
+Tomoya	Shima		anh	em	cậu bé nhỏ tuổi hơn
+Tomoya	Boss		cháu	bác	chủ thầu lớn tuổi
+Tomoya	Construction Worker		tôi	anh	đồng nghiệp lớn tuổi hơn
+Tomoya	Yagi		cháu	bác	bà đỡ lớn tuổi
+Tomoya	Male Student		tôi	cậu	nam sinh; đàn em thì anh – em
+Tomoya	Female Student		tôi	cậu	nữ sinh; đàn em thì anh – em
+Tomoya	Rugby Player		tôi	mày	đám bóng bầu dục hung hăng, Tomoya không sợ, đáp xấc
+Tomoya	Man		tôi	ông	người đàn ông lớn tuổi lạ
+Tomoya	Man	5424	tao	mày	đám du côn hằm hằm, hai bên thù địch
+Tomoya	Man	6416	tôi	ông	người đàn ông lạ
+Tomoya	Voice		tôi	cậu	theo người nói thật trong cảnh
+Tomoya	Botan		tao	mày	nói với con vật cưng: mày là cách gọi thú tự nhiên trong tiếng Việt, không thô; giọng tỉnh bơ, lúc giả bi kịch vẫn tao – mày (3428.d67 'do you remember the day we first met' → 'Mày còn nhớ ngày đầu tao với mày gặp nhau không…?'); khi kể về Botan với người khác thì 'nó'
+Tomoya	*		tôi	anh/chị/cậu	người lạ: cùng lứa cậu; lớn tuổi anh/chị/bác; trẻ con thì anh – em
+Sunohara	Tomoya		tao	mày	bạn thân, du côn đùa (0415.d232 'Okazaki, you bastard!'); gọi 'Okazaki'
+Sunohara	Mei		anh	em	em gái ruột
+Sunohara	Misae		em	chị	quản lý ký túc, sợ và nhờ vả; gọi 'Misae-san'
+Sunohara	Furukawa		tôi	cậu	bạn của Tomoya, ra vẻ ngầu
+Sunohara	Nagisa		tôi	cậu	bạn gái của Tomoya; gọi 'Nagisa-chan'
+Sunohara	％Ａ		tôi	cậu	Nagisa
+Sunohara	Kyou		tôi	cậu	sợ Kyou, hay bị đánh
+Sunohara	Ryou		tôi	cậu	bạn cùng lớp
+Sunohara	Kotomi		tôi	cậu	bạn cùng khóa
+Sunohara	Tomoyo		tôi	cô	đàn em nhưng đánh mình bẹp; gây sự, không chịu thua
+Sunohara	Fuko		anh	nhóc	đàn em trẻ con; gọi 'Fuko-chan'
+Sunohara	Miyazawa		anh	em	đàn em hiền
+Sunohara	Akio		cháu	chú	người lớn
+Sunohara	Sanae		cháu	cô	người lớn
+Sunohara	Rugby Player		tôi	cậu	sợ đám bóng bầu dục
+Sunohara	Male Student		anh	em	ra vẻ đàn anh với đàn em năm dưới, vòi vĩnh, đuổi chỗ (0415.d255 'bọn anh', d595–d602); với bạn cùng khóa (nhầm là năm nhất thì vẫn anh – em tới khi biết, 0415.d269 trở đi tôi – cậu)
+Sunohara	Teacher		em	thầy/cô	giáo viên
+Sunohara	Director		em	thầy	huấn luyện viên đội bóng
+Sunohara	Club President		tôi	cậu	đội trưởng đội bóng, cùng khóa
+Sunohara	Yoshino		tôi	anh	người lớn
+Sunohara	*		tôi	cậu	người lạ cùng lứa; lớn tuổi thì em/cháu
+Girl	Tomoya		mình	cậu	Nagisa trước khi xưng tên / nữ sinh cùng lứa: lễ phép
+Girl	Tomoya	6426	em	anh	Mei trước khi xưng tên
+Girl	Tomoya	6430	mình	cậu	người lạ; nhỏ tuổi hơn thì em – anh
+Girl	*		tôi/mình	cậu/anh/chị	theo tuổi người nghe
+Furukawa	Tomoya		mình	cậu	chưa là người yêu; gọi 'Okazaki-san'
+Furukawa	Sunohara		mình	cậu	bạn của Tomoya; gọi 'Sunohara-san'
+Furukawa	Akio		con	bố	bố
+Furukawa	Sanae		con	mẹ	mẹ
+Furukawa	Fuko		chị	em	Fuko nhỏ hơn; gọi 'Fuko-chan'
+Furukawa	Kyou		mình	cậu	bạn cùng khóa
+Furukawa	Ryou		mình	cậu	bạn cùng khóa
+Furukawa	Kotomi		mình	cậu	bạn cùng khóa
+Furukawa	Tomoyo		chị	em	Tomoyo năm hai
+Furukawa	Ibuki		em	cô	cô giáo cũ rất quý; gọi 'Ibuki-sensei' → 'cô Ibuki'
+Furukawa	Kouko		em	cô	cô giáo cũ
+Furukawa	Koumura		em	thầy	thầy giáo
+Furukawa	Misae		em	chị	người lớn
+Furukawa	Mei		chị	em	em gái Sunohara
+Furukawa	*		mình	cậu/anh/chị	lễ phép với mọi người
+Nagisa	Tomoya		em	anh	người yêu, sau là vợ; gọi 'Tomoya-kun'
+Nagisa	Akio		con	bố	bố
+Nagisa	Sanae		con	mẹ	mẹ
+Nagisa	Sunohara		mình	cậu	bạn của chồng
+Nagisa	Mei		chị	em	em gái Sunohara
+Nagisa	Fuko		chị	em	Fuko nhỏ hơn
+Nagisa	Ibuki		em	cô	cô giáo cũ rất quý; gọi 'Ibuki-sensei' → 'cô Ibuki'
+Nagisa	Ushio		mẹ	con	con gái
+Nagisa	*		em/mình	anh/chị/cậu	lễ phép
+％Ａ	Tomoya		mình	cậu	Nagisa, nhãn do biến; hợp cả khi đã yêu
+％Ａ	Fuko		chị	em	Fuko nhỏ hơn
+％Ａ	Sunohara		mình	cậu	bạn
+％Ａ	Ibuki		em	cô	cô giáo cũ rất quý; gọi 'Ibuki-sensei' → 'cô Ibuki'
+％Ａ	Kouko		em	cô	cô giáo cũ
+％Ａ	Akio		con	bố	bố
+％Ａ	Sanae		con	mẹ	mẹ
+％Ａ	*		mình	cậu/anh/chị	lễ phép
+Kyou	Tomoya		tôi	cậu	bạn cùng khóa, Kyou lấn át; 'bà đây' khi dọa/khoe; gọi 'Tomoya'
+Kyou	Tomoya	3514.d1390	em	anh	người yêu
+Kyou	Tomoya	4415	tôi	cậu	tuyến khác
+Kyou	Ryou		chị	em	chị sinh đôi
+Kyou	Sunohara		tôi	cậu	coi thường Sunohara cho vui, nhưng không tục; gọi 'Youhei' như EN; 'loser' → 'đồ vô dụng'
+Kyou	Botan		chị	Botan	thú cưng
+Kyou	Ushio		cô	con	cô giáo mẫu giáo (3001)
+Kyou	Furukawa		mình	cậu	bạn cùng khóa
+Kyou	Kotomi		mình	cậu	bạn cùng khóa
+Kyou	Kappei		tôi	cậu	người lạ cùng trang lứa
+Kyou	*		tôi	cậu	đanh đá
+Ryou	Tomoya		mình	cậu	bạn cùng lớp, nhút nhát; gọi 'Okazaki-kun'
+Ryou	Tomoya	3426.d438	em	anh	người yêu từ 'As of this moment, you're my girlfriend' (3426.d438); vẫn gọi 'Okazaki-kun' như EN, rụt rè, lắp bắp
+Ryou	Tomoya	4415	mình	cậu	tuyến khác
+Ryou	Kyou		em	chị	em sinh đôi; 'Onee-chan' → chị
+Ryou	Kappei		em	anh	Kappei lớn tuổi hơn; gọi 'Kappei-san'
+Ryou	*		mình	cậu	lễ phép, nhút nhát
+Tomoyo	Tomoya		tôi	anh	đàn em nhưng nói thẳng như ngang hàng; gọi trống họ 'Okazaki' (EN), không 'senpai'
+Tomoyo	Tomoya	2426.d168	em	anh	người yêu (từ 2424.d403); gọi 'Tomoya'
+Tomoyo	Tomoya	3001	tôi	anh	tuyến khác
+Tomoyo	Sunohara		tôi	anh	đàn anh mình coi nhẹ, vẫn gọi anh
+Tomoyo	Takafumi		chị	em	em trai
+Tomoyo	*		tôi	anh/chị/cậu	thẳng thắn
+Fuko	Tomoya		Fuko	anh	tự xưng Fuko; gọi 'Okazaki-san'
+Fuko	Sunohara		Fuko	anh	gọi 'Sunohara-san'
+Fuko	Furukawa		Fuko	chị	Nagisa lớn hơn
+Fuko	Nagisa		Fuko	chị	Nagisa lớn hơn
+Fuko	％Ａ		Fuko	chị	Nagisa lớn hơn
+Fuko	Kouko		Fuko	chị	chị ruột ('Onee-chan')
+Fuko	Sanae		Fuko	cô	người lớn
+Fuko	Akio		Fuko	chú	người lớn
+Fuko	*		Fuko	anh/chị	luôn tự xưng Fuko
+Kotomi	Tomoya		mình	cậu	gọi 'Tomoya-kun'
+Kotomi	Tomoya	4512.d497	em	anh	người yêu
+Kotomi	Tomoya	5418	mình	cậu	tuyến khác
+Kotomi	Gentleman		cháu	chú	người đàn ông trung niên lạ, rồi người quen của bố mẹ; trong hồi ức 4508 Kotomi bé sợ, gọi 'chú'
+Kotomi	Father		con	bố	bố (hồi ức 4508)
+Kotomi	Mother		con	mẹ	mẹ (hồi ức 4508)
+Kotomi	*		mình	cậu	bạn cùng khóa; người lớn thì cháu/em
+Akio	Tomoya		ta	nhóc	ông chú ồn ào tự cao, coi Tomoya là nhóc nhưng quý
+Akio	Nagisa		bố	con	con gái
+Akio	Furukawa		bố	con	con gái
+Akio	％Ａ		bố	con	con gái
+Akio	Sanae		anh	em	vợ
+Akio	Ushio		ông	cháu	cháu ngoại; bắt gọi 'Akky'
+Akio	Sunohara		ta	nhóc	coi là nhóc; mắng 'thằng nhóc', 'đồ ngốc'
+Akio	*		ta	nhóc	người trẻ: ta – nhóc; người lớn: tôi – anh/chị
+％Ｂ	Tomoya		ta	nhóc	Akio chưa xưng tên
+％Ｂ	*		ta	các ngươi	làm màu kiểu phim hành động
+Furukawa - Dad	*		ta	nhóc	là Akio
+Sanae	Tomoya		cô	cháu	gọi 'Tomoya-san'/'Okazaki-san'
+Sanae	Akio		em	anh	chồng; gọi 'Akio-san'
+Sanae	Nagisa		mẹ	con	con gái
+Sanae	Furukawa		mẹ	con	con gái
+Sanae	％Ａ		mẹ	con	con gái
+Sanae	Ushio		cô	cháu	cháu ngoại; Sanae muốn được gọi 'Sanae-san'
+Sanae	*		cô	cháu	người trẻ; người lớn thì tôi – anh/chị
+Furukawa - Mom	*		cô	cháu	là Sanae
+Mei	Sunohara		em	anh	anh ruột; nói thẳng, chê anh
+Mei	Tomoya		em	anh	bạn của anh; gọi 'Okazaki-san'
+Mei	Nagisa		em	chị	chị lớn hơn
+Mei	*		em	anh/chị	lễ phép
+Misae	Tomoya		chị	cậu	quản lý ký túc với cậu học sinh hay lui tới
+Misae	Sunohara		chị	cậu	quản lý ký túc với học sinh; gọi 'Sunohara'
+Misae	Shima		chị	em	cậu bé nhỏ tuổi hơn
+Misae	Saki		tớ	cậu	bạn thời đi học
+Misae	Yuki		tớ	cậu	bạn thời đi học
+Misae	*		chị	cậu	với học sinh; với bạn cùng tuổi tớ – cậu
+Yoshino	Tomoya		tôi	cậu	người lớn với cậu học sinh
+Yoshino	Tomoya	6800	anh	cậu	đàn anh ở chỗ làm
+Yoshino	Tomoya	7400	tôi	cậu	ngoại truyện thời học sinh
+Yoshino	Kouko		anh	em	người yêu, sau là vợ
+Yoshino	Ibuki		anh	em	là Kouko
+Yoshino	*		tôi	cậu	người trẻ
+Kouko	Tomoya		cô	em	cựu giáo viên với học sinh
+Kouko	Fuko		chị	em	em gái; gọi 'Fu-chan'
+Kouko	Yoshino		em	anh	chồng sắp cưới
+Kouko	*		cô	em	với học sinh
+Ibuki	Tomoya		cô	em	Kouko với học sinh
+Ibuki	Nagisa		cô	em	cựu cô giáo với học trò cũ; gọi 'Nagisa-chan'
+Ibuki	Furukawa		cô	em	cựu cô giáo với học trò cũ; gọi 'Nagisa-chan'
+Ibuki	％Ａ		cô	em	cựu cô giáo với học trò cũ; gọi 'Nagisa-chan'
+Ibuki	*		cô	em	với người trẻ hơn
+Miyazawa	Tomoya		em	anh	đàn em lễ phép; gọi 'Okazaki-san'
+Miyazawa	Sunohara		em	anh	đàn anh
+Miyazawa	Man		em	anh	đàn anh trong băng của anh trai
+Miyazawa	Yuu		chị	em	cậu bé
+Miyazawa	*		em	anh/chị	lễ phép
+Kappei	Tomoya		mình	cậu	hồn nhiên; gọi 'Tomoya-kun'
+Kappei	Ryou		anh	em	lớn hơn Ryou, thích Ryou; gọi 'Ryou-san'
+Kappei	Kyou		mình	cậu	người cùng trang lứa
+Kappei	*		mình	cậu	hồn nhiên
+??	Tomoya		mình	cậu	chưa rõ danh tính, không lộ giới tính
+??	*		mình	cậu	chưa rõ danh tính
+Shima	Misae		em	chị	cậu bé nhỏ tuổi hơn; gọi 'Sagara-san'
+Shima	Tomoya		em	anh	nhỏ tuổi hơn
+Shima	*		em	anh/chị	lễ phép
+Ushio	Tomoya		con	bố	bố
+Ushio	Sanae		cháu	cô	bà ngoại nhưng Sanae muốn được gọi 'Sanae-san'
+Ushio	Akio		cháu	ông	ông ngoại, gọi 'Akky'
+Ushio	Kyou		con	cô	cô giáo mẫu giáo
+Ushio	*		con/cháu	cô/chú	trẻ con
+Koumura	*		thầy	em	thầy giáo già với học sinh
+Teacher	*		thầy/cô	em	giáo viên với học sinh; nói với cả nhóm 'các em'
+Father	Tomoya		tôi	cậu	bố mà như người dưng, gọi 'Tomoya-kun' (0414.d92)
+Father	Tomoya	6802.d1849	bố	con	nhớ lại thời con nhỏ, gọi 'Tomoya' (6802.d1849)
+Father	Kotomi		bố	con	bố Kotomi (4508)
+Father	*		tôi	cậu/cô	lịch sự
+Mother	Kotomi		mẹ	con	mẹ Kotomi (4508)
+Mother	*		tôi	cháu/cậu	người mẹ lạ
+Gentleman	Kotomi		chú	cháu	người đàn ông trung niên, đồng nghiệp của bố mẹ Kotomi (4503 'middle-aged'); khớp 4430 Man → Kotomi chú – cháu; gọi đúng như EN: 'Kotomi-kun' hiện tại, 'Kotomi-chan' trong hồi ức 4508
+Gentleman	Tomoya		tôi	cậu	lịch sự với chàng trai trẻ
+Gentleman	*		tôi	cậu/các cháu	lịch sự; nói với cả nhóm học sinh (4513) gọi 'các cháu'
+Shino	Tomoya		bà	cháu	bà nội
+Shino	*		bà	cháu	bà cụ
+Nishina	*		em	anh/chị	năm hai, lễ phép với đàn anh chị
+Sugisaka	*		em	anh/chị	năm hai, lễ phép với đàn anh chị
+Takafumi	*		em	anh/chị	em trai Tomoyo
+Yuu	Miyazawa		em	chị	nhỏ tuổi hơn
+Yuu	*		em	anh	cậu bé
+Mitsui	Tomoya		tôi	cậu	bạn cùng khóa không ưa
+Mitsui	*		tôi	cậu	lạnh
+Yagi	*		bác	cháu	bà đỡ lớn tuổi
+Boss	*		bác	cậu	chủ thầu lớn tuổi
+Construction Worker	*		tôi	cậu	đồng nghiệp
+Director	*		thầy	em	huấn luyện viên
+Club President	*		tôi	cậu	cùng khóa; nhỏ hơn thì tôi – em
+Saki	Misae		tớ	cậu	bạn thân
+Saki	*		tớ	cậu	bạn bè
+Yuki	Misae		tớ	cậu	bạn thân
+Yuki	*		tớ	cậu	bạn bè
+Igarashi	*		tôi	cậu	bạn học
+Tsujimoto	*		tôi	cậu	đọc cảnh
+Tamura	*		tôi	anh/chị	lịch sự
+Botan	*		—	—	con vật, chỉ kêu Puhi
+Voice	*		tôi	cậu	theo người nói thật trong cảnh
+Male Student	*		tôi	cậu	đàn em nói với đàn anh thì em – anh
+Female Student	*		tôi	cậu	bạn bè thì mình/tớ – cậu; với đàn anh chị thì em
+Man	*		tôi	cậu	người lớn lạ với người trẻ
+Man	*	5424	tao	mày	đám du côn thô lỗ với người lạ
+Man	*	6416	tôi	cậu	người lớn lạ
+Man	Miyazawa		anh	em	đàn anh trong băng, nể Yukine
+Rugby Player	Sunohara		tao	mày	to con, hống hách, coi thường Sunohara
+Rugby Player	*		tao	mày	hống hách với người gây sự
+Housewife	*		tôi	cháu	người lớn với người trẻ
+Grandma	*		bà	cháu	bà bán hàng
+Young Boy	*		tớ	cậu	trẻ con với trẻ con
+Store Employee	*		tôi	quý khách	nhân viên với khách
+Customer	*		tôi	anh/chị/cháu	khách
+Children	*		bọn cháu	chú/cô	trẻ con
+Brats	*		bọn tao	ông/bà	lũ nhóc láo
+Bear	*		tôi	cậu	người trong bộ đồ gấu; đọc cảnh
+Soccer Club's Member	*		tôi	cậu	cùng khóa hoặc đàn em
+Basketball Club's Member	*		tôi	cậu	học sinh
+Chorus Club's Member	*		em	anh/chị	đàn em
+Captain	*		tôi	cậu	đội trưởng
+Umpire	*		tôi	các em	trọng tài
+Woman	*		tôi	cậu	người phụ nữ lạ
+Student	*		tôi	cậu	học sinh
+Female Student 1	*		tớ	cậu	bạn bè
+Female Student 2	*		tớ	cậu	bạn bè
+Female Student B	*		tớ	cậu	bạn bè
+Female Teacher	*		cô	em	cô giáo
+Club Member	*		tôi	cậu	thành viên câu lạc bộ
+Doctor	*		tôi	anh/chị	bác sĩ
+Store Manager	*		tôi	cậu	quản lý cửa hàng
+Taniguchi	*		tôi	cậu	đọc cảnh
+Johny	*		tôi	cậu	đọc cảnh
+Oogami	*		tôi	cậu	đọc cảnh
+Kinoshita	*		tôi	cậu	đọc cảnh
+Yanagimoto	*		tôi	cậu	đọc cảnh
+Sekiguchi	*		tôi	cậu	đọc cảnh
+Boy A	*		tớ	cậu	học sinh nói với bạn cùng khóa; nói với đàn anh/chị thì em – anh/chị
+Boy B	*		tớ	cậu	học sinh nói với bạn cùng khóa; nói với đàn anh/chị thì em – anh/chị
+Boy C	*		tớ	cậu	học sinh nói với bạn cùng khóa; nói với đàn anh/chị thì em – anh/chị
+Boy	*		tớ	cậu	học sinh nói với bạn cùng khóa; nói với đàn anh/chị thì em – anh/chị
+Male Student A	*		tớ	cậu	học sinh nói với bạn cùng khóa; nói với đàn anh/chị thì em – anh/chị
+Male Student B	*		tớ	cậu	học sinh nói với bạn cùng khóa; nói với đàn anh/chị thì em – anh/chị
+Male Student 1	*		tớ	cậu	học sinh nói với bạn cùng khóa; nói với đàn anh/chị thì em – anh/chị
+Male Student 2	*		tớ	cậu	học sinh nói với bạn cùng khóa; nói với đàn anh/chị thì em – anh/chị
+Male Student 3	*		tớ	cậu	học sinh nói với bạn cùng khóa; nói với đàn anh/chị thì em – anh/chị
+Student 1	*		tớ	cậu	học sinh nói với bạn cùng khóa; nói với đàn anh/chị thì em – anh/chị
+Student 2	*		tớ	cậu	học sinh nói với bạn cùng khóa; nói với đàn anh/chị thì em – anh/chị
+Student A	*		tớ	cậu	học sinh nói với bạn cùng khóa; nói với đàn anh/chị thì em – anh/chị
+Student B	*		tớ	cậu	học sinh nói với bạn cùng khóa; nói với đàn anh/chị thì em – anh/chị
+Classmates	*		tớ	cậu	học sinh nói với bạn cùng khóa; nói với đàn anh/chị thì em – anh/chị
+All Classmates	*		tớ	cậu	học sinh nói với bạn cùng khóa; nói với đàn anh/chị thì em – anh/chị
+The Whole Class	*		tớ	cậu	học sinh nói với bạn cùng khóa; nói với đàn anh/chị thì em – anh/chị
+Team mate	*		tớ	cậu	học sinh nói với bạn cùng khóa; nói với đàn anh/chị thì em – anh/chị
+Female Student A	*		tớ	cậu	nữ sinh nói với bạn; với đàn anh/chị thì em – anh/chị
+Female Student 3	*		tớ	cậu	nữ sinh nói với bạn; với đàn anh/chị thì em – anh/chị
+Girl 1	*		tớ	cậu	nữ sinh nói với bạn; với đàn anh/chị thì em – anh/chị
+Girl 2	*		tớ	cậu	nữ sinh nói với bạn; với đàn anh/chị thì em – anh/chị
+Girl 3	*		tớ	cậu	nữ sinh nói với bạn; với đàn anh/chị thì em – anh/chị
+Girl A	*		tớ	cậu	nữ sinh nói với bạn; với đàn anh/chị thì em – anh/chị
+Girl B	*		tớ	cậu	nữ sinh nói với bạn; với đàn anh/chị thì em – anh/chị
+Young Girl	*		tớ	cậu	nữ sinh nói với bạn; với đàn anh/chị thì em – anh/chị
+Chorus Club's Member 2	*		em/bọn em	anh/chị	đàn em câu lạc bộ hợp xướng với đàn anh chị
+Chorus Club's Member 3	*		em/bọn em	anh/chị	đàn em câu lạc bộ hợp xướng với đàn anh chị
+Chorus Club's Member 2 & 3	*		em/bọn em	anh/chị	đàn em câu lạc bộ hợp xướng với đàn anh chị
+All Chorus Club Members	*		em/bọn em	anh/chị	đàn em câu lạc bộ hợp xướng với đàn anh chị
+Ryou&Nagisa	*		chúng mình	cậu	nói đồng thanh; theo xưng hô của từng người trong nhóm
+Tomoya&Kyou	*		chúng mình	cậu	nói đồng thanh; theo xưng hô của từng người trong nhóm
+Kotomi&Ryou&Nagisa	*		chúng mình	cậu	nói đồng thanh; theo xưng hô của từng người trong nhóm
+Nagisa&Ryou&Kyou	*		chúng mình	cậu	nói đồng thanh; theo xưng hô của từng người trong nhóm
+Kyou&Ryou	*		chúng mình	cậu	nói đồng thanh; theo xưng hô của từng người trong nhóm
+Ryou&Nagisa&Kotomi	*		chúng mình	cậu	nói đồng thanh; theo xưng hô của từng người trong nhóm
+Fujibayashi Sisters	*		chúng mình	cậu	nói đồng thanh; theo xưng hô của từng người trong nhóm
+＊Ｂ・春原	*		chúng mình	cậu	nói đồng thanh; theo xưng hô của từng người trong nhóm
+＊Ｂ" & Misae"	*		chúng mình	cậu	nói đồng thanh; theo xưng hô của từng người trong nhóm
+Everyone	*		chúng mình	cậu	nói đồng thanh; theo xưng hô của từng người trong nhóm
+Rugby club	*		tao	mày	bọn du côn, gã côn đồ thô lỗ, gây sự
+Punks	*		tao	mày	bọn du côn, gã côn đồ thô lỗ, gây sự
+Delinquents	*		tao	mày	bọn du côn, gã côn đồ thô lỗ, gây sự
+Delinquent	*		tao	mày	bọn du côn, gã côn đồ thô lỗ, gây sự
+Delinquent A	*		tao	mày	bọn du côn, gã côn đồ thô lỗ, gây sự
+Delinquent B	*		tao	mày	bọn du côn, gã côn đồ thô lỗ, gây sự
+Delinquent C	*		tao	mày	bọn du côn, gã côn đồ thô lỗ, gây sự
+Guy A	*		tao	mày	bọn du côn, gã côn đồ thô lỗ, gây sự
+Guy B	*		tao	mày	bọn du côn, gã côn đồ thô lỗ, gây sự
+Another Guy	*		tao	mày	bọn du côn, gã côn đồ thô lỗ, gây sự
+Opponent team	*		tôi	cậu	đối thủ, người chơi thể thao lạ
+Batter	*		tôi	cậu	đối thủ, người chơi thể thao lạ
+Baseball Club's Member	*		tôi	cậu	đối thủ, người chơi thể thao lạ
+Female Captain	*		tôi	cậu	đối thủ, người chơi thể thao lạ
+Male Captain	*		tôi	cậu	đối thủ, người chơi thể thao lạ
+Spectator 1	*		tôi	mọi người	lời nói chung, không nhắm ai
+Spectator 2	*		tôi	mọi người	lời nói chung, không nhắm ai
+Spectator 3	*		tôi	mọi người	lời nói chung, không nhắm ai
+The Audience	*		tôi	mọi người	lời nói chung, không nhắm ai
+TV	*		tôi	mọi người	lời nói chung, không nhắm ai
+Yuu's Mother	*		tôi	cháu	người mẹ với người trẻ
+Store Owner	*		tôi	cậu	chủ tiệm với khách trẻ
+Person	*		tôi	cậu	người lạ
+Old Lady	*		bà	cháu	bà lão
+Child A	*		cháu	chú/cô	trẻ con với người lớn
+Child B	*		cháu	chú/cô	trẻ con với người lớn
+Class A Homeroom Teacher	*		thầy/cô	em	giáo viên với học sinh
+?	*		tôi	cậu	người chưa rõ, không đoán danh tính
+Mysterious man	*		tôi	cậu	người lạ bí ẩn
+Mysterious Transfer Student	*		tôi	cậu	học sinh lạ (trò đùa)
+Waitress	*		em	quý khách	nhân viên phục vụ với khách: lễ phép, 'ạ'
+Salesgirl	*		em	quý khách	cô bán hàng với khách
+Ramen Store's Employee	*		tôi	quý khách	nhân viên với khách
+Conductor	*		tôi	quý khách	nhân viên soát vé
+Driver	*		tôi	anh/chị	tài xế
+Traveler	*		tôi	cậu	lữ khách
+Library Staff	*		tôi	cậu	học sinh trực thư viện
+Midwife	*		bác	cháu	bà đỡ
+Me	*		tôi	cậu	người kể xưng 'tôi'
+YOUHEI	*		tôi	sếp	Sunohara đóng vai trợ lý trong trò nhại game trinh thám
+Jet Guy	*		ta	các ngươi	nhân vật làm màu trong trò đùa
+Boar	*		—	—	con vật
+Nabe	*		—	—	con vật (Botan được Ushio gọi là Nabe)
+Yusuke	*		tôi	cậu	là Yoshino
+Fu...	*		Fuko	anh/chị	Fuko
+Tomoya	Rugby club		tôi	bọn mày	cả đám bóng bầu dục kéo tới; Tomoya không sợ, đáp xấc như với Rugby Player
+Akio	Misae		tôi	cô	người lớn với nhau, Akio đùa gọi 'Misae-chan'
+Misae	Akio		tôi	anh	người lớn, gắt lại khi bị đùa ('đồ ngốc')
+Akio	Yoshino		tôi	cậu	người lớn trẻ hơn, Akio khích
+Yoshino	Akio		tôi	anh	người lớn hơn, lạnh lùng
+Misae	Yoshino		tôi	cậu	quen nhau từ trước (không nói rõ vì sao), lườm nhau
+Yoshino	Misae		tôi	cô	quen nhau từ trước (không nói rõ vì sao)
+Misae	Tomoyo		chị	em	gọi 'Sakagami-san'
+Tomoyo	Misae		tôi	chị	gọi 'Misae-san' ngượng nghịu, coi là đối thủ
+Misae	Kyou		chị	em	nữ sinh
+Misae	Furukawa		chị	em	nữ sinh
+Kyou	Akio		cháu	chú	người lớn, Kyou vẫn đáp tự tin
+Tomoyo	Akio		cháu	chú	người lớn; câu vẫn gọn, thẳng; Akio gọi đùa 'Tomoyo-pyon'
+Ryou	Akio		cháu	chú	người lớn, rụt rè
+Ryou	Sanae		cháu	cô	người lớn
+Mei	Yoshino		em	anh	thần tượng, Mei hét lên vì vui
+Yoshino	*	0428.d355	tao	bọn mày	nổi giận khi bị bọn Tomoya hô tên giữa phố (cựu du côn bộc phát), chỉ d355–d362
+Yoshino	*	0428.d363	tôi	cậu	trở lại bình thường: người lớn với người trẻ
+Yoshino	Tomoya	0428.d355	tao	mày	nổi giận, chỉ 0428.d355–d362
+Yoshino	Tomoya	0428.d363	tôi	cậu	người lớn với cậu học sinh
+Voice	Tomoya	0426.d180	ta	nhóc	là Akio chưa lộ mặt (0426.d180–d182)
+Voice	Tomoya	0426.d183	tôi	cậu	theo người nói thật trong cảnh
+Man	Tomoya	0426.d189	ta	nhóc	là Akio trước khi nhãn đổi (0426.d189)
+Man	Tomoya	0426.d190	tôi	cậu	người lớn lạ với người trẻ
+Man	Tomoya	5424	tao	mày	đám du côn thô lỗ với người lạ
+Man	Tomoya	6416	tôi	cậu	người lớn lạ
+Tomoya	Male Student	1501.d93	tao	bọn mày	bị đám Đội cận vệ đá vào sườn, Tomoya dọa đếm ngược kiểu du côn (1501.d93–d102)
+Tomoya	Male Student	1501.d104	tôi	cậu	nam sinh; đàn em thì anh – em
+Mitsui	Fuko		tôi	cậu	lớp trưởng năm ba, nhập học cùng khóa với Fuko hai năm trước; lạnh, giữ khoảng cách; gọi 'Ibuki-san'
+Fuko	Mitsui		Fuko	chị	người duy nhất ở trường còn nhớ Fuko (cùng nhập học); gọi 'Mitsui-san'
+Male Student	Tomoya	1501	em	anh	Đội cận vệ của Fuko (nam sinh năm nhất) tưởng Tomoya là anh trai Fuko: 'Onii-sama/Onii-san' → 'anh trai', xưng em/bọn em
+Male Student	Tomoya	1502	tôi	cậu	nam sinh chung
+Sanae	Tomoya	1511.d689	cô	cháu	từ đây gọi 'Tomoya-san' (trước đó 'Okazaki-san')
+Tomoya	Tomoyo	2424.d402	anh	em	người yêu từ lúc Tomoya nói 'Anh muốn mình là người yêu' (2424.d402); 2425–2426 đã hẹn hò
+Tomoyo	Tomoya	2424.d403	em	anh	người yêu (2424.d403); vẫn thẳng, gọi trống 'Tomoya'
+Miyazawa	Fuko		mình	Fuko-san	Yukine lịch sự, hiền; không rõ tuổi Fuko nên giữ ngang hàng nhẹ nhàng, gọi 'Fuko-san', không 'ạ'
+Fuko	Miyazawa		Fuko	chị	Fuko coi mình năm nhất; gọi 'Miyazawa-san'
+Tomoyo	Tomoya	2422.d598	tôi	anh	từ đây khi chỉ hai người gọi tên 'Tomoya' (2422.d599 nói rõ); trước mặt người khác vẫn có thể 'Okazaki' như EN
+Tomoya	Delinquents		tao	mày/bọn mày	Tomoya đối đầu bọn du côn gây sự (đánh nhau, quát): tao – mày/bọn mày, nói chung cả nhóm 'bọn tao' (2423.d522)
+Tomoya	Delinquent		tao	mày/bọn mày	Tomoya đối đầu bọn du côn gây sự (đánh nhau, quát): tao – mày/bọn mày, nói chung cả nhóm 'bọn tao' (2423.d522)
+Tomoya	Delinquent A		tao	mày/bọn mày	Tomoya đối đầu bọn du côn gây sự (đánh nhau, quát): tao – mày/bọn mày, nói chung cả nhóm 'bọn tao' (2423.d522)
+Tomoya	Delinquent B		tao	mày/bọn mày	Tomoya đối đầu bọn du côn gây sự (đánh nhau, quát): tao – mày/bọn mày, nói chung cả nhóm 'bọn tao' (2423.d522)
+Tomoya	Delinquent C		tao	mày/bọn mày	Tomoya đối đầu bọn du côn gây sự (đánh nhau, quát): tao – mày/bọn mày, nói chung cả nhóm 'bọn tao' (2423.d522)
+Tomoya	Punks		tao	mày/bọn mày	Tomoya đối đầu bọn du côn gây sự (đánh nhau, quát): tao – mày/bọn mày, nói chung cả nhóm 'bọn tao' (2423.d522)
+Tomoya	Guy A		tao	mày/bọn mày	Tomoya đối đầu bọn du côn gây sự (đánh nhau, quát): tao – mày/bọn mày, nói chung cả nhóm 'bọn tao' (2423.d522)
+Tomoya	Guy B		tao	mày/bọn mày	Tomoya đối đầu bọn du côn gây sự (đánh nhau, quát): tao – mày/bọn mày, nói chung cả nhóm 'bọn tao' (2423.d522)
+Tomoya	Another Guy		tao	mày/bọn mày	Tomoya đối đầu bọn du côn gây sự (đánh nhau, quát): tao – mày/bọn mày, nói chung cả nhóm 'bọn tao' (2423.d522)
+Voice	Sunohara	2501.d106	tao	mày	gã bóng bầu dục phòng bên quát Sunohara (2501.d106–d112)
+Voice	Sunohara	2501.d113	tôi	cậu	theo người nói thật trong cảnh
+Male Student	Tomoya	2502.d141	tôi	anh	nam sinh năm hai nói trống không với Tomoya, cố ý không xưng em (2502.d141–d204)
+Male Student	Tomoya	2502.d205	tôi	cậu	nam sinh chung
+Tomoya	Male Student	2502.d156	tao	mày	Tomoya nổi khùng với nam sinh năm hai (2502.d156–d171)
+Tomoya	Male Student	2502.d172	tôi	cậu	nam sinh; đàn em thì anh – em
+Kyou	Tomoyo		tôi	cô	Kyou năm ba gây sự với Tomoyo năm hai (2506): lạnh, thách đấu
+Tomoyo	Kyou		tôi	chị	đàn chị lớp khác; Tomoyo thẳng thắn, lễ độ vừa phải
+Captain	Tomoyo		tôi	em	đội trưởng bóng chày năm ba với Tomoyo năm hai; gọi 'Tomoyo-kun'
+Tomoyo	Captain		tôi	anh	đàn anh lạ
+Captain	Tomoya		tôi	cậu	đội trưởng bóng chày cùng khóa, coi thường rồi nể
+Tomoya	Captain		tôi	cậu	cùng khóa, Tomoya khích
+Bear	Tomoya	2511	em	anh	là Tomoyo trong bộ đồ gấu (2511), nói với Tomoya: em – anh
+Bear	Sunohara	2511	tôi	anh	là Tomoyo trong bộ đồ gấu, với Sunohara: tôi – anh
+Bear	*	2511	tôi	cậu	là Tomoyo trong bộ đồ gấu: với người lạ tôi – cậu/anh/chị, với trẻ con chị – em
+Female Student A	Sunohara	2511	em/bọn em	anh/các anh	nữ sinh năm hai trường khác với hai anh năm ba (2511)
+Female Student A	Tomoya	2511	em/bọn em	anh/các anh	nữ sinh năm hai trường khác với hai anh năm ba (2511)
+Sunohara	Female Student A	2511	anh	em	Sunohara tán nữ sinh năm hai trường khác, ra vẻ đàn anh (2511)
+Female Student B	Sunohara	2511	em/bọn em	anh/các anh	nữ sinh năm hai trường khác với hai anh năm ba (2511)
+Female Student B	Tomoya	2511	em/bọn em	anh/các anh	nữ sinh năm hai trường khác với hai anh năm ba (2511)
+Sunohara	Female Student B	2511	anh	em	Sunohara tán nữ sinh năm hai trường khác, ra vẻ đàn anh (2511)
+Bear	Tomoya	2513	tôi	cậu	người trong bộ đồ gấu; đọc cảnh
+Bear	Sunohara	2513	tôi	cậu	người trong bộ đồ gấu; đọc cảnh
+Bear	*	2513	tôi	cậu	người trong bộ đồ gấu; đọc cảnh
+Female Student A	Sunohara	2513	tớ	cậu	nữ sinh; với đàn anh/chị thì em – anh/chị
+Female Student A	Tomoya	2513	tớ	cậu	nữ sinh; với đàn anh/chị thì em – anh/chị
+Sunohara	Female Student A	2513	tôi	cậu	người lạ cùng lứa
+Female Student B	Sunohara	2513	tớ	cậu	nữ sinh; với đàn anh/chị thì em – anh/chị
+Female Student B	Tomoya	2513	tớ	cậu	nữ sinh; với đàn anh/chị thì em – anh/chị
+Sunohara	Female Student B	2513	tôi	cậu	người lạ cùng lứa
+Tomoyo	Fuko		tôi	em	Tomoyo với cô bé lạ (Fuko) tưởng năm nhất
+Male Student	Tomoya	2514.d221	tôi	anh	nam sinh năm hai trong hội học sinh (đã gặp ở 2502), vẫn trống không với Tomoya
+Male Student	Tomoyo		tôi	cậu	bạn cùng khóa trong hội học sinh; gọi 'Sakagami'
+Tomoyo	Male Student		tôi	cậu	bạn cùng khóa trong hội học sinh
+Male Student	Tomoyo	2514.d1054	em	chị	là Takafumi trước khi xưng tên (em trai Tomoyo): 'Nee-chan' → chị
+Male Student	Tomoya	2514.d1054	em	anh	là Takafumi trước khi xưng tên; 'Mister' → anh
+Tomoya	Male Student	2514.d1054	anh	em	Takafumi (năm nhất) trước khi xưng tên; gọi 'nhóc' khi trêu
+Male Student	Tomoya	3001	tôi	cậu	nam sinh chung
+Tomoya	Male Student	3001	tôi	cậu	nam sinh; đàn em thì anh – em
+Takafumi	Tomoyo		em	chị	em trai; 'Nee-chan' → chị
+Takafumi	Tomoya		em	anh	'Mister' → anh; lễ phép, hồn nhiên
+Male Student	Tomoyo	3001	tôi	cậu	nam sinh chung
+Tomoya	Old Lady		tôi	bà	bà lão lạ; Tomoya cộc, khi bực nghĩ thầm 'bà già'
+Ryou	Tomoya	3426.d536	mình	cậu	nhánh từ chối (3426.d536–d613 'it'd honestly be difficult'): chưa là người yêu; gọi 'Okazaki-kun'
+Tomoya	Ryou	3426.d536	mình	cậu	nhánh từ chối (3426.d536–d613): vẫn bạn cùng lớp; gọi 'Fujibayashi'
+Ryou	Tomoya	3428	em	anh	người yêu (truyện đi tiếp nhánh nhận lời từ 3428); vẫn gọi 'Okazaki-kun' như EN
+Tomoya	Ryou	3428	anh	em	người yêu (từ 3428); vẫn gọi 'Fujibayashi' như EN
+Kyou	Teacher		em	thầy/cô	giáo viên; Kyou nói dối trơn tru, lễ phép giả (3423.d124)
+Ryou	Teacher		em	thầy/cô	giáo viên
+Child A	Tomoya		em	anh	đứa trẻ con với nam sinh cấp ba (3428)
+Child B	Tomoya		em	anh	đứa trẻ con với nam sinh cấp ba (3428)
+Tomoya	Child A		anh	nhóc	Tomoya mua chuộc thằng nhóc (3428 'Okay, kid')
+Tomoya	Student	3417.d136	tao	mày	Tomoya quát đám bạn cùng lớp trêu mình là 'gay' (3417.d136–d139 'All right, assholes!'): đối đầu
+Tomoya	Student	3418	tôi	cậu	bạn cùng lớp không thân
+Child A	Child B		tớ	cậu	hai đứa trẻ là bạn
+Child B	Child A		tớ	cậu	hai đứa trẻ là bạn
+Tomoya	Ryou	3505.d532	anh	em	người yêu; gọi tên đúng như EN từng câu: nhánh đã đổi gọi 'Ryou', nhánh khác vẫn 'Fujibayashi' — không tự đổi
+Ryou	Tomoya	3505.d534	em	anh	người yêu; gọi đúng như EN từng câu: nhánh đã đổi 'Tomoya-kun', nhánh khác vẫn 'Okazaki-kun' — không tự đổi; rụt rè, lắp bắp
+Female Student	Ryou		tôi	cậu	mặc định
+Female Student	Male Student		tôi	cậu	mặc định
+Female Student	Tomoya		tôi	cậu	nữ sinh lạ hoặc không thân (cả nhân vật chưa lộ tên dưới nhãn Female Student)
+Female Student	Tomoya	3501	tớ	cậu	nữ sinh cùng khóa ở tuyến Kyou/Ryou trêu chọc, hỏi chuyện Tomoya; gọi 'Okazaki-kun'
+Female Student	Ryou	3501	tớ	cậu	nữ sinh cùng lớp/khóa với Ryou; gọi 'Fujibayashi-san'/'Ryou-chan'
+Female Student	Male Student	3416	tớ	cậu	học sinh hóng chuyện nói với nhau (3416.d55–d61)
+Ryou	Female Student	3501	mình	cậu	nữ sinh cùng lớp/khóa: Ryou lễ phép, nhút nhát nên mình – cậu (bên kia nói tớ – cậu); quyết phiếu #25
+Kotomi	Chorus Club's Member		chị	em	đàn chị năm ba với nữ sinh năm hai (4428)
+Kyou	Chorus Club's Member		chị	em	đàn chị năm ba với nữ sinh năm hai (4428)
+Ryou	Chorus Club's Member		chị	em	đàn chị năm ba với nữ sinh năm hai (4428)
+Furukawa	Chorus Club's Member		chị	em	đàn chị năm ba với nữ sinh năm hai (4428)
+Tomoya	Chorus Club's Member		anh	em	đàn anh năm ba với nữ sinh năm hai (4428)
+Tomoya	Grandma		cháu	bà	bà bán bánh mì ở căng tin; 'Hey, lady' → 'Bà ơi'
+Tomoya	Class A Homeroom Teacher		em	cô	cô chủ nhiệm lớp A (4423); 'Yes, ma'am' → 'Vâng ạ'
+Man	Kotomi	4430	chú	cháu	người đàn ông trung niên đeo kính, mặc vest (4430) nói với Kotomi, giọng tha thiết; gọi 'Kotomi-kun' như EN; không gợi thêm danh tính
+Kyou	Man		tôi	ông	người lớn lạ, Kyou cảnh giác, gay gắt (4430)
+Voice	Sunohara	3514.d1181	tao	mày	gã bóng bầu dục phòng bên quát Sunohara qua cửa (3514.d1181–d1186)
+Voice	Sunohara	3514.d1187	tôi	cậu	theo người nói thật trong cảnh
+Kotomi	Nishina		chị	em	đàn chị năm ba với Nishina năm hai (4502)
+Spectator 1	*	4501	tớ	cậu	nam sinh bị Kyou lùa tới làm khán giả, nói với nhau (4501)
+Spectator 2	*	4501	tớ	cậu	nam sinh khán giả nói với nhau (4501)
+Spectator 3	*	4501	tớ	cậu	nam sinh khán giả nói với nhau (4501)
+Kyou	Store Employee		tôi	anh	Kyou gọi nhân viên tiệm game 'Hey, Mister!' → 'Anh gì ơi' (4504)
+Mother	Young Boy		cô	cháu	mẹ Kotomi với Tomoya hồi nhỏ (4508.d453–d468)
+Young Boy	Kotomi		tớ	cậu	Tomoya hồi nhỏ với Kotomi bé (4508): cộc, ngắn
+Kotomi	Young Boy		mình	cậu	Kotomi bé với cậu bé lạ ở vườn (4508)
+Voice	Kotomi	4508.d615	tôi	cháu	phóng viên gọi điện cho Kotomi bé, gọi 'Kotomi Ichinose-san' như EN (4508.d615–d619)
+Voice	Kotomi	4509	tôi	cậu	theo người nói thật trong cảnh
+Store Owner	Ryou		chú	cháu	chủ tiệm nhạc cụ trung niên với nữ sinh (4511); số nhiều 'các cháu'
+Store Owner	Furukawa		chú	cháu	chủ tiệm nhạc cụ trung niên với nữ sinh (4511); số nhiều 'các cháu'
+Store Owner	Kyou		chú	cháu	chủ tiệm nhạc cụ trung niên với nữ sinh (4511); số nhiều 'các cháu'
+Ryou	Store Owner		cháu	chú	chủ tiệm nhạc cụ (4511), lễ phép
+Furukawa	Store Owner		cháu	chú	chủ tiệm nhạc cụ (4511), lễ phép
+Kyou	Store Owner		tôi	ông	Kyou cãi nhau với chủ tiệm nhạc cụ (4511): gắt
+Tomoya	Store Owner		tôi	chú	chủ tiệm nhạc cụ (4511)
+Library Staff	Tomoya		tôi	cậu	nữ sinh ủy ban thư viện lạ (4509), không rõ năm: lược đại từ nếu được
+Tomoya	Kotomi	4512.d129	tớ	cậu	hồi ức Tomoya hồi nhỏ chơi với Kotomi-chan (4512.d129–d383), khớp Young Boy → Kotomi ở 4508; gọi 'Kotomi-chan'
+Tomoya	Kotomi	4512.d384	mình	cậu	hết hồi ức, về hiện tại; tới lời tỏ tình 4512.d486
+Mother	Tomoya	4512	cô	cháu	mẹ Kotomi với Tomoya hồi nhỏ trong hồi ức (4512); gọi 'Tomoya-kun'
+Mother	Tomoya	4513	tôi	cháu	người mẹ lạ
+Driver	Tomoya		tôi	cậu	tài xế giao hàng với khách trẻ (4512)
+Kotomi	Grandma		cháu	bà	bà bán bánh mì ở căng tin; gọi 'Bà bán bánh mì' như danh xưng (4502)
+Mother	Father		em	anh	mẹ Kotomi nói với bố Kotomi trong hồi ức (4508.d405–d407)

@@ -1,0 +1,40 @@
+{
+  "vgk_version": "2.3.0",
+  "name": "CLANNAD HD Edition",
+  "slug": "clannad-hd-edition",
+  "engine": "reallive",
+  "kind": "thuong",
+  "source_lang": "en",
+  "the_loai": "vn",
+  "boi_canh": "hien_dai",
+  "en_mode": "none",
+  "linebreaks": "free",
+  "batch_dialogue": 80,
+  "batch_short": 350,
+  "code_patterns": [
+    "\\{\\{.*?\\}\\}",
+    "[＊％][Ａ-Ｚ]"
+  ],
+  "skip_patterns": [],
+  "allow_chars": "＊％ＡＢＣＤＥＦ─",
+  "max_len": {},
+  "fit_auto": ["kind:ui"],
+  "name_types": [
+    "nhan_vat",
+    "dia_danh",
+    "to_chuc",
+    "ten"
+  ],
+  "term_check_types": [
+    "vat_pham",
+    "ky_nang",
+    "trang_thai"
+  ],
+  "minor_fallback": "en",
+  "hoso_dir": "",
+  "gop_ok": false,
+  "qa_dinh_ky": false,
+  "doc_chuong_dau": 1500,
+  "doc_chuong_sau": 5000,
+  "phieu_toi_da": 15
+}

@@ -1,0 +1,715 @@
+# Ứng viên tên/thuật ngữ đã quyết là không cần glossary. Mỗi dòng: '<gốc>  # lý do'.
+源视频  # từ thường hoặc mảnh n-gram; 源视频 dịch bằng bulk
+实验  # từ thường hoặc mảnh n-gram; 源视频 dịch bằng bulk
+计划  # từ thường hoặc mảnh n-gram; 源视频 dịch bằng bulk
+通道  # từ thường hoặc mảnh n-gram; 源视频 dịch bằng bulk
+人类  # từ thường hoặc mảnh n-gram; 源视频 dịch bằng bulk
+信号  # từ thường hoặc mảnh n-gram; 源视频 dịch bằng bulk
+战斗  # từ thường hoặc mảnh n-gram; 源视频 dịch bằng bulk
+有一  # từ thường hoặc mảnh n-gram; 源视频 dịch bằng bulk
+数据  # từ thường hoặc mảnh n-gram; 源视频 dịch bằng bulk
+感知  # từ thường hoặc mảnh n-gram; 源视频 dịch bằng bulk
+安全  # từ thường hoặc mảnh n-gram; 源视频 dịch bằng bulk
+战力  # từ thường hoặc mảnh n-gram; 源视频 dịch bằng bulk
+情况  # từ thường hoặc mảnh n-gram; 源视频 dịch bằng bulk
+续战  # từ thường hoặc mảnh n-gram; 源视频 dịch bằng bulk
+链菌株  # từ thường hoặc mảnh n-gram; 源视频 dịch bằng bulk
+普通  # từ thường hoặc mảnh n-gram; 源视频 dịch bằng bulk
+控制  # từ thường hoặc mảnh n-gram; 源视频 dịch bằng bulk
+爆发  # từ thường hoặc mảnh n-gram; 源视频 dịch bằng bulk
+左边  # từ thường hoặc mảnh n-gram; 源视频 dịch bằng bulk
+形态  # từ thường hoặc mảnh n-gram; 源视频 dịch bằng bulk
+右边  # từ thường hoặc mảnh n-gram; 源视频 dịch bằng bulk
+基地  # từ thường hoặc mảnh n-gram; 源视频 dịch bằng bulk
+梦里  # từ thường hoặc mảnh n-gram; 源视频 dịch bằng bulk
+救救  # từ thường hoặc mảnh n-gram; 源视频 dịch bằng bulk
+状态  # từ thường hoặc mảnh n-gram; 源视频 dịch bằng bulk
+救援  # từ thường hoặc mảnh n-gram; 源视频 dịch bằng bulk
+永续战力  # từ thường hoặc mảnh n-gram; 源视频 dịch bằng bulk
+第一  # từ thường hoặc mảnh n-gram; 源视频 dịch bằng bulk
+续战力计  # từ thường hoặc mảnh n-gram; 源视频 dịch bằng bulk
+战力计划  # từ thường hoặc mảnh n-gram; 源视频 dịch bằng bulk
+提前  # từ thường hoặc mảnh n-gram; 源视频 dịch bằng bulk
+判断  # từ thường hoặc mảnh n-gram; 源视频 dịch bằng bulk
+为什  # từ thường hoặc mảnh n-gram; 源视频 dịch bằng bulk
+选择  # từ thường hoặc mảnh n-gram; 源视频 dịch bằng bulk
+产品  # từ thường hoặc mảnh n-gram; 源视频 dịch bằng bulk
+找到  # từ thường hoặc mảnh n-gram; 源视频 dịch bằng bulk
+研究  # từ thường hoặc mảnh n-gram; 源视频 dịch bằng bulk
+军队  # từ thường hoặc mảnh n-gram; 源视频 dịch bằng bulk
+发生  # từ thường hoặc mảnh n-gram; 源视频 dịch bằng bulk
+改变  # từ thường hoặc mảnh n-gram; 源视频 dịch bằng bulk
+训练  # từ thường hoặc mảnh n-gram; 源视频 dịch bằng bulk
+看见  # từ thường hoặc mảnh n-gram; 源视频 dịch bằng bulk
+分钟  # từ thường hoặc mảnh n-gram; 源视频 dịch bằng bulk
+持续  # từ thường hoặc mảnh n-gram; 源视频 dịch bằng bulk
+确认  # từ thường hoặc mảnh n-gram; 源视频 dịch bằng bulk
+查到  # từ thường hoặc mảnh n-gram; 源视频 dịch bằng bulk
+认识  # từ thường hoặc mảnh n-gram; 源视频 dịch bằng bulk
+一个人  # từ thường hoặc mảnh n-gram; 源视频 dịch bằng bulk
+商场  # từ thường hoặc mảnh n-gram; 源视频 dịch bằng bulk
+穿越  # từ thường hoặc mảnh n-gram; 源视频 dịch bằng bulk
+反应  # từ thường hoặc mảnh n-gram; 源视频 dịch bằng bulk
+海底实验  # từ thường hoặc mảnh n-gram; 源视频 dịch bằng bulk
+源头  # từ thường hoặc mảnh n-gram; 源视频 dịch bằng bulk
+件事  # từ thường hoặc mảnh n-gram; 源视频 dịch bằng bulk
+记录  # từ thường hoặc mảnh n-gram; 源视频 dịch bằng bulk
+身份  # từ thường hoặc mảnh n-gram; 源视频 dịch bằng bulk
+真正  # từ thường hoặc mảnh n-gram; 源视频 dịch bằng bulk
+危险  # từ thường hoặc mảnh n-gram; 源视频 dịch bằng bulk
+失败  # từ thường hoặc mảnh n-gram; 源视频 dịch bằng bulk
+阻止  # từ thường hoặc mảnh n-gram; 源视频 dịch bằng bulk
+确定  # từ thường hoặc mảnh n-gram; 源视频 dịch bằng bulk
+速度  # từ thường hoặc mảnh n-gram; 源视频 dịch bằng bulk
+体内  # từ thường hoặc mảnh n-gram; 源视频 dịch bằng bulk
+作战  # từ thường hoặc mảnh n-gram; 源视频 dịch bằng bulk
+核心  # từ thường hoặc mảnh n-gram; 源视频 dịch bằng bulk
+主动  # từ thường hoặc mảnh n-gram; 源视频 dịch bằng bulk
+启动  # từ thường hoặc mảnh n-gram; 源视频 dịch bằng bulk
+保护  # từ thường hoặc mảnh n-gram; 源视频 dịch bằng bulk
+愈合  # từ thường hoặc mảnh n-gram; 源视频 dịch bằng bulk
+一条  # từ thường hoặc mảnh n-gram; 源视频 dịch bằng bulk
+意识  # từ thường hoặc mảnh n-gram; 源视频 dịch bằng bulk
+快走  # từ thường hoặc mảnh n-gram; 源视频 dịch bằng bulk
+时光  # từ thường hoặc mảnh n-gram; 源视频 dịch bằng bulk
+行动  # từ thường hoặc mảnh n-gram; 源视频 dịch bằng bulk
+适合  # từ thường hoặc mảnh n-gram; 源视频 dịch bằng bulk
+成功  # từ thường hoặc mảnh n-gram; 源视频 dịch bằng bulk
+失控  # từ thường hoặc mảnh n-gram; 源视频 dịch bằng bulk
+天台  # từ thường hoặc mảnh n-gram; 源视频 dịch bằng bulk
+仓库  # từ thường hoặc mảnh n-gram; 源视频 dịch bằng bulk
+留下  # từ thường hoặc mảnh n-gram; 源视频 dịch bằng bulk
+里有  # từ thường hoặc mảnh n-gram
+系统  # từ thường hoặc mảnh n-gram
+无法  # từ thường hoặc mảnh n-gram
+完成  # từ thường hoặc mảnh n-gram
+位置  # từ thường hoặc mảnh n-gram
+干扰  # từ thường hoặc mảnh n-gram
+目前  # từ thường hoặc mảnh n-gram
+任务  # từ thường hoặc mảnh n-gram
+面有  # từ thường hoặc mảnh n-gram
+关键  # từ thường hoặc mảnh n-gram
+区域  # từ thường hoặc mảnh n-gram
+权限  # từ thường hoặc mảnh n-gram
+出口  # từ thường hoặc mảnh n-gram
+全球  # từ thường hoặc mảnh n-gram
+衣服  # từ thường hoặc mảnh n-gram
+变成  # từ thường hoặc mảnh n-gram
+感知到  # từ thường hoặc mảnh n-gram
+消耗  # từ thường hoặc mảnh n-gram
+指令  # từ thường hoặc mảnh n-gram
+装置  # từ thường hoặc mảnh n-gram
+异常  # từ thường hoặc mảnh n-gram
+同时  # từ thường hoặc mảnh n-gram
+直接  # từ thường hoặc mảnh n-gram
+真相  # từ thường hoặc mảnh n-gram
+直升机  # từ thường hoặc mảnh n-gram
+开门  # từ thường hoặc mảnh n-gram
+一种  # từ thường hoặc mảnh n-gram
+几天  # từ thường hoặc mảnh n-gram
+游戏  # từ thường hoặc mảnh n-gram
+方向  # từ thường hoặc mảnh n-gram
+信息  # từ thường hoặc mảnh n-gram
+丧尸末  # từ thường hoặc mảnh n-gram
+实验基地  # từ thường hoặc mảnh n-gram
+万人  # từ thường hoặc mảnh n-gram
+建筑  # từ thường hoặc mảnh n-gram
+灾难  # từ thường hoặc mảnh n-gram
+接触  # từ thường hoặc mảnh n-gram
+想到  # từ thường hoặc mảnh n-gram
+证明  # từ thường hoặc mảnh n-gram
+名字  # từ thường hoặc mảnh n-gram
+另一  # từ thường hoặc mảnh n-gram
+多人  # từ thường hoặc mảnh n-gram
+好好  # từ thường hoặc mảnh n-gram
+只有一  # từ thường hoặc mảnh n-gram
+有没有  # từ thường hoặc mảnh n-gram
+有什  # từ thường hoặc mảnh n-gram
+有时  # từ thường hoặc mảnh n-gram
+记忆  # từ thường hoặc mảnh n-gram
+进入  # từ thường hoặc mảnh n-gram
+获得  # từ thường hoặc mảnh n-gram
+档案  # từ thường hoặc mảnh n-gram
+调查  # từ thường hoặc mảnh n-gram
+制造  # từ thường hoặc mảnh n-gram
+特殊  # từ thường hoặc mảnh n-gram
+成为  # từ thường hoặc mảnh n-gram
+情报  # từ thường hoặc mảnh n-gram
+压制  # từ thường hoặc mảnh n-gram
+人体  # từ thường hoặc mảnh n-gram
+走到  # từ thường hoặc mảnh n-gram
+完全  # từ thường hoặc mảnh n-gram
+第二  # từ thường hoặc mảnh n-gram
+城市  # từ thường hoặc mảnh n-gram
+回头  # từ thường hoặc mảnh n-gram
+伙伴  # từ thường hoặc mảnh n-gram
+目标  # từ thường hoặc mảnh n-gram
+一场  # từ thường hoặc mảnh n-gram
+到这里  # từ thường hoặc mảnh n-gram
+赶紧  # từ thường hoặc mảnh n-gram
+什么时候  # từ thường hoặc mảnh n-gram
+皮肤  # từ thường hoặc mảnh n-gram
+些人  # từ thường hoặc mảnh n-gram
+多久  # từ thường hoặc mảnh n-gram
+二十  # từ thường hoặc mảnh n-gram
+面肌产品  # từ thường hoặc mảnh n-gram
+镜面肌产  # từ thường hoặc mảnh n-gram
+线索  # từ thường hoặc mảnh n-gram
+笔记  # từ thường hoặc mảnh n-gram
+回溯装置  # từ thường hoặc mảnh n-gram
+技术  # từ thường hoặc mảnh n-gram
+秘密  # từ thường hoặc mảnh n-gram
+尽头  # từ thường hoặc mảnh n-gram
+提供  # từ thường hoặc mảnh n-gram
+逃生  # từ thường hoặc mảnh n-gram
+保持  # từ thường hoặc mảnh n-gram
+三万  # từ thường hoặc mảnh n-gram
+根本  # từ thường hoặc mảnh n-gram
+战争  # từ thường hoặc mảnh n-gram
+询问  # từ thường hoặc mảnh n-gram
+活下  # từ thường hoặc mảnh n-gram
+伤口  # từ thường hoặc mảnh n-gram
+队伍  # từ thường hoặc mảnh n-gram
+干嘛  # từ thường hoặc mảnh n-gram
+每一  # từ thường hoặc mảnh n-gram
+传播  # từ thường hoặc mảnh n-gram
+包括  # từ thường hoặc mảnh n-gram
+底实验室  # từ thường hoặc mảnh n-gram
+时光回溯  # từ thường hoặc mảnh n-gram
+存者小队  # từ thường hoặc mảnh n-gram
+幸存者小  # từ thường hoặc mảnh n-gram
+出生  # từ thường hoặc mảnh n-gram
+父母  # từ thường hoặc mảnh n-gram
+配方  # từ thường hoặc mảnh n-gram
+丧尸末世  # từ thường hoặc mảnh n-gram
+影响  # từ thường hoặc mảnh n-gram
+高速  # từ thường hoặc mảnh n-gram
+机动  # từ thường hoặc mảnh n-gram
+美妆  # từ thường hoặc mảnh n-gram
+看起  # từ thường hoặc mảnh n-gram
+负责  # từ thường hoặc mảnh n-gram
+所有人  # từ thường hoặc mảnh n-gram
+支援  # từ thường hoặc mảnh n-gram
+资源  # từ thường hoặc mảnh n-gram
+防护  # từ thường hoặc mảnh n-gram
+食物  # từ thường hoặc mảnh n-gram
+条时间线  # từ thường hoặc mảnh n-gram
+哈哈哈  # từ thường hoặc mảnh n-gram
+条路  # từ thường hoặc mảnh n-gram
+梦到  # từ thường hoặc mảnh n-gram
+自未  # từ thường hoặc mảnh n-gram
+第一次  # từ thường hoặc mảnh n-gram
+什么意思  # từ thường hoặc mảnh n-gram
+得及  # từ thường hoặc mảnh n-gram
+某种  # từ thường hoặc mảnh n-gram
+边通道  # từ thường hoặc mảnh n-gram
+返回  # từ thường hoặc mảnh n-gram
+剧情  # từ thường hoặc mảnh n-gram
+显示  # từ thường hoặc mảnh n-gram
+下一  # từ thường hoặc mảnh n-gram
+画面  # từ thường hoặc mảnh n-gram
+故事  # từ thường hoặc mảnh n-gram
+地图  # từ thường hoặc mảnh n-gram
+光回溯装  # từ thường hoặc mảnh n-gram
+掌握  # từ thường hoặc mảnh n-gram
+人员  # từ thường hoặc mảnh n-gram
+底实验基  # từ thường hoặc mảnh n-gram
+等待  # từ thường hoặc mảnh n-gram
+结果  # từ thường hoặc mảnh n-gram
+最终  # từ thường hoặc mảnh n-gram
+明显  # từ thường hoặc mảnh n-gram
+近战  # từ thường hoặc mảnh n-gram
+依赖  # từ thường hoặc mảnh n-gram
+价值  # từ thường hoặc mảnh n-gram
+车祸  # từ thường hoặc mảnh n-gram
+部队  # từ thường hoặc mảnh n-gram
+庇护  # từ thường hoặc mảnh n-gram
+破门  # từ thường hoặc mảnh n-gram
+活人  # từ thường hoặc mảnh n-gram
+见面  # từ thường hoặc mảnh n-gram
+扩散  # từ thường hoặc mảnh n-gram
+监视  # từ thường hoặc mảnh n-gram
+回到  # từ thường hoặc mảnh n-gram
+上楼  # từ thường hoặc mảnh n-gram
+里面有  # từ thường hoặc mảnh n-gram
+打开  # từ thường hoặc mảnh n-gram
+一楼  # từ thường hoặc mảnh n-gram
+奇怪  # từ thường hoặc mảnh n-gram
+担心  # từ thường hoặc mảnh n-gram
+有问题  # từ thường hoặc mảnh n-gram
+杀人  # từ thường hoặc mảnh n-gram
+大规模  # từ thường hoặc mảnh n-gram
+出事  # từ thường hoặc mảnh n-gram
+物质  # từ thường hoặc mảnh n-gram
+甚至  # từ thường hoặc mảnh n-gram
+联系  # từ thường hoặc mảnh n-gram
+厉害  # từ thường hoặc mảnh n-gram
+走廊  # từ thường hoặc mảnh n-gram
+同一  # từ thường hoặc mảnh n-gram
+本身  # từ thường hoặc mảnh n-gram
+可逆  # từ thường hoặc mảnh n-gram
+发动  # từ thường hoặc mảnh n-gram
+有时候  # từ thường hoặc mảnh n-gram
+部分  # từ thường hoặc mảnh n-gram
+覆盖  # từ thường hoặc mảnh n-gram
+命运  # từ thường hoặc mảnh n-gram
+红色  # từ thường hoặc mảnh n-gram
+色幻  # từ thường hoặc mảnh n-gram
+死亡  # từ thường hoặc mảnh n-gram
+手环  # từ thường hoặc mảnh n-gram
+小时  # từ thường hoặc mảnh n-gram
+具备  # từ thường hoặc mảnh n-gram
+稳定  # từ thường hoặc mảnh n-gram
+正面  # từ thường hoặc mảnh n-gram
+可爱  # từ thường hoặc mảnh n-gram
+废品站里  # từ thường hoặc mảnh n-gram
+内部  # từ thường hoặc mảnh n-gram
+主角  # từ thường hoặc mảnh n-gram
+牺牲  # từ thường hoặc mảnh n-gram
+士兵  # từ thường hoặc mảnh n-gram
+长期  # từ thường hoặc mảnh n-gram
+实验数据  # từ thường hoặc mảnh n-gram
+最高  # từ thường hoặc mảnh n-gram
+破解  # từ thường hoặc mảnh n-gram
+更多  # từ thường hoặc mảnh n-gram
+病毒  # từ thường hoặc mảnh n-gram
+错误  # từ thường hoặc mảnh n-gram
+英雄  # từ thường hoặc mảnh n-gram
+三万人  # từ thường hoặc mảnh n-gram
+原路  # từ thường hoặc mảnh n-gram
+输血  # từ thường hoặc mảnh n-gram
+答案  # từ thường hoặc mảnh n-gram
+身上  # từ thường hoặc mảnh n-gram
+中毒  # từ thường hoặc mảnh n-gram
+出发  # từ thường hoặc mảnh n-gram
+痕迹  # từ thường hoặc mảnh n-gram
+任何人  # từ thường hoặc mảnh n-gram
+得到  # từ thường hoặc mảnh n-gram
+一步  # từ thường hoặc mảnh n-gram
+收到  # từ thường hoặc mảnh n-gram
+肯定  # từ thường hoặc mảnh n-gram
+有丧尸  # từ thường hoặc mảnh n-gram
+别动  # từ thường hoặc mảnh n-gram
+干什  # từ thường hoặc mảnh n-gram
+一下子  # từ thường hoặc mảnh n-gram
+解释  # từ thường hoặc mảnh n-gram
+遇到  # từ thường hoặc mảnh n-gram
+穿越回  # từ thường hoặc mảnh n-gram
+年轻  # từ thường hoặc mảnh n-gram
+打手  # từ thường hoặc mảnh n-gram
+产生  # từ thường hoặc mảnh n-gram
+成分  # từ thường hoặc mảnh n-gram
+出声  # từ thường hoặc mảnh n-gram
+物资  # từ thường hoặc mảnh n-gram
+神经  # từ thường hoặc mảnh n-gram
+利用  # từ thường hoặc mảnh n-gram
+通讯  # từ thường hoặc mảnh n-gram
+有别  # từ thường hoặc mảnh n-gram
+带回  # từ thường hoặc mảnh n-gram
+用一  # từ thường hoặc mảnh n-gram
+停下  # từ thường hoặc mảnh n-gram
+几乎  # từ thường hoặc mảnh n-gram
+经历  # từ thường hoặc mảnh n-gram
+一块  # từ thường hoặc mảnh n-gram
+从来没有  # từ thường hoặc mảnh n-gram
+今晚  # từ thường hoặc mảnh n-gram
+想知道  # từ thường hoặc mảnh n-gram
+一件事  # từ thường hoặc mảnh n-gram
+定植  # từ thường hoặc mảnh n-gram
+细胞  # từ thường hoặc mảnh n-gram
+一款  # từ thường hoặc mảnh n-gram
+有东西  # từ thường hoặc mảnh n-gram
+链信号  # từ thường hoặc mảnh n-gram
+感受到  # từ thường hoặc mảnh n-gram
+玩家  # từ thường hoặc mảnh n-gram
+前往  # từ thường hoặc mảnh n-gram
+隐藏  # từ thường hoặc mảnh n-gram
+蓝色  # từ thường hoặc mảnh n-gram
+报告  # từ thường hoặc mảnh n-gram
+附近  # từ thường hoặc mảnh n-gram
+相关  # từ thường hoặc mảnh n-gram
+处理  # từ thường hoặc mảnh n-gram
+医院  # từ thường hoặc mảnh n-gram
+有任何  # từ thường hoặc mảnh n-gram
+有限  # từ thường hoặc mảnh n-gram
+战甲形态  # từ thường hoặc mảnh n-gram
+危机  # từ thường hoặc mảnh n-gram
+幸存者笔  # từ thường hoặc mảnh n-gram
+存者笔记  # từ thường hoặc mảnh n-gram
+血液  # từ thường hoặc mảnh n-gram
+武器  # từ thường hoặc mảnh n-gram
+医疗  # từ thường hoặc mảnh n-gram
+战场  # từ thường hoặc mảnh n-gram
+提升  # từ thường hoặc mảnh n-gram
+擅长  # từ thường hoặc mảnh n-gram
+清理  # từ thường hoặc mảnh n-gram
+最后一  # từ thường hoặc mảnh n-gram
+组织  # từ thường hoặc mảnh n-gram
+顶级  # từ thường hoặc mảnh n-gram
+距离  # từ thường hoặc mảnh n-gram
+低于  # từ thường hoặc mảnh n-gram
+最大  # từ thường hoặc mảnh n-gram
+风险  # từ thường hoặc mảnh n-gram
+持续战斗  # từ thường hoặc mảnh n-gram
+推进  # từ thường hoặc mảnh n-gram
+正常  # từ thường hoặc mảnh n-gram
+范围  # từ thường hoặc mảnh n-gram
+救下  # từ thường hoặc mảnh n-gram
+好人  # từ thường hoặc mảnh n-gram
+开枪  # từ thường hoặc mảnh n-gram
+居民  # từ thường hoặc mảnh n-gram
+门后  # từ thường hoặc mảnh n-gram
+里没有  # từ thường hoặc mảnh n-gram
+办公  # từ thường hoặc mảnh n-gram
+反问  # từ thường hoặc mảnh n-gram
+上有  # từ thường hoặc mảnh n-gram
+坚持  # từ thường hoặc mảnh n-gram
+通道一  # từ thường hoặc mảnh n-gram
+通道二  # từ thường hoặc mảnh n-gram
+欢迎  # từ thường hoặc mảnh n-gram
+救命  # từ thường hoặc mảnh n-gram
+当成  # từ thường hoặc mảnh n-gram
+一遍  # từ thường hoặc mảnh n-gram
+家里  # từ thường hoặc mảnh n-gram
+走向  # từ thường hoặc mảnh n-gram
+封锁  # từ thường hoặc mảnh n-gram
+闭眼  # từ thường hoặc mảnh n-gram
+家伙  # từ thường hoặc mảnh n-gram
+有用  # từ thường hoặc mảnh n-gram
+什么东西  # từ thường hoặc mảnh n-gram
+里的丧尸  # từ thường hoặc mảnh n-gram
+梦境  # từ thường hoặc mảnh n-gram
+消失  # từ thường hoặc mảnh n-gram
+有新  # từ thường hoặc mảnh n-gram
+按照  # từ thường hoặc mảnh n-gram
+漫画里  # từ thường hoặc mảnh n-gram
+平安  # từ thường hoặc mảnh n-gram
+安置  # từ thường hoặc mảnh n-gram
+立即  # từ thường hoặc mảnh n-gram
+分区  # từ thường hoặc mảnh n-gram
+仪器  # từ thường hoặc mảnh n-gram
+室里  # từ thường hoặc mảnh n-gram
+密度  # từ thường hoặc mảnh n-gram
+放开  # từ thường hoặc mảnh n-gram
+感知不到  # từ thường hoặc mảnh n-gram
+带你去见  # từ thường hoặc mảnh n-gram
+两个打手  # từ thường hoặc mảnh n-gram
+直到  # từ thường hoặc mảnh n-gram
+链活性  # từ thường hoặc mảnh n-gram
+多年  # từ thường hoặc mảnh n-gram
+代价  # từ thường hoặc mảnh n-gram
+段时间  # từ thường hoặc mảnh n-gram
+屏蔽  # từ thường hoặc mảnh n-gram
+毒素  # từ thường hoặc mảnh n-gram
+扮演  # từ thường hoặc mảnh n-gram
+进行  # từ thường hoặc mảnh n-gram
+移动  # từ thường hoặc mảnh n-gram
+接受  # từ thường hoặc mảnh n-gram
+内容  # từ thường hoặc mảnh n-gram
+色幻甲  # từ thường hoặc mảnh n-gram
+综合  # từ thường hoặc mảnh n-gram
+封闭  # từ thường hoặc mảnh n-gram
+小时候  # từ thường hoặc mảnh n-gram
+区别  # từ thường hoặc mảnh n-gram
+时空  # từ thường hoặc mảnh n-gram
+电信号  # từ thường hoặc mảnh n-gram
+黑色  # từ thường hoặc mảnh n-gram
+品站幸存  # từ thường hoặc mảnh n-gram
+站幸存者  # từ thường hoặc mảnh n-gram
+废品站幸  # từ thường hoặc mảnh n-gram
+极强  # từ thường hoặc mảnh n-gram
+快速  # từ thường hoặc mảnh n-gram
+攻击  # từ thường hoặc mảnh n-gram
+安静  # từ thường hoặc mảnh n-gram
+少女  # từ thường hoặc mảnh n-gram
+实际  # từ thường hoặc mảnh n-gram
+丝线  # từ thường hoặc mảnh n-gram
+敌人  # từ thường hoặc mảnh n-gram
+普通人  # từ thường hoặc mảnh n-gram
+力强  # từ thường hoặc mảnh n-gram
+执行  # từ thường hoặc mảnh n-gram
+形成  # từ thường hoặc mảnh n-gram
+持续作战  # từ thường hoặc mảnh n-gram
+适合持续  # từ thường hoặc mảnh n-gram
+加速  # từ thường hoặc mảnh n-gram
+逻辑  # từ thường hoặc mảnh n-gram
+分析  # từ thường hoặc mảnh n-gram
+入口  # từ thường hoặc mảnh n-gram
+第三  # từ thường hoặc mảnh n-gram
+独自  # từ thường hoặc mảnh n-gram
+病房  # từ thường hoặc mảnh n-gram
+人间  # từ thường hoặc mảnh n-gram
+漫画第  # từ thường hoặc mảnh n-gram
+接管  # từ thường hoặc mảnh n-gram
+警报  # từ thường hoặc mảnh n-gram
+样本  # từ thường hoặc mảnh n-gram
+家人  # từ thường hoặc mảnh n-gram
+开饭  # từ thường hoặc mảnh n-gram
+房间  # từ thường hoặc mảnh n-gram
+人活  # từ thường hoặc mảnh n-gram
+五千万  # từ thường hoặc mảnh n-gram
+想见  # từ thường hoặc mảnh n-gram
+无名  # từ thường hoặc mảnh n-gram
+入通道  # từ thường hoặc mảnh n-gram
+通电  # từ thường hoặc mảnh n-gram
+死路  # từ thường hoặc mảnh n-gram
+靠近  # từ thường hoặc mảnh n-gram
+怪物  # từ thường hoặc mảnh n-gram
+尸体  # từ thường hoặc mảnh n-gram
+有意  # từ thường hoặc mảnh n-gram
+意义  # từ thường hoặc mảnh n-gram
+完整  # từ thường hoặc mảnh n-gram
+兄弟  # từ thường hoặc mảnh n-gram
+该死  # từ thường hoặc mảnh n-gram
+眼里  # từ thường hoặc mảnh n-gram
+一旦  # từ thường hoặc mảnh n-gram
+年前  # từ thường hoặc mảnh n-gram
+有关  # từ thường hoặc mảnh n-gram
+记住  # từ thường hoặc mảnh n-gram
+回事  # từ thường hoặc mảnh n-gram
+什么情  # từ thường hoặc mảnh n-gram
+怎么知道  # từ thường hoặc mảnh n-gram
+到底是谁  # từ thường hoặc mảnh n-gram
+见到  # từ thường hoặc mảnh n-gram
+新世界  # từ thường hoặc mảnh n-gram
+先走  # từ thường hoặc mảnh n-gram
+一支  # từ thường hoặc mảnh n-gram
+做好  # từ thường hoặc mảnh n-gram
+慢慢  # từ thường hoặc mảnh n-gram
+有救  # từ thường hoặc mảnh n-gram
+快跑  # từ thường hoặc mảnh n-gram
+年轻人  # từ thường hoặc mảnh n-gram
+害死  # từ thường hoặc mảnh n-gram
+一层  # từ thường hoặc mảnh n-gram
+现场  # từ thường hoặc mảnh n-gram
+新人类  # từ thường hoặc mảnh n-gram
+做过预知  # từ thường hoặc mảnh n-gram
+十秒  # từ thường hoặc mảnh n-gram
+从未  # từ thường hoặc mảnh n-gram
+一开始  # từ thường hoặc mảnh n-gram
+链培养  # từ thường hoặc mảnh n-gram
+活性物质  # từ thường hoặc mảnh n-gram
+有办法  # từ thường hoặc mảnh n-gram
+基本  # từ thường hoặc mảnh n-gram
+但现  # từ thường hoặc mảnh n-gram
+拿到  # từ thường hoặc mảnh n-gram
+或许  # từ thường hoặc mảnh n-gram
+重启  # từ thường hoặc mảnh n-gram
+某些人  # từ thường hoặc mảnh n-gram
+于谁  # từ thường hoặc mảnh n-gram
+跟上  # từ thường hoặc mảnh n-gram
+周围  # từ thường hoặc mảnh n-gram
+电脑  # từ thường hoặc mảnh n-gram
+命令  # từ thường hoặc mảnh n-gram
+筛选  # từ thường hoặc mảnh n-gram
+每一次  # từ thường hoặc mảnh n-gram
+原路返回  # từ thường hoặc mảnh n-gram
+体育馆里  # từ thường hoặc mảnh n-gram
+休息  # từ thường hoặc mảnh n-gram
+一根萝卜  # từ thường hoặc mảnh n-gram
+故意  # từ thường hoặc mảnh n-gram
+气味  # từ thường hoặc mảnh n-gram
+些事  # từ thường hoặc mảnh n-gram
+一个叫  # từ thường hoặc mảnh n-gram
+但如果  # từ thường hoặc mảnh n-gram
+做什  # từ thường hoặc mảnh n-gram
+传输  # từ thường hoặc mảnh n-gram
+边界  # từ thường hoặc mảnh n-gram
+值得  # từ thường hoặc mảnh n-gram
+女性  # từ thường hoặc mảnh n-gram
+证据  # từ thường hoặc mảnh n-gram
+生产  # từ thường hoặc mảnh n-gram
+下雨  # từ thường hoặc mảnh n-gram
+蚕丝  # từ thường hoặc mảnh n-gram
+玩家将  # từ thường hoặc mảnh n-gram
+重新  # từ thường hoặc mảnh n-gram
+自动  # từ thường hoặc mảnh n-gram
+标记  # từ thường hoặc mảnh n-gram
+分支  # từ thường hoặc mảnh n-gram
+开启  # từ thường hoặc mảnh n-gram
+顶楼  # từ thường hoặc mảnh n-gram
+海报  # từ thường hoặc mảnh n-gram
+遗体  # từ thường hoặc mảnh n-gram
+地图上  # từ thường hoặc mảnh n-gram
+游乐区  # từ thường hoặc mảnh n-gram
+适配  # từ thường hoặc mảnh n-gram
+极高  # từ thường hoặc mảnh n-gram
+疑似  # từ thường hoặc mảnh n-gram
+未知  # từ thường hoặc mảnh n-gram
+对象  # từ thường hoặc mảnh n-gram
+亲手  # từ thường hoặc mảnh n-gram
+色战甲  # từ thường hoặc mảnh n-gram
+面战  # từ thường hoặc mảnh n-gram
+年出生  # từ thường hoặc mảnh n-gram
+队的五虎  # từ thường hoặc mảnh n-gram
+五虎将之  # từ thường hoặc mảnh n-gram
+丧尸咬  # từ thường hoặc mảnh n-gram
+小队的五  # từ thường hoặc mảnh n-gram
+拥有  # từ thường hoặc mảnh n-gram
+防线  # từ thường hoặc mảnh n-gram
+强化  # từ thường hoặc mảnh n-gram
+一颗  # từ thường hoặc mảnh n-gram
+公司的实  # từ thường hoặc mảnh n-gram
+项目  # từ thường hoặc mảnh n-gram
+幕后  # từ thường hoặc mảnh n-gram
+飞牌  # từ thường hoặc mảnh n-gram
+双枪  # từ thường hoặc mảnh n-gram
+远程  # từ thường hoặc mảnh n-gram
+深处  # từ thường hoặc mảnh n-gram
+威胁  # từ thường hoặc mảnh n-gram
+量子  # từ thường hoặc mảnh n-gram
+丧尸信号  # từ thường hoặc mảnh n-gram
+测试  # từ thường hoặc mảnh n-gram
+推动  # từ thường hoặc mảnh n-gram
+改写  # từ thường hoặc mảnh n-gram
+战能力  # từ thường hoặc mảnh n-gram
+接近  # từ thường hoặc mảnh n-gram
+上限  # từ thường hoặc mảnh n-gram
+环境  # từ thường hoặc mảnh n-gram
+队友  # từ thường hoặc mảnh n-gram
+地下  # từ thường hoặc mảnh n-gram
+压力  # từ thường hoặc mảnh n-gram
+合持续战  # từ thường hoặc mảnh n-gram
+维持  # từ thường hoặc mảnh n-gram
+战术  # từ thường hoặc mảnh n-gram
+有特  # từ thường hoặc mảnh n-gram
+方式  # từ thường hoặc mảnh n-gram
+大量  # từ thường hoặc mảnh n-gram
+空间  # từ thường hoặc mảnh n-gram
+广播  # từ thường hoặc mảnh n-gram
+锁定  # từ thường hoặc mảnh n-gram
+质问  # từ thường hoặc mảnh n-gram
+手电  # từ thường hoặc mảnh n-gram
+展中心  # từ thường hoặc mảnh n-gram
+提议  # từ thường hoặc mảnh n-gram
+办公室  # từ thường hoặc mảnh n-gram
+陷阱  # từ thường hoặc mảnh n-gram
+追上  # từ thường hoặc mảnh n-gram
+有活人  # từ thường hoặc mảnh n-gram
+开灯  # từ thường hoặc mảnh n-gram
+回应  # từ thường hoặc mảnh n-gram
+封存  # từ thường hoặc mảnh n-gram
+营帐  # từ thường hoặc mảnh n-gram
+调配  # từ thường hoặc mảnh n-gram
+追问  # từ thường hoặc mảnh n-gram
+废墟  # từ thường hoặc mảnh n-gram
+最初  # từ thường hoặc mảnh n-gram
+沉默  # từ thường hoặc mảnh n-gram
+加入  # từ thường hoặc mảnh n-gram
+监控  # từ thường hoặc mảnh n-gram
+真实身份  # từ thường hoặc mảnh n-gram
+完美  # từ thường hoặc mảnh n-gram
+钥匙  # từ thường hoặc mảnh n-gram
+岔路  # từ thường hoặc mảnh n-gram
+求救  # từ thường hoặc mảnh n-gram
+启用  # từ thường hoặc mảnh n-gram
+修正  # từ thường hoặc mảnh n-gram
+时间线里  # từ thường hoặc mảnh n-gram
+单独  # từ thường hoặc mảnh n-gram
+以为自己  # từ thường hoặc mảnh n-gram
+人群  # từ thường hoặc mảnh n-gram
+锁住  # từ thường hoặc mảnh n-gram
+撤离  # từ thường hoặc mảnh n-gram
+饥饿  # từ thường hoặc mảnh n-gram
+最喜欢  # từ thường hoặc mảnh n-gram
+好奇  # từ thường hoặc mảnh n-gram
+更快  # từ thường hoặc mảnh n-gram
+只是一  # từ thường hoặc mảnh n-gram
+改造  # từ thường hoặc mảnh n-gram
+从一  # từ thường hoặc mảnh n-gram
+如何  # từ thường hoặc mảnh n-gram
+年后  # từ thường hoặc mảnh n-gram
+叫白沅  # từ thường hoặc mảnh n-gram
+受伤  # từ thường hoặc mảnh n-gram
+哪儿  # từ thường hoặc mảnh n-gram
+梦里的丧  # từ thường hoặc mảnh n-gram
+趁现  # từ thường hoặc mảnh n-gram
+跟我走  # từ thường hoặc mảnh n-gram
+先回  # từ thường hoặc mảnh n-gram
+随便  # từ thường hoặc mảnh n-gram
+别出  # từ thường hoặc mảnh n-gram
+道我的名  # từ thường hoặc mảnh n-gram
+经络  # từ thường hoặc mảnh n-gram
+闭嘴  # từ thường hoặc mảnh n-gram
+从这里  # từ thường hoặc mảnh n-gram
+唯一  # từ thường hoặc mảnh n-gram
+护肤品  # từ thường hoặc mảnh n-gram
+哎呦  # từ thường hoặc mảnh n-gram
+得入内  # từ thường hoặc mảnh n-gram
+证件  # từ thường hoặc mảnh n-gram
+快进  # từ thường hoặc mảnh n-gram
+里一  # từ thường hoặc mảnh n-gram
+豹子  # từ thường hoặc mảnh n-gram
+有走  # từ thường hoặc mảnh n-gram
+有被咬  # từ thường hoặc mảnh n-gram
+人家  # từ thường hoặc mảnh n-gram
+看得  # từ thường hoặc mảnh n-gram
+愿意  # từ thường hoặc mảnh n-gram
+三十  # từ thường hoặc mảnh n-gram
+又见面  # từ thường hoặc mảnh n-gram
+共生体  # từ thường hoặc mảnh n-gram
+进展  # từ thường hoặc mảnh n-gram
+想象  # từ thường hoặc mảnh n-gram
+彻底  # từ thường hoặc mảnh n-gram
+差点  # từ thường hoặc mảnh n-gram
+一只  # từ thường hoặc mảnh n-gram
+丧尸群  # từ thường hoặc mảnh n-gram
+隔离  # từ thường hoặc mảnh n-gram
+征用  # từ thường hoặc mảnh n-gram
+寻求  # từ thường hoặc mảnh n-gram
+接下  # từ thường hoặc mảnh n-gram
+强行  # từ thường hoặc mảnh n-gram
+救世  # từ thường hoặc mảnh n-gram
+结构  # từ thường hoặc mảnh n-gram
+菌株失活  # từ thường hoặc mảnh n-gram
+触发  # từ thường hoặc mảnh n-gram
+有可  # từ thường hoặc mảnh n-gram
+随时  # từ thường hoặc mảnh n-gram
+进化  # từ thường hoặc mảnh n-gram
+看不到  # từ thường hoặc mảnh n-gram
+需要的东  # từ thường hoặc mảnh n-gram
+注意安全  # từ thường hoặc mảnh n-gram
+频率  # từ thường hoặc mảnh n-gram
+动静  # từ thường hoặc mảnh n-gram
+带走  # từ thường hoặc mảnh n-gram
+明明  # từ thường hoặc mảnh n-gram
+片区域  # từ thường hoặc mảnh n-gram
+好几  # từ thường hoặc mảnh n-gram
+遇见  # từ thường hoặc mảnh n-gram
+脸色  # từ thường hoặc mảnh n-gram
+干净  # từ thường hoặc mảnh n-gram
+资金流  # từ thường hoặc mảnh n-gram
+家公司  # từ thường hoặc mảnh n-gram
+些东西  # từ thường hoặc mảnh n-gram
+好家伙  # từ thường hoặc mảnh n-gram
+梦见  # từ thường hoặc mảnh n-gram
+扼杀  # từ thường hoặc mảnh n-gram
+秘密实验  # từ thường hoặc mảnh n-gram
+神秘  # từ thường hoặc mảnh n-gram
+加深一点  # từ thường hoặc mảnh n-gram
+使用  # từ thường hoặc mảnh n-gram
+真人  # từ thường hoặc mảnh n-gram
+靴子  # từ thường hoặc mảnh n-gram
+二十年  # từ thường hoặc mảnh n-gram
+理由  # từ thường hoặc mảnh n-gram
+当年  # từ thường hoặc mảnh n-gram
+级别  # từ thường hoặc mảnh n-gram
+程中  # từ thường hoặc mảnh n-gram
+含有  # từ thường hoặc mảnh n-gram
+批次  # từ thường hoặc mảnh n-gram
+用一次  # từ thường hoặc mảnh n-gram
+开电闸  # từ thường hoặc mảnh n-gram
+然无法将  # từ thường hoặc mảnh n-gram
+居然无法  # từ thường hoặc mảnh n-gram
+彼此  # từ thường hoặc mảnh n-gram
+一直以为  # từ thường hoặc mảnh n-gram
+公司的内  # từ thường hoặc mảnh n-gram
+掌控  # từ thường hoặc mảnh n-gram
+生公司内  # từ thường hoặc mảnh n-gram
+裴峥死  # từ thường hoặc mảnh n-gram
+右边通道  # từ thường hoặc mảnh n-gram
+左边通道  # từ thường hoặc mảnh n-gram
+毁灭  # từ thường hoặc mảnh n-gram
+万物失序  # từ thường hoặc mảnh n-gram
+元初降临  # từ thường hoặc mảnh n-gram
+系列  # từ thường hoặc mảnh n-gram

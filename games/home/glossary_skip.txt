@@ -1,0 +1,159 @@
+# Ứng viên tên/thuật ngữ đã quyết là không cần glossary. Mỗi dòng: '<gốc>  # lý do'.
+Nnh  # tiếng rên/thán từ: dịch theo sotay, không cần glossary
+Ah  # tiếng rên/thán từ: dịch theo sotay, không cần glossary
+Haah  # tiếng rên/thán từ: dịch theo sotay, không cần glossary
+Ahh  # tiếng rên/thán từ: dịch theo sotay, không cần glossary
+Hehe  # tiếng rên/thán từ: dịch theo sotay, không cần glossary
+Aah  # tiếng rên/thán từ: dịch theo sotay, không cần glossary
+Eh  # tiếng rên/thán từ: dịch theo sotay, không cần glossary
+Aaaaahh  # tiếng rên/thán từ: dịch theo sotay, không cần glossary
+Fuu  # tiếng rên/thán từ: dịch theo sotay, không cần glossary
+Aaaah  # tiếng rên/thán từ: dịch theo sotay, không cần glossary
+Haaah  # tiếng rên/thán từ: dịch theo sotay, không cần glossary
+Kuh  # tiếng rên/thán từ: dịch theo sotay, không cần glossary
+Hah  # tiếng rên/thán từ: dịch theo sotay, không cần glossary
+Whoa  # tiếng rên/thán từ: dịch theo sotay, không cần glossary
+Hm  # tiếng rên/thán từ: dịch theo sotay, không cần glossary
+Th  # tiếng rên/thán từ: dịch theo sotay, không cần glossary
+Heh  # tiếng rên/thán từ: dịch theo sotay, không cần glossary
+Hic  # tiếng rên/thán từ: dịch theo sotay, không cần glossary
+Hyuuh  # tiếng rên/thán từ: dịch theo sotay, không cần glossary
+You  # từ tiếng Anh thường (đầu câu), không phải tên/thuật ngữ
+It  # từ tiếng Anh thường (đầu câu), không phải tên/thuật ngữ
+If  # từ tiếng Anh thường (đầu câu), không phải tên/thuật ngữ
+That  # từ tiếng Anh thường (đầu câu), không phải tên/thuật ngữ
+She  # từ tiếng Anh thường (đầu câu), không phải tên/thuật ngữ
+Don  # từ tiếng Anh thường (đầu câu), không phải tên/thuật ngữ
+Yeah  # từ tiếng Anh thường (đầu câu), không phải tên/thuật ngữ
+My  # từ tiếng Anh thường (đầu câu), không phải tên/thuật ngữ
+Huh  # từ tiếng Anh thường (đầu câu), không phải tên/thuật ngữ
+This  # từ tiếng Anh thường (đầu câu), không phải tên/thuật ngữ
+So  # từ tiếng Anh thường (đầu câu), không phải tên/thuật ngữ
+Your  # từ tiếng Anh thường (đầu câu), không phải tên/thuật ngữ
+In  # từ tiếng Anh thường (đầu câu), không phải tên/thuật ngữ
+Then  # từ tiếng Anh thường (đầu câu), không phải tên/thuật ngữ
+Well  # từ tiếng Anh thường (đầu câu), không phải tên/thuật ngữ
+Thank  # từ tiếng Anh thường (đầu câu), không phải tên/thuật ngữ
+Just  # từ tiếng Anh thường (đầu câu), không phải tên/thuật ngữ
+Even  # từ tiếng Anh thường (đầu câu), không phải tên/thuật ngữ
+All  # từ tiếng Anh thường (đầu câu), không phải tên/thuật ngữ
+Come  # từ tiếng Anh thường (đầu câu), không phải tên/thuật ngữ
+Hey  # từ tiếng Anh thường (đầu câu), không phải tên/thuật ngữ
+Is  # từ tiếng Anh thường (đầu câu), không phải tên/thuật ngữ
+Looks  # từ tiếng Anh thường (đầu câu), không phải tên/thuật ngữ
+Please  # từ tiếng Anh thường (đầu câu), không phải tên/thuật ngữ
+When  # từ tiếng Anh thường (đầu câu), không phải tên/thuật ngữ
+Let  # từ tiếng Anh thường (đầu câu), không phải tên/thuật ngữ
+We  # từ tiếng Anh thường (đầu câu), không phải tên/thuật ngữ
+Of  # từ tiếng Anh thường (đầu câu), không phải tên/thuật ngữ
+Sorry  # từ tiếng Anh thường (đầu câu), không phải tên/thuật ngữ
+Maybe  # từ tiếng Anh thường (đầu câu), không phải tên/thuật ngữ
+Not  # từ tiếng Anh thường (đầu câu), không phải tên/thuật ngữ
+Are  # từ tiếng Anh thường (đầu câu), không phải tên/thuật ngữ
+Because  # từ tiếng Anh thường (đầu câu), không phải tên/thuật ngữ
+Can  # từ tiếng Anh thường (đầu câu), không phải tên/thuật ngữ
+Right  # từ tiếng Anh thường (đầu câu), không phải tên/thuật ngữ
+Did  # từ tiếng Anh thường (đầu câu), không phải tên/thuật ngữ
+See  # từ tiếng Anh thường (đầu câu), không phải tên/thuật ngữ
+Now  # từ tiếng Anh thường (đầu câu), không phải tên/thuật ngữ
+There  # từ tiếng Anh thường (đầu câu), không phải tên/thuật ngữ
+Wait  # từ tiếng Anh thường (đầu câu), không phải tên/thuật ngữ
+Bought  # từ tiếng Anh thường (đầu câu), không phải tên/thuật ngữ
+Do  # từ tiếng Anh thường (đầu câu), không phải tên/thuật ngữ
+Today  # từ tiếng Anh thường (đầu câu), không phải tên/thuật ngữ
+Where  # từ tiếng Anh thường (đầu câu), không phải tên/thuật ngữ
+Damn  # từ tiếng Anh thường (đầu câu), không phải tên/thuật ngữ
+From  # từ tiếng Anh thường (đầu câu), không phải tên/thuật ngữ
+Me  # từ tiếng Anh thường (đầu câu), không phải tên/thuật ngữ
+Look  # từ tiếng Anh thường (đầu câu), không phải tên/thuật ngữ
+Geez  # từ tiếng Anh thường (đầu câu), không phải tên/thuật ngữ
+Getting  # từ tiếng Anh thường (đầu câu), không phải tên/thuật ngữ
+Jeez  # từ tiếng Anh thường (đầu câu), không phải tên/thuật ngữ
+Inside  # từ tiếng Anh thường (đầu câu), không phải tên/thuật ngữ
+Cause  # từ tiếng Anh thường (đầu câu), không phải tên/thuật ngữ
+They  # từ tiếng Anh thường (đầu câu), không phải tên/thuật ngữ
+Okay  # từ tiếng Anh thường (đầu câu), không phải tên/thuật ngữ
+Being  # từ tiếng Anh thường (đầu câu), không phải tên/thuật ngữ
+Paid  # từ tiếng Anh thường (đầu câu), không phải tên/thuật ngữ
+Thanks  # từ tiếng Anh thường (đầu câu), không phải tên/thuật ngữ
+Hmm  # tiếng rên/thán từ: dịch theo sotay, không cần glossary
+Ehh  # tiếng rên/thán từ: dịch theo sotay, không cần glossary
+Chu  # tiếng rên/thán từ: dịch theo sotay, không cần glossary
+Hyuuuh  # tiếng rên/thán từ: dịch theo sotay, không cần glossary
+Nngh  # tiếng rên/thán từ: dịch theo sotay, không cần glossary
+Um  # tiếng rên/thán từ: dịch theo sotay, không cần glossary
+He  # tiếng rên/thán từ: dịch theo sotay, không cần glossary
+Wah  # tiếng rên/thán từ: dịch theo sotay, không cần glossary
+Ugh  # tiếng rên/thán từ: dịch theo sotay, không cần glossary
+Aaaahh  # tiếng rên/thán từ: dịch theo sotay, không cần glossary
+Aaah  # tiếng rên/thán từ: dịch theo sotay, không cần glossary
+Aaaaaah  # tiếng rên/thán từ: dịch theo sotay, không cần glossary
+Ahhnn  # tiếng rên/thán từ: dịch theo sotay, không cần glossary
+Hyaaaaah  # tiếng rên/thán từ: dịch theo sotay, không cần glossary
+Her  # từ tiếng Anh thường (đầu câu), không phải tên/thuật ngữ
+Aagh  # từ tiếng Anh thường (đầu câu), không phải tên/thuật ngữ
+Really  # từ tiếng Anh thường (đầu câu), không phải tên/thuật ngữ
+Crap  # từ tiếng Anh thường (đầu câu), không phải tên/thuật ngữ
+For  # từ tiếng Anh thường (đầu câu), không phải tên/thuật ngữ
+Got  # từ tiếng Anh thường (đầu câu), không phải tên/thuật ngữ
+Wow  # từ tiếng Anh thường (đầu câu), không phải tên/thuật ngữ
+Pour  # từ tiếng Anh thường (đầu câu), không phải tên/thuật ngữ
+Nothing  # từ tiếng Anh thường (đầu câu), không phải tên/thuật ngữ
+At  # từ tiếng Anh thường (đầu câu), không phải tên/thuật ngữ
+Love  # từ tiếng Anh thường (đầu câu), không phải tên/thuật ngữ
+Make  # từ tiếng Anh thường (đầu câu), không phải tên/thuật ngữ
+Thinking  # từ tiếng Anh thường (đầu câu), không phải tên/thuật ngữ
+Hahi  # từ tiếng Anh thường (đầu câu), không phải tên/thuật ngữ
+Ogh  # từ tiếng Anh thường (đầu câu), không phải tên/thuật ngữ
+Nah  # từ tiếng Anh thường (đầu câu), không phải tên/thuật ngữ
+With  # từ tiếng Anh thường (đầu câu), không phải tên/thuật ngữ
+Here  # từ tiếng Anh thường (đầu câu), không phải tên/thuật ngữ
+Both  # từ tiếng Anh thường (đầu câu), không phải tên/thuật ngữ
+Saturday  # từ tiếng Anh thường (đầu câu), không phải tên/thuật ngữ
+Deep  # từ tiếng Anh thường (đầu câu), không phải tên/thuật ngữ
+Does  # từ tiếng Anh thường (đầu câu), không phải tên/thuật ngữ
+Give  # từ tiếng Anh thường (đầu câu), không phải tên/thuật ngữ
+Agh  # từ tiếng Anh thường (đầu câu), không phải tên/thuật ngữ
+Go  # từ tiếng Anh thường (đầu câu), không phải tên/thuật ngữ
+Yo  # từ tiếng Anh thường (đầu câu), không phải tên/thuật ngữ
+Obviously  # từ tiếng Anh thường (đầu câu), không phải tên/thuật ngữ
+Picked  # từ tiếng Anh thường (đầu câu), không phải tên/thuật ngữ
+Nnuuuh  # từ tiếng Anh thường (đầu câu), không phải tên/thuật ngữ
+As  # từ tiếng Anh thường (đầu câu), không phải tên/thuật ngữ
+Hello  # từ tiếng Anh thường (đầu câu), không phải tên/thuật ngữ
+Still  # từ tiếng Anh thường (đầu câu), không phải tên/thuật ngữ
+Next  # từ tiếng Anh thường (đầu câu), không phải tên/thuật ngữ
+Will  # từ tiếng Anh thường (đầu câu), không phải tên/thuật ngữ
+Cum  # từ tiếng Anh thường (đầu câu), không phải tên/thuật ngữ
+Oghh  # từ tiếng Anh thường (đầu câu), không phải tên/thuật ngữ
+Touch  # từ tiếng Anh thường (đầu câu), không phải tên/thuật ngữ
+Onii  # từ tiếng Anh thường (đầu câu), không phải tên/thuật ngữ
+Honestly  # từ tiếng Anh thường (đầu câu), không phải tên/thuật ngữ
+Good  # từ tiếng Anh thường (đầu câu), không phải tên/thuật ngữ
+Want  # từ tiếng Anh thường (đầu câu), không phải tên/thuật ngữ
+Guess  # từ tiếng Anh thường (đầu câu), không phải tên/thuật ngữ
+Having  # từ tiếng Anh thường (đầu câu), không phải tên/thuật ngữ
+Who  # từ tiếng Anh thường (đầu câu), không phải tên/thuật ngữ
+Stop  # từ tiếng Anh thường (đầu câu), không phải tên/thuật ngữ
+Nnuuh  # từ tiếng Anh thường (đầu câu), không phải tên/thuật ngữ
+Sunday  # từ tiếng Anh thường (đầu câu), không phải tên/thuật ngữ
+Once  # từ tiếng Anh thường (đầu câu), không phải tên/thuật ngữ
+Nice  # từ tiếng Anh thường (đầu câu), không phải tên/thuật ngữ
+August  # từ tiếng Anh thường (đầu câu), không phải tên/thuật ngữ
+Whatever  # từ tiếng Anh thường (đầu câu), không phải tên/thuật ngữ
+Crowded  # từ tiếng Anh thường (đầu câu), không phải tên/thuật ngữ
+Welcome  # từ tiếng Anh thường (đầu câu), không phải tên/thuật ngữ
+After  # từ tiếng Anh thường (đầu câu), không phải tên/thuật ngữ
+Trying  # từ tiếng Anh thường (đầu câu), không phải tên/thuật ngữ
+Going  # từ tiếng Anh thường (đầu câu), không phải tên/thuật ngữ
+Get  # từ tiếng Anh thường (đầu câu), không phải tên/thuật ngữ
+Too  # từ tiếng Anh thường (đầu câu), không phải tên/thuật ngữ
+Weird  # từ tiếng Anh thường (đầu câu), không phải tên/thuật ngữ
+Something  # từ tiếng Anh thường (đầu câu), không phải tên/thuật ngữ
+Forget  # từ tiếng Anh thường (đầu câu), không phải tên/thuật ngữ
+Every  # từ tiếng Anh thường (đầu câu), không phải tên/thuật ngữ
+Ohooh  # từ tiếng Anh thường (đầu câu), không phải tên/thuật ngữ
+Chupu  # từ tiếng Anh thường (đầu câu), không phải tên/thuật ngữ
+Yes  # từ tiếng Anh thường (đầu câu), không phải tên/thuật ngữ
+No  # từ tiếng Anh thường (đầu câu), không phải tên/thuật ngữ
+Skip  # từ tiếng Anh thường (đầu câu), không phải tên/thuật ngữ

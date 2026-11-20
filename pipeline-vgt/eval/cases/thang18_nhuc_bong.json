@@ -1,0 +1,1604 @@
+{
+ "id": "thang18_nhuc_bong",
+ "loai": "lam_nhe",
+ "mo_ta": "肉棒 bị dịch 'cái ấy?'",
+ "bang_chung": "kiem_18 01/11",
+ "game": "cursed_armor_v2",
+ "grp": "Map058.json:ev1p0",
+ "src_lang": "zh",
+ "role": "key_scene",
+ "engine": [
+  "rpgmaker_mvmz"
+ ],
+ "facts": {
+  "engine": [
+   "rpgmaker_mvmz"
+  ],
+  "lang": [
+   "zh"
+  ],
+  "genre": [
+   "jrpg người lớn (eroge, adult only), dark fantasy phương tây, sandbox sa đọa nhiều nhánh, nhiều kết (good/bad/normal/true end, hậu truyện), có thay trang phục và các chỉ số"
+  ]
+ },
+ "lesson_codes": [
+  "G-001",
+  "G-002",
+  "G-004",
+  "G-005",
+  "G-017",
+  "G-018",
+  "G-019",
+  "G-020",
+  "G-021",
+  "G-022",
+  "G-023",
+  "G-024",
+  "E-rpgmaker_mvmz-002",
+  "E-rpgmaker_mvmz-006",
+  "E-rpgmaker_mvmz-008",
+  "G-003",
+  "G-006",
+  "G-007",
+  "G-008",
+  "G-009",
+  "G-010",
+  "G-011",
+  "G-012",
+  "G-013",
+  "G-014",
+  "G-015",
+  "G-016",
+  "E-rpgmaker_mvmz-001",
+  "E-rpgmaker_mvmz-003",
+  "E-rpgmaker_mvmz-004",
+  "E-rpgmaker_mvmz-005",
+  "E-rpgmaker_mvmz-007"
+ ],
+ "project_rules": [],
+ "fixed": {
+  "style": {
+   "genre": "JRPG người lớn (eroge, Adult Only), dark fantasy phương Tây, sandbox sa đọa nhiều nhánh, nhiều kết (Good/Bad/Normal/True End, Hậu truyện), có thay trang phục và các chỉ số",
+   "tone": "Dâm tục thẳng thắn, cưỡng ép, nhưng nhiều tiếng cười: Lilina tự vả và cà khịa trong đầu, Succubus đỏng đảnh, ác nhân ngọt (Chloria), phản diện lố (Ross, Hentai ZERO), giọng ban ơn (Thành chủ), giọng giảng đường vô lý (thầy phòng y tế cô học viện), meta phá tường thứ tư (Giọng của Thần, Thần Sói). Xen giữa là những đoạn bi kịch thật (Học viện, Di tích, Tinh linh Lửa, Galon, Torres, hậu truyện Thần Sói) cần giọng trầm, không đùa thêm, không làm nhẹ đi. Thế giới và tên người theo kiểu phương Tây; văn gốc là tiếng Trung khẩu ngữ mạng.",
+   "notes": "1) MÃ ĐIỀU KHIỂN: giữ nguyên tuyệt đối \\N[n] \\C[n] \\W[n] \\V[n] \\G \\{ \\} \\. \\| \\^ \\!, kể cả mã lỗi gốc ('\\C[2]\\N[12]', '\\C[3]\\C[18]\\C[0]', ký tự \\u001e). Riêng dấu '\\' lạc đứng trước chữ Hán ('\\安維爾', '\\千年樹精C') thì BỎ dấu '\\' khi dịch: MV không hiển thị nó, còn '\\' đặt trước chữ Latin sẽ nuốt chữ ('\\Chìa'). Kiểm định viên không bắt lỗi việc bỏ dấu này. \\. và \\^ đặt giữa từng âm để ngắt nhịp: giữ đúng số lượng, phân bố theo âm tiết tiếng Việt.\n2) TÊN ĐỘNG \\N[n] là tên Actor, được dịch một lần trong Actors.json. Có actor là danh từ chung: \\N[50]=Giọng của Thần, \\N[51]=Giáo viên, \\N[52]=Học viên, \\N[53]=Lính gác, \\N[54]=Tù nhân, \\N[55]=Dân làng, \\N[59]=Con Nô Hèn. Tiếng Việt đặt định ngữ SAU danh từ nên phải đảo vị trí mã: '帝國\\N[53]' → '\\N[53] Đế quốc', '\\N[53]們' → 'đám \\N[53]', '\\N[64]妹妹' → 'em \\N[64]', '\\N[13]大人' → '\\N[13] đại nhân'. Câu chứa \\N[1] phải đọc được cả khi \\N[1] bị đổi thành danh hiệu (tuyến nhà ngục). Câu chứa \\N[59] phải đọc trôi khi biến hiện thành 'Con Nô Hèn' ở mọi vị trí (chủ ngữ, tân ngữ, '…của \\N[59]').\n3) DẤU: '～' của gốc viết thành '~' đúng vị trí (font không có ～, hệ thống tự đổi; chữ ký giọng của Lilina, Succubus, Chloria, Trosi); '……'; ngoặc () cho độc thoại; 【】, 「」 nếu có. Chữ kéo dài từng âm ('Long~Ngâm~') thì đặt ~ sau mỗi tiếng.\n4) ĐỘC THOẠI （） là lòng thật của Lilina: giọng tự nhiên, sắc, hay chửi thầm, tương phản rõ với câu ngoài miệng.\n5) HAI BIẾN THỂ: cùng một cảnh có câu trong trắng và câu sa đọa thay nhau. Dịch song song, cùng cấu trúc.\n6) ĐỘ TUỔI: mọi nhân vật trong cảnh tình dục được trình bày là người trưởng thành. 少女 → 'cô gái/thiếu nữ'; không dùng 'bé gái, em bé, nhóc' trong cảnh tình dục; không thêm chi tiết gợi tuổi nhỏ. 學生/學院 → 'học viên'. Nếu gặp cảnh có dấu hiệu nhân vật vị thành niên (xem can_xac_nhan: Map186 少年, Seth) thì DỪNG, không dịch phần tình dục, báo chủ dự án.\n7) THANG TỪ TỤC (thống nhất, không nhẹ hơn, không tục hơn gốc): 肏 → 'đụ'; 干/做 → 'làm/chơi'; 肉棒 → 'cây gậy thịt' (Lilina e thẹn thì 'cái ấy'); 雞巴 → 'con cặc'; 淫穴 → 'lỗ dâm'; 小穴 → 'khe thịt/lỗ nhỏ' (KHÔNG 'cô bé'); 屁眼/菊穴 → 'lỗ đít/hoa cúc'; 精液 → 'tinh dịch/tinh'; 高潮 → 'lên đỉnh'; 丟了/要丟了 → 'ra… ra mất rồi'/'sắp ra rồi'; 母狗 → 'chó cái'; 母豬 → 'lợn nái'; 騷貨 → 'đồ dâm đãng'; 婊子 → 'con điếm'; 蕩婦 → 'con đĩ'; 癡女 → 'gái dâm'; 調教 → 'thuần hóa'.\n8) Tiếng rên, tượng thanh: Việt hóa ('A～', 'Ưm～', 'Hự'), độ dài tương đương. Lời bị bịt viết tắt bằng chữ Latin (Y/Z/D/S…) thì đổi sang lối đứt chữ tiếng Việt.\n9) Câu kích hoạt ám thị, tên ám thị, câu 'lẽ thường', câu niệm nô lệ: giống từng chữ ở mọi chỗ. Thuật ngữ UI (chỉ số, trạng thái, vật phẩm) khớp từng chữ với thoại có nhắc tới. Cảnh lặp và lựa chọn lặp dịch y hệt.\n10) Không lộ trước bí mật: Hiller là Tướng quỷ, Berika là thủ phạm, Owen chủ mưu, Cospiro là lính đánh thuê, tên thật Succubus, Long Ngâm chết, '？？？' là cái bóng của Thành chủ, Jude hai mặt, ý đồ của Luna.\n11) Lỗi gõ trong gốc thì dịch theo nghĩa đúng: 期約→契約, 不馬→不是馬, 別看玩笑→別開玩笑, 把持住→沒把持住, 繞/求繞→饒, 差不過→差不多, 難倒→難道, 無亂→無論, 踐習→實踐, 堵住→賭注, 亦然→依然, 試者→試著, 正視→正式, 識實物→識時務, 好想→好像, 會去→回去, 不削→不屑, 我先在→我現在, 在來→再來, 遍離開→便離開, 大副→大幅, 窮北→窮唄, 處于→出于, 再司機→再伺機. 'Nromal End' → 'Normal End' (chờ duyệt).\n12) Meta và quảng cáo (Giọng của Thần, Patreon, Tamamo, 'phần sau sẽ làm', 'các quý ông') dịch đủ, giữ giọng tác giả. '(未完成)' → '(Chưa hoàn thành)'.\n13) Nhãn người nói có thể bị gán nhầm (xem can_xac_nhan): dịch theo ngữ cảnh, không sửa nhãn trong dữ liệu.",
+   "strategy": {
+    "han_viet": "Mức VỪA PHẢI. Thoại đời thường, cà khịa, chửi bới và cảnh H dùng tiếng Việt khẩu ngữ, thuần Việt, gần lối nói người trẻ. Hán-Việt dành cho tên thánh vật, chiêu thức, danh hiệu, chức vị, thuật ngữ huyền huyễn (Tinh thể Thần Nước, Ngọc Lửa Rực, Cuồng Nộ Của Đất, Mắt Quỷ, Dấu ấn linh hồn, Vua Succubus, Kiếm Thánh Gió, Cánh Đen, Thành chủ, thần lực, phép cấm, kết giới, dị loài, lẽ thường, thuần hóa). Xưng hô Hán-Việt chỉ dùng cho nhân vật được chỉ định, để tạo giọng hoặc nhại: Eros (吾/汝 → 'bổn vương/ta – ngươi/nàng/ái phi'), Thành chủ Jon ('bổn vương'), Sax ('lão phu'), lính đánh thuê ('bổn đại gia'), tên lính đánh thuê sến kiểu kiếm hiệp, Hentai ZERO hô chiêu. Không dùng 'tại hạ', 'nô gia', 'bổn cô nương' cho Lilina hay nô lệ. Thành ngữ Hán đổi sang thành ngữ Việt tương đương; câu tao nhã dùng mỉa ('Một khắc đêm xuân đáng ngàn vàng') thì giữ câu Hán-Việt quen thuộc.",
+    "wordplay": "Giữ TÁC DỤNG, không giữ chữ, và không thêm câu đùa mới. 性福/幸福 → 'hạnh phịch'/'hạnh phúc', thống nhất cả game (xem handbook). 出來賣/外賣 → 'gái ra đường bán'/'gái giao hàng tận nơi'. 菊花 → 'hoa cúc'. Mật mã hoa giữ tên hoa và giá. 骯臟的屁眼交易 → 'phi vụ đi cửa sau dơ bẩn'. 風之劍圣/蜂之劍圣 → 'Kiếm Thánh Gió'/'Kiếm Thánh Ong'. 出色 tách 色 → 'xuất \"sắc\"'. 回籠昏 → 'ngất nướng'. Câu lỡ miệng, vấp chữ ('賤……\\N[59]', chữ tục lọt giữa câu) phải dựng lại cú vấp bằng tiếng Việt. Lóng mạng: 泰迪 → 'Teddy' (để giọng mỉa tự gánh nghĩa), 抖S → 'S chính hiệu/máu S', 黑暗料理 → 'món hắc ám'. Meme dùng bản Việt quen thuộc (Đại thoại Tây du theo bản lồng tiếng; 'đầu gối trúng tên' bám sát Skyrim). Nhịp hài: giữ '……' đúng chỗ bị cắt ('cảm ơ… Á!'); cặp mắng nhau giữ nhịp ngắn ('Đồ óc heo!', 'Đồ lợn ngu!'). Chơi chữ không có đối ứng thì viết câu Việt có cùng tác dụng, ngắn bằng hoặc ngắn hơn gốc, không chú thích.",
+    "poetry": "Hầu như không có thơ vần. Văn nghi thức cần dịch cố định: (a) công thức ám thị 'Học ma pháp hệ X thì…, đó là lẽ thường' / 'Dùng phép hệ X nghĩa là phải…'; (b) câu kích hoạt 'Có việc gì muốn làm không?' / 'Nói thật đi'; (c) câu niệm nô lệ Torres và '(\\N[59] là một con chó cái x N)'; (d) khẩu quyết bốn bước 'Cảm nhận nó, khống chế nó, hội tụ nó, giải phóng nó!' và châm ngôn giả của các hệ; (e) lời thề hôn lễ (Map119 với \\N[11]; Map135 bản nhại bẻ vế cuối thành 'mãi mãi phục tùng') theo văn lời thề cưới Công giáo quen thuộc; (f) màn xưng danh Hentai ZERO theo kiểu tokusatsu; (g) đoạn nhại Đại thoại Tây du ở Good End A; (h) lời chào chung của tinh linh giữ đền 'Nhân loại kia～ Đây không phải nơi ngươi nên đến!'; (i) câu kiếm hiệp và bài 'ca' rượu của tên lính đánh thuê; (j) lời kết sử thi của các bad end: giọng biên niên trang trọng, nhịp chậm; (k) tên chiêu Latin Zapfkiel / Aleph giữ nguyên.",
+    "names": "Chưa có bản Việt chính thức; tên tiếng Anh chính thức mới xác nhận Lilina, Aisha (tên DLC) và tên game Cursed Armor. Bản EN có tồn tại nên ưu tiên đối chiếu Steam EN trước khi khóa. Tạm dùng tên phương Tây viết Latin theo phiên âm hợp lý: Hiller, Simelia, Meili, Roger, Melissa, Lucia, Berika, Owen, Cospiro, Jon, Chloria, Trosi, Jude, Sanga, Resk, Sax, Shirley, Ross, Roster, Bigas, Charlo, Rant, Miller, Hart, Wendy, Jack, Darren, Nell, Lydis, Robert, Luna, Nicole, Lilith, Lisa, Lorin, James, Loki, Loken, Fitch, Matt, Galen, Galon, Sophia, Eros, Shuria, Dale, Seth, Nestra. Tên gốc Á dùng Hán-Việt: 龍吟 → Long Ngâm, 白雪 → Bạch Tuyết. Biệt danh mang nghĩa thì dịch nghĩa: 黑泰迪 → Teddy Đen, 金絲雀 → Hoàng Yến, 紅松鼠 → Sóc Đỏ, 白銀狐 → Cáo Bạc, 賤奴 → Con Nô Hèn. Khách mời giữ tên fandom quen dùng (Tamamo-no-Mae, Asuna, Ram, Rem, Tokisaki Kurumi, Nero, Okita Souji…). Nhãn người nói là danh từ chung thì dịch nghĩa (守衛 → Lính gác, 村民1 → Dân làng 1, 男人A → Gã A, 傭兵B → Lính đánh thuê B), riêng ？？？ giữ nguyên. Nhãn phải khớp tên actor tương ứng. Đặt tên một lần trong glossary và không đổi giữa chừng."
+   }
+  },
+  "work": {
+   "premise": "JRPG người lớn của wolfzq. Lilina, pháp sư hệ Hỏa ngây thơ, mơ thành mạo hiểm giả vĩ đại. Cô bị ép đội Vương miện Nguyền Rủa của Chúa tể Succubus Eros, trong giáp có Succubus trú ngụ, vừa giúp vừa xúi cô sa ngã. Muốn cởi giáp, cô phải tìm sáu thánh vật qua hàng chục tuyến rẽ nhánh: Hội mạo hiểm, nhà ngục, học viện, thành nô lệ Torres, trường đua kỳ lân, hang bọ. Cái hay: mỗi cảnh có hai giọng (trong trắng/sa đọa); độc thoại trong ngoặc tỉnh táo, cà khịa, trái hẳn lời phục tùng ngoài miệng; hài tự vả, meta; và những cú phản bội từ chính người cô tin."
+  }
+ },
+ "adult": true,
+ "payload": {
+  "lang": "Ngôn ngữ nguồn: tiếng Trung → tiếng Việt.",
+  "characters": [
+   {
+    "id": "fitch",
+    "names": [
+     "費奇",
+     "\\N[65]",
+     "BOSS",
+     "主人"
+    ],
+    "name_vi": "Fitch (tạm)",
+    "gender": "nam",
+    "role": "Tổng giám đốc Công ty Đầu tư Mạo hiểm, chủ Trường đua Bí mật, cho vay nặng lãi; người tình của Vua Kỳ Lân",
+    "personality": "Tay anh chị, thao túng bằng cược; si tình, đỏ mặt khi bị người yêu trêu",
+    "speech_style": "Cộc, giọng giang hồ; trước Vua Kỳ Lân thì lắp bắp",
+    "catchphrases": [
+     "出來混，講的就是個信字！ → Ra đời lăn lộn, trọng nhất là chữ tín!",
+     "我一日為主，你就終生為奴！ → Một ngày làm chủ, cả đời làm nô!"
+    ],
+    "comedic_role": "Kẻ ác mà tsundere trước người yêu",
+    "self": "ta (với Lilina); anh (với Vua Kỳ Lân)"
+   },
+   {
+    "id": "lilina",
+    "names": [
+     "莉莉娜",
+     "\\N[1]",
+     "Lilina",
+     "\\N[59] (tự xưng khi làm nô lệ)",
+     "\\N[61] (Teddy Đen, tên chó Thành chủ ban)",
+     "\\W[3]",
+     "獵天使",
+     "會長夫人",
+     "夫人",
+     "火的魔女",
+     "水的魔女",
+     "烈焰的魔女",
+     "特等生",
+     "小綿羊",
+     "癡女幽靈",
+     "吸精魔女",
+     "圣女",
+     "王妃",
+     "苗床",
+     "活體人偶",
+     "附屬品",
+     "亞巴頓女王",
+     "亞巴頓女妖",
+     "萬物之母",
+     "性奴隸",
+     "\\N[1]（人偶）"
+    ],
+    "name_vi": "Lilina",
+    "gender": "nữ",
+    "age": "thiếu nữ trưởng thành (P15 ghi 20 tuổi); cựu học viên ưu tú Học viện Ma pháp",
+    "role": "Nữ chính. Pháp sư hệ Hỏa ('Phù thủy Lửa'), mạo hiểm giả bị Giáp Nguyền Rủa trói buộc, mang danh hiệu Thiên Sứ Săn Mồi",
+    "personality": "Hồn nhiên, mơ mộng, cứng đầu, có chính nghĩa, tốt bụng, mềm lòng, cả tin, dễ bị dỗ ngọt. Ham tiền ('Một triệu G～!'), lém lỉnh, tự đắc khi lừa được địch, tsundere với người mình thích. Rất sợ ma nhưng thích dọa người. Thông minh, biết suy luận. Bị lời nguyền, ám thị, thuốc chi phối thì buông thả, rồi lại tự trách và đổ cho giáp. Đặt vào thế 'chủ nhân' thì nổi máu S. Có tham vọng ngây ngô làm 'nữ vương'.",
+    "speech_style": "Giọng con gái trẻ, nhiều '～'. Lúc tỉnh táo thì gọn, đúng chất mạo hiểm giả. Độc thoại （） hay cãi lại chính lời vừa nói, mỉa mai, tham tiền, chửi thầm ('Cái logic chó má gì thế này?'). Khi sa đọa thì nũng nịu, kéo dài 'chủ～nhân～', xưng 'người ta' theo 人家. Trong vai nô lệ thì xưng \\N[59]; đóng vai chó thì chỉ 'Gâu～ gâu gâu～'. Khi sợ thì lắp bắp. Ở học viện ngây ngô '…lẽ thường sao…'. Làm búp bê: đều đều, xưng bằng tên. Đối đầu Thần Sói, Berika: đắc thắng, trêu chọc.",
+    "catchphrases": [
+     "要不是這該死的詛咒，我怎么會…… → Nếu không vì cái lời nguyền chết tiệt này, mình đâu có…",
+     "我在想什么呢！ → Mình đang nghĩ cái gì thế này!",
+     "精液～必須好好的收集起來～～ → Tinh dịch～ phải gom cho thật kỹ～～",
+     "我可是勵志要成為一個偉大的冒險家！ → Mình đã quyết chí thành một mạo hiểm giả vĩ đại cơ mà!",
+     "真是諷刺啊…… → Đúng là mỉa mai thật…",
+     "……沒有效果 → …Không có tác dụng",
+     "哼～\\N[13]，有我在，怎么可能讓你如愿！ → Hừ～ \\N[13], có tôi ở đây, đừng hòng được như ý!",
+     "是，主人 → Vâng, chủ nhân",
+     "常識……嗎…… → Thường thức… sao…",
+     "難道是喝多了嗎 → Chẳng lẽ lại say quá à?"
+    ],
+    "comedic_role": "Kẻ tự vả, tự sửa lời ('cảm ơ… Á!'); người tỉnh táo cà khịa trong đầu, trái với lời phục tùng ngoài miệng; tsukkomi tỉnh bơ trước các trò lố; con bạc ảo tưởng; bị lừa bằng 'lẽ thường'",
+    "arc": "Mỗi tuyến một kiểu sa ngã (nô lệ vĩnh viễn, phu nhân giả, búp bê sống, vợ trùng, vợ thú, nữ yêu, Nữ vương), nhánh thiện thì giữ được ước mơ. Niềm tin vào Cha xứ sụp ở Map100, vào Owen sụp ở Map133. Với Long Ngâm: yêu, rồi mất, hoặc dùng tình yêu phá phép cấm. Với Aisha: từ khinh miệt đến nhường ngôi. Cuối cùng chọn vị trí nữ vương.",
+    "self": "tôi (với người ngoài, khi tỉnh táo); mình (độc thoại trong （）); em/con/cháu tùy người nghe (xem relations); 'người ta' khi gốc dùng 人家; giữ \\N[59] khi gốc dùng \\N[59]; 'ta' khi ở tư thế nữ vương, đối đầu Thần Sói/Berika, ra lệnh cho Succubus hoặc Vua Côn Trùng",
+    "forbid": [
+     "bé, nhóc, em bé (cho cô)",
+     "tao",
+     "bổn cô nương",
+     "nô gia",
+     "ta (trừ khi bị nhập xác hoặc ở tư thế nữ vương như trên)",
+     "tự ý đổi \\N[59] thành 'tôi/em' hoặc ngược lại"
+    ],
+    "note": "\\N[1] có thể bị đổi thành danh hiệu ở tuyến nhà ngục. Câu sửa lời là điểm kịch: 'Tiện… \\N[59] hiểu rồi' (Map139), Sax cấm cô xưng \\N[59] (Map085). Câu 'là, tiện…' rồi chữa thành 'tôi' phải khớp chữ 'Con Nô Hèn'. Ở Map154 (đã tự do) cô xưng 'tôi'. \\N[61] là tên riêng nhưng chỉ chính Lilina."
+   },
+   {
+    "id": "lucia",
+    "names": [
+     "露西婭",
+     "\\N[10]",
+     "風之劍圣",
+     "蜂之劍圣",
+     "亞巴頓女王"
+    ],
+    "name_vi": "Lucia",
+    "gender": "nữ",
+    "role": "Con gái Robert, cựu Kiếm Thánh Gió, nay là đồ chơi của Melissa và vật chủ Trùng chúa Abaddon (Nữ vương Abaddon)",
+    "personality": "Đã mất nhân cách, phục tùng tuyệt đối",
+    "speech_style": "Tự xưng bằng tên mình, luôn 'Vâng, chủ nhân', nhiều '～'",
+    "catchphrases": [
+     "是，主人 → Vâng, chủ nhân"
+    ],
+    "self": "Lucia (tự xưng bằng tên)",
+    "forbid": [
+     "tôi",
+     "em"
+    ],
+    "note": "Không để lộ quan hệ cha con với Robert sớm hơn gốc."
+   },
+   {
+    "id": "master_generic",
+    "names": [
+     "主人",
+     "主人（百合女）",
+     "主人（愛犬者）",
+     "主人（巨人）",
+     "主人（三兄弟）"
+    ],
+    "name_vi": "Chủ nhân / Chủ nhân (nữ) / Chủ nhân (kẻ mê chó) / Chủ nhân (người khổng lồ) / Chủ nhân (ba anh em)",
+    "gender": "đa số nam; 主人（百合女） là nữ",
+    "role": "Nhãn chung cho chủ thuê nô lệ (Map150), khách kỹ viện; mỗi lần là một người khác",
+    "speech_style": "Bề trên, hám tiền, hay dọa 'trả hàng'",
+    "self": "ta / tao (tùy độ thô)"
+   },
+   {
+    "id": "melissa",
+    "names": [
+     "梅麗莎",
+     "\\N[9]",
+     "黑魔女",
+     "黑魔法師"
+    ],
+    "name_vi": "Melissa",
+    "gender": "nữ",
+    "role": "Nhà nghiên cứu ở Hội, Phù thủy Hắc ám; chủ của Lucia; kẻ hủy hoại gia đình Robert; buôn tin về Bọ quỷ Abaddon; hợp tác thí nghiệm Futa với Ngôi Nhà Tình Yêu",
+    "personality": "Cuồng nghiên cứu, khôn, buôn bán, lạnh, chiếm hữu, coi người là 'vật liệu'",
+    "speech_style": "Nhẹ nhàng mà toan tính, bề trên, có '～', cười đầy ẩn ý; gọi Lilina 'đứa trẻ nóng vội'",
+    "catchphrases": [
+     "接下來就是試驗的時間了！ → Tiếp theo là giờ thí nghiệm!",
+     "真是非常稀有的素材！ → Đúng là vật liệu cực hiếm!"
+    ],
+    "comedic_role": "Nhà khoa học điên",
+    "arc": "Từ người 'giúp đỡ' lộ dần ý muốn sở hữu Lilina; đạt được ở Bad End B (tuyến Bọ quỷ)",
+    "self": "ta"
+   }
+  ],
+  "relations": [
+   {
+    "from": "lucia",
+    "to": "melissa",
+    "self": "Lucia",
+    "call": "chủ nhân",
+    "note": "Phục tùng tuyệt đối, tự xưng bằng tên, 'Vâng, chủ nhân'. [biên tập trưởng độc lập, 02/11]"
+   },
+   {
+    "from": "melissa",
+    "to": "lilina",
+    "self": "chị",
+    "call": "em; khi gốc gọi đứa trẻ nóng vội: cô bé nóng vội",
+    "note": "Đàn chị cùng Hội, nói ngọt mà toan tính, bề trên ('Chúc em may mắn!', 'nể tình cùng Hội, một triệu G, thế nào?'); giọng chị – em ngọt ngào làm tăng chất ác nhân ngọt hơn 'ta – cô'. [biên tập trưởng độc lập, 02/11]"
+   },
+   {
+    "from": "lilina",
+    "to": "melissa",
+    "self": "em",
+    "call": "chị; khi gốc gọi tên: chị \\N[9]",
+    "note": "Lilina là người nhỏ tuổi hơn trong Hội, đến hỏi chuyện, nhờ việc, nên em – chị; khi cãi chuyện vi phạm hợp đồng vẫn giữ em – chị, chỉ đổi giọng gắt. [biên tập trưởng độc lập, 02/11]"
+   },
+   {
+    "from": "lilina",
+    "to": "fitch",
+    "self": "tôi → em",
+    "call": "ông chủ → chủ nhân",
+    "changes": "Map116 ev3p0: bị bắt gọi 'chủ nhân', cô lắp bắp, vẫn xưng tôi. Từ Map117 ev3p2 gọi thật lòng, chuyển sang em – chủ nhân.",
+    "note": "Khách vay tiền lạ mặt ('您好') nên lúc đầu giữ khoảng cách; 'ông chủ' hợp vai, không phụ thuộc tuổi. [biên tập trưởng độc lập, 02/11]"
+   },
+   {
+    "from": "fitch",
+    "to": "lilina",
+    "self": "ta",
+    "call": "cô / \\N[1]",
+    "note": "Tay chủ trường đua cho vay nặng lãi, giọng giang hồ kẻ cả nên 'ta – cô'. [biên tập trưởng độc lập, 02/11]"
+   },
+   {
+    "from": "lilina",
+    "to": "master_generic",
+    "self": "em; giữ tên \\N[1] khi gốc tự xưng bằng tên; 'người ta' khi gốc dùng 人家",
+    "call": "chủ nhân; khách nữ (女主人): nữ chủ nhân",
+    "changes": "Trước khi nhận vai nô lệ (câu hỏi mở đầu 'là khách à?'): gọi 'quý khách', chưa xưng. Từ lúc chấp nhận vai: em / chủ nhân.",
+    "note": "Lilina trong vai nô lệ kỹ viện nên hạ mình, xưng em, gọi chủ nhân. [biên tập trưởng độc lập, 02/11]"
+   },
+   {
+    "from": "master_generic",
+    "to": "lilina",
+    "self": "ta; chủ thô lỗ, dọa trả hàng: tao",
+    "call": "ngươi; chủ thô lỗ: mày; lúc âu yếm hám dục: cưng",
+    "note": "Nhãn chung cho chủ thuê/khách, giọng bề trên với nô lệ; mức thô theo từng người. [biên tập trưởng độc lập, 02/11]"
+   },
+   {
+    "from": "lilina",
+    "to": "lucia",
+    "self": "mình",
+    "call": "Lucia (gọi tên)",
+    "note": "Chưa rõ ai lớn hơn, nên Lilina gọi tên và xưng 'mình' cho trung tính; khi nài nỉ thì kéo dài 'Lucia～ làm ơn mà～'. [biên tập trưởng độc lập, 02/11]"
+   },
+   {
+    "from": "lucia",
+    "to": "lilina",
+    "self": "Lucia",
+    "call": "Lilina (gọi tên)",
+    "note": "Lucia đã mất nhân cách, tự xưng bằng tên và gọi thẳng tên Lilina ('Lilina～ Lucia vào nhé～'). [biên tập trưởng độc lập, 02/11]"
+   },
+   {
+    "from": "melissa",
+    "to": "lucia",
+    "self": "ta",
+    "call": "Lucia (gọi tên); ngôi hai: ngươi",
+    "note": "Chủ ra lệnh cho món đồ chơi, giọng bề trên nhẹ nhàng ('Lucia, trói nó lên giá bên trái'). [biên tập trưởng độc lập, 02/11]"
+   }
+  ],
+  "glossary": [
+   {
+    "src": "淫魔之力 / 淫魔法 / 淫紋 / 淫毒 / 淫蟲",
+    "vi": "sức mạnh quỷ dâm / phép thuật dâm dục / hình xăm dâm / độc dâm dục / bọ dâm"
+   },
+   {
+    "src": "風之劍圣 / 蜂之劍圣",
+    "vi": "Kiếm Thánh Gió / Kiếm Thánh Ong"
+   },
+   {
+    "src": "貞操帶 / 魔鋼貞操帶 / 軟化 / 硬化",
+    "vi": "đai trinh tiết / đai trinh tiết thép ma thuật / làm mềm / làm cứng"
+   },
+   {
+    "src": "蛇女三姐妹 / 蛇女A/B/C",
+    "vi": "ba chị em Người rắn / Nữ Rắn A/B/C"
+   },
+   {
+    "src": "史萊姆 / 史萊姆女王 / 殺人蜂 / 毒蝎 / 僵尸 / 骸骨戰士 / 幽靈 / 怨靈 / 亡靈守衛 / 獵鷹 / 魔牛 / 章魚怪 / 火龍 / 吸血蝙蝠",
+    "vi": "Slime / Nữ vương Slime / Ong sát thủ / Bọ cạp độc / Zombie / Chiến binh xương / Hồn ma / Oan hồn / Vệ binh Vong linh / Chim ưng / Bò quỷ / Quái bạch tuộc / Rồng lửa / Dơi hút máu"
+   },
+   {
+    "src": "自慰 / 榨乳 / 精液吸收 / 射精 / Futa化 / 出產&流產",
+    "vi": "Thủ dâm / Vắt sữa / Hấp thụ tinh dịch / Xuất tinh / Futa hóa / Sinh nở & Sẩy thai",
+    "note": "tên kỹ năng"
+   },
+   {
+    "src": "墮落 / 欲望 / 魅力 / 理性 / 詛咒 / 羞恥 / 順從",
+    "vi": "Sa đọa / Dục vọng / Quyến rũ / Lý trí / Nguyền rủa / Xấu hổ / Phục tùng",
+    "note": "chỉ số"
+   },
+   {
+    "src": "是否需要跳過重復H？ / 跳過劇情",
+    "vi": "Bỏ qua cảnh H đã xem? / Bỏ qua cốt truyện"
+   }
+  ],
+  "dont_translate": [
+   "Futa"
+  ],
+  "scene": {
+   "effect": "bất an, nghi ngờ Melissa",
+   "mood": "dâm loạn, rợn ngầm",
+   "summary": "Melissa làm thí nghiệm dâm ma lực trên Lilina và Lucia: năng lực hai người chuyển qua lại, Lilina mọc dương vật rồi phải 'giải phóng' với Lucia. Lilina nhận ra Lucia là Phong Kiếm Thánh sa đọa, học kỹ năng Futa hóa và Xuất tinh."
+  },
+  "lines": [
+   {
+    "id": "0",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n貞操帶不打開可不行啊",
+    "sp": "melissa"
+   },
+   {
+    "id": "1",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n我……我打不開……",
+    "sp": "lilina"
+   },
+   {
+    "id": "2",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n……那就沒辦法了，萬一把你的貞操帶給搞壞了，可別怪我哦！",
+    "sp": "melissa"
+   },
+   {
+    "id": "3",
+    "k": "dialogue",
+    "s": "是否需要跳過劇情？"
+   },
+   {
+    "id": "4",
+    "k": "choice",
+    "s": "是"
+   },
+   {
+    "id": "5",
+    "k": "choice",
+    "s": "否"
+   },
+   {
+    "id": "6",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n⟦3⟧⟦4⟧⟦5⟧，把她綁在左邊的支架上，接好實驗用的魔導器",
+    "sp": "melissa"
+   },
+   {
+    "id": "7",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n是，主人",
+    "sp": "lucia"
+   },
+   {
+    "id": "8",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n等等，在實驗前能告訴我到底是什么實驗嗎？",
+    "sp": "lilina"
+   },
+   {
+    "id": "9",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n很快你不就知道了～會非常舒服的！",
+    "sp": "melissa"
+   },
+   {
+    "id": "10",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n舒服嗎？你可不能騙我哦！",
+    "sp": "lilina"
+   },
+   {
+    "id": "11",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧被⟦3⟧⟦4⟧⟦5⟧牢牢的綁在了實驗臺上……"
+   },
+   {
+    "id": "12",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n當然，不過可能會有一點后遺癥！",
+    "sp": "melissa"
+   },
+   {
+    "id": "13",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n后遺癥……？",
+    "sp": "lilina"
+   },
+   {
+    "id": "14",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n好了！⟦3⟧⟦4⟧⟦5⟧，你躺倒那張實驗臺上",
+    "sp": "melissa"
+   },
+   {
+    "id": "15",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n是，主人",
+    "sp": "lucia"
+   },
+   {
+    "id": "16",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n別無視我啊……",
+    "sp": "lilina"
+   },
+   {
+    "id": "17",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧很快便將⟦3⟧⟦4⟧⟦5⟧的身體固定好……"
+   },
+   {
+    "id": "18",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n那么開始吧！",
+    "sp": "melissa"
+   },
+   {
+    "id": "19",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n啊～～～嗯～～唔～唔～～快～快停下～～這～是～什～么～",
+    "sp": "lilina"
+   },
+   {
+    "id": "20",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n嗯～～唔～唔～～還～～是～～不～行～啊～",
+    "sp": "lilina"
+   },
+   {
+    "id": "21",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n唔～唔～唔～唔～啊～～～～啊～～～～",
+    "sp": "lilina"
+   },
+   {
+    "id": "22",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n唔～唔～唔～唔～啊～～～～啊～～～～",
+    "sp": "lilina"
+   },
+   {
+    "id": "23",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n嗯，果然～你身上有淫魔的力量！",
+    "sp": "melissa"
+   },
+   {
+    "id": "24",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n淫魔～唔～唔～啊～～你～怎么～啊～～唔～～",
+    "sp": "lilina"
+   },
+   {
+    "id": "25",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n有～～～有什么要～要～～來了～～",
+    "sp": "lilina"
+   },
+   {
+    "id": "26",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n真是非常稀有的素材！非常好！讓我來看看淫魔之力會帶來什么！",
+    "sp": "melissa"
+   },
+   {
+    "id": "27",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n有～～～有什么要～要～～來了～～",
+    "sp": "lilina"
+   },
+   {
+    "id": "28",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n啊～～～啊～～～好～～好舒服啊～～～～",
+    "sp": "lilina"
+   },
+   {
+    "id": "29",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n沒想到實驗會那么順利！你們兩個的向性真合得來～",
+    "sp": "melissa"
+   },
+   {
+    "id": "30",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧和⟦3⟧⟦4⟧⟦5⟧的部分屬性提升了……"
+   },
+   {
+    "id": "31",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n實驗結果還不錯！⟦3⟧⟦4⟧⟦5⟧吸收了你的部分能力～",
+    "sp": "melissa"
+   },
+   {
+    "id": "32",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧的部分屬性下降了，⟦3⟧⟦4⟧⟦5⟧的部分屬性提升了……"
+   },
+   {
+    "id": "33",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n這怎么可能！⟦3⟧⟦4⟧⟦5⟧的部分能力居然被你給吸收了？",
+    "sp": "melissa"
+   },
+   {
+    "id": "34",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧的部分屬性提升了，⟦3⟧⟦4⟧⟦5⟧的部分屬性下降了……"
+   },
+   {
+    "id": "35",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n⟦3⟧⟦4⟧⟦5⟧，你的肉棒又豎起來了哦！",
+    "sp": "melissa"
+   },
+   {
+    "id": "36",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n太……太舒服了……所以～⟦3⟧⟦4⟧⟦5⟧～拜托了～",
+    "sp": "lilina"
+   },
+   {
+    "id": "37",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n可以嗎？主人～",
+    "sp": "lucia"
+   },
+   {
+    "id": "38",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n別玩的太晚！",
+    "sp": "melissa"
+   },
+   {
+    "id": "39",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n這是！哈，沒想到還可以這樣！淫魔的力量真是有趣啊！",
+    "sp": "melissa"
+   },
+   {
+    "id": "40",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧感覺到自己的股間有莫名的腫脹感……"
+   },
+   {
+    "id": "41",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n你……你對我做了什么？",
+    "sp": "lilina"
+   },
+   {
+    "id": "42",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n實驗變得有趣了，⟦3⟧⟦4⟧⟦5⟧，在淫魔力量的催化下，你的性器官進化了！",
+    "sp": "melissa"
+   },
+   {
+    "id": "43",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n進化了？難道是……肉棒？不……不要……我……",
+    "sp": "lilina"
+   },
+   {
+    "id": "44",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n別擔心～只要把聚集在你體內的淫魔之力都釋放掉，你就能恢復正常！",
+    "sp": "melissa"
+   },
+   {
+    "id": "45",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n釋放……要怎么釋放……",
+    "sp": "lilina"
+   },
+   {
+    "id": "46",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n最簡單的方法，當時是手淫嘍！不過，現在呢，⟦3⟧⟦4⟧⟦5⟧好像很想要你的肉棒～",
+    "sp": "melissa"
+   },
+   {
+    "id": "47",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n可以嗎？主人～",
+    "sp": "lucia"
+   },
+   {
+    "id": "48",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n當然，怎么能放過這種研究呢！不過，剛剛我魔力用的太多了，需要休息一會了，記得把你跟⟦3⟧⟦4⟧⟦5⟧做愛的經過，好好記錄下來，明白嗎？",
+    "sp": "melissa"
+   },
+   {
+    "id": "49",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n是！主人～",
+    "sp": "lucia"
+   },
+   {
+    "id": "50",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n⟦3⟧⟦4⟧⟦5⟧～我要進來了哦～",
+    "sp": "lucia"
+   },
+   {
+    "id": "51",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n⟦3⟧⟦4⟧⟦5⟧～拜托了～讓我變回正常人吧～",
+    "sp": "lilina"
+   },
+   {
+    "id": "52",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n啊～好厲害～～這就是肉棒～嗎～啊～",
+    "sp": "lucia"
+   },
+   {
+    "id": "53",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n等～等一下～～被吸進去～好～好奇怪～～啊～",
+    "sp": "lilina"
+   },
+   {
+    "id": "54",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n啊～啊～舒服～啊～好快樂～～⟦3⟧⟦4⟧⟦5⟧～做為～主人～的～玩具～～好快樂～～",
+    "sp": "lucia"
+   },
+   {
+    "id": "55",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n玩具～？啊～～慢點～不要那么～用力～我～我會忍不住的～",
+    "sp": "lilina"
+   },
+   {
+    "id": "56",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n要～要來了～～最～最快樂～的～事～要來了～啊～",
+    "sp": "lucia"
+   },
+   {
+    "id": "57",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n你……是要高潮了嗎？！太好了……我……我也忍不住……了……",
+    "sp": "lilina"
+   },
+   {
+    "id": "58",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n啊～好快樂～停不下來啊～～不～不行～玩具～不能～唔～～",
+    "sp": "lucia"
+   },
+   {
+    "id": "59",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n不好！被內射了……主人說過，做為玩具只能被殺人蜂內射……",
+    "sp": "lucia"
+   },
+   {
+    "id": "60",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n……⟦3⟧⟦4⟧⟦5⟧，為什么你老說自己是玩具呢？",
+    "sp": "lilina"
+   },
+   {
+    "id": "61",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n只有主人才能賜給⟦3⟧⟦4⟧⟦5⟧快樂，⟦6⟧⟦7⟧⟦8⟧是只屬于主人的，是一個只懂得享受快樂的玩具～",
+    "sp": "lucia"
+   },
+   {
+    "id": "62",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n（風之劍圣－⟦3⟧⟦4⟧⟦5⟧，這名號雖說已經很久沒聽過了，但如果她真是那個劍圣，為何會墮落到這種地步，跟在我身上做的實驗會有關系嗎？我還是當心一點為妙……那個⟦6⟧⟦7⟧⟦8⟧一定不簡單！）",
+    "sp": "lilina"
+   },
+   {
+    "id": "63",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧學會了技能⟦3⟧Futa化⟦4⟧！"
+   },
+   {
+    "id": "64",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧學會了技能⟦3⟧射精⟦4⟧！"
+   },
+   {
+    "id": "65",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n那么，實驗結束，以后隨時可以來找我！",
+    "sp": "melissa"
+   },
+   {
+    "id": "66",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n嗯……",
+    "sp": "lilina"
+   },
+   {
+    "id": "67",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n這個送給你吧，本打算用它去捕獲淫魔來做實驗的，現在有你幫忙，已經不需要了～",
+    "sp": "melissa"
+   },
+   {
+    "id": "68",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n呃……把我當實驗用的淫魔了嗎……",
+    "sp": "lilina"
+   },
+   {
+    "id": "69",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n呵呵～當然不會！你比淫魔更有價值～",
+    "sp": "melissa"
+   },
+   {
+    "id": "70",
+    "k": "dialogue",
+    "s": "⟦0⟧⟦1⟧⟦2⟧：\n……",
+    "sp": "lilina"
+   }
+  ]
+ },
+ "meta": [
+  {
+   "speaker": "梅麗莎",
+   "face": "Actor1",
+   "codes": [
+    "\\C[4]",
+    "\\N[9]",
+    "\\C[0]"
+   ],
+   "source": "\\C[4]\\N[9]\\C[0]：\n貞操帶不打開可不行啊",
+   "ban_hien_tai": "\\C[4]\\N[9]\\C[0]:\nKhông mở đai trinh tiết ra thì không được đâu"
+  },
+  {
+   "speaker": "莉莉娜",
+   "face": "lilina1",
+   "codes": [
+    "\\C[6]",
+    "\\N[1]",
+    "\\C[0]"
+   ],
+   "source": "\\C[6]\\N[1]\\C[0]：\n我……我打不開……",
+   "ban_hien_tai": "\\C[6]\\N[1]\\C[0]:\nTôi… tôi không mở được……"
+  },
+  {
+   "speaker": "梅麗莎",
+   "face": "Actor1",
+   "codes": [
+    "\\C[4]",
+    "\\N[9]",
+    "\\C[0]"
+   ],
+   "source": "\\C[4]\\N[9]\\C[0]：\n……那就沒辦法了，萬一把你的貞操帶給搞壞了，可別怪我哦！",
+   "ban_hien_tai": "\\C[4]\\N[9]\\C[0]:\n……Vậy thì hết cách rồi, lỡ mà làm hỏng đai trinh tiết của cô thì đừng có trách ta nhé!"
+  },
+  {
+   "speaker": null,
+   "face": null,
+   "codes": [],
+   "source": "是否需要跳過劇情？",
+   "ban_hien_tai": "Có muốn bỏ qua cốt truyện không?"
+  },
+  {
+   "speaker": null,
+   "face": null,
+   "codes": [],
+   "source": "是",
+   "ban_hien_tai": "Có"
+  },
+  {
+   "speaker": null,
+   "face": null,
+   "codes": [],
+   "source": "否",
+   "ban_hien_tai": "Không"
+  },
+  {
+   "speaker": "梅麗莎",
+   "face": "Actor1",
+   "codes": [
+    "\\C[4]",
+    "\\N[9]",
+    "\\C[0]",
+    "\\C[4]",
+    "\\N[10]",
+    "\\C[0]"
+   ],
+   "source": "\\C[4]\\N[9]\\C[0]：\n\\C[4]\\N[10]\\C[0]，把她綁在左邊的支架上，接好實驗用的魔導器",
+   "ban_hien_tai": "\\C[4]\\N[9]\\C[0]:\n\\C[4]\\N[10]\\C[0], trói cô ta lên giá bên trái, nối ma đạo cụ thí nghiệm vào"
+  },
+  {
+   "speaker": "露西婭",
+   "face": "Actor1",
+   "codes": [
+    "\\C[4]",
+    "\\N[10]",
+    "\\C[0]"
+   ],
+   "source": "\\C[4]\\N[10]\\C[0]：\n是，主人",
+   "ban_hien_tai": "\\C[4]\\N[10]\\C[0]:\nVâng, chủ nhân"
+  },
+  {
+   "speaker": "莉莉娜",
+   "face": "lilina1",
+   "codes": [
+    "\\C[6]",
+    "\\N[1]",
+    "\\C[0]"
+   ],
+   "source": "\\C[6]\\N[1]\\C[0]：\n等等，在實驗前能告訴我到底是什么實驗嗎？",
+   "ban_hien_tai": "\\C[6]\\N[1]\\C[0]:\nKhoan đã, trước khi làm cô cho tôi biết rốt cuộc là thí nghiệm gì được không?"
+  },
+  {
+   "speaker": "梅麗莎",
+   "face": "Actor1",
+   "codes": [
+    "\\C[4]",
+    "\\N[9]",
+    "\\C[0]"
+   ],
+   "source": "\\C[4]\\N[9]\\C[0]：\n很快你不就知道了～會非常舒服的！",
+   "ban_hien_tai": "\\C[4]\\N[9]\\C[0]:\nCô sẽ biết ngay thôi mà~ Sướng lắm đấy!"
+  },
+  {
+   "speaker": "莉莉娜",
+   "face": "lilina1",
+   "codes": [
+    "\\C[6]",
+    "\\N[1]",
+    "\\C[0]"
+   ],
+   "source": "\\C[6]\\N[1]\\C[0]：\n舒服嗎？你可不能騙我哦！",
+   "ban_hien_tai": "\\C[6]\\N[1]\\C[0]:\nSướng á? Cô không được lừa tôi đâu đấy!"
+  },
+  {
+   "speaker": null,
+   "face": null,
+   "codes": [
+    "\\C[6]",
+    "\\N[1]",
+    "\\C[0]",
+    "\\C[4]",
+    "\\N[10]",
+    "\\C[0]"
+   ],
+   "source": "\\C[6]\\N[1]\\C[0]被\\C[4]\\N[10]\\C[0]牢牢的綁在了實驗臺上……",
+   "ban_hien_tai": "\\C[6]\\N[1]\\C[0] bị \\C[4]\\N[10]\\C[0] trói chặt lên bàn thí nghiệm……"
+  },
+  {
+   "speaker": "梅麗莎",
+   "face": "Actor1",
+   "codes": [
+    "\\C[4]",
+    "\\N[9]",
+    "\\C[0]"
+   ],
+   "source": "\\C[4]\\N[9]\\C[0]：\n當然，不過可能會有一點后遺癥！",
+   "ban_hien_tai": "\\C[4]\\N[9]\\C[0]:\nĐương nhiên, có điều có thể sẽ để lại chút di chứng!"
+  },
+  {
+   "speaker": "莉莉娜",
+   "face": "lilina1",
+   "codes": [
+    "\\C[6]",
+    "\\N[1]",
+    "\\C[0]"
+   ],
+   "source": "\\C[6]\\N[1]\\C[0]：\n后遺癥……？",
+   "ban_hien_tai": "\\C[6]\\N[1]\\C[0]:\nDi chứng……?"
+  },
+  {
+   "speaker": "梅麗莎",
+   "face": "Actor1",
+   "codes": [
+    "\\C[4]",
+    "\\N[9]",
+    "\\C[0]",
+    "\\C[4]",
+    "\\N[10]",
+    "\\C[0]"
+   ],
+   "source": "\\C[4]\\N[9]\\C[0]：\n好了！\\C[4]\\N[10]\\C[0]，你躺倒那張實驗臺上",
+   "ban_hien_tai": "\\C[4]\\N[9]\\C[0]:\nĐược rồi! \\C[4]\\N[10]\\C[0], cô nằm lên cái bàn thí nghiệm kia đi"
+  },
+  {
+   "speaker": "露西婭",
+   "face": "Actor1",
+   "codes": [
+    "\\C[4]",
+    "\\N[10]",
+    "\\C[0]"
+   ],
+   "source": "\\C[4]\\N[10]\\C[0]：\n是，主人",
+   "ban_hien_tai": "\\C[4]\\N[10]\\C[0]:\nVâng, chủ nhân"
+  },
+  {
+   "speaker": "莉莉娜",
+   "face": "lilina1",
+   "codes": [
+    "\\C[6]",
+    "\\N[1]",
+    "\\C[0]"
+   ],
+   "source": "\\C[6]\\N[1]\\C[0]：\n別無視我啊……",
+   "ban_hien_tai": "\\C[6]\\N[1]\\C[0]:\nĐừng có lờ tôi đi chứ……"
+  },
+  {
+   "speaker": null,
+   "face": null,
+   "codes": [
+    "\\C[4]",
+    "\\N[9]",
+    "\\C[0]",
+    "\\C[4]",
+    "\\N[10]",
+    "\\C[0]"
+   ],
+   "source": "\\C[4]\\N[9]\\C[0]很快便將\\C[4]\\N[10]\\C[0]的身體固定好……",
+   "ban_hien_tai": "\\C[4]\\N[9]\\C[0] nhanh chóng cố định cơ thể \\C[4]\\N[10]\\C[0]……"
+  },
+  {
+   "speaker": "梅麗莎",
+   "face": "Actor1",
+   "codes": [
+    "\\C[4]",
+    "\\N[9]",
+    "\\C[0]"
+   ],
+   "source": "\\C[4]\\N[9]\\C[0]：\n那么開始吧！",
+   "ban_hien_tai": "\\C[4]\\N[9]\\C[0]:\nVậy thì bắt đầu thôi!"
+  },
+  {
+   "speaker": "莉莉娜",
+   "face": "lilina1",
+   "codes": [
+    "\\C[6]",
+    "\\N[1]",
+    "\\C[0]"
+   ],
+   "source": "\\C[6]\\N[1]\\C[0]：\n啊～～～嗯～～唔～唔～～快～快停下～～這～是～什～么～",
+   "ban_hien_tai": "\\C[6]\\N[1]\\C[0]:\nA~~~ ưm~~ ư~ ư~~ mau~ mau dừng~ lại~~ đây~ là~ cái~ gì~"
+  },
+  {
+   "speaker": "莉莉娜",
+   "face": "lilina1",
+   "codes": [
+    "\\C[6]",
+    "\\N[1]",
+    "\\C[0]"
+   ],
+   "source": "\\C[6]\\N[1]\\C[0]：\n嗯～～唔～唔～～還～～是～～不～行～啊～",
+   "ban_hien_tai": "\\C[6]\\N[1]\\C[0]:\nƯm~~ ư~ ư~~ vẫn~~ là~~ không~ được~ mà~"
+  },
+  {
+   "speaker": "莉莉娜",
+   "face": "lilina2",
+   "codes": [
+    "\\C[6]",
+    "\\N[1]",
+    "\\C[0]"
+   ],
+   "source": "\\C[6]\\N[1]\\C[0]：\n唔～唔～唔～唔～啊～～～～啊～～～～",
+   "ban_hien_tai": "\\C[6]\\N[1]\\C[0]:\nƯ~ ư~ ư~ ư~ a~~~~ a~~~~"
+  },
+  {
+   "speaker": "莉莉娜",
+   "face": "lilina2",
+   "codes": [
+    "\\C[6]",
+    "\\N[1]",
+    "\\C[0]"
+   ],
+   "source": "\\C[6]\\N[1]\\C[0]：\n唔～唔～唔～唔～啊～～～～啊～～～～",
+   "ban_hien_tai": "\\C[6]\\N[1]\\C[0]:\nƯ~ ư~ ư~ ư~ a~~~~ a~~~~"
+  },
+  {
+   "speaker": "梅麗莎",
+   "face": "Actor1",
+   "codes": [
+    "\\C[4]",
+    "\\N[9]",
+    "\\C[0]"
+   ],
+   "source": "\\C[4]\\N[9]\\C[0]：\n嗯，果然～你身上有淫魔的力量！",
+   "ban_hien_tai": "\\C[4]\\N[9]\\C[0]:\nỪm, quả nhiên~ trên người cô có sức mạnh succubus!"
+  },
+  {
+   "speaker": "莉莉娜",
+   "face": "lilina3",
+   "codes": [
+    "\\C[6]",
+    "\\N[1]",
+    "\\C[0]"
+   ],
+   "source": "\\C[6]\\N[1]\\C[0]：\n淫魔～唔～唔～啊～～你～怎么～啊～～唔～～",
+   "ban_hien_tai": "\\C[6]\\N[1]\\C[0]:\nDâm ma~ ư~ ư~ a~~ sao~ cô~ lại~ a~~ ư~~"
+  },
+  {
+   "speaker": "莉莉娜",
+   "face": "lilina3",
+   "codes": [
+    "\\C[6]",
+    "\\N[1]",
+    "\\C[0]"
+   ],
+   "source": "\\C[6]\\N[1]\\C[0]：\n有～～～有什么要～要～～來了～～",
+   "ban_hien_tai": "\\C[6]\\N[1]\\C[0]:\nCó~~~ có cái gì~ sắp~ sắp~~ tới rồi~~"
+  },
+  {
+   "speaker": "梅麗莎",
+   "face": "Actor1",
+   "codes": [
+    "\\C[4]",
+    "\\N[9]",
+    "\\C[0]"
+   ],
+   "source": "\\C[4]\\N[9]\\C[0]：\n真是非常稀有的素材！非常好！讓我來看看淫魔之力會帶來什么！",
+   "ban_hien_tai": "\\C[4]\\N[9]\\C[0]:\nĐúng là vật liệu cực hiếm! Rất tốt! Để ta xem sức mạnh quỷ dâm sẽ mang lại điều gì!"
+  },
+  {
+   "speaker": "莉莉娜",
+   "face": "lilina3",
+   "codes": [
+    "\\C[6]",
+    "\\N[1]",
+    "\\C[0]"
+   ],
+   "source": "\\C[6]\\N[1]\\C[0]：\n有～～～有什么要～要～～來了～～",
+   "ban_hien_tai": "\\C[6]\\N[1]\\C[0]:\nCó~~~ có cái gì~ sắp~ sắp~~ tới rồi~~"
+  },
+  {
+   "speaker": "莉莉娜",
+   "face": "lilina3",
+   "codes": [
+    "\\C[6]",
+    "\\N[1]",
+    "\\C[0]"
+   ],
+   "source": "\\C[6]\\N[1]\\C[0]：\n啊～～～啊～～～好～～好舒服啊～～～～",
+   "ban_hien_tai": "\\C[6]\\N[1]\\C[0]:\nA~~~ a~~~ sướng~~ sướng quá đi~~~~"
+  },
+  {
+   "speaker": "梅麗莎",
+   "face": "Actor1",
+   "codes": [
+    "\\C[4]",
+    "\\N[9]",
+    "\\C[0]"
+   ],
+   "source": "\\C[4]\\N[9]\\C[0]：\n沒想到實驗會那么順利！你們兩個的向性真合得來～",
+   "ban_hien_tai": "\\C[4]\\N[9]\\C[0]:\nKhông ngờ thí nghiệm lại suôn sẻ thế! Thể chất hai cô đúng là hợp nhau ghê~"
+  },
+  {
+   "speaker": null,
+   "face": null,
+   "codes": [
+    "\\C[6]",
+    "\\N[1]",
+    "\\C[0]",
+    "\\C[4]",
+    "\\N[10]",
+    "\\C[0]"
+   ],
+   "source": "\\C[6]\\N[1]\\C[0]和\\C[4]\\N[10]\\C[0]的部分屬性提升了……",
+   "ban_hien_tai": "Một số chỉ số của \\C[6]\\N[1]\\C[0] và \\C[4]\\N[10]\\C[0] đã tăng lên……"
+  },
+  {
+   "speaker": "梅麗莎",
+   "face": "Actor1",
+   "codes": [
+    "\\C[4]",
+    "\\N[9]",
+    "\\C[0]",
+    "\\C[4]",
+    "\\N[10]",
+    "\\C[0]"
+   ],
+   "source": "\\C[4]\\N[9]\\C[0]：\n實驗結果還不錯！\\C[4]\\N[10]\\C[0]吸收了你的部分能力～",
+   "ban_hien_tai": "\\C[4]\\N[9]\\C[0]:\nKết quả thí nghiệm khá đấy! \\C[4]\\N[10]\\C[0] đã hấp thụ một phần năng lực của cô~"
+  },
+  {
+   "speaker": null,
+   "face": null,
+   "codes": [
+    "\\C[6]",
+    "\\N[1]",
+    "\\C[0]",
+    "\\C[4]",
+    "\\N[10]",
+    "\\C[0]"
+   ],
+   "source": "\\C[6]\\N[1]\\C[0]的部分屬性下降了，\\C[4]\\N[10]\\C[0]的部分屬性提升了……",
+   "ban_hien_tai": "Một số chỉ số của \\C[6]\\N[1]\\C[0] đã giảm xuống, một số chỉ số của \\C[4]\\N[10]\\C[0] đã tăng lên……"
+  },
+  {
+   "speaker": "梅麗莎",
+   "face": "Actor1",
+   "codes": [
+    "\\C[4]",
+    "\\N[9]",
+    "\\C[0]",
+    "\\C[4]",
+    "\\N[10]",
+    "\\C[0]"
+   ],
+   "source": "\\C[4]\\N[9]\\C[0]：\n這怎么可能！\\C[4]\\N[10]\\C[0]的部分能力居然被你給吸收了？",
+   "ban_hien_tai": "\\C[4]\\N[9]\\C[0]:\nSao có thể như vậy! Một phần năng lực của \\C[4]\\N[10]\\C[0] lại bị cô hấp thụ mất ư?"
+  },
+  {
+   "speaker": null,
+   "face": null,
+   "codes": [
+    "\\C[6]",
+    "\\N[1]",
+    "\\C[0]",
+    "\\C[4]",
+    "\\N[10]",
+    "\\C[0]"
+   ],
+   "source": "\\C[6]\\N[1]\\C[0]的部分屬性提升了，\\C[4]\\N[10]\\C[0]的部分屬性下降了……",
+   "ban_hien_tai": "Một số chỉ số của \\C[6]\\N[1]\\C[0] đã tăng lên, một số chỉ số của \\C[4]\\N[10]\\C[0] đã giảm xuống……"
+  },
+  {
+   "speaker": "梅麗莎",
+   "face": "Actor1",
+   "codes": [
+    "\\C[4]",
+    "\\N[9]",
+    "\\C[0]",
+    "\\C[6]",
+    "\\N[1]",
+    "\\C[0]"
+   ],
+   "source": "\\C[4]\\N[9]\\C[0]：\n\\C[6]\\N[1]\\C[0]，你的肉棒又豎起來了哦！",
+   "ban_hien_tai": "\\C[4]\\N[9]\\C[0]:\n\\C[6]\\N[1]\\C[0], cây gậy thịt của cô lại dựng lên rồi kìa!"
+  },
+  {
+   "speaker": "莉莉娜",
+   "face": "lilina1",
+   "codes": [
+    "\\C[6]",
+    "\\N[1]",
+    "\\C[0]",
+    "\\C[4]",
+    "\\N[10]",
+    "\\C[0]"
+   ],
+   "source": "\\C[6]\\N[1]\\C[0]：\n太……太舒服了……所以～\\C[4]\\N[10]\\C[0]～拜托了～",
+   "ban_hien_tai": "\\C[6]\\N[1]\\C[0]:\nSướng…… sướng quá…… nên~ \\C[4]\\N[10]\\C[0]~ xin cô đấy~"
+  },
+  {
+   "speaker": "露西婭",
+   "face": "Actor1",
+   "codes": [
+    "\\C[4]",
+    "\\N[10]",
+    "\\C[0]"
+   ],
+   "source": "\\C[4]\\N[10]\\C[0]：\n可以嗎？主人～",
+   "ban_hien_tai": "\\C[4]\\N[10]\\C[0]:\nĐược không ạ? Chủ nhân~"
+  },
+  {
+   "speaker": "梅麗莎",
+   "face": "Actor1",
+   "codes": [
+    "\\C[4]",
+    "\\N[9]",
+    "\\C[0]"
+   ],
+   "source": "\\C[4]\\N[9]\\C[0]：\n別玩的太晚！",
+   "ban_hien_tai": "\\C[4]\\N[9]\\C[0]:\nĐừng chơi khuya quá đấy!"
+  },
+  {
+   "speaker": "梅麗莎",
+   "face": "Actor1",
+   "codes": [
+    "\\C[4]",
+    "\\N[9]",
+    "\\C[0]"
+   ],
+   "source": "\\C[4]\\N[9]\\C[0]：\n這是！哈，沒想到還可以這樣！淫魔的力量真是有趣啊！",
+   "ban_hien_tai": "\\C[4]\\N[9]\\C[0]:\nCái này! Ha, không ngờ còn có thể thế này! Sức mạnh succubus đúng là thú vị thật!"
+  },
+  {
+   "speaker": null,
+   "face": null,
+   "codes": [
+    "\\C[6]",
+    "\\N[1]",
+    "\\C[0]"
+   ],
+   "source": "\\C[6]\\N[1]\\C[0]感覺到自己的股間有莫名的腫脹感……",
+   "ban_hien_tai": "\\C[6]\\N[1]\\C[0] thấy giữa háng mình căng tức một cách khó hiểu……"
+  },
+  {
+   "speaker": "莉莉娜",
+   "face": "lilina1",
+   "codes": [
+    "\\C[6]",
+    "\\N[1]",
+    "\\C[0]"
+   ],
+   "source": "\\C[6]\\N[1]\\C[0]：\n你……你對我做了什么？",
+   "ban_hien_tai": "\\C[6]\\N[1]\\C[0]:\nNgài… ngài đã làm gì tôi?"
+  },
+  {
+   "speaker": "梅麗莎",
+   "face": "Actor1",
+   "codes": [
+    "\\C[4]",
+    "\\N[9]",
+    "\\C[0]",
+    "\\C[6]",
+    "\\N[1]",
+    "\\C[0]"
+   ],
+   "source": "\\C[4]\\N[9]\\C[0]：\n實驗變得有趣了，\\C[6]\\N[1]\\C[0]，在淫魔力量的催化下，你的性器官進化了！",
+   "ban_hien_tai": "\\C[4]\\N[9]\\C[0]:\nThí nghiệm thú vị rồi đây, \\C[6]\\N[1]\\C[0], nhờ sức mạnh succubus xúc tác, cơ quan sinh dục của cô đã tiến hóa!"
+  },
+  {
+   "speaker": "莉莉娜",
+   "face": "lilina1",
+   "codes": [
+    "\\C[6]",
+    "\\N[1]",
+    "\\C[0]"
+   ],
+   "source": "\\C[6]\\N[1]\\C[0]：\n進化了？難道是……肉棒？不……不要……我……",
+   "ban_hien_tai": "\\C[6]\\N[1]\\C[0]:\nTiến hóa? Chẳng lẽ là…… cái ấy? Không…… không muốn đâu…… tôi……"
+  },
+  {
+   "speaker": "梅麗莎",
+   "face": "Actor1",
+   "codes": [
+    "\\C[4]",
+    "\\N[9]",
+    "\\C[0]"
+   ],
+   "source": "\\C[4]\\N[9]\\C[0]：\n別擔心～只要把聚集在你體內的淫魔之力都釋放掉，你就能恢復正常！",
+   "ban_hien_tai": "\\C[4]\\N[9]\\C[0]:\nĐừng lo~ Chỉ cần giải phóng hết sức mạnh quỷ dâm tụ trong người cô ra là cô sẽ trở lại bình thường!"
+  },
+  {
+   "speaker": "莉莉娜",
+   "face": "lilina1",
+   "codes": [
+    "\\C[6]",
+    "\\N[1]",
+    "\\C[0]"
+   ],
+   "source": "\\C[6]\\N[1]\\C[0]：\n釋放……要怎么釋放……",
+   "ban_hien_tai": "\\C[6]\\N[1]\\C[0]:\nGiải phóng…… giải phóng kiểu gì……"
+  },
+  {
+   "speaker": "梅麗莎",
+   "face": "Actor1",
+   "codes": [
+    "\\C[4]",
+    "\\N[9]",
+    "\\C[0]",
+    "\\C[4]",
+    "\\N[10]",
+    "\\C[0]"
+   ],
+   "source": "\\C[4]\\N[9]\\C[0]：\n最簡單的方法，當時是手淫嘍！不過，現在呢，\\C[4]\\N[10]\\C[0]好像很想要你的肉棒～",
+   "ban_hien_tai": "\\C[4]\\N[9]\\C[0]:\nCách đơn giản nhất đương nhiên là thủ dâm rồi! Có điều bây giờ thì, hình như \\C[4]\\N[10]\\C[0] thèm cây gậy thịt của cô lắm đấy~"
+  },
+  {
+   "speaker": "露西婭",
+   "face": "Actor1",
+   "codes": [
+    "\\C[4]",
+    "\\N[10]",
+    "\\C[0]"
+   ],
+   "source": "\\C[4]\\N[10]\\C[0]：\n可以嗎？主人～",
+   "ban_hien_tai": "\\C[4]\\N[10]\\C[0]:\nĐược không ạ? Chủ nhân~"
+  },
+  {
+   "speaker": "梅麗莎",
+   "face": "Actor1",
+   "codes": [
+    "\\C[4]",
+    "\\N[9]",
+    "\\C[0]",
+    "\\C[6]",
+    "\\N[1]",
+    "\\C[0]"
+   ],
+   "source": "\\C[4]\\N[9]\\C[0]：\n當然，怎么能放過這種研究呢！不過，剛剛我魔力用的太多了，需要休息一會了，記得把你跟\\C[6]\\N[1]\\C[0]做愛的經過，好好記錄下來，明白嗎？",
+   "ban_hien_tai": "\\C[4]\\N[9]\\C[0]:\nĐương nhiên, sao bỏ qua được nghiên cứu kiểu này chứ! Có điều vừa rồi ta dùng nhiều ma lực quá, cần nghỉ một lát. Nhớ ghi chép thật kỹ quá trình cô làm tình với \\C[6]\\N[1]\\C[0] đấy, hiểu chưa?"
+  },
+  {
+   "speaker": "露西婭",
+   "face": "Actor1",
+   "codes": [
+    "\\C[4]",
+    "\\N[10]",
+    "\\C[0]"
+   ],
+   "source": "\\C[4]\\N[10]\\C[0]：\n是！主人～",
+   "ban_hien_tai": "\\C[4]\\N[10]\\C[0]:\nVâng! Chủ nhân~"
+  },
+  {
+   "speaker": "露西婭",
+   "face": "Actor1",
+   "codes": [
+    "\\C[4]",
+    "\\N[10]",
+    "\\C[0]",
+    "\\C[6]",
+    "\\N[1]",
+    "\\C[0]"
+   ],
+   "source": "\\C[4]\\N[10]\\C[0]：\n\\C[6]\\N[1]\\C[0]～我要進來了哦～",
+   "ban_hien_tai": "\\C[4]\\N[10]\\C[0]:\n\\C[6]\\N[1]\\C[0]~ Lucia cho vào đây nhé~"
+  },
+  {
+   "speaker": "莉莉娜",
+   "face": "lilina1",
+   "codes": [
+    "\\C[6]",
+    "\\N[1]",
+    "\\C[0]",
+    "\\C[4]",
+    "\\N[10]",
+    "\\C[0]"
+   ],
+   "source": "\\C[6]\\N[1]\\C[0]：\n\\C[4]\\N[10]\\C[0]～拜托了～讓我變回正常人吧～",
+   "ban_hien_tai": "\\C[6]\\N[1]\\C[0]:\n\\C[4]\\N[10]\\C[0]~ nhờ cô đấy~ cho tôi trở lại làm người bình thường đi~"
+  },
+  {
+   "speaker": "露西婭",
+   "face": "Actor1",
+   "codes": [
+    "\\C[4]",
+    "\\N[10]",
+    "\\C[0]"
+   ],
+   "source": "\\C[4]\\N[10]\\C[0]：\n啊～好厲害～～這就是肉棒～嗎～啊～",
+   "ban_hien_tai": "\\C[4]\\N[10]\\C[0]:\nA~ ghê quá~~ Đây là~ gậy thịt~ sao~ A~"
+  },
+  {
+   "speaker": "莉莉娜",
+   "face": "lilina1",
+   "codes": [
+    "\\C[6]",
+    "\\N[1]",
+    "\\C[0]"
+   ],
+   "source": "\\C[6]\\N[1]\\C[0]：\n等～等一下～～被吸進去～好～好奇怪～～啊～",
+   "ban_hien_tai": "\\C[6]\\N[1]\\C[0]:\nKhoan~ khoan đã~~ bị hút vào~ lạ~ lạ quá~~ A~"
+  },
+  {
+   "speaker": "露西婭",
+   "face": "Actor1",
+   "codes": [
+    "\\C[4]",
+    "\\N[10]",
+    "\\C[0]",
+    "\\C[4]",
+    "\\N[10]",
+    "\\C[0]"
+   ],
+   "source": "\\C[4]\\N[10]\\C[0]：\n啊～啊～舒服～啊～好快樂～～\\C[4]\\N[10]\\C[0]～做為～主人～的～玩具～～好快樂～～",
+   "ban_hien_tai": "\\C[4]\\N[10]\\C[0]:\nA~ a~ sướng quá~ a~ vui sướng quá~~ \\C[4]\\N[10]\\C[0]~ được làm~ đồ chơi~ của~ chủ nhân~~ sướng lắm~~"
+  },
+  {
+   "speaker": "莉莉娜",
+   "face": "lilina1",
+   "codes": [
+    "\\C[6]",
+    "\\N[1]",
+    "\\C[0]"
+   ],
+   "source": "\\C[6]\\N[1]\\C[0]：\n玩具～？啊～～慢點～不要那么～用力～我～我會忍不住的～",
+   "ban_hien_tai": "\\C[6]\\N[1]\\C[0]:\nĐồ chơi~? A~~ chậm thôi~ đừng~ mạnh thế~ tôi~ tôi không nhịn được mất~"
+  },
+  {
+   "speaker": "露西婭",
+   "face": "Actor1",
+   "codes": [
+    "\\C[4]",
+    "\\N[10]",
+    "\\C[0]"
+   ],
+   "source": "\\C[4]\\N[10]\\C[0]：\n要～要來了～～最～最快樂～的～事～要來了～啊～",
+   "ban_hien_tai": "\\C[4]\\N[10]\\C[0]:\nSắp~ sắp tới rồi~~ chuyện~ sướng~ nhất~ sắp tới rồi~ A~"
+  },
+  {
+   "speaker": "莉莉娜",
+   "face": "lilina1",
+   "codes": [
+    "\\C[6]",
+    "\\N[1]",
+    "\\C[0]"
+   ],
+   "source": "\\C[6]\\N[1]\\C[0]：\n你……是要高潮了嗎？！太好了……我……我也忍不住……了……",
+   "ban_hien_tai": "\\C[6]\\N[1]\\C[0]:\nCô…… sắp lên đỉnh rồi à?! Tốt quá…… tôi…… tôi cũng không nhịn nổi…… nữa……"
+  },
+  {
+   "speaker": "露西婭",
+   "face": "Actor1",
+   "codes": [
+    "\\C[4]",
+    "\\N[10]",
+    "\\C[0]"
+   ],
+   "source": "\\C[4]\\N[10]\\C[0]：\n啊～好快樂～停不下來啊～～不～不行～玩具～不能～唔～～",
+   "ban_hien_tai": "\\C[4]\\N[10]\\C[0]:\nA~ sướng quá~ không dừng được~~ Không~ không được~ đồ chơi~ không được~ ưm~~"
+  },
+  {
+   "speaker": "露西婭",
+   "face": "Actor1",
+   "codes": [
+    "\\C[4]",
+    "\\N[10]",
+    "\\C[0]"
+   ],
+   "source": "\\C[4]\\N[10]\\C[0]：\n不好！被內射了……主人說過，做為玩具只能被殺人蜂內射……",
+   "ban_hien_tai": "\\C[4]\\N[10]\\C[0]:\nHỏng rồi! Bị bắn vào trong rồi…… Chủ nhân đã dặn, làm đồ chơi thì chỉ được để Ong sát thủ bắn vào trong thôi……"
+  },
+  {
+   "speaker": "莉莉娜",
+   "face": "lilina1",
+   "codes": [
+    "\\C[6]",
+    "\\N[1]",
+    "\\C[0]",
+    "\\C[4]",
+    "\\N[10]",
+    "\\C[0]"
+   ],
+   "source": "\\C[6]\\N[1]\\C[0]：\n……\\C[4]\\N[10]\\C[0]，為什么你老說自己是玩具呢？",
+   "ban_hien_tai": "\\C[6]\\N[1]\\C[0]:\n……\\C[4]\\N[10]\\C[0], sao cô cứ nói mình là đồ chơi vậy?"
+  },
+  {
+   "speaker": "露西婭",
+   "face": "Actor1",
+   "codes": [
+    "\\C[4]",
+    "\\N[10]",
+    "\\C[0]",
+    "\\C[4]",
+    "\\N[10]",
+    "\\C[0]",
+    "\\C[4]",
+    "\\N[10]",
+    "\\C[0]"
+   ],
+   "source": "\\C[4]\\N[10]\\C[0]：\n只有主人才能賜給\\C[4]\\N[10]\\C[0]快樂，\\C[4]\\N[10]\\C[0]是只屬于主人的，是一個只懂得享受快樂的玩具～",
+   "ban_hien_tai": "\\C[4]\\N[10]\\C[0]:\nChỉ có chủ nhân mới ban được khoái lạc cho \\C[4]\\N[10]\\C[0]. \\C[4]\\N[10]\\C[0] chỉ thuộc về chủ nhân, là một món đồ chơi chỉ biết tận hưởng khoái lạc~"
+  },
+  {
+   "speaker": "莉莉娜",
+   "face": "lilina1",
+   "codes": [
+    "\\C[6]",
+    "\\N[1]",
+    "\\C[0]",
+    "\\C[4]",
+    "\\N[10]",
+    "\\C[0]",
+    "\\C[4]",
+    "\\N[9]",
+    "\\C[0]"
+   ],
+   "source": "\\C[6]\\N[1]\\C[0]：\n（風之劍圣－\\C[4]\\N[10]\\C[0]，這名號雖說已經很久沒聽過了，但如果她真是那個劍圣，為何會墮落到這種地步，跟在我身上做的實驗會有關系嗎？我還是當心一點為妙……那個\\C[4]\\N[9]\\C[0]一定不簡單！）",
+   "ban_hien_tai": "\\C[6]\\N[1]\\C[0]:\n(Kiếm Thánh Gió – \\C[4]\\N[10]\\C[0], danh hiệu này tuy lâu lắm rồi không còn nghe ai nhắc, nhưng nếu cô ấy đúng là vị Kiếm Thánh đó, sao lại sa đọa tới mức này? Liệu có dính dáng gì tới cái thí nghiệm làm trên người mình không? Mình nên cẩn thận thì hơn…… Cái cô \\C[4]\\N[9]\\C[0] kia chắc chắn không đơn giản!)"
+  },
+  {
+   "speaker": null,
+   "face": null,
+   "codes": [
+    "\\C[6]",
+    "\\N[1]",
+    "\\C[0]",
+    "\\C[4]",
+    "\\C[0]"
+   ],
+   "source": "\\C[6]\\N[1]\\C[0]學會了技能\\C[4]Futa化\\C[0]！",
+   "ban_hien_tai": "\\C[6]\\N[1]\\C[0] đã học được kỹ năng \\C[4]Futa hóa\\C[0]!"
+  },
+  {
+   "speaker": null,
+   "face": null,
+   "codes": [
+    "\\C[6]",
+    "\\N[1]",
+    "\\C[0]",
+    "\\C[4]",
+    "\\C[0]"
+   ],
+   "source": "\\C[6]\\N[1]\\C[0]學會了技能\\C[4]射精\\C[0]！",
+   "ban_hien_tai": null
+  },
+  {
+   "speaker": "梅麗莎",
+   "face": "Actor1",
+   "codes": [
+    "\\C[4]",
+    "\\N[9]",
+    "\\C[0]"
+   ],
+   "source": "\\C[4]\\N[9]\\C[0]：\n那么，實驗結束，以后隨時可以來找我！",
+   "ban_hien_tai": "\\C[4]\\N[9]\\C[0]:\nVậy thì, thí nghiệm kết thúc. Sau này lúc nào cũng có thể tới tìm ta!"
+  },
+  {
+   "speaker": "莉莉娜",
+   "face": "lilina1",
+   "codes": [
+    "\\C[6]",
+    "\\N[1]",
+    "\\C[0]"
+   ],
+   "source": "\\C[6]\\N[1]\\C[0]：\n嗯……",
+   "ban_hien_tai": "\\C[6]\\N[1]\\C[0]:\nƯm……"
+  },
+  {
+   "speaker": "梅麗莎",
+   "face": "Actor1",
+   "codes": [
+    "\\C[4]",
+    "\\N[9]",
+    "\\C[0]"
+   ],
+   "source": "\\C[4]\\N[9]\\C[0]：\n這個送給你吧，本打算用它去捕獲淫魔來做實驗的，現在有你幫忙，已經不需要了～",
+   "ban_hien_tai": "\\C[4]\\N[9]\\C[0]:\nCái này tặng cô đấy. Vốn định dùng nó bắt succubus về làm thí nghiệm, giờ có cô giúp rồi thì không cần nữa~"
+  },
+  {
+   "speaker": "莉莉娜",
+   "face": "lilina1",
+   "codes": [
+    "\\C[6]",
+    "\\N[1]",
+    "\\C[0]"
+   ],
+   "source": "\\C[6]\\N[1]\\C[0]：\n呃……把我當實驗用的淫魔了嗎……",
+   "ban_hien_tai": "\\C[6]\\N[1]\\C[0]:\nƠ…… cô coi tôi là succubus để làm thí nghiệm à……"
+  },
+  {
+   "speaker": "梅麗莎",
+   "face": "Actor1",
+   "codes": [
+    "\\C[4]",
+    "\\N[9]",
+    "\\C[0]"
+   ],
+   "source": "\\C[4]\\N[9]\\C[0]：\n呵呵～當然不會！你比淫魔更有價值～",
+   "ban_hien_tai": "\\C[4]\\N[9]\\C[0]:\nHì hì~ Đương nhiên là không! Cô còn giá trị hơn succubus nhiều~"
+  },
+  {
+   "speaker": "莉莉娜",
+   "face": "lilina1",
+   "codes": [
+    "\\C[6]",
+    "\\N[1]",
+    "\\C[0]"
+   ],
+   "source": "\\C[6]\\N[1]\\C[0]：\n……",
+   "ban_hien_tai": "\\C[6]\\N[1]\\C[0]:\n……"
+  }
+ ],
+ "checks": [
+  {
+   "thang_18": true
+  }
+ ],
+ "tao_luc": "2026-11-02"
+}
